@@ -7073,5 +7073,437 @@
     "source": "Vikipedi: Magic Johnson",
     "kaynak_id": "111308#20",
     "kaynak_baslik": "Magic Johnson"
+  },
+  {
+    "id": "m0328",
+    "mode": "mcq",
+    "prompt": "Muhammed, Medine'ye geldiğinde oradaki aşiretleri hangi belgeyle tek çatı altında birleştirmiştir?",
+    "choices": [
+      "Medine Sözleşmesi",
+      "Akabe Biatı",
+      "Veda Hutbesi",
+      "Hudeybiye Antlaşması"
+    ],
+    "correct_index": 0,
+    "explanation": "Mekke'nin kontrolü 630 yılı başında, kuşatma sonrası yapılan antlaşmayla kansız biçimde ele geçirildi.",
+    "topics": [
+      "tarih",
+      "din"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Muhammed",
+    "kaynak_id": "1318020#38",
+    "kaynak_baslik": "Muhammed"
+  },
+  {
+    "id": "m0329",
+    "mode": "mcq",
+    "prompt": "Arnold Schwarzenegger, ABD'ye taşındığında hangi spor salonunda antrenman yapmıştır?",
+    "choices": [
+      "World Gym",
+      "Vince's Gym",
+      "Muscle Beach",
+      "Gold's Gym"
+    ],
+    "correct_index": 3,
+    "explanation": "Venice, Los Angeles'taki salonda Joe Weider'ın gözetiminde çalıştı; salonun 1973 logosunu antrenman ortağı Ric Drasin tasarladı.",
+    "topics": [
+      "spor",
+      "kültür"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Arnold Schwarzenegger",
+    "kaynak_id": "199939#10",
+    "kaynak_baslik": "Arnold Schwarzenegger"
+  },
+  {
+    "id": "m0330",
+    "mode": "mcq",
+    "prompt": "Hadise, 2009 Eurovision Şarkı Yarışması'nda Türkiye'yi temsil ederek kaçıncı olmuştur?",
+    "choices": [
+      "Dördüncü",
+      "Yedinci",
+      "Birinci",
+      "On ikinci"
+    ],
+    "correct_index": 0,
+    "explanation": "\"Düm Tek Tek\" ile yarıştı; aynı yıl Fast Life ve Kahraman albümlerini satışa sundu.",
+    "topics": [
+      "müzik"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Hadise",
+    "kaynak_id": "114907#2",
+    "kaynak_baslik": "Hadise"
+  },
+  {
+    "id": "m0331",
+    "mode": "mcq",
+    "prompt": "Brian Kernighan'ın 1981'de Pascal'a yönelik eleştirilerini özetlediği makalesinin başlığı ne anlama gelir?",
+    "choices": [
+      "Pascal'ın Sonu Geldi",
+      "Pascal ve Eğitimin Geleceği",
+      "Neden C Pascal'dan Üstündür",
+      "Pascal Niçin Benim En Sevdiğim Dil Değildir"
+    ],
+    "correct_index": 3,
+    "explanation": "Eleştiriye rağmen Apple Lisa ve Macintosh gibi büyük projeler Pascal'a dayanıyordu; dil sonradan gelişti.",
+    "topics": [
+      "teknoloji"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Pascal (programlama dili)",
+    "kaynak_id": "1101#21",
+    "kaynak_baslik": "Pascal (programlama dili)"
+  },
+  {
+    "id": "m0332",
+    "mode": "mcq",
+    "prompt": "Nasturi patrikleri, Hakkâri'nin Koçanis köyünde hangi yıla kadar ikamet etmiştir?",
+    "choices": [
+      "1846",
+      "1924",
+      "1918",
+      "1662"
+    ],
+    "correct_index": 2,
+    "explanation": "Köy 1662'de patriklik merkezi olarak benimsenmişti; Nasturiler 1915-18 döneminde Urmiye ve Irak'a iltica etti.",
+    "topics": [
+      "tarih",
+      "din"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Hakkâri (il)",
+    "kaynak_id": "1182#4",
+    "kaynak_baslik": "Hakkâri (il)"
+  },
+  {
+    "id": "m0333",
+    "mode": "mcq",
+    "prompt": "Türk bayrağı ilk olarak hangi dönemde kabul edilmiştir?",
+    "choices": [
+      "Abdülmecid dönemindeki Tanzimat süreci",
+      "Cumhuriyet'in ilanı",
+      "II. Meşrutiyet dönemi",
+      "II. Mahmud dönemindeki reformlar"
+    ],
+    "correct_index": 0,
+    "explanation": "1844'te kabul edildi, 29 Mayıs 1936'da kanunlaştı, 22 Eylül 1983'te ölçütleri belirlenerek son hâlini aldı.",
+    "topics": [
+      "tarih",
+      "kültür"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Türk bayrağı",
+    "kaynak_id": "1529#0",
+    "kaynak_baslik": "Türk bayrağı"
+  },
+  {
+    "id": "m0334",
+    "mode": "mcq",
+    "prompt": "David Cronenberg'in Rabid filmindeki rol için ilk tercihi kim olmuştur?",
+    "choices": [
+      "Marilyn Chambers",
+      "Sissy Spacek",
+      "Ivan Reitman",
+      "Samantha Eggar"
+    ],
+    "correct_index": 1,
+    "explanation": "Rol o dönem pek tanınmayan Spacek yerine Marilyn Chambers'a gitti; Rabid uluslararası yayıncılar için dönüm noktası oldu.",
+    "topics": [
+      "film"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: David Cronenberg",
+    "kaynak_id": "1558#10",
+    "kaynak_baslik": "David Cronenberg"
+  },
+  {
+    "id": "m0335",
+    "mode": "mcq",
+    "prompt": "Plüton'un uydularından Kerberos hangi araçla keşfedilmiştir?",
+    "choices": [
+      "Spitzer Uzay Teleskobu",
+      "Hubble Uzay Teleskobu",
+      "New Horizons sondası",
+      "Kepler Uzay Teleskobu"
+    ],
+    "correct_index": 1,
+    "explanation": "Temmuz 2011'de bulundu; çapı 13-34 km arasında. Beşinci uydu Styx ise 7 Temmuz 2012'de saptandı.",
+    "topics": [
+      "uzay"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Plüton",
+    "kaynak_id": "1909#11",
+    "kaynak_baslik": "Plüton"
+  },
+  {
+    "id": "m0336",
+    "mode": "mcq",
+    "prompt": "Tantal elementi hangi yıl ve kim tarafından keşfedilmiştir?",
+    "choices": [
+      "1801, Charles Hatchett",
+      "1802, Anders Ekeberg",
+      "1809, William Hyde Wollaston",
+      "1846, Heinrich Rose"
+    ],
+    "correct_index": 1,
+    "explanation": "Wollaston 1809'da tantal ile kolumbiyumun aynı element olduğu sonucuna varmıştı; buna 1846'da Heinrich Rose itiraz etti.",
+    "topics": [
+      "bilim"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Tantal",
+    "kaynak_id": "119483#8",
+    "kaynak_baslik": "Tantal"
+  },
+  {
+    "id": "m0337",
+    "mode": "mcq",
+    "prompt": "Şavşat bölgesi hangi antlaşma uyarınca Osmanlı Devleti tarafından Rusya'ya bırakılmıştır?",
+    "choices": [
+      "Bükreş Antlaşması",
+      "Edirne Antlaşması",
+      "Ayastefanos Antlaşması",
+      "Berlin Antlaşması"
+    ],
+    "correct_index": 3,
+    "explanation": "1877-1878 Osmanlı-Rus Savaşı sonrası savaş tazminatının parçası olarak bırakıldı; 1886 sayımında nüfusu 18.319'du.",
+    "topics": [
+      "tarih",
+      "coğrafya"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Şavşat",
+    "kaynak_id": "148706#10",
+    "kaynak_baslik": "Şavşat"
+  },
+  {
+    "id": "m0338",
+    "mode": "mcq",
+    "prompt": "800-1100 yılları arasında Hristiyan Avrupa'da yaklaşık kaç Yahudi yaşıyordu?",
+    "choices": [
+      "800 bin",
+      "300 bin",
+      "5 milyon",
+      "1,5 milyon"
+    ],
+    "correct_index": 3,
+    "explanation": "Feodal sistemin parçası olmadıkları için savaş ve baskının dışında kalıyorlardı; finans, yönetim ve hekimlikteki hizmetleri nedeniyle korunuyorlardı.",
+    "topics": [
+      "tarih",
+      "toplum"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Yahudiler",
+    "kaynak_id": "1476348#47",
+    "kaynak_baslik": "Yahudiler"
+  },
+  {
+    "id": "m0339",
+    "mode": "mcq",
+    "prompt": "ABD ordusunun İkinci Seminole Savaşı'ndaki 1.466 kaybının çoğu neden kaynaklanmıştır?",
+    "choices": [
+      "Hastalık",
+      "Açlık",
+      "Kaza",
+      "Doğrudan çatışma"
+    ],
+    "correct_index": 0,
+    "explanation": "Doğrudan savaş eylemiyle ölenlerin sayısı azdı; kaynaklara göre 269 ila 328 subay ve asker öldürüldü.",
+    "topics": [
+      "tarih",
+      "askeri"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Kızılderili savaşları",
+    "kaynak_id": "1561908#25",
+    "kaynak_baslik": "Kızılderili savaşları"
+  },
+  {
+    "id": "m0340",
+    "mode": "mcq",
+    "prompt": "Michelangelo'nun Son Hüküm eseri hangi yıllar arasında resmedilmiştir?",
+    "choices": [
+      "1508-1512",
+      "1527-1535",
+      "1535-1541",
+      "1545-1550"
+    ],
+    "correct_index": 2,
+    "explanation": "Eser, 1527'deki Roma'nın Yağmalanması ile 1545'te toplanan Trento Konsili arasındaki dönemde yapıldı.",
+    "topics": [
+      "sanat",
+      "tarih"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Sistina Şapeli",
+    "kaynak_id": "123636#31",
+    "kaynak_baslik": "Sistina Şapeli"
+  },
+  {
+    "id": "m0341",
+    "mode": "mcq",
+    "prompt": "Monetarizm en çok hangi ABD Merkez Bankası başkanının politikalarıyla ilişkilendirilir?",
+    "choices": [
+      "Paul Volcker",
+      "Ben Bernanke",
+      "Milton Friedman",
+      "Alan Greenspan"
+    ],
+    "correct_index": 0,
+    "explanation": "Yüksek faiz politikası 1970'lerin enflasyonunu bitirmede rol oynadı ama 1980-1982 durgunluğuna da katkıda bulundu.",
+    "topics": [
+      "ekonomi"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Neoliberalizm",
+    "kaynak_id": "211822#28",
+    "kaynak_baslik": "Neoliberalizm"
+  },
+  {
+    "id": "m0342",
+    "mode": "mcq",
+    "prompt": "Bir galaksinin merkezindeki kara deliğin ortalama kütlesi ne kadardır?",
+    "choices": [
+      "50 milyon güneş kütlesi",
+      "10 güneş kütlesi",
+      "2,6 milyon güneş kütlesi",
+      "500 bin güneş kütlesi"
+    ],
+    "correct_index": 2,
+    "explanation": "Bu kütledeki bir kara deliğin Schwarzschild yarıçapı yaklaşık 7 milyon kilometre olur.",
+    "topics": [
+      "uzay",
+      "bilim"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Kara delik",
+    "kaynak_id": "120807#49",
+    "kaynak_baslik": "Kara delik"
+  },
+  {
+    "id": "m0343",
+    "mode": "mcq",
+    "prompt": "Sovyet Başbakanı Aleksi Kosigin, Türkiye'yi hangi tarihte ziyaret etmiştir?",
+    "choices": [
+      "20-27 Aralık 1966",
+      "12 Kasım 1965",
+      "1964 sonları",
+      "Eylül 1965"
+    ],
+    "correct_index": 0,
+    "explanation": "Ziyaret, 1964'ten itibaren süren yakınlaşmanın bir parçasıydı; ortak bildiride siyasal ve ekonomik ilişkilerin geliştirilmesi vurgulandı.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Rusya-Türkiye ilişkileri",
+    "kaynak_id": "184215#18",
+    "kaynak_baslik": "Rusya-Türkiye ilişkileri"
+  },
+  {
+    "id": "m0344",
+    "mode": "mcq",
+    "prompt": "İspanya, sömürge imparatorluğunu büyük ölçüde Bolivya'daki hangi bölgeden çıkarılan gümüşe dayandırmıştır?",
+    "choices": [
+      "La Paz'daki Illimani",
+      "Sucre yakınlarındaki Charcas",
+      "Potosí'deki Cerro Rico",
+      "Oruro'daki Huanuni"
+    ],
+    "correct_index": 2,
+    "explanation": "Bolivya sömürge döneminde Charcas Kraliyet Mahkemesi tarafından yönetiliyordu; bağımsızlık on altı yıllık savaşın ardından geldi.",
+    "topics": [
+      "tarih",
+      "ekonomi"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Bolivya",
+    "kaynak_id": "10022#3",
+    "kaynak_baslik": "Bolivya"
+  },
+  {
+    "id": "m0345",
+    "mode": "mcq",
+    "prompt": "Türk Dil Kurumu Sözlüğü'nün 12. baskısı hangi maddesi nedeniyle tartışmaya yol açmıştır?",
+    "choices": [
+      "Ulus",
+      "Anayasa",
+      "Vatandaş",
+      "Türkiyeli"
+    ],
+    "correct_index": 3,
+    "explanation": "TDK, çalışmalara 2019'da başlandığını açıklayarak sözlüğün satışını durdurdu ve e-mağazadan kaldırdı.",
+    "topics": [
+      "kültür",
+      "siyaset"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Türk Dil Kurumu",
+    "kaynak_id": "1487#15",
+    "kaynak_baslik": "Türk Dil Kurumu"
+  },
+  {
+    "id": "m0346",
+    "mode": "mcq",
+    "prompt": "Girne Amerikan Üniversitesi'nin Canterbury kampüsünün denkliği hangi kurum tarafından kabul edilmiştir?",
+    "choices": [
+      "İngiliz Akreditasyon Konseyi",
+      "Uluslararası Üniversiteler Birliği",
+      "Avrupa Üniversiteler Birliği",
+      "İslam Dünyası Üniversiteleri Federasyonu"
+    ],
+    "correct_index": 0,
+    "explanation": "Kampüs 2009'da açıldı, denklik 2010'da kabul edildi.",
+    "topics": [
+      "eğitim"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Kuzey Kıbrıs Türk Cumhuriyeti",
+    "kaynak_id": "14311#56",
+    "kaynak_baslik": "Kuzey Kıbrıs Türk Cumhuriyeti"
+  },
+  {
+    "id": "m0347",
+    "mode": "mcq",
+    "prompt": "Alman Generalgouvernement adlandırması hangi tarihsel yapıya atıfla seçilmiştir?",
+    "choices": [
+      "Prusya Genel Valiliği",
+      "Lublin Askeri Hükûmeti",
+      "Generalgouvernement Warschau",
+      "1916-1918 Polonya Krallığı"
+    ],
+    "correct_index": 2,
+    "explanation": "I. Dünya Savaşı sırasında Alman İmparatorluğu tarafından yaratılan bu sivil varlık, 1914-1918 arasında Lublin Askeri Hükûmeti ile birlikte vardı.",
+    "topics": [
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Genel Hükûmet",
+    "kaynak_id": "1173727#7",
+    "kaynak_baslik": "Genel Hükûmet"
   }
 ]
