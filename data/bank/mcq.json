@@ -2201,5 +2201,1352 @@
     "source": "Vikipedi: Quentin Tarantino",
     "kaynak_id": "13688#13",
     "kaynak_baslik": "Quentin Tarantino"
+  },
+  {
+    "id": "m0103",
+    "mode": "mcq",
+    "prompt": "Özbek yazı dilinde Kiril alfabesi Sovyet yetkilileri tarafından hangi yıl tanıtılmıştır?",
+    "choices": [
+      "1920",
+      "1926",
+      "1940",
+      "1930"
+    ],
+    "correct_index": 2,
+    "explanation": "1926'da Latin alfabesi tanıtılmış, 1930'larda revizyonlardan geçmiş, 1940'ta ise Kiril alfabesine geçilmişti.",
+    "topics": [
+      "kültür",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Özbekistan",
+    "kaynak_id": "15769#28",
+    "kaynak_baslik": "Özbekistan"
+  },
+  {
+    "id": "m0104",
+    "mode": "mcq",
+    "prompt": "Burundi'nin başbakanı Prens Louis Rwagasore, göreve başlamasından kısa süre sonra hangi tarihte suikaste kurban gitmiştir?",
+    "choices": [
+      "13 Ekim 1961",
+      "Ocak 1963",
+      "29 Eylül 1961",
+      "20 Ekim 1961"
+    ],
+    "correct_index": 0,
+    "explanation": "Rwagasore 13 Ekim 1961'de Yunan kiralık katil Ioannis Kageorgis tarafından öldürüldü; azmettiriciler 1963'te idam edildi.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Burundi",
+    "kaynak_id": "16642#17",
+    "kaynak_baslik": "Burundi"
+  },
+  {
+    "id": "m0105",
+    "mode": "mcq",
+    "prompt": "Bertrand Russell, Cambridge'de matematik alanındaki birinci sınıf onur derecesiyle hangi yıl mezun olmuştur?",
+    "choices": [
+      "1895",
+      "1893",
+      "1889",
+      "1890"
+    ],
+    "correct_index": 1,
+    "explanation": "Russell 1893'te Wrangler derecesiyle mezun oldu ve 1895 sonlarında akademi üyesi oldu.",
+    "topics": [
+      "felsefe",
+      "bilim"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Bertrand Russell",
+    "kaynak_id": "104842#12",
+    "kaynak_baslik": "Bertrand Russell"
+  },
+  {
+    "id": "m0106",
+    "mode": "mcq",
+    "prompt": "Arnavut soylu sülalesi Balşa'lar hangi yıl Ortodoksluktan Roma-Katolik Kilisesi'ne geçmiştir?",
+    "choices": [
+      "1389",
+      "1368",
+      "1342",
+      "1355"
+    ],
+    "correct_index": 1,
+    "explanation": "Sırp Çarı Stefan Duşan'ın ölümü ve Sırbistan Krallığı'nın dağılmasının ardından Balşa'lar 1368'de mezhep değiştirdi.",
+    "topics": [
+      "tarih",
+      "din"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Arnavutluk",
+    "kaynak_id": "14333#20",
+    "kaynak_baslik": "Arnavutluk"
+  },
+  {
+    "id": "m0107",
+    "mode": "mcq",
+    "prompt": "Bir çift yıldızın ilk yörünge hesabını 1827'de yaparak Xi Ursae Majoris'in yörüngesini belirleyen astronom kimdir?",
+    "choices": [
+      "Felix Savary",
+      "John Michell",
+      "William Herschel",
+      "Friedrich Bessel"
+    ],
+    "correct_index": 0,
+    "explanation": "Michell 1767'de fiziksel bağı önermiş, Herschel 1779'dan itibaren gözlem yapmıştı; ilk yörünge hesabı ise 1827'de Savary'e aittir.",
+    "topics": [
+      "uzay",
+      "bilim"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Çift yıldız",
+    "kaynak_id": "165319#11",
+    "kaynak_baslik": "Çift yıldız"
+  },
+  {
+    "id": "m0108",
+    "mode": "mcq",
+    "prompt": "İlk \"gerçek\" kara film (film noir) olarak kabul edilen 1940 yapımı film hangisidir?",
+    "choices": [
+      "Üçüncü Kattaki Yabancı",
+      "Şehir Sokakları",
+      "Hayata Bir Kez Geliyorsun",
+      "Hiddet"
+    ],
+    "correct_index": 0,
+    "explanation": "Stranger on the Third Floor (1940) ilk gerçek kara film sayılır; Fritz Lang'ın 1936 ve 1937 tarihli filmleri \"ilk-noir\" kategorisinde değerlendirilir.",
+    "topics": [
+      "film"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Kara film",
+    "kaynak_id": "138935#16",
+    "kaynak_baslik": "Kara film"
+  },
+  {
+    "id": "m0109",
+    "mode": "mcq",
+    "prompt": "Rumen mühendis Traian Vuia'nın 1906'da kendi gücüyle havalanan uçağıyla yaptığı uçuşlar en fazla kaç metre mesafeye ulaşabilmiştir?",
+    "choices": [
+      "300 metre",
+      "1 kilometre",
+      "39 kilometre",
+      "30 metre"
+    ],
+    "correct_index": 3,
+    "explanation": "Vuia'nın hiçbir uçuşu 30 metreyi geçmedi; buna karşılık Wright Kardeşler 1905'te 39 km'lik bir uçuş yapmıştı.",
+    "topics": [
+      "havacılık",
+      "tarih"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Havacılık tarihi",
+    "kaynak_id": "198733#59",
+    "kaynak_baslik": "Havacılık tarihi"
+  },
+  {
+    "id": "m0110",
+    "mode": "mcq",
+    "prompt": "Macaristan'da komünist rejim, 1956 Devrimi'nin 33. yıldönümü olan hangi tarihte resmen kaldırılmıştır?",
+    "choices": [
+      "23 Ekim 1989",
+      "7 Ekim 1989",
+      "19 Haziran 1991",
+      "9 Kasım 1989"
+    ],
+    "correct_index": 0,
+    "explanation": "Komünist Parti 7 Ekim'de kendini Macar Sosyalist Partisi olarak yeniden kurmuş, rejim 23 Ekim 1989'da resmen kaldırılmıştı.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: 1989 Devrimleri",
+    "kaynak_id": "205803#35",
+    "kaynak_baslik": "1989 Devrimleri"
+  },
+  {
+    "id": "m0111",
+    "mode": "mcq",
+    "prompt": "León Krallığı'nın bir kontluğu olarak kurulan Portekiz, Reconquista'nın sonucu olarak hangi yıl resmen krallık hâline gelmiştir?",
+    "choices": [
+      "868",
+      "1910",
+      "1179",
+      "711"
+    ],
+    "correct_index": 2,
+    "explanation": "868'de kontluk olarak kuruldu, 1179'da krallık oldu; 711 Müslümanların yarımadayı işgal ettiği, 1910 ise cumhuriyete geçiş yılıdır.",
+    "topics": [
+      "tarih",
+      "coğrafya"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Portekiz",
+    "kaynak_id": "1894#1",
+    "kaynak_baslik": "Portekiz"
+  },
+  {
+    "id": "m0112",
+    "mode": "mcq",
+    "prompt": "Sigara ile akciğer kanseri arasında bir ilişki olduğunu 1929'da ilk kez öne süren Alman hekim kimdir?",
+    "choices": [
+      "Fritz Lickint",
+      "Paul Ehrlich",
+      "Robert Koch",
+      "Rudolf Virchow"
+    ],
+    "correct_index": 0,
+    "explanation": "Lickint'in 1929'daki iddiası, akciğer kanseri insidansının 1852'de %0,3'ten 1952'de %5,66'ya yükseldiği bir dönemde geldi.",
+    "topics": [
+      "sağlık",
+      "bilim"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Akciğer kanseri",
+    "kaynak_id": "1954#55",
+    "kaynak_baslik": "Akciğer kanseri"
+  },
+  {
+    "id": "m0113",
+    "mode": "mcq",
+    "prompt": "Franz Beckenbauer, Bayern Münih ile üst üste kaç kez Avrupa Şampiyon Kulüpler Kupası kazanmıştır?",
+    "choices": [
+      "1",
+      "4",
+      "2",
+      "3"
+    ],
+    "correct_index": 3,
+    "explanation": "Beckenbauer 1974, 1975 ve 1976'da üst üste üç kez kazandı; Bundesliga ve DFB-Pokal'da ise dörder şampiyonluğu vardır.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Franz Beckenbauer",
+    "kaynak_id": "120673#2",
+    "kaynak_baslik": "Franz Beckenbauer"
+  },
+  {
+    "id": "m0114",
+    "mode": "mcq",
+    "prompt": "Bugün bilinen çağdaş suşiyi Edo Dönemi'nin sonunda yaratan kişi kimdir?",
+    "choices": [
+      "Hanaya Yohei",
+      "Tokugawa Ieyasu",
+      "Matsuo Bashō",
+      "Hiroshige"
+    ],
+    "correct_index": 0,
+    "explanation": "Hanaya Yohei (1799-1858) mayalanmadan hızlıca hazırlanan bu hazır deniz ürünleri yemeğini Edo'da geliştirdi.",
+    "topics": [
+      "yiyecek",
+      "kültür"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Suşi",
+    "kaynak_id": "121512#9",
+    "kaynak_baslik": "Suşi"
+  },
+  {
+    "id": "m0115",
+    "mode": "mcq",
+    "prompt": "Ajda Pekkan'ın İstanbul Plak'tan çıkardığı ve satış rekorları kıran arabesk ağırlıklı plağı hangisidir?",
+    "choices": [
+      "Dert Bende Derman Sende",
+      "Kaderimin Oyunu",
+      "Hoşgör Sende",
+      "Kimler Geldi Kimler Geçti"
+    ],
+    "correct_index": 0,
+    "explanation": "İlk plağı beklenen başarıyı yakalayamazken, ikinci plağı Dert Bende Derman Sende rekor kırdı.",
+    "topics": [
+      "müzik"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Ajda Pekkan",
+    "kaynak_id": "10127#11",
+    "kaynak_baslik": "Ajda Pekkan"
+  },
+  {
+    "id": "m0116",
+    "mode": "mcq",
+    "prompt": "Japonya, 1931'de Mançurya'da hangi kukla devleti kurdurmuştur?",
+    "choices": [
+      "Kore Genel Valiliği",
+      "Mengjiang",
+      "Wang Jingwei rejimi",
+      "Mançukuo"
+    ],
+    "correct_index": 3,
+    "explanation": "ABD başta olmak üzere bölgede çıkarı olan ülkeler Mançukuo'yu kukla devlet sayarak tanımaktan kaçındı.",
+    "topics": [
+      "tarih"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Pearl Harbor Saldırısı",
+    "kaynak_id": "151794#3",
+    "kaynak_baslik": "Pearl Harbor Saldırısı"
+  },
+  {
+    "id": "m0117",
+    "mode": "mcq",
+    "prompt": "Joseph Smith'in 1835'teki açıklamasına göre kıyametin kopacağı hesaplanan yıl hangisidir?",
+    "choices": [
+      "1931",
+      "1856",
+      "1900",
+      "1891"
+    ],
+    "correct_index": 3,
+    "explanation": "14 Şubat 1835'te kıyametin 56 yıl içinde kopacağını söyledi; bu hesap 1891'e denk geliyordu.",
+    "topics": [
+      "din",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Mormonluk",
+    "kaynak_id": "128155#56",
+    "kaynak_baslik": "Mormonluk"
+  },
+  {
+    "id": "m0118",
+    "mode": "mcq",
+    "prompt": "Batum, hangi antlaşma uyarınca serbest liman statüsüyle Ruslara bırakılmıştır?",
+    "choices": [
+      "Berlin Antlaşması",
+      "Küçük Kaynarca Antlaşması",
+      "Ayastefanos Antlaşması",
+      "Paris Antlaşması"
+    ],
+    "correct_index": 0,
+    "explanation": "1878 Berlin Antlaşması'nın ardından şehirdeki Müslümanların büyük bölümü Osmanlı topraklarına göç etti.",
+    "topics": [
+      "tarih",
+      "coğrafya"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Batum",
+    "kaynak_id": "11784#40",
+    "kaynak_baslik": "Batum"
+  },
+  {
+    "id": "m0119",
+    "mode": "mcq",
+    "prompt": "Sezen Aksu ile Zülfü Livaneli'nin ortak eseri \"Belalım\", Müslüm Gürses'in hangi albümünde yer almıştır?",
+    "choices": [
+      "Aygız",
+      "Vurgun",
+      "Bir De Benden Dinleyin",
+      "Kara Sevda"
+    ],
+    "correct_index": 2,
+    "explanation": "1991 tarihli bu albüm Gürses için milat sayılır; pop ve Azerbaycan müziği eserlerini repertuvarına kattığı dönemin ürünüdür.",
+    "topics": [
+      "müzik"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Müslüm Gürses",
+    "kaynak_id": "12937#27",
+    "kaynak_baslik": "Müslüm Gürses"
+  },
+  {
+    "id": "m0120",
+    "mode": "mcq",
+    "prompt": "SüngerBob KareŞort bugüne kadar kaç Emmy Ödülü kazanmıştır?",
+    "choices": [
+      "İki",
+      "On",
+      "Dört",
+      "Altı"
+    ],
+    "correct_index": 2,
+    "explanation": "Dizinin dört Emmy'sinin yanı sıra altı Annie ve iki BAFTA Çocuk Ödülü bulunuyor.",
+    "topics": [
+      "film",
+      "kültür"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: SüngerBob KareŞort",
+    "kaynak_id": "130962#35",
+    "kaynak_baslik": "SüngerBob KareŞort"
+  },
+  {
+    "id": "m0121",
+    "mode": "mcq",
+    "prompt": "Lev Troçki'nin doğuştan gelen asıl soyadı nedir?",
+    "choices": [
+      "Bronştayn",
+      "Cugaşvili",
+      "Rosenfeld",
+      "Ulyanov"
+    ],
+    "correct_index": 0,
+    "explanation": "Lev Davidoviç Bronştayn, devrimci takma adı Troçki ile tanındı; Ulyanov Lenin'in, Cugaşvili ise Stalin'in soyadıdır.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Lev Troçki",
+    "kaynak_id": "15547#1",
+    "kaynak_baslik": "Lev Troçki"
+  },
+  {
+    "id": "m0122",
+    "mode": "mcq",
+    "prompt": "Marx'ın değer teorisinin ve kâr oranının düşme eğilimi yasasının kendi içinde tutarsız olduğunu 1906-1907'de ileri süren iktisatçı kimdir?",
+    "choices": [
+      "Ladislaus von Bortkiewicz",
+      "Eugen Böhm-Bawerk",
+      "Vladimir Karpoviç Dmitriev",
+      "Joseph Schumpeter"
+    ],
+    "correct_index": 0,
+    "explanation": "Dmitriev 1898'de, Bortkiewicz ise 1906-1907'de bu eleştiriyi getirdi.",
+    "topics": [
+      "ekonomi",
+      "felsefe"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Marksizm",
+    "kaynak_id": "18419#67",
+    "kaynak_baslik": "Marksizm"
+  },
+  {
+    "id": "m0123",
+    "mode": "mcq",
+    "prompt": "Sudan'da Ulusal Birlikçi Parti'nin 1953 seçim zaferi sonrası başbakan olan ve önce Mısır'la birleşmeyi savunup sonra tam bağımsızlığı seçen lider kimdir?",
+    "choices": [
+      "Abdullah Halil",
+      "Ömer el-Beşir",
+      "Cafer Numeyri",
+      "İsmail el-Ezheri"
+    ],
+    "correct_index": 3,
+    "explanation": "El-Ezheri Ocak 1954'te başbakan oldu; birleşmenin iç savaşa yol açabileceğini görünce Mayıs 1955'ten itibaren bağımsızlığı savundu.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Sudan",
+    "kaynak_id": "16924#6",
+    "kaynak_baslik": "Sudan"
+  },
+  {
+    "id": "m0124",
+    "mode": "mcq",
+    "prompt": "Abhaz Halk Konseyi, Abhazya'nın Gürcistan Demokratik Cumhuriyeti içinde özerk statüye sahip olduğunu teyit eden anlaşmayı hangi tarihte imzalamıştır?",
+    "choices": [
+      "Mayıs 1920",
+      "8 Haziran 1918",
+      "26 Mayıs 1918",
+      "Nisan 1919"
+    ],
+    "correct_index": 1,
+    "explanation": "Gürcistan 26 Mayıs 1918'de bağımsızlığını ilan etmiş, anlaşma ise 8 Haziran 1918'de imzalanmıştı.",
+    "topics": [
+      "tarih",
+      "coğrafya"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Abhazya",
+    "kaynak_id": "18240#21",
+    "kaynak_baslik": "Abhazya"
+  },
+  {
+    "id": "m0125",
+    "mode": "mcq",
+    "prompt": "Hazar Denizi'ne dökülen suların yüzde 80'ini hangi nehir sağlamaktadır?",
+    "choices": [
+      "Terek",
+      "Ural",
+      "Kura",
+      "Volga"
+    ],
+    "correct_index": 3,
+    "explanation": "Volga'nın sulama ve endüstri için başka yönlere kanalize edilmesi, deniz seviyesinin 1930-1957 arasında 26 metre düşmesinin başlıca sebeplerindendir.",
+    "topics": [
+      "coğrafya",
+      "doğa"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Hazar Denizi",
+    "kaynak_id": "19834#2",
+    "kaynak_baslik": "Hazar Denizi"
+  },
+  {
+    "id": "m0126",
+    "mode": "mcq",
+    "prompt": "Stalingrad'da kuşatılan Mihver kuvvetlerinin günlük asgari ikmal ihtiyacı ne kadardı?",
+    "choices": [
+      "300 ton",
+      "1.500 ton",
+      "800 ton",
+      "117,5 ton"
+    ],
+    "correct_index": 2,
+    "explanation": "Günlük ihtiyaç 800 ton iken hava köprüsüyle taşınabilecek azami miktar 117,5 tondu; Göring yine de hava ikmalinin mümkün olduğunu bildirmişti.",
+    "topics": [
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Stalingrad Muharebesi",
+    "kaynak_id": "11692#49",
+    "kaynak_baslik": "Stalingrad Muharebesi"
+  },
+  {
+    "id": "m0127",
+    "mode": "mcq",
+    "prompt": "Giovanni Belzoni, Krallar Vadisi'nde 1817'de hangi firavunun mezarını keşfetmiştir?",
+    "choices": [
+      "I. Seti",
+      "II. Ramses",
+      "Ay",
+      "Tutankamon"
+    ],
+    "correct_index": 0,
+    "explanation": "Belzoni 1816'da Batı Vadisi'ndeki Ay'ın (WV23), ertesi yıl ise I. Seti'nin (KV17) mezarını buldu ve tüm mezarların bulunduğunu ilan etti.",
+    "topics": [
+      "tarih",
+      "arkeoloji"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Krallar Vadisi",
+    "kaynak_id": "144338#17",
+    "kaynak_baslik": "Krallar Vadisi"
+  },
+  {
+    "id": "m0128",
+    "mode": "mcq",
+    "prompt": "1 Ocak 1938 itibarıyla İngilizlerin 50 mm'den büyük kaç adet hava savunma topu bulunuyordu?",
+    "choices": [
+      "540",
+      "341",
+      "1140",
+      "180"
+    ],
+    "correct_index": 3,
+    "explanation": "Sayı Münih krizinde 341'e, savaşın ilanında 540'a, İngiltere Muharebesi sırasında ise 1140'a çıkarıldı.",
+    "topics": [
+      "tarih",
+      "askeri"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Hava savunma savaşı",
+    "kaynak_id": "1429961#44",
+    "kaynak_baslik": "Hava savunma savaşı"
+  },
+  {
+    "id": "m0129",
+    "mode": "mcq",
+    "prompt": "IBM'in aynı programları farklı hız ve performans değerleriyle çalıştırabilen System/360 mimarisi hangi yıl tanıtılmıştır?",
+    "choices": [
+      "1969",
+      "1971",
+      "1964",
+      "1958"
+    ],
+    "correct_index": 2,
+    "explanation": "1964'te tanıtılan System/360, mikro-program konseptini yaygınlaştırdı ve anaçatı bilgisayar pazarına onlarca yıl hâkim oldu.",
+    "topics": [
+      "teknoloji"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Merkezî işlem birimi",
+    "kaynak_id": "13035#10",
+    "kaynak_baslik": "Merkezî işlem birimi"
+  },
+  {
+    "id": "m0130",
+    "mode": "mcq",
+    "prompt": "Beatles'ın ilk 45'liği \"Love Me Do\" İngiliz listelerinde kaç numaraya kadar yükselmiştir?",
+    "choices": [
+      "32",
+      "5",
+      "17",
+      "1"
+    ],
+    "correct_index": 2,
+    "explanation": "Ekim 1962'de yayımlanan tekli 17 numaraya çıktı; grup bu dönemde Ringo Starr'ın katılımıyla dört kişilik kadrosunu tamamlamıştı.",
+    "topics": [
+      "müzik"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: John Lennon",
+    "kaynak_id": "11240#17",
+    "kaynak_baslik": "John Lennon"
+  },
+  {
+    "id": "m0131",
+    "mode": "mcq",
+    "prompt": "Necmettin Erbakan, siyasi yasağının sona ermesinin ardından Saadet Partisi genel başkanlığına hangi tarihte seçilmiştir?",
+    "choices": [
+      "3 Aralık 2003",
+      "Şubat 2003",
+      "6 Mart 2002",
+      "11 Mayıs 2003"
+    ],
+    "correct_index": 3,
+    "explanation": "Yasağı Şubat 2003'te sona erdi ve 11 Mayıs 2003'te genel başkan seçildi; Yargıtay onaması ise 3 Aralık 2003'te geldi.",
+    "topics": [
+      "siyaset",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Necmettin Erbakan",
+    "kaynak_id": "12501#18",
+    "kaynak_baslik": "Necmettin Erbakan"
+  },
+  {
+    "id": "m0132",
+    "mode": "mcq",
+    "prompt": "Çin, hükûmet kurumlarında Windows 8 satın alınmasını hangi tarihte yasaklamıştır?",
+    "choices": [
+      "Mayıs 2014",
+      "Nisan 2015",
+      "Ağustos 2012",
+      "Ocak 2013"
+    ],
+    "correct_index": 0,
+    "explanation": "Yasak, Microsoft'un \"garantili\" destek sağlayamamasını protesto amacıyla Mayıs 2014'te geldi; o sırada Çin'deki bilgisayarların en az %49'u hâlâ XP kullanıyordu.",
+    "topics": [
+      "teknoloji",
+      "siyaset"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Windows XP",
+    "kaynak_id": "12922#39",
+    "kaynak_baslik": "Windows XP"
+  },
+  {
+    "id": "m0133",
+    "mode": "mcq",
+    "prompt": "Altı Gün Savaşı'nın başında Mısır, 160.000 askerinin kaçını Sina Yarımadası'na yerleştirmişti?",
+    "choices": [
+      "140.000",
+      "100.000",
+      "50.000",
+      "20.000"
+    ],
+    "correct_index": 1,
+    "explanation": "Sina'daki 100.000 asker Mısır'ın tüm kolordularını kapsıyordu; ayrıca 15.000-20.000 Mısır askeri Yemen'de savaşıyordu.",
+    "topics": [
+      "tarih",
+      "askeri"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Altı Gün Savaşı",
+    "kaynak_id": "145612#27",
+    "kaynak_baslik": "Altı Gün Savaşı"
+  },
+  {
+    "id": "m0134",
+    "mode": "mcq",
+    "prompt": "Kiel Antlaşması ile Norveç hangi ülkeye geçmiştir?",
+    "choices": [
+      "Danimarka",
+      "İsveç",
+      "Finlandiya",
+      "Rusya"
+    ],
+    "correct_index": 1,
+    "explanation": "Orta Çağ'dan 1814'e kadar Danimarka'nın parçası olan Norveç İsveç'e geçti; Faroe, Grönland ve İzlanda ise Danimarka'da kaldı.",
+    "topics": [
+      "tarih",
+      "coğrafya"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Norveç",
+    "kaynak_id": "14598#11",
+    "kaynak_baslik": "Norveç"
+  },
+  {
+    "id": "m0135",
+    "mode": "mcq",
+    "prompt": "Fatih Terim, teknik direktör olarak Galatasaray ile kaç Süper Lig şampiyonluğu kazanmıştır?",
+    "choices": [
+      "11",
+      "3",
+      "8",
+      "5"
+    ],
+    "correct_index": 2,
+    "explanation": "8 Süper Lig'in yanı sıra 3 Türkiye Kupası, 5 Süper Kupa ve bir UEFA Kupası kazandı.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Fatih Terim",
+    "kaynak_id": "14642#3",
+    "kaynak_baslik": "Fatih Terim"
+  },
+  {
+    "id": "m0136",
+    "mode": "mcq",
+    "prompt": "Christiaan Huygens, XIV. Louis'nin yeni açtığı Fransız Bilim Akademisi'ndeki görevi için hangi yıl Fransa'ya taşınmıştır?",
+    "choices": [
+      "1655",
+      "1670",
+      "1666",
+      "1663"
+    ],
+    "correct_index": 2,
+    "explanation": "Montmor Akademisi'nin 1663'te kapanmasının ardından Huygens 1666'da Fransa'ya taşındı ve Colbert ile yazışma içine girdi.",
+    "topics": [
+      "bilim",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Christiaan Huygens",
+    "kaynak_id": "14879#14",
+    "kaynak_baslik": "Christiaan Huygens"
+  },
+  {
+    "id": "m0137",
+    "mode": "mcq",
+    "prompt": "Kavalalı Mehmet Ali Paşa, Mısır valiliğine hangi yıl atanmıştır?",
+    "choices": [
+      "1952",
+      "1798",
+      "1805",
+      "1801"
+    ],
+    "correct_index": 2,
+    "explanation": "Napolyon'un kurduğu yönetim 1801'de sona erdi; 1805'te atanan Mehmet Ali'nin hanedanı 1952'ye kadar Mısır'ı yönetti.",
+    "topics": [
+      "tarih"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Kahire",
+    "kaynak_id": "16285#11",
+    "kaynak_baslik": "Kahire"
+  },
+  {
+    "id": "m0138",
+    "mode": "mcq",
+    "prompt": "Fransa, Brazzaville ile liman kenti Pointe-Noire arasındaki demiryolu bağlantısını hangi yıllar arasında inşa etmiştir?",
+    "choices": [
+      "1940-1945",
+      "1945-1960",
+      "1924-1934",
+      "1900-1910"
+    ],
+    "correct_index": 2,
+    "explanation": "Kongo nehrinin aşağı kısımları gemi taşımacılığına uygun olmadığı için bu demiryolu inşa edildi.",
+    "topics": [
+      "tarih",
+      "coğrafya"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Kongo Cumhuriyeti",
+    "kaynak_id": "16919#21",
+    "kaynak_baslik": "Kongo Cumhuriyeti"
+  },
+  {
+    "id": "m0139",
+    "mode": "mcq",
+    "prompt": "Linnaeus'u doğrudan etkileyen 1700 tarihli Institutiones Rei Herbariae adlı taksonomi çalışmasının yazarı kimdir?",
+    "choices": [
+      "John Ray",
+      "Georges Cuvier",
+      "Carl Linnaeus",
+      "Joseph Pitton de Tournefort"
+    ],
+    "correct_index": 3,
+    "explanation": "Tournefort'un 698 cinste 9000'den fazla tür içeren eseri, Linnaeus'un öğrenciliğinde kullandığı metindi.",
+    "topics": [
+      "bilim",
+      "doğa"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Taksonomi (biyoloji)",
+    "kaynak_id": "17626#21",
+    "kaynak_baslik": "Taksonomi (biyoloji)"
+  },
+  {
+    "id": "m0140",
+    "mode": "mcq",
+    "prompt": "Ronald Reagan hangi yıl Kaliforniya valisi seçilmiştir?",
+    "choices": [
+      "1964",
+      "1976",
+      "1959",
+      "1966"
+    ],
+    "correct_index": 3,
+    "explanation": "1964'teki \"Seçim Zamanı\" konuşması onu muhafazakâr bir figür olarak öne çıkardı; iki yıl sonra vali seçildi.",
+    "topics": [
+      "siyaset",
+      "tarih"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Ronald Reagan",
+    "kaynak_id": "17717#1",
+    "kaynak_baslik": "Ronald Reagan"
+  },
+  {
+    "id": "m0141",
+    "mode": "mcq",
+    "prompt": "Osmanlı Devleti ile Hotakîler arasında imzalanarak Osmanlı-Safevi savaş hâline son veren antlaşma hangisidir?",
+    "choices": [
+      "Ferhat Paşa Antlaşması",
+      "Hemedan Antlaşması",
+      "Kasr-ı Şirin Antlaşması",
+      "Nasuh Paşa Antlaşması"
+    ],
+    "correct_index": 1,
+    "explanation": "1727 tarihli Hemedan Antlaşması ile Osmanlı, 1590'daki doğu sınırlarına yeniden ulaştı.",
+    "topics": [
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: III. Ahmed",
+    "kaynak_id": "17816#21",
+    "kaynak_baslik": "III. Ahmed"
+  },
+  {
+    "id": "m0142",
+    "mode": "mcq",
+    "prompt": "Simpsonlar'ın \"Do the Bartman\" şarkısını, adını tanıtımda yazdırmadan yazan sanatçı kimdir?",
+    "choices": [
+      "Michael Jackson",
+      "Nancy Cartwright",
+      "Prince",
+      "Danny Elfman"
+    ],
+    "correct_index": 0,
+    "explanation": "Jackson şarkıyı yazdı ve John Jay Smith takma adıyla \"Stark Raving Dad\" bölümünde konuk oyuncu oldu; şarkıyı Nancy Cartwright seslendirdi.",
+    "topics": [
+      "müzik",
+      "film"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Bart Simpson",
+    "kaynak_id": "108068#28",
+    "kaynak_baslik": "Bart Simpson"
+  },
+  {
+    "id": "m0143",
+    "mode": "mcq",
+    "prompt": "La Liga tarihinin en büyük galibiyeti olan Athletic Bilbao - Barcelona maçı kaç kaç sonuçlanmıştır?",
+    "choices": [
+      "9-1",
+      "8-0",
+      "12-1",
+      "10-2"
+    ],
+    "correct_index": 2,
+    "explanation": "Fred Pentland'ın çalıştırdığı ve \"İlk tarihi kadro\" diye anılan Bilbao takımı bu skoru elde etti.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: La Liga",
+    "kaynak_id": "20971#12",
+    "kaynak_baslik": "La Liga"
+  },
+  {
+    "id": "m0144",
+    "mode": "mcq",
+    "prompt": "1204'te askerlerine Trakya yerine İstanbul Adaları'nı yağmalamalarını öğütleyen IV. Haçlı Seferi komutanı kimdir?",
+    "choices": [
+      "Geoffroi de Villehardouin",
+      "Enrico Dandolo",
+      "Bonifacio di Monferrato",
+      "Baudouin de Flandre"
+    ],
+    "correct_index": 1,
+    "explanation": "Venedik Doju Enrico Dandolo, ikmal için adaların yağmalanmasını önerdi.",
+    "topics": [
+      "tarih",
+      "coğrafya"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Adalar",
+    "kaynak_id": "168141#15",
+    "kaynak_baslik": "Adalar"
+  },
+  {
+    "id": "m0145",
+    "mode": "mcq",
+    "prompt": "1909'da, Baden-Powell tarafından tanınan bir izcilik örgütüne sahip olan ilk İngiliz egemenliği dışı ülke hangisidir?",
+    "choices": [
+      "Norveç",
+      "Arjantin",
+      "Şili",
+      "Meksika"
+    ],
+    "correct_index": 2,
+    "explanation": "Şili bu unvanı 1909'da aldı; Arjantin, Meksika ve Norveç'in izcileri ancak 1910'da ortaya çıktı.",
+    "topics": [
+      "tarih",
+      "kültür"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: İzcilik",
+    "kaynak_id": "141240#11",
+    "kaynak_baslik": "İzcilik"
+  },
+  {
+    "id": "m0146",
+    "mode": "mcq",
+    "prompt": "Yaklaşık 400 yapıt üreten Püriten rahip Cotton Mather'ın başyapıtı hangisidir?",
+    "choices": [
+      "Magnalia Christi Americana",
+      "The Day of Doom",
+      "Institutiones Rei Herbariae",
+      "Poor Richard's Almanack"
+    ],
+    "correct_index": 0,
+    "explanation": "Magnalia Christi Americana New England tarihini anlatır; The Day of Doom ise Michael Wigglesworth'un epik şiiridir.",
+    "topics": [
+      "tarih",
+      "kitap"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Amerika Birleşik Devletleri koloni dönemi",
+    "kaynak_id": "129820#64",
+    "kaynak_baslik": "Amerika Birleşik Devletleri koloni dönemi"
+  },
+  {
+    "id": "m0147",
+    "mode": "mcq",
+    "prompt": "REM evrelerindeki beyin dalgalarının uyanıklık hâline benzediğine dikkat çekerek bu evreye \"paradoksal uyku\" adını veren bilim insanı kimdir?",
+    "choices": [
+      "Eugene Aserinsky",
+      "Nathaniel Kleitman",
+      "William C. Dement",
+      "Michel Jouvet"
+    ],
+    "correct_index": 3,
+    "explanation": "Kleitman ve Aserinsky 1950'lerde REM evrelerini keşfetti; Jouvet 1959'da \"paradoksal uyku\" adlandırmasını yaptı.",
+    "topics": [
+      "bilim",
+      "sağlık"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Rüya",
+    "kaynak_id": "141477#20",
+    "kaynak_baslik": "Rüya"
+  },
+  {
+    "id": "m0148",
+    "mode": "mcq",
+    "prompt": "Celâl Bayar, 1965-1972 arasında 8 cilt hâlinde yayımladığı anılarına hangi adı vermiştir?",
+    "choices": [
+      "Kayseri Cezaevi Günlüğü",
+      "Ben de Yazdım",
+      "Başvekilim Adnan Menderes",
+      "Nutuk"
+    ],
+    "correct_index": 1,
+    "explanation": "Kayseri Cezaevi Günlüğü 1999'da ayrıca kitaplaştırıldı; Başvekilim Adnan Menderes ise İsmet Bozdağ'ın derlemesidir.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Celâl Bayar",
+    "kaynak_id": "1539#25",
+    "kaynak_baslik": "Celâl Bayar"
+  },
+  {
+    "id": "m0149",
+    "mode": "mcq",
+    "prompt": "1930-1960 arasında psikosomatik sayılan astımın aslında kronik enflamatuar bir hastalık olduğu, 1960'larda neyin keşfiyle kanıtlanmıştır?",
+    "choices": [
+      "Adrenalin",
+      "IgE",
+      "Kortizol",
+      "Stetoskop"
+    ],
+    "correct_index": 1,
+    "explanation": "IgE'nin keşfiyle gelen paradigma değişimi, 1970'lerde inhale kortikosteroidlerin tedaviye girmesini sağladı.",
+    "topics": [
+      "sağlık",
+      "bilim"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Astım",
+    "kaynak_id": "1931#6",
+    "kaynak_baslik": "Astım"
+  },
+  {
+    "id": "m0150",
+    "mode": "mcq",
+    "prompt": "Hitler'in 1933'te Vatikan ile imzaladığı ve din adamlarının siyasete karışmasını yasaklayan anlaşma hangisidir?",
+    "choices": [
+      "Vestfalya Antlaşması",
+      "Münih Antlaşması",
+      "Kirchenkampf Sözleşmesi",
+      "Reichskonkordat"
+    ],
+    "correct_index": 3,
+    "explanation": "Anlaşmaya rağmen rejim kiliseleri hedef almayı sürdürdü; 1935-1936'da yüzlerce din adamı uydurma suçlamalarla tutuklandı.",
+    "topics": [
+      "tarih",
+      "din"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Joseph Goebbels",
+    "kaynak_id": "120615#13",
+    "kaynak_baslik": "Joseph Goebbels"
+  },
+  {
+    "id": "m0151",
+    "mode": "mcq",
+    "prompt": "\"Historiographer Royal\" (kraliyet tarihçisi) makamı bugün hâlâ hangi ülkede mevcuttur?",
+    "choices": [
+      "İngiltere",
+      "İsveç",
+      "Fransa",
+      "İskoçya"
+    ],
+    "correct_index": 3,
+    "explanation": "Unvan İsveç'te 1618, İngiltere'de 1660, İskoçya'da 1681'den beri kullanılıyordu; makam yalnızca İskoçya'da sürüyor.",
+    "topics": [
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Tarihyazımı",
+    "kaynak_id": "1096202#3",
+    "kaynak_baslik": "Tarihyazımı"
+  },
+  {
+    "id": "m0152",
+    "mode": "mcq",
+    "prompt": "Bernie Sanders'ın 1968'de taşındığı ve 1970 nüfus sayımında yalnızca 88 kişinin yaşadığı Vermont kasabası hangisidir?",
+    "choices": [
+      "Burlington",
+      "Stannard",
+      "Montpelier",
+      "Chittenden"
+    ],
+    "correct_index": 1,
+    "explanation": "Sanders burada marangoz, film yapımcısı ve yazar olarak çalıştı; 1970'lerin ortasında daha kalabalık Chittenden İlçesi'ne taşındı.",
+    "topics": [
+      "siyaset"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Bernie Sanders",
+    "kaynak_id": "2011751#12",
+    "kaynak_baslik": "Bernie Sanders"
+  },
+  {
+    "id": "m0153",
+    "mode": "mcq",
+    "prompt": "Chicago Suç Komisyonu 2013'te Joaquín Guzmán'ı \"Bir Numaralı Halk Düşmanı\" ilan etti. Bu unvanı ondan önce en son kim almıştı?",
+    "choices": [
+      "John Dillinger",
+      "Al Capone",
+      "Lucky Luciano",
+      "Pablo Escobar"
+    ],
+    "correct_index": 1,
+    "explanation": "Bu kadar kötü şöhrete sahip son kişi 1930'da Al Capone'du; DEA, Guzmán'ın Escobar'ın erişimini aştığını değerlendiriyordu.",
+    "topics": [
+      "tarih",
+      "toplum"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Joaquín Guzmán",
+    "kaynak_id": "2059374#22",
+    "kaynak_baslik": "Joaquín Guzmán"
+  },
+  {
+    "id": "m0154",
+    "mode": "mcq",
+    "prompt": "Çin'in 2000 yıllık imparatorluk yönetimini sona erdiren Çin Cumhuriyeti'nin ilk başkanı kimdir?",
+    "choices": [
+      "Mao Zedong",
+      "Sun Yat-sen",
+      "Yuan Shikai",
+      "Çan Kay-şek"
+    ],
+    "correct_index": 1,
+    "explanation": "Sun Yat-sen kısa süre sonra çekilince yerine General Yuan Shikai geçti ve diktatörlük eğilimleri gösterdi.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Tayvan",
+    "kaynak_id": "100236#18",
+    "kaynak_baslik": "Tayvan"
+  },
+  {
+    "id": "m0155",
+    "mode": "mcq",
+    "prompt": "1961 Anayasası ile yasama organı hangi iki meclise ayrılmıştır?",
+    "choices": [
+      "TBMM ve Cumhuriyet Senatosu",
+      "TBMM ve Millî Güvenlik Konseyi",
+      "Millet Meclisi ve Ayan Meclisi",
+      "TBMM ve Danışma Meclisi"
+    ],
+    "correct_index": 0,
+    "explanation": "1961 Anayasası kuvvetler ayrılığına geçti, Cumhuriyet Senatosu'nu ve ilk kez Anayasa Mahkemesi'ni kurdu.",
+    "topics": [
+      "siyaset",
+      "tarih"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Anayasa",
+    "kaynak_id": "13677#21",
+    "kaynak_baslik": "Anayasa"
+  },
+  {
+    "id": "m0156",
+    "mode": "mcq",
+    "prompt": "Şişli'nin nüfusu 1987'de hangi ilçenin ayrılmasıyla yarı yarıya düşmüştür?",
+    "choices": [
+      "Kâğıthane",
+      "Beşiktaş",
+      "Sarıyer",
+      "Eyüp"
+    ],
+    "correct_index": 0,
+    "explanation": "1965-1985 arasında ikiye katlanan nüfus, Kâğıthane'nin ayrılmasıyla yarıya indi; 2012'de Ayazağa ve Maslak da ayrıldı.",
+    "topics": [
+      "coğrafya"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Şişli",
+    "kaynak_id": "102933#42",
+    "kaynak_baslik": "Şişli"
+  },
+  {
+    "id": "m0157",
+    "mode": "mcq",
+    "prompt": "Mauritius adası adını kimden almıştır?",
+    "choices": [
+      "Denizci Wybrand van Warwyck",
+      "Fransız valisi Mahé de La Bourdonnais",
+      "Portekizli kâşif Pedro Mascarenhas",
+      "Oranj Beyliği prensi Maurice van Oranje"
+    ],
+    "correct_index": 3,
+    "explanation": "Hollandalı denizciler 1598'de adaya Birleşik Hollanda Cumhuriyeti adına el koyup prens Maurice'in şerefine bu adı verdi.",
+    "topics": [
+      "coğrafya",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Mauritius",
+    "kaynak_id": "16081#15",
+    "kaynak_baslik": "Mauritius"
+  },
+  {
+    "id": "m0158",
+    "mode": "mcq",
+    "prompt": "Bugünkü Orta Afrika Cumhuriyeti'nin bulunduğu bölge, 25 Ocak 1910'da hangi adla ayrı bir sömürge sistemi hâline getirilmiştir?",
+    "choices": [
+      "Fransız Batı Afrikası",
+      "Yeni Kamerun",
+      "Fransız Ekvatoral Afrikası",
+      "Ubangi-Chari"
+    ],
+    "correct_index": 2,
+    "explanation": "Ubangi-Chari 1900'de kurulmuştu; bölge 1910'da Fransız Ekvatoral Afrikası adıyla ayrı bir sömürge sistemi oldu.",
+    "topics": [
+      "tarih",
+      "coğrafya"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Orta Afrika Cumhuriyeti",
+    "kaynak_id": "16922#5",
+    "kaynak_baslik": "Orta Afrika Cumhuriyeti"
+  },
+  {
+    "id": "m0159",
+    "mode": "mcq",
+    "prompt": "Arizona, diğer tüm eyaletlerden fazla bakır üretmesi nedeniyle \"Bakır Devleti\" takma adını hangi yıl kazanmıştır?",
+    "choices": [
+      "1880",
+      "1917",
+      "1907",
+      "1870"
+    ],
+    "correct_index": 2,
+    "explanation": "1880'lerin sonunda Bisbee ve Jerome kamplarıyla yükselen bakır üretimi, 1907'de bu takma adı getirdi.",
+    "topics": [
+      "coğrafya",
+      "ekonomi"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Arizona",
+    "kaynak_id": "17179#11",
+    "kaynak_baslik": "Arizona"
+  },
+  {
+    "id": "m0160",
+    "mode": "mcq",
+    "prompt": "Mihail Gorbaçov, Sovyetler Birliği Komünist Partisi Genel Sekreterliği'ne hangi yıl gelmiştir?",
+    "choices": [
+      "1991",
+      "1990",
+      "1985",
+      "1988"
+    ],
+    "correct_index": 2,
+    "explanation": "1985'te genel sekreter oldu; 1990-1991 arasında Sovyetler Birliği'nin tek devlet başkanı olarak görev yaptı.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 1,
+    "origin": "wiki",
+    "source": "Vikipedi: Mihail Gorbaçov",
+    "kaynak_id": "17716#0",
+    "kaynak_baslik": "Mihail Gorbaçov"
+  },
+  {
+    "id": "m0161",
+    "mode": "mcq",
+    "prompt": "Koçi Bey Risalesi'ne göre 1631'de 9.200 olan acemi mevcudu, 1778 yılında kaça düşmüştür?",
+    "choices": [
+      "6.500",
+      "2.320",
+      "11.127",
+      "345"
+    ],
+    "correct_index": 1,
+    "explanation": "Acemi Ocağı'nın mevcudu 17. yüzyıl başındaki 11 binli rakamlardan 1778'de 2.320'ye gerilemişti.",
+    "topics": [
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Acemi Ocağı",
+    "kaynak_id": "135399#33",
+    "kaynak_baslik": "Acemi Ocağı"
+  },
+  {
+    "id": "m0162",
+    "mode": "mcq",
+    "prompt": "Charles W. M. Hart'ın 1962 tarihli \"Zeytinburnu: Gecekondu Bölgesi\" araştırmasına göre yerel halkın yüzde kaçı yurt dışı doğumluydu?",
+    "choices": [
+      "%25",
+      "%48,7",
+      "%51,8",
+      "%70"
+    ],
+    "correct_index": 2,
+    "explanation": "Yurt dışından gelenlerin çoğu Bulgaristan ve Yugoslavya doğumluydu; %48,7 ise yurt içinden gelenler arasında Karadeniz bölgesinin payıydı.",
+    "topics": [
+      "coğrafya",
+      "toplum"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Zeytinburnu",
+    "kaynak_id": "18475#20",
+    "kaynak_baslik": "Zeytinburnu"
+  },
+  {
+    "id": "m0163",
+    "mode": "mcq",
+    "prompt": "\"Philosophia Perennis\" ifadesini 1540'ta yayımladığı incelemenin başlığında ilk kez kullanan düşünür kimdir?",
+    "choices": [
+      "Marsilio Ficino",
+      "Thomas Aquinas",
+      "Gottfried Leibniz",
+      "Agostino Steuco"
+    ],
+    "correct_index": 3,
+    "explanation": "İfadeyi ilk kullanan Steuco olsa da, ona sistematik anlamını veren ve din-tarih sentezini dahil eden Leibniz oldu.",
+    "topics": [
+      "felsefe"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Perennial felsefe",
+    "kaynak_id": "14819#1",
+    "kaynak_baslik": "Perennial felsefe"
+  },
+  {
+    "id": "m0164",
+    "mode": "mcq",
+    "prompt": "Lee Kuan Yew, 1959'da aralarında Lim Chin Siong'un da bulunduğu kaç solcu lideri siyasi yetkisi olmayan \"parlamento sekreteri\" olarak atamıştır?",
+    "choices": [
+      "Beş",
+      "İki",
+      "Üç",
+      "Sekiz"
+    ],
+    "correct_index": 0,
+    "explanation": "Lee, 1957 parti seçimlerinin ardından konumunu sağlamlaştırmak için bu adımı attı; 1960'ta Lim ile arası açıldı.",
+    "topics": [
+      "siyaset",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Lee Kuan Yew",
+    "kaynak_id": "1360923#31",
+    "kaynak_baslik": "Lee Kuan Yew"
   }
 ]
