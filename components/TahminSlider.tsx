@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 import { SLIDER_MAX, sliderDegerine, kademeye, tahminiYuvarla } from '@/lib/game/scoring';
-import { sayiMetni } from '@/lib/game/format';
+import { sayiCozumle, sayiMetni } from '@/lib/game/format';
 
 interface Props {
 	birim: string;
@@ -19,13 +19,17 @@ export function TahminSlider({ birim, deger, onDegisti }: Props) {
 	}
 
 	function yaziyiBitir() {
-		const sayi = Number(taslak.replace(/\./g, '').replace(',', '.'));
-		if (Number.isFinite(sayi) && sayi > 0) onDegisti(tahminiYuvarla(sayi));
+		// Cozulemeyen metinde onceki tahmin oldugu gibi kalir - kutuyu acip kapatmak
+		// ya da yanlis bir sey yazmak degeri asla baska bir sayiya cevirmez.
+		const sayi = sayiCozumle(taslak);
+		if (sayi !== null) onDegisti(tahminiYuvarla(sayi));
 		setYaziyor(false);
 	}
 
 	return (
 		<div>
+			{/* Kutu acikken kaynak dogru taslak metnidir: oyuncu ne yazdiysa onu gorur,
+			    sayiMetni ozetine ancak kutu kapaninca donulur. */}
 			{yaziyor ? (
 				<input
 					autoFocus
@@ -41,7 +45,9 @@ export function TahminSlider({ birim, deger, onDegisti }: Props) {
 				<button
 					type="button"
 					onClick={() => {
-						setTaslak(String(deger));
+						// Turkce gosterim: kutuda gorulen metin ile sayiCozumle'nin bekledigi
+						// bicim ayni olmali, yoksa acip kapatmak degeri kaydirir.
+						setTaslak(String(deger).replace('.', ','));
 						setYaziyor(true);
 					}}
 					className="text-left text-4xl font-medium"
