@@ -14,39 +14,39 @@
     "answer": 1084170,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Books in the series",
+        "Serideki kitap sayısı",
         "× 7"
       ],
       [
-        "Avg pages per book",
+        "Kitap başına ortalama sayfa",
         "≈ 590"
       ],
       [
-        "Words per page",
+        "Sayfa başına kelime",
         "≈ 260"
       ],
       [
         "7 × 590 × 260",
-        "≈ 1.08 million"
+        "≈ 1,08 milyon"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "There's no single number to grab, so build it up. A big novel runs maybe 150,000 words, and Harry Potter is seven books, a few of them huge.",
+      "lead": "Hazır bir sayı yok, kurarak git. Kalın bir roman 150 bin kelime civarı; Harry Potter yedi kitap ve birkaçı devasa.",
       "rows": [
         [
-          "Words in a big novel",
-          "~150,000"
+          "Kalın bir romanda kelime",
+          "~150.000"
         ],
         [
-          "Books in the series",
+          "Serideki kitap",
           "× 7"
         ],
         [
-          "150k × 7",
-          "≈ 1 million"
+          "150 bin × 7",
+          "≈ 1 milyon"
         ]
       ]
     }
@@ -66,42 +66,41 @@
     "answer": 75000000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Restaurants worldwide",
-        "≈ 40,000"
+        "Dünya genelinde şube",
+        "≈ 40.000"
       ],
       [
-        "Customers per restaurant per day",
-        "× 1,600"
+        "Şube başına günlük müşteri",
+        "× 1.600"
       ],
       [
-        "Burgers per customer (avg.)",
-        "× 1.2"
+        "Müşteri başına hamburger",
+        "× 1,2"
       ],
       [
-        "40,000 × 1,600 × 1.2",
-        "≈ 75 million"
+        "40.000 × 1.600 × 1,2",
+        "≈ 75 milyon"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Start with McDonald's restaurants, something like 40,000 worldwide. How many burgers does one sell in a day? It's a busy place, so call it a couple thousand.",
+      "lead": "McDonald's şubelerinden başla: dünyada 40 bin kadar var. Bir şube günde kaç hamburger satar? Yoğun bir yer, birkaç bin de.",
       "rows": [
         [
-          "Restaurants worldwide",
-          "~40,000"
+          "Dünyada şube",
+          "~40.000"
         ],
         [
-          "Burgers per store per day",
-          "~2,000"
+          "Şube başına günlük hamburger",
+          "~2.000"
         ],
         [
-          "40,000 × 2,000",
-          "≈ 80 million"
+          "40.000 × 2.000",
+          "≈ 80 milyon"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -118,42 +117,41 @@
     "answer": 66000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Daily active users",
-        "≈ 2 billion"
+        "Günlük aktif kullanıcı",
+        "≈ 2 milyar"
       ],
       [
-        "Posts per active user per day",
-        "× 0.05"
+        "Kullanıcı başına günlük paylaşım",
+        "× 0,05"
       ],
       [
-        "Posts per day",
-        "≈ 95 million"
+        "Günlük paylaşım",
+        "≈ 95 milyon"
       ],
       [
-        "÷ 1,440 minutes",
-        "≈ 66,000"
+        "÷ 1.440 dakika",
+        "≈ 66.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Instagram has around 2 billion users. How many post a photo on a given day? Not most of them, maybe 1 in 20. Spread that across the 1,440 minutes in a day.",
+      "lead": "Instagram'ın 2 milyar kadar kullanıcısı var. Bugün kaçı fotoğraf paylaşır? Çoğu değil, belki 20'de biri. Bunu günün 1.440 dakikasına yay.",
       "rows": [
         [
-          "Instagram users",
-          "2,000,000,000"
+          "Instagram kullanıcısı",
+          "2 milyar"
         ],
         [
-          "Post a photo today",
-          "~1 in 20"
+          "Bugün fotoğraf paylaşan",
+          "~20'de 1"
         ],
         [
-          "100M/day ÷ 1,440",
-          "≈ 70,000"
+          "100 milyon ÷ 1.440",
+          "≈ 70.000"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -171,65 +169,47 @@
     "answer": 56000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Interior volume (VW Golf, seats folded)",
-        "≈ 126.4 ft³ (3,580 L)"
+        "Golf'ün iç hacmi (koltuklar yatık)",
+        "≈ 3.580 litre"
       ],
       [
-        "Volume of one golf ball",
-        "≈ 40.7 cm³"
+        "Bir golf topunun hacmi",
+        "≈ 40,7 cm³"
       ],
       [
-        "Packing efficiency (random)",
-        "× 0.64"
+        "Doldurma verimi (rastgele)",
+        "× 0,64"
       ],
       [
-        "3,580,000 ÷ 40.7 × 0.64",
-        "≈ 56,000"
+        "3.580.000 ÷ 40,7 × 0,64",
+        "≈ 56.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "Picture filling the whole inside of the car with the seats folded, roughly 3,500 liters. A golf ball is small, but the gaps around it are wasted space. How many fit in a liter? Maybe 15.",
+      "lead": "Koltukları yatırılmış arabanın içini tamamen doldurduğunu düşün: kabaca 3.500 litre. Golf topu küçük ama aralarındaki boşluklar ziyan oluyor. Bir litreye kaç tane sığar? Belki 15.",
       "rows": [
         [
-          "Car interior",
-          "~3,500 L"
+          "Araba iç hacmi",
+          "~3.500 L"
         ],
         [
-          "Golf balls per liter",
+          "Litre başına golf topu",
           "× 15"
         ],
         [
-          "3,500 × 15",
-          "≈ 52,500"
+          "3.500 × 15",
+          "≈ 52.500"
         ]
-      ],
-      "system": "metric",
-      "alt": {
-        "lead": "Picture filling the whole inside of the car with the seats folded, roughly 130 cubic feet. How many golf balls fit in one cubic foot once you count the gaps? Maybe 400.",
-        "rows": [
-          [
-            "Car interior",
-            "~130 ft³"
-          ],
-          [
-            "Golf balls per cubic foot",
-            "× 400"
-          ],
-          [
-            "130 × 400",
-            "≈ 52,000"
-          ]
-        ]
-      }
+      ]
     }
   },
   {
     "id": "f0005",
     "mode": "fermi",
-    "prompt": "Ortalama bir insan ömrü boyunca kalp kaç kez atar?",
+    "prompt": "60 yıllık bir ömür boyunca kalp kaç kez atar?",
     "unit": "atış",
     "topics": [
       "insan",
@@ -241,46 +221,45 @@
     "answer": 2300000000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Life expectancy at birth, Mali",
-        "≈ 60 years"
+        "Ömür",
+        "60 yıl"
       ],
       [
-        "Minutes in a year",
-        "× 525,600"
+        "Yıldaki dakika",
+        "× 525.600"
       ],
       [
-        "Avg resting heart rate",
-        "× 72 bpm"
+        "Dakikada atım",
+        "× 72"
       ],
       [
-        "60 × 525,600 × 72",
-        "≈ 2.3 billion"
+        "60 × 525.600 × 72",
+        "≈ 2,3 milyar"
       ]
     ],
-    "_napkin_en": {
-      "type": "anchor",
-      "lead": "Start with life expectancy in Mali, around 60 years, well short of the world average. Your heart beats about 70 times a minute, and there are roughly 500,000 minutes in a year.",
+    "napkin": {
+      "type": "chain",
+      "lead": "Kalbin dakikada yaklaşık 70 kez atıyor ve bir yılda kabaca 500 bin dakika var. Gerisi çarpma.",
       "rows": [
         [
-          "Life expectancy in Mali",
-          "≈ 60 years"
+          "Yıldaki dakika",
+          "525.600"
         ],
         [
-          "Minutes in a year",
-          "× 525,600"
-        ],
-        [
-          "Beats per minute",
+          "Dakikada atım",
           "× 70"
         ],
         [
-          "60 × 525k × 70",
-          "≈ 2.2 billion"
+          "Yılda",
+          "≈ 37 milyon"
+        ],
+        [
+          "× 60 yıl",
+          "≈ 2,2 milyar"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -298,57 +277,37 @@
     "answer": 4940,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Football field length",
-        "= 360 ft = 4,320 in"
+        "Amerikan futbolu sahası",
+        "110 m = 11.000 cm"
       ],
       [
-        "Width of one white piano key",
-        "≈ 7/8 in"
+        "Bir beyaz tuşun genişliği",
+        "≈ 2,22 cm"
       ],
       [
-        "4,320 ÷ 0.875",
-        "≈ 4,940"
+        "11.000 ÷ 2,22",
+        "≈ 4.940"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "A football field with the end zones is 120 yards, which is 360 feet or about 4,300 inches. How wide is a piano key? Roughly an inch, so it's nearly one key per inch.",
+      "lead": "Kale alanlarıyla birlikte saha 110 metre, yani 11 bin santim. Piyano tuşu ne kadar geniş? İki santimi biraz geçiyor.",
       "rows": [
         [
-          "Field length",
-          "~4,300 in"
+          "Saha boyu",
+          "~11.000 cm"
         ],
         [
-          "Width of a key",
-          "~1 in"
+          "Tuş genişliği",
+          "~2,2 cm"
         ],
         [
-          "4,300 ÷ 1",
-          "≈ 4,300"
+          "11.000 ÷ 2,2",
+          "≈ 5.000"
         ]
-      ],
-      "startRow": 0,
-      "system": "imperial",
-      "alt": {
-        "lead": "A football field with the end zones is about 110 meters, which is 11,000 centimeters. How wide is a piano key? Call it 2.5 centimeters.",
-        "rows": [
-          [
-            "Field length",
-            "~11,000 cm"
-          ],
-          [
-            "Width of a key",
-            "~2.5 cm"
-          ],
-          [
-            "11,000 ÷ 2.5",
-            "≈ 4,400"
-          ]
-        ],
-        "startRow": 0
-      }
+      ]
     }
   },
   {
@@ -366,55 +325,37 @@
     "answer": 5700,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Average adult mass",
+        "Ortalama yetişkin kütlesi",
         "≈ 80 kg"
       ],
       [
-        "Lift per 11\" helium balloon",
+        "28 cm'lik helyum balonun kaldırdığı",
         "≈ 14 g"
       ],
       [
-        "80,000 ÷ 14",
-        "≈ 5,700"
+        "80.000 ÷ 14",
+        "≈ 5.700"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "An adult weighs around 80 kilograms, which is 80,000 grams. How much can one party balloon lift? Barely anything, only about 14 grams. So you need a balloon for every 14 grams.",
+      "lead": "Yetişkin 80 kilo, yani 80 bin gram. Bir parti balonu ne kaldırır? Neredeyse hiç — 14 gram kadar. Yani her 14 gram için bir balon gerekiyor.",
       "rows": [
         [
-          "Adult weight",
-          "80,000 g"
+          "Yetişkin ağırlığı",
+          "80.000 g"
         ],
         [
-          "Lift per balloon",
+          "Balon başına kaldırma",
           "~14 g"
         ],
         [
-          "80,000 ÷ 14",
-          "≈ 5,700"
+          "80.000 ÷ 14",
+          "≈ 5.700"
         ]
-      ],
-      "system": "metric",
-      "alt": {
-        "lead": "An adult weighs around 175 pounds, which is 2,800 ounces. How much can one party balloon lift? Barely anything, about half an ounce. So you need a balloon for every half ounce.",
-        "rows": [
-          [
-            "Adult weight",
-            "2,800 oz"
-          ],
-          [
-            "Lift per balloon",
-            "~0.5 oz"
-          ],
-          [
-            "2,800 ÷ 0.5",
-            "≈ 5,600"
-          ]
-        ]
-      }
+      ]
     }
   },
   {
@@ -432,59 +373,41 @@
     "answer": 164000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "School bus interior",
-        "≈ 40 m³ = 40,000 L"
+        "Okul otobüsü iç hacmi",
+        "≈ 40 m³ = 40.000 litre"
       ],
       [
-        "Volume of one tennis ball",
+        "Bir tenis topunun hacmi",
         "≈ 156 cm³"
       ],
       [
-        "Packing efficiency (random)",
-        "× 0.64"
+        "Doldurma verimi",
+        "× 0,64"
       ],
       [
-        "40,000,000 ÷ 156 × 0.64",
-        "≈ 164,000"
+        "40.000.000 ÷ 156 × 0,64",
+        "≈ 164.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "A school bus is big inside, roughly 40 cubic meters, which is 40,000 liters. How many tennis balls fit in a liter once packed? About 4. Multiply it out.",
+      "lead": "Okul otobüsünün içi geniş: kabaca 40 metreküp, yani 40 bin litre. Sıkıştırınca bir litreye kaç tenis topu girer? Dört kadar.",
       "rows": [
         [
-          "Bus interior",
-          "40,000 L"
+          "Otobüs iç hacmi",
+          "40.000 L"
         ],
         [
-          "Tennis balls per liter",
+          "Litre başına tenis topu",
           "× 4"
         ],
         [
-          "40,000 × 4",
-          "≈ 160,000"
+          "40.000 × 4",
+          "≈ 160.000"
         ]
-      ],
-      "system": "metric",
-      "alt": {
-        "lead": "A school bus is big inside, roughly 1,400 cubic feet. How many tennis balls fit in a cubic foot once packed? Call it 110. Multiply it out.",
-        "rows": [
-          [
-            "Bus interior",
-            "~1,400 ft³"
-          ],
-          [
-            "Tennis balls per cubic foot",
-            "× 110"
-          ],
-          [
-            "1,400 × 110",
-            "≈ 150,000"
-          ]
-        ]
-      }
+      ]
     }
   },
   {
@@ -501,38 +424,37 @@
     "answer": 150000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Minutes in a year",
-        "≈ 525,600"
+        "Yıldaki dakika",
+        "≈ 525.600"
       ],
       [
-        "Average song length",
-        "÷ 3.5 min"
+        "Ortalama şarkı süresi",
+        "÷ 3,5 dakika"
       ],
       [
-        "525,600 ÷ 3.5",
-        "≈ 150,000"
+        "525.600 ÷ 3,5",
+        "≈ 150.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Start with the minutes in a year, about 525,600. How long is the average song? Maybe three and a half minutes. Divide one into the other.",
+      "lead": "Yıldaki dakikadan başla: 525.600. Ortalama bir şarkı kaç dakika? Üç buçuk civarı. Birini diğerine böl.",
       "rows": [
         [
-          "Minutes in a year",
-          "525,600"
+          "Yıldaki dakika",
+          "525.600"
         ],
         [
-          "Minutes per song",
-          "÷ 3.5"
+          "Şarkı başına dakika",
+          "÷ 3,5"
         ],
         [
-          "525,600 ÷ 3.5",
-          "≈ 150,000"
+          "525.600 ÷ 3,5",
+          "≈ 150.000"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -549,35 +471,35 @@
     "answer": 1150000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Commercial flights airborne",
-        "≈ 9,500"
+        "Havadaki ticari uçuş",
+        "≈ 9.500"
       ],
       [
-        "Average passengers per flight",
+        "Uçuş başına ortalama yolcu",
         "× 135"
       ],
       [
-        "9,500 × 135",
-        "≈ 1.3 million"
+        "9.500 × 135",
+        "≈ 1,3 milyon"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "No single number to grab, so build it. Picture the flight-tracker map, maybe 10,000 planes in the air at once. Each one holds around 130 people.",
+      "lead": "Hazır sayı yok, kur. Uçuş takip haritasını gözünde canlandır: aynı anda belki 10 bin uçak havada. Her biri 130 kişi taşıyor.",
       "rows": [
         [
-          "Planes airborne",
-          "~10,000"
+          "Havadaki uçak",
+          "~10.000"
         ],
         [
-          "People per plane",
+          "Uçak başına kişi",
           "× 130"
         ],
         [
-          "10,000 × 130",
-          "≈ 1.3 million"
+          "10.000 × 130",
+          "≈ 1,3 milyon"
         ]
       ]
     }
@@ -597,67 +519,45 @@
     "answer": 1820,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Queen mattress area",
-        "60 × 80 = 4,800 in²"
+        "Çift kişilik yatak alanı",
+        "152 × 203 = 30.856 cm²"
       ],
       [
-        "Area of one Oreo",
-        "≈ 2.4 in²"
+        "Bir Oreo'nun alanı",
+        "≈ 15,5 cm²"
       ],
       [
-        "Hexagonal packing efficiency",
-        "× 0.91"
+        "Altıgen dizilim verimi",
+        "× 0,91"
       ],
       [
-        "4,800 ÷ 2.4 × 0.91",
-        "≈ 1,820"
+        "30.856 ÷ 15,5 × 0,91",
+        "≈ 1.820"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "A queen bed is about 60 by 80 inches, roughly 4,800 square inches. An Oreo is around 1.75 inches across, covering maybe 2.4 square inches. Tuck them together to close the gaps.",
+      "lead": "Çift kişilik yatak kabaca 150 × 200 santim, yani 30 bin santimetrekare. Oreo'nun çapı 4,5 santim, alanı 15 santimetrekare kadar. Aralarını sıkıştırıp boşluğu kapat.",
       "rows": [
         [
-          "Bed area",
-          "4,800 in²"
+          "Yatak alanı",
+          "30.000 cm²"
         ],
         [
-          "Area of an Oreo",
-          "~2.4 in²"
+          "Bir Oreo'nun alanı",
+          "~15 cm²"
         ],
         [
-          "Tucked together",
-          "× 0.9"
+          "Sıkıştırılmış dizilim",
+          "× 0,9"
         ],
         [
-          "4,800 ÷ 2.4 × 0.9",
-          "≈ 1,800"
+          "30.000 ÷ 15 × 0,9",
+          "≈ 1.800"
         ]
-      ],
-      "system": "imperial",
-      "alt": {
-        "lead": "A queen bed is about 150 by 200 centimeters, roughly 30,000 square centimeters. An Oreo is around 4.5 centimeters across, covering maybe 15 square centimeters. Tuck them together to close the gaps.",
-        "rows": [
-          [
-            "Bed area",
-            "30,000 cm²"
-          ],
-          [
-            "Area of an Oreo",
-            "~15 cm²"
-          ],
-          [
-            "Tucked together",
-            "× 0.9"
-          ],
-          [
-            "30,000 ÷ 15 × 0.9",
-            "≈ 1,800"
-          ]
-        ]
-      }
+      ]
     }
   },
   {
@@ -675,59 +575,37 @@
     "answer": 1360,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Doubles court area",
-        "78 × 36 = 2,808 ft²"
+        "Çiftler kortu alanı",
+        "23,8 × 11 ≈ 261 m²"
       ],
       [
-        "Convert to in²",
-        "× 144 = 404,352 in²"
+        "Raketin kapladığı alan",
+        "≈ 70 × 28 cm = 0,196 m²"
       ],
       [
-        "Racket footprint",
-        "≈ 27 × 11 = 297 in²"
-      ],
-      [
-        "404,352 ÷ 297",
-        "≈ 1,360"
+        "261 ÷ 0,196",
+        "≈ 1.360"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "A doubles tennis court is about 78 by 36 feet, roughly 2,800 square feet. How much does one racket cover? Maybe 2 square feet. Divide and you land close.",
+      "lead": "Çiftler kortu yaklaşık 24 × 11 metre, yani 260 metrekare. Bir raket ne kadar yer kaplar? Beşte bir metrekare civarı.",
       "rows": [
         [
-          "Court area",
-          "~2,800 ft²"
+          "Kort alanı",
+          "~260 m²"
         ],
         [
-          "Racket footprint",
-          "~2 ft²"
+          "Raketin alanı",
+          "~0,2 m²"
         ],
         [
-          "2,800 ÷ 2",
-          "≈ 1,400"
+          "260 ÷ 0,2",
+          "≈ 1.300"
         ]
-      ],
-      "system": "imperial",
-      "alt": {
-        "lead": "A doubles tennis court is about 24 by 11 meters, roughly 260 square meters. How much does one racket cover? Maybe a fifth of a square meter. Divide and you land close.",
-        "rows": [
-          [
-            "Court area",
-            "~260 m²"
-          ],
-          [
-            "Racket footprint",
-            "~0.2 m²"
-          ],
-          [
-            "260 ÷ 0.2",
-            "≈ 1,300"
-          ]
-        ]
-      }
+      ]
     }
   },
   {
@@ -745,71 +623,45 @@
     "answer": 1490,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "NBA court area",
-        "94 × 50 = 4,700 ft²"
+        "NBA sahası",
+        "28,7 × 15,2 ≈ 437 m²"
       ],
       [
-        "Convert to in²",
-        "× 144 = 676,800 in²"
+        "Bir kartın alanı",
+        "6,35 × 8,9 = 56,5 cm²"
       ],
       [
-        "Card area",
-        "2.5 × 3.5 = 8.75 in²"
+        "Gereken kart",
+        "≈ 77.300"
       ],
       [
-        "Cards needed",
-        "≈ 77,300"
-      ],
-      [
-        "÷ 52 per deck",
-        "≈ 1,490"
+        "÷ deste başına 52",
+        "≈ 1.490"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "An NBA court is 94 by 50 feet, close to 677,000 square inches. A playing card covers about 9 square inches, so that's roughly 75,000 cards. A deck holds 52.",
+      "lead": "NBA sahası 29 × 15 metre, yani 437 metrekare. Bir oyun kâğıdı 57 santimetrekare kaplıyor — metrekareye 175 kart düşüyor. Deste ise 52 kart.",
       "rows": [
         [
-          "Court area",
-          "677,000 in²"
+          "Saha alanı",
+          "437 m²"
         ],
         [
-          "Area of a card",
-          "÷ 9 in²"
+          "Metrekareye kart",
+          "× 175"
         ],
         [
-          "Cards needed",
-          "~75,000"
+          "Gereken kart",
+          "~76.000"
         ],
         [
-          "÷ 52 per deck",
-          "≈ 1,450"
+          "÷ 52",
+          "≈ 1.470"
         ]
-      ],
-      "system": "imperial",
-      "alt": {
-        "lead": "An NBA court is about 29 by 15 meters, close to 4.4 million square centimeters. A playing card covers about 60 square centimeters, so that's roughly 73,000 cards. A deck holds 52.",
-        "rows": [
-          [
-            "Court area",
-            "~4,400,000 cm²"
-          ],
-          [
-            "Area of a card",
-            "÷ 60 cm²"
-          ],
-          [
-            "Cards needed",
-            "~73,000"
-          ],
-          [
-            "÷ 52 per deck",
-            "≈ 1,400"
-          ]
-        ]
-      }
+      ]
     }
   },
   {
@@ -827,55 +679,37 @@
     "answer": 925,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Driving distance NYC → LA",
-        "≈ 2,790 mi"
+        "New York → Los Angeles karayolu",
+        "≈ 4.490 km"
       ],
       [
-        "Walking pace",
-        "÷ 3 mph"
+        "Yürüme hızı",
+        "÷ 4,85 km/sa"
       ],
       [
-        "2,790 ÷ 3",
-        "≈ 925 hours (~39 days)"
+        "4.490 ÷ 4,85",
+        "≈ 925 saat (~39 gün)"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "The US is roughly 3,000 miles coast to coast, and the drive lands around 2,800. How fast do you walk? Maybe 3 miles an hour.",
+      "lead": "ABD bir kıyıdan diğerine 4.800 kilometre kadar; karayolu 4.500 civarında kalıyor. Ne hızda yürürsün? Saatte 5 kilometre.",
       "rows": [
         [
-          "NYC to LA distance",
-          "~2,800 mi"
+          "New York - Los Angeles",
+          "~4.500 km"
         ],
         [
-          "Walking pace",
-          "÷ 3 mph"
+          "Yürüme hızı",
+          "÷ 5 km/sa"
         ],
         [
-          "2,800 ÷ 3",
-          "≈ 930 hours"
+          "4.500 ÷ 5",
+          "≈ 900 saat"
         ]
-      ],
-      "system": "imperial",
-      "alt": {
-        "lead": "The US is roughly 4,500 kilometers coast to coast by road. How fast do you walk? Maybe 5 kilometers an hour.",
-        "rows": [
-          [
-            "NYC to LA distance",
-            "~4,500 km"
-          ],
-          [
-            "Walking pace",
-            "÷ 5 km/h"
-          ],
-          [
-            "4,500 ÷ 5",
-            "≈ 900 hours"
-          ]
-        ]
-      }
+      ]
     }
   },
   {
@@ -893,57 +727,37 @@
     "answer": 2300000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Olympic pool volume",
-        "≈ 660,000 gal"
+        "Olimpik havuz hacmi",
+        "≈ 2.500.000 litre"
       ],
       [
-        "Retail price of 2% milk",
-        "× $3.50/gal"
+        "Sütün litre fiyatı",
+        "× 0,92 dolar"
       ],
       [
-        "660,000 × 3.50",
-        "≈ $2.3 million"
+        "2.500.000 × 0,92",
+        "≈ 2,3 milyon dolar"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "An Olympic pool is huge, about 2.5 million liters, which is roughly 660,000 gallons. What does milk cost? Maybe 4 dollars a gallon.",
+      "lead": "Olimpik havuz devasa: 2,5 milyon litre. Sütün litresi kaç dolar? Bir doların biraz altında.",
       "rows": [
         [
-          "Pool volume",
-          "~660,000 gal"
+          "Havuz hacmi",
+          "2.500.000 L"
         ],
         [
-          "Price per gallon",
-          "× $4"
+          "Litre fiyatı",
+          "× ~1 dolar"
         ],
         [
-          "660,000 × 4",
-          "≈ $2.6 million"
+          "Çarpım",
+          "≈ 2,5 milyon dolar"
         ]
-      ],
-      "startRow": 0,
-      "system": "imperial",
-      "alt": {
-        "lead": "An Olympic pool is huge, about 2.5 million liters. What does milk cost? Maybe a dollar a liter.",
-        "rows": [
-          [
-            "Pool volume",
-            "~2,500,000 L"
-          ],
-          [
-            "Price per liter",
-            "× $1"
-          ],
-          [
-            "2,500,000 × 1",
-            "≈ $2.5 million"
-          ]
-        ],
-        "startRow": 0
-      }
+      ]
     }
   },
   {
@@ -962,55 +776,37 @@
     "origin": "translated",
     "verified_at": "2026-08",
     "donusum": "358 feet (feet -> metre)",
-    "_math_en": [
+    "math": [
       [
-        "Thickness of one bill",
-        "≈ 0.0043 in"
+        "Bir banknotun kalınlığı",
+        "≈ 0,11 mm"
       ],
       [
-        "1,000,000 × 0.0043",
-        "= 4,300 in"
+        "1.000.000 × 0,11 mm",
+        "= 110.000 mm"
       ],
       [
-        "Convert to ft",
-        "÷ 12 ≈ 358"
+        "Metreye çevir",
+        "= 110 m"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "How thick is a single bill? Really thin, maybe a tenth of a millimeter. Stack a million of them and it adds up fast.",
+      "lead": "Tek bir banknot ne kadar kalın? Çok ince — onda bir milimetre kadar. Ama bir milyon tanesi hızla birikiyor.",
       "rows": [
         [
-          "Bill thickness",
-          "~0.1 mm"
+          "Banknot kalınlığı",
+          "~0,1 mm"
         ],
         [
-          "× 1,000,000 bills",
+          "× 1.000.000 adet",
+          "= 100.000 mm"
+        ],
+        [
+          "Metreye çevir",
           "= 100 m"
-        ],
-        [
-          "In feet",
-          "≈ 350 ft"
         ]
-      ],
-      "system": "imperial",
-      "alt": {
-        "lead": "How thick is a single bill? Really thin, maybe a tenth of a millimeter. Stack a million of them and it adds up fast.",
-        "rows": [
-          [
-            "Bill thickness",
-            "~0.1 mm"
-          ],
-          [
-            "× 1,000,000 bills",
-            "= 100,000 mm"
-          ],
-          [
-            "In meters",
-            "≈ 100 m"
-          ]
-        ]
-      }
+      ]
     }
   },
   {
@@ -1029,63 +825,45 @@
     "origin": "translated",
     "verified_at": "2026-08",
     "donusum": "470 feet (feet -> metre)",
-    "_math_en": [
+    "math": [
       [
-        "Strand mass",
-        "≈ 0.8 g"
+        "Bir telin ağırlığı",
+        "≈ 0,8 g"
       ],
       [
-        "Box mass (16 oz)",
+        "Paket ağırlığı",
         "= 454 g"
       ],
       [
-        "Strands per box",
+        "Paketteki tel sayısı",
         "≈ 567"
       ],
       [
-        "Strand length",
-        "× 10 in"
+        "Tel uzunluğu",
+        "× 25,4 cm"
       ],
       [
-        "Total ÷ 12",
-        "≈ 470 ft"
+        "Toplam",
+        "≈ 144 m"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "A box feeds a handful of people, so figure maybe 550 strands. How long is one dry strand? About 10 inches.",
+      "lead": "Bir paket birkaç kişiyi doyurur; 550 tel civarı say. Kuru bir tel ne kadar uzun? 25 santim.",
       "rows": [
         [
-          "Strands in a box",
+          "Paketteki tel",
           "~550"
         ],
         [
-          "Length each",
-          "× 10 in"
+          "Tel başına uzunluk",
+          "× 25 cm"
         ],
         [
-          "5,500 in ÷ 12",
-          "≈ 460 ft"
+          "13.750 cm",
+          "≈ 140 m"
         ]
-      ],
-      "system": "imperial",
-      "alt": {
-        "lead": "A box feeds a handful of people, so figure maybe 550 strands. How long is one dry strand? About 25 centimeters.",
-        "rows": [
-          [
-            "Strands in a box",
-            "~550"
-          ],
-          [
-            "Length each",
-            "× 25 cm"
-          ],
-          [
-            "13,750 cm",
-            "≈ 140 m"
-          ]
-        ]
-      }
+      ]
     }
   },
   {
@@ -1103,42 +881,41 @@
     "answer": 296,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Total episodes aired (through Feb 2026)",
+        "Yayımlanan toplam bölüm",
         "≈ 808"
       ],
       [
-        "Avg runtime (no ads)",
-        "× 22 min"
+        "Reklamsız ortalama süre",
+        "× 22 dakika"
       ],
       [
         "808 × 22 ÷ 60",
-        "≈ 296 hours (~12.3 days)"
+        "≈ 296 saat (~12,3 gün)"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "The Simpsons has run since the late 80s, so call it about 36 years. Roughly 22 episodes a season, each about 22 minutes without ads.",
+      "lead": "Simpsonlar 80'lerin sonundan beri yayında, yani 36 yıl kadar. Sezon başına 22 bölüm, her biri reklamsız 22 dakika.",
       "rows": [
         [
-          "Years on air",
+          "Yayın yılı",
           "~36"
         ],
         [
-          "Episodes per year",
+          "Yılda bölüm",
           "× 22"
         ],
         [
-          "Minutes each",
+          "Bölüm başına dakika",
           "× 22"
         ],
         [
           "÷ 60",
-          "≈ 290 hours"
+          "≈ 290 saat"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -1157,55 +934,37 @@
     "origin": "translated",
     "verified_at": "2026-08",
     "donusum": "25 miles (mil -> kilometre)",
-    "_math_en": [
+    "math": [
       [
-        "Avg scroll per day",
-        "≈ 300 ft"
+        "Günlük kaydırma",
+        "≈ 110 m"
       ],
       [
-        "× 365 days",
-        "= 109,500 ft"
+        "× 365 gün",
+        "= 40.150 m"
       ],
       [
-        "÷ 5,280 ft/mi",
-        "≈ 25 miles"
+        "Kilometreye çevir",
+        "≈ 40 km"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "How far do you scroll in a day? Hard to picture, but say a few hundred feet of thumb travel. Stack up a full year of that.",
+      "lead": "Günde ne kadar kaydırıyorsun? Gözde canlandırması zor, ama başparmağın yüz metre kadar yol alıyor de. Bunu bir yıla yay.",
       "rows": [
         [
-          "Scroll per day",
-          "~300 ft"
+          "Günlük kaydırma",
+          "~110 m"
         ],
         [
-          "× 365 days",
-          "≈ 110,000 ft"
+          "× 365 gün",
+          "≈ 40.000 m"
         ],
         [
-          "÷ 5,280 ft/mi",
-          "≈ 20 miles"
+          "Kilometreye çevir",
+          "≈ 40 km"
         ]
-      ],
-      "system": "imperial",
-      "alt": {
-        "lead": "How far do you scroll in a day? Hard to picture, but say around 100 meters of thumb travel. Stack up a full year of that.",
-        "rows": [
-          [
-            "Scroll per day",
-            "~100 m"
-          ],
-          [
-            "× 365 days",
-            "≈ 36,500 m"
-          ],
-          [
-            "In kilometers",
-            "≈ 37 km"
-          ]
-        ]
-      }
+      ]
     }
   },
   {
@@ -1219,62 +978,45 @@
     "difficulty": 1,
     "source": "Charmin / Cottonelle standard roll spec",
     "kaynak_soru": "q24",
-    "answer": 150,
+    "answer": 46,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "donusum": "150 feet (feet -> metre)",
+    "math": [
       [
-        "Sheets per standard roll",
+        "Standart ruloda yaprak",
         "≈ 450"
       ],
       [
-        "Sheet length",
-        "× 4 in"
+        "Yaprak uzunluğu",
+        "× 10,2 cm"
       ],
       [
-        "Total in",
-        "= 1,800"
+        "Toplam",
+        "= 4.590 cm"
       ],
       [
-        "÷ 12",
-        "= 150 ft"
+        "Metreye çevir",
+        "≈ 46 m"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "A roll has a few hundred sheets, call it 400. How long is one sheet? About 4 inches, roughly square with the width of the roll.",
+      "lead": "Bir ruloda birkaç yüz yaprak var, 400 de. Bir yaprak ne kadar uzun? 10 santim kadar — rulonun eniyle hemen hemen kare.",
       "rows": [
         [
-          "Sheets per roll",
+          "Rulodaki yaprak",
           "~400"
         ],
         [
-          "Length each",
-          "× 4 in"
+          "Yaprak uzunluğu",
+          "× 10 cm"
         ],
         [
-          "1,600 in ÷ 12",
-          "≈ 130 ft"
+          "4.000 cm",
+          "≈ 40 m"
         ]
-      ],
-      "system": "imperial",
-      "alt": {
-        "lead": "A roll has a few hundred sheets, call it 400. How long is one sheet? About 10 centimeters, roughly square with the width of the roll.",
-        "rows": [
-          [
-            "Sheets per roll",
-            "~400"
-          ],
-          [
-            "Length each",
-            "× 10 cm"
-          ],
-          [
-            "4,000 cm",
-            "≈ 40 m"
-          ]
-        ]
-      }
+      ]
     }
   },
   {
@@ -1292,55 +1034,37 @@
     "origin": "translated",
     "verified_at": "2026-08",
     "donusum": "5500 miles (mil -> kilometre)",
-    "_math_en": [
+    "math": [
       [
-        "Trips per cart per day",
+        "Araba başına günlük tur",
         "≈ 30"
       ],
       [
-        "Distance per trip in store",
-        "× 0.5 mi"
+        "Tur başına mağaza içi mesafe",
+        "× 0,8 km"
       ],
       [
-        "× 365 days",
-        "≈ 5,500"
+        "× 365 gün",
+        "≈ 8.800 km"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "How many shoppers use one cart in a day? A busy store cycles it maybe 30 times. Each loop through the aisles is about half a mile.",
+      "lead": "Bir arabayı günde kaç müşteri kullanır? Yoğun bir markette 30 kez dönüyor. Her tur reyonlar arasında 800 metre.",
       "rows": [
         [
-          "Trips per day",
+          "Günlük tur",
           "~30"
         ],
         [
-          "Miles per trip",
-          "× 0.5"
+          "Tur başına mesafe",
+          "× 0,8 km"
         ],
         [
-          "× 365 days",
-          "≈ 5,500"
+          "× 365 gün",
+          "≈ 8.800 km"
         ]
-      ],
-      "system": "imperial",
-      "alt": {
-        "lead": "How many shoppers use one cart in a day? A busy store cycles it maybe 30 times. Each loop through the aisles is about 800 meters.",
-        "rows": [
-          [
-            "Trips per day",
-            "~30"
-          ],
-          [
-            "Kilometers per trip",
-            "× 0.8"
-          ],
-          [
-            "× 365 days",
-            "≈ 8,800"
-          ]
-        ]
-      }
+      ]
     }
   },
   {
@@ -1357,35 +1081,35 @@
     "answer": 620,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Beatles studio tracks",
+        "Beatles stüdyo şarkısı",
         "≈ 213"
       ],
       [
-        "Avg track length",
-        "× 2:45"
+        "Ortalama şarkı süresi",
+        "× 2 dk 45 sn"
       ],
       [
-        "213 × 2.75 ÷ 60",
-        "≈ 10 hours"
+        "213 × 2,75",
+        "≈ 590 dakika"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "The Beatles released 12 studio albums. Call it about 16 songs each, so roughly 200 songs total. How long is each one? Short by today's standards, maybe 3 minutes.",
+      "lead": "Beatles 12 stüdyo albümü çıkardı. Her birinde 16 şarkı say, yani 200 civarı. Süreler bugüne göre kısa — 3 dakika.",
       "rows": [
         [
-          "Beatles songs",
+          "Beatles şarkısı",
           "~200"
         ],
         [
-          "Minutes each",
+          "Şarkı başına dakika",
           "× 3"
         ],
         [
           "200 × 3",
-          "≈ 600 min, about 10 hours"
+          "≈ 600 dakika, yaklaşık 10 saat"
         ]
       ]
     }
@@ -1405,67 +1129,45 @@
     "answer": 7700,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Basketball interior (size 7)",
-        "≈ 7,240 cm³"
+        "Basketbol topu iç hacmi (7 numara)",
+        "≈ 7.240 cm³"
       ],
       [
-        "Volume of one M&M",
-        "÷ 0.64 cm³"
+        "Bir M&M'in hacmi",
+        "÷ 0,64 cm³"
       ],
       [
-        "Packing efficiency (oblate)",
-        "× 0.68"
+        "Doldurma verimi (yassı)",
+        "× 0,68"
       ],
       [
-        "7,240 ÷ 0.64 × 0.68",
-        "≈ 7,700"
+        "7.240 ÷ 0,64 × 0,68",
+        "≈ 7.700"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "A basketball holds about 7 liters inside. An M&M is tiny, under a cubic centimeter. Knock off about a third for the gaps between them.",
+      "lead": "Basketbol topunun içi 7 litre kadar. M&M küçücük, bir santimetreküpün altında. Aralardaki boşluk için üçte bir düş.",
       "rows": [
         [
-          "Basketball volume",
-          "~7,000 cm³"
+          "Top hacmi",
+          "~7.000 cm³"
         ],
         [
-          "Volume per M&M",
-          "÷ 0.6 cm³"
+          "M&M başına hacim",
+          "÷ 0,6 cm³"
         ],
         [
-          "Knock off a third for gaps",
-          "× 0.65"
+          "Boşluk payı",
+          "× 0,65"
         ],
         [
-          "7,000 ÷ 0.6 × 0.65",
-          "≈ 7,600"
+          "7.000 ÷ 0,6 × 0,65",
+          "≈ 7.600"
         ]
-      ],
-      "system": "metric",
-      "alt": {
-        "lead": "A basketball holds about 400 cubic inches inside. How many M&M's pack into one cubic inch? Maybe 25, and knock off about a third for the gaps between them.",
-        "rows": [
-          [
-            "Basketball volume",
-            "~400 in³"
-          ],
-          [
-            "M&M's per cubic inch",
-            "× 25"
-          ],
-          [
-            "Knock off a third for gaps",
-            "× 0.65"
-          ],
-          [
-            "400 × 25 × 0.65",
-            "≈ 6,500"
-          ]
-        ]
-      }
+      ]
     }
   },
   {
@@ -1483,55 +1185,37 @@
     "answer": 21000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "NFL field (incl. end zones)",
-        "= 360 × 160 = 57,600 ft²"
+        "Amerikan futbolu sahası",
+        "110 × 49 ≈ 5.350 m²"
       ],
       [
-        "Monopoly board (~19.75 in sq.)",
-        "÷ 2.71 ft²"
+        "Monopoly tahtası (50 cm kare)",
+        "÷ 0,25 m²"
       ],
       [
-        "57,600 ÷ 2.71",
-        "≈ 21,000"
+        "5.350 ÷ 0,25",
+        "≈ 21.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "A football field with end zones is about 360 by 160 feet, so roughly 58,000 square feet. A Monopoly board is about a foot and a half on a side, call it under 3 square feet.",
+      "lead": "Kale alanlarıyla saha 110 × 49 metre, yani 5.400 metrekare kadar. Monopoly tahtası yarım metre kare — çeyrek metrekare eder.",
       "rows": [
         [
-          "Field area",
-          "~58,000 ft²"
+          "Saha alanı",
+          "~5.400 m²"
         ],
         [
-          "Board footprint",
-          "÷ 2.8 ft²"
+          "Tahta alanı",
+          "÷ 0,25 m²"
         ],
         [
-          "58,000 ÷ 2.8",
-          "≈ 21,000"
+          "5.400 ÷ 0,25",
+          "≈ 21.600"
         ]
-      ],
-      "system": "imperial",
-      "alt": {
-        "lead": "A football field with end zones is about 110 by 50 meters, so roughly 5,500 square meters. A Monopoly board is about half a meter on a side, call it a quarter of a square meter.",
-        "rows": [
-          [
-            "Field area",
-            "~5,500 m²"
-          ],
-          [
-            "Board footprint",
-            "÷ 0.25 m²"
-          ],
-          [
-            "5,500 ÷ 0.25",
-            "≈ 22,000"
-          ]
-        ]
-      }
+      ]
     }
   },
   {
