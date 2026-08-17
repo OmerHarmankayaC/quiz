@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import { SLIDER_MAX, sliderDegerine, kademeye } from '@/lib/game/scoring';
+import { SLIDER_MAX, sliderDegerine, kademeye, tahminiYuvarla } from '@/lib/game/scoring';
 import { sayiMetni } from '@/lib/game/format';
 
 interface Props {
@@ -15,12 +15,12 @@ export function TahminSlider({ birim, deger, onDegisti }: Props) {
 	const [taslak, setTaslak] = useState('');
 
 	function kademeDegisti(kademe: number) {
-		onDegisti(Math.round(sliderDegerine(kademe)));
+		onDegisti(tahminiYuvarla(sliderDegerine(kademe)));
 	}
 
 	function yaziyiBitir() {
 		const sayi = Number(taslak.replace(/\./g, '').replace(',', '.'));
-		if (Number.isFinite(sayi) && sayi > 0) onDegisti(Math.round(sayi));
+		if (Number.isFinite(sayi) && sayi > 0) onDegisti(tahminiYuvarla(sayi));
 		setYaziyor(false);
 	}
 

@@ -3,6 +3,7 @@ import {
 	SLIDER_MAX,
 	sliderDegerine,
 	kademeye,
+	tahminiYuvarla,
 	oran,
 	fermiPuan,
 	mcqPuan,
@@ -45,6 +46,34 @@ describe('slider donusumu', () => {
 		expect(kademeye(0)).toBe(0);
 		expect(kademeye(-5)).toBe(0);
 		expect(kademeye(NaN)).toBe(0);
+	});
+});
+
+describe('tahminiYuvarla', () => {
+	it('bir onceki degerdeki alt uc degerleri korur', () => {
+		expect(tahminiYuvarla(0.1)).toBe(0.1);
+		expect(tahminiYuvarla(0.67)).toBe(0.67);
+		expect(tahminiYuvarla(2.5)).toBe(2.5);
+	});
+
+	it('uc anlamli basamaga yuvarlar', () => {
+		expect(tahminiYuvarla(999.4)).toBe(999);
+	});
+
+	it('1000 ve ustunu tamsayiya yuvarlar', () => {
+		expect(tahminiYuvarla(1234567)).toBe(1234567);
+	});
+
+	it('gecersiz girdi 0 verir', () => {
+		expect(tahminiYuvarla(0)).toBe(0);
+		expect(tahminiYuvarla(-5)).toBe(0);
+		expect(tahminiYuvarla(NaN)).toBe(0);
+	});
+
+	it('slider menzilindeki her kademe sifirdan buyuk deger uretir', () => {
+		for (let k = 0; k <= SLIDER_MAX; k++) {
+			expect(tahminiYuvarla(sliderDegerine(k))).toBeGreaterThan(0);
+		}
 	});
 });
 

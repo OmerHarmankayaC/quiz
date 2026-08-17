@@ -26,6 +26,11 @@ export function SoruEkrani({ sorular, baslik, onBitti }: Props) {
 	const cevap = soru.mode === 'fermi' ? tahmin : (secim ?? -1);
 	const puan = kilitli ? soruPuani(soru, cevap) : 0;
 
+	function secimYapildi(index: number) {
+		setSecim(index);
+		setHata('');
+	}
+
 	function kilitle() {
 		if (soru.mode === 'mcq' && secim === null) {
 			setHata('Önce bir şık seç');
@@ -61,7 +66,7 @@ export function SoruEkrani({ sorular, baslik, onBitti }: Props) {
 				) : soru.mode === 'fermi' ? (
 					<TahminSlider birim={soru.unit} deger={tahmin} onDegisti={setTahmin} />
 				) : (
-					<SikListesi siklar={soru.choices} secim={secim} onSecti={setSecim} />
+					<SikListesi siklar={soru.choices} secim={secim} onSecti={secimYapildi} />
 				)}
 			</div>
 

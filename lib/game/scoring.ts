@@ -16,6 +16,14 @@ export function kademeye(deger: number): number {
 	return Math.min(SLIDER_MAX, Math.max(0, kademe));
 }
 
+export function tahminiYuvarla(deger: number): number {
+	if (!Number.isFinite(deger) || deger <= 0) return 0;
+	if (deger >= 1000) return Math.round(deger);
+	const basamak = Math.ceil(Math.log10(deger));
+	const carpan = Math.pow(10, 3 - basamak);
+	return Math.round(deger * carpan) / carpan;
+}
+
 export function oran(tahmin: number, cevap: number): number {
 	if (!Number.isFinite(tahmin) || tahmin <= 0) return Infinity;
 	if (!Number.isFinite(cevap) || cevap <= 0) return Infinity;
