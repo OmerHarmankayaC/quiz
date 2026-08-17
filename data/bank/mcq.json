@@ -3979,5 +3979,439 @@
     "source": "Vikipedi: Hinduizm",
     "kaynak_id": "14813#39",
     "kaynak_baslik": "Hinduizm"
+  },
+  {
+    "id": "m0185",
+    "mode": "mcq",
+    "prompt": "Kobe Bryant, 2009 All-Star Maçı'nda MVP ödülünü hangi eski takım arkadaşıyla paylaşmıştır?",
+    "choices": [
+      "Shaquille O'Neal",
+      "Pau Gasol",
+      "Dwyane Wade",
+      "LeBron James"
+    ],
+    "correct_index": 0,
+    "explanation": "Bu, Bryant'ın kariyerindeki üçüncü All-Star MVP'siydi; Lakers o sezona 17-2 ile başlayarak franchise rekoru kırmıştı.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Kobe Bryant",
+    "kaynak_id": "13786#30",
+    "kaynak_baslik": "Kobe Bryant"
+  },
+  {
+    "id": "m0186",
+    "mode": "mcq",
+    "prompt": "Gilles Deleuze, uzun bir lise öğretmenliği dönemine başlamadan önce agrégation derecesini hangi yıl almıştır?",
+    "choices": [
+      "1948",
+      "1956",
+      "1952",
+      "1944"
+    ],
+    "correct_index": 0,
+    "explanation": "1944'te Sorbonne'da başlayan öğrenimini 1948'de tamamladı ve 1956'ya kadar çeşitli liselerde öğretmenlik yaptı.",
+    "topics": [
+      "felsefe"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Gilles Deleuze",
+    "kaynak_id": "101666#3",
+    "kaynak_baslik": "Gilles Deleuze"
+  },
+  {
+    "id": "m0187",
+    "mode": "mcq",
+    "prompt": "Güreş, hangi Olimpiyat Oyunları'ndan bu yana kesintisiz olarak programda yer almaktadır?",
+    "choices": [
+      "1912",
+      "1904",
+      "1900",
+      "1896"
+    ],
+    "correct_index": 1,
+    "explanation": "Grekoromen 1896'da vardı ama 1900'de programdan çıktı; kesintisiz katılım 1904'te başladı. FILA ise 1912'de Antwerp'te kuruldu.",
+    "topics": [
+      "spor",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Güreş",
+    "kaynak_id": "101968#9",
+    "kaynak_baslik": "Güreş"
+  },
+  {
+    "id": "m0188",
+    "mode": "mcq",
+    "prompt": "Cebelitarık, hangi antlaşma ile Britanya'ya devredilmiştir?",
+    "choices": [
+      "Paris Antlaşması",
+      "Versay Antlaşması",
+      "Utrecht Antlaşması",
+      "Vestfalya Antlaşması"
+    ],
+    "correct_index": 2,
+    "explanation": "1704'te ele geçirilen kaya, 1713 Utrecht Antlaşması ile Britanya'ya bırakıldı; İspanya 1727 ve 1779-83'te geri almayı denedi.",
+    "topics": [
+      "tarih",
+      "coğrafya"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Cebelitarık",
+    "kaynak_id": "14756#15",
+    "kaynak_baslik": "Cebelitarık"
+  },
+  {
+    "id": "m0189",
+    "mode": "mcq",
+    "prompt": "Hitler'in intiharının ardından Mayıs 1945'te Nazi Almanyası'nın devlet başkanı olan kişi kimdir?",
+    "choices": [
+      "Joseph Goebbels",
+      "Karl Dönitz",
+      "Hermann Göring",
+      "Heinrich Himmler"
+    ],
+    "correct_index": 1,
+    "explanation": "Büyük amiral Dönitz, 1943'ten beri Deniz Kuvvetleri Başkomutanıydı; Flensburg Hükûmeti dağılana kadar görevde kaldı.",
+    "topics": [
+      "tarih",
+      "askeri"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Karl Dönitz",
+    "kaynak_id": "102718#1",
+    "kaynak_baslik": "Karl Dönitz"
+  },
+  {
+    "id": "m0190",
+    "mode": "mcq",
+    "prompt": "Milliyetçi Çalışma Partisi'nin adı hangi yıl Milliyetçi Hareket Partisi olarak değiştirilmiştir?",
+    "choices": [
+      "1992",
+      "1993",
+      "1987",
+      "1995"
+    ],
+    "correct_index": 1,
+    "explanation": "1992'de Siyasi Partiler Kanunu'nda yapılan değişiklik, kapatılan partilerin eski adlarını almasına izin verdi; MÇP 1993'te MHP oldu.",
+    "topics": [
+      "siyaset",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Alparslan Türkeş",
+    "kaynak_id": "15426#2",
+    "kaynak_baslik": "Alparslan Türkeş"
+  },
+  {
+    "id": "m0191",
+    "mode": "mcq",
+    "prompt": "Shakespeare'in son üç oyununu kiminle ortak yazdığı tahmin edilmektedir?",
+    "choices": [
+      "John Hall",
+      "Christopher Marlowe",
+      "Ben Jonson",
+      "John Fletcher"
+    ],
+    "correct_index": 3,
+    "explanation": "Fletcher, Shakespeare'den sonra King's Men'in oyun yazarı oldu; 1613'ten sonra Shakespeare'e atfedilen oyun yoktur.",
+    "topics": [
+      "kitap",
+      "tiyatro"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: William Shakespeare",
+    "kaynak_id": "15790#16",
+    "kaynak_baslik": "William Shakespeare"
+  },
+  {
+    "id": "m0192",
+    "mode": "mcq",
+    "prompt": "Osmanlı padişahı III. Murad'ın divan edebiyatında kullandığı mahlas nedir?",
+    "choices": [
+      "Muradi",
+      "Adli",
+      "Muhibbi",
+      "Avni"
+    ],
+    "correct_index": 0,
+    "explanation": "III. Murad saltanatı boyunca sefere çıkmadı, ancak imparatorluk en geniş sınırlarına onun döneminde ulaştı.",
+    "topics": [
+      "tarih",
+      "kültür"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: III. Murad",
+    "kaynak_id": "16126#1",
+    "kaynak_baslik": "III. Murad"
+  },
+  {
+    "id": "m0193",
+    "mode": "mcq",
+    "prompt": "Maddeleri iletken ve yalıtkan olarak 1729'da sınıflandıran bilim insanı kimdir?",
+    "choices": [
+      "Otto von Guericke",
+      "William Gilbert",
+      "Stephen Gray",
+      "C. F. Du Fay"
+    ],
+    "correct_index": 2,
+    "explanation": "Guericke 1660'ta ilk elektrostatik jeneratörü yapmış, Du Fay ise 1733'te ikili sıvı teorisini öne sürmüştü.",
+    "topics": [
+      "bilim"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Elektrik yükü",
+    "kaynak_id": "17237#14",
+    "kaynak_baslik": "Elektrik yükü"
+  },
+  {
+    "id": "m0194",
+    "mode": "mcq",
+    "prompt": "1965'te tamamlanan ve dünyanın en uzun otomobil tüneli olan Mont Blanc tüneli kaç kilometredir?",
+    "choices": [
+      "19,4",
+      "4,8",
+      "11,6",
+      "7,2"
+    ],
+    "correct_index": 2,
+    "explanation": "Tünel Fransa ile İtalya'yı birbirine bağlar; Alpler'de ayrıca 50'den fazla geçit bulunur.",
+    "topics": [
+      "coğrafya",
+      "ulaşım"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Alpler",
+    "kaynak_id": "17359#27",
+    "kaynak_baslik": "Alpler"
+  },
+  {
+    "id": "m0195",
+    "mode": "mcq",
+    "prompt": "Mozart'ın 1762'deki ilk Avrupa konseri hangi şehirde verilmiştir?",
+    "choices": [
+      "Paris",
+      "Viyana",
+      "Londra",
+      "Münih"
+    ],
+    "correct_index": 3,
+    "explanation": "Bavyera Kurfüstü III. Maximillian'ın sarayındaki bu konseri aynı yıl Prag ve Viyana izledi; tur üç buçuk yıl sürdü.",
+    "topics": [
+      "müzik",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Wolfgang Amadeus Mozart",
+    "kaynak_id": "100849#4",
+    "kaynak_baslik": "Wolfgang Amadeus Mozart"
+  },
+  {
+    "id": "m0196",
+    "mode": "mcq",
+    "prompt": "Sankt-Peterburg, Büyük Petro tarafından ele geçirilen bir İsveç kalesinin yerine hangi yıl kurulmuştur?",
+    "choices": [
+      "1703",
+      "1924",
+      "1712",
+      "1728"
+    ],
+    "correct_index": 0,
+    "explanation": "Şehir 1712-1918 arasında başkentti; 1924'te Lenin'in ölümünden sonra Leningrad adını aldı.",
+    "topics": [
+      "tarih",
+      "coğrafya"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Sankt-Peterburg",
+    "kaynak_id": "19866#2",
+    "kaynak_baslik": "Sankt-Peterburg"
+  },
+  {
+    "id": "m0197",
+    "mode": "mcq",
+    "prompt": "Demet Akalın'ın 2015 tarihli Pırlanta albümü Türkiye'de kaç kopya satarak yılın en çok satan albümü olmuştur?",
+    "choices": [
+      "750 bin",
+      "250 bin",
+      "50 bin",
+      "105 bin"
+    ],
+    "correct_index": 3,
+    "explanation": "Albüm DMC tarafından altın sertifika ile ödüllendirildi; çıkış şarkısı \"Ders Olsun\" listelerde iki numaraya kadar yükseldi.",
+    "topics": [
+      "müzik"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Demet Akalın",
+    "kaynak_id": "167370#21",
+    "kaynak_baslik": "Demet Akalın"
+  },
+  {
+    "id": "m0198",
+    "mode": "mcq",
+    "prompt": "İngiltere, serbest ticarete geçiş sürecinde Mısır Yasaları'nı hangi yıl yürürlükten kaldırmıştır?",
+    "choices": [
+      "1865",
+      "1846",
+      "1849",
+      "1804"
+    ],
+    "correct_index": 1,
+    "explanation": "Seyir Yasaları 1849'da kaldırıldı; hareketi Manchester Okulu'na dayanan Richard Cobden ve John Bright başlatmıştı.",
+    "topics": [
+      "ekonomi",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Kapitalizm",
+    "kaynak_id": "112248#19",
+    "kaynak_baslik": "Kapitalizm"
+  },
+  {
+    "id": "m0199",
+    "mode": "mcq",
+    "prompt": "Öğretimin birleştirilmesini sağlayan Tevhid-i Tedrisat Kanunu hangi tarihte kabul edilmiştir?",
+    "choices": [
+      "30 Kasım 1925",
+      "3 Mart 1924",
+      "17 Şubat 1926",
+      "29 Ekim 1923"
+    ],
+    "correct_index": 1,
+    "explanation": "Aynı gün halifelik kaldırıldı ve Diyanet İşleri Başkanlığı kuruldu; tekke ve zaviyeler 1925'te, Medeni Kanun 1926'da geldi.",
+    "topics": [
+      "tarih",
+      "eğitim"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Türkiye'de laiklik",
+    "kaynak_id": "145580#15",
+    "kaynak_baslik": "Türkiye'de laiklik"
+  },
+  {
+    "id": "m0200",
+    "mode": "mcq",
+    "prompt": "Fulgencio Batista'nın otokratik hükûmeti hangi tarihte devrilmiştir?",
+    "choices": [
+      "Mayıs 1902",
+      "Ocak 1959",
+      "Aralık 1898",
+      "Mart 1952"
+    ],
+    "correct_index": 1,
+    "explanation": "26 Temmuz Hareketi, Küba Devrimi sırasında Batista'yı devirdi ve Fidel Castro liderliğinde komünist yönetim kuruldu.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Küba",
+    "kaynak_id": "1309#1",
+    "kaynak_baslik": "Küba"
+  },
+  {
+    "id": "m0201",
+    "mode": "mcq",
+    "prompt": "İttihat ve Terakkî Cemiyeti hangi tarihte kapatılmıştır?",
+    "choices": [
+      "31 Mart 1909",
+      "4 Eylül 1919",
+      "5 Kasım 1918",
+      "23 Temmuz 1908"
+    ],
+    "correct_index": 2,
+    "explanation": "Cemiyetin on yıllık etkinliği (1908-1918) böylece sona erdi; Sivas Kongresi 4 Eylül 1919'da İttihatçı rol vurgusunu reddetti.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: İttihat ve Terakki",
+    "kaynak_id": "120772#36",
+    "kaynak_baslik": "İttihat ve Terakki"
+  },
+  {
+    "id": "m0202",
+    "mode": "mcq",
+    "prompt": "13. yüzyılın sonlarında Batı Anadolu'yu fetheden Türkmen beyliği hangisidir?",
+    "choices": [
+      "Germiyanoğulları",
+      "Eşrefoğulları",
+      "Menteşe Beyliği",
+      "Karesioğulları"
+    ],
+    "correct_index": 0,
+    "explanation": "Moğol baskısıyla batıya yönelen Türkmenler 1270-1310 arasında Menteşe, Aydın, Saruhan ve Karesi gibi gazi beyliklerini kurdu.",
+    "topics": [
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Osmanlı İmparatorluğu",
+    "kaynak_id": "1429626#12",
+    "kaynak_baslik": "Osmanlı İmparatorluğu"
+  },
+  {
+    "id": "m0203",
+    "mode": "mcq",
+    "prompt": "Rus kuvvetleri 1763'te Doğu Çerkesya'da hangi kasabaya girerek burayı tahkimata dönüştürmüş ve Rus-Çerkes düşmanlığını başlatmıştır?",
+    "choices": [
+      "Mezdeug",
+      "Kizlyar",
+      "Anapa",
+      "Soçi"
+    ],
+    "correct_index": 0,
+    "explanation": "Günümüzde Mozdok olarak bilinen kasabadaki kalenin yıkılması Çerkes soylularınca talep edildi, ancak kabul edilmedi.",
+    "topics": [
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Rus-Çerkes Savaşı",
+    "kaynak_id": "1460411#16",
+    "kaynak_baslik": "Rus-Çerkes Savaşı"
+  },
+  {
+    "id": "m0204",
+    "mode": "mcq",
+    "prompt": "1954 Turin Motor Show'da sunulan Alfa Romeo Giulietta Sprint'in prototipini kim tasarlamıştır?",
+    "choices": [
+      "Nuccio Bertone",
+      "Marcello Gandini",
+      "Franco Scaglione",
+      "Giorgetto Giugiaro"
+    ],
+    "correct_index": 2,
+    "explanation": "Başlangıçta 1000 adet planlanmıştı; 1954-1965 arasında yaklaşık 40.000 araç üretildi.",
+    "topics": [
+      "ulaşım",
+      "sanat"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Bertone",
+    "kaynak_id": "150012#15",
+    "kaynak_baslik": "Bertone"
   }
 ]
