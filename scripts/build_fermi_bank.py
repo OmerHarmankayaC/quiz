@@ -26,6 +26,7 @@ from pathlib import Path
 KOK = Path(__file__).resolve().parent.parent
 HAM = KOK / "data" / "raw" / "questions.json"
 TRIAGE = KOK / "data" / "work" / "fermi-triage.json"
+OZGUN = KOK / "data" / "work" / "fermi-original.json"
 BANKA = KOK / "data" / "bank" / "fermi.json"
 BEKLEYEN = KOK / "data" / "work" / "fermi-adapted-pending.json"
 
@@ -123,12 +124,34 @@ def main() -> None:
         # Alan sirasi okunabilir olsun diye id one aliniyor.
         banka.append({"id": kayit.pop("id"), **kayit})
 
+    # Ozgun TR sorulari cevirilerin ARDINA eklenir. Boylece cevrilen sorularin
+    # id'leri (f0001-...) sabit kalir; paketler ve takvim onlara bagli.
+    ozgun_sayisi = 0
+    if OZGUN.exists():
+        for o in json.loads(OZGUN.read_text(encoding="utf-8")):
+            sira += 1
+            ozgun_sayisi += 1
+            banka.append({
+                "id": f"f{sira:04d}",
+                "mode": "fermi",
+                "prompt": o["prompt"],
+                "unit": o["unit"],
+                "answer": o["answer"],
+                "topics": o["topics"],
+                "difficulty": o["difficulty"],
+                "source": o["source"],
+                "origin": "original",
+                "verified_at": DOGRULAMA_TARIHI,
+                **({"math": o["math"]} if o.get("math") else {}),
+                **({"napkin": o["napkin"]} if o.get("napkin") else {}),
+            })
+
     BANKA.parent.mkdir(parents=True, exist_ok=True)
     BANKA.write_text(json.dumps(banka, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     BEKLEYEN.write_text(json.dumps(bekleyen, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
     print(f"triage: {sayac['t']} cevrildi, {sayac['a']} uyarlandi, {sayac['x']} elendi")
-    print(f"  {BANKA.relative_to(KOK)}    -> {len(banka)} soru (oynanabilir)")
+    print(f"  {BANKA.relative_to(KOK)}    -> {len(banka)} soru (oynanabilir, {ozgun_sayisi} ozgun TR)")
     print(f"  {BEKLEYEN.relative_to(KOK)} -> {len(bekleyen)} soru (cevap arastirmasi bekliyor)")
 
     donusenler = [b for b in banka if "donusum" in b]
