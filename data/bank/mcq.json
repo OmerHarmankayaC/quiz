@@ -6598,5 +6598,480 @@
     "source": "Vikipedi: Ahmedîlik",
     "kaynak_id": "16314#5",
     "kaynak_baslik": "Ahmedîlik"
+  },
+  {
+    "id": "m0306",
+    "mode": "mcq",
+    "prompt": "İstanbul'da ilk belediye benzeri teşkilat hangi adla kurulmuştur?",
+    "choices": [
+      "İhtisab Nezareti",
+      "Şehremaneti",
+      "Belediye Meclisi",
+      "Divan-ı Beledi"
+    ],
+    "correct_index": 1,
+    "explanation": "1855'te kuruldu; Cumhuriyet sonrası belediye hizmetleri uzun süre Valilik tarafından verildi.",
+    "topics": [
+      "tarih",
+      "coğrafya"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: İstanbul'un ilçeleri",
+    "kaynak_id": "16327#1",
+    "kaynak_baslik": "İstanbul'un ilçeleri"
+  },
+  {
+    "id": "m0307",
+    "mode": "mcq",
+    "prompt": "İstanbul'un idari sınırlarındaki ilk değişiklik hangi ilçenin kurulmasıyla yaşanmıştır?",
+    "choices": [
+      "Zeytinburnu",
+      "Küçükçekmece",
+      "Gaziosmanpaşa",
+      "Bayrampaşa"
+    ],
+    "correct_index": 0,
+    "explanation": "Zeytinburnu 1957'de ilçe oldu; Gaziosmanpaşa 1963'te, Küçükçekmece 1989'da, Bayrampaşa 1990'da kuruldu.",
+    "topics": [
+      "coğrafya",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: İstanbul'un ilçeleri",
+    "kaynak_id": "16327#1",
+    "kaynak_baslik": "İstanbul'un ilçeleri"
+  },
+  {
+    "id": "m0308",
+    "mode": "mcq",
+    "prompt": "Wright Kardeşler'den Wilbur hangi eyalette doğmuştur?",
+    "choices": [
+      "Indiana",
+      "New York",
+      "Pennsylvania",
+      "Ohio"
+    ],
+    "correct_index": 0,
+    "explanation": "Wilbur 1867'de Millville, Indiana yakınlarında; Orville ise 1871'de Dayton, Ohio'da doğdu.",
+    "topics": [
+      "havacılık",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Wright Kardeşler",
+    "kaynak_id": "16555#13",
+    "kaynak_baslik": "Wright Kardeşler"
+  },
+  {
+    "id": "m0309",
+    "mode": "mcq",
+    "prompt": "Pentagram'ın 1991'de yayımlanan ve konser kayıtlarından oluşan albümü hangisidir?",
+    "choices": [
+      "Anatolia",
+      "Bir",
+      "Live at the Trail",
+      "Trail Blazer"
+    ],
+    "correct_index": 2,
+    "explanation": "Albüm, ilk albümdeki şarkıların ve yayınlanmamış parçaların konser versiyonlarından oluşuyordu.",
+    "topics": [
+      "müzik"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Pentagram (müzik grubu)",
+    "kaynak_id": "16951#12",
+    "kaynak_baslik": "Pentagram (müzik grubu)"
+  },
+  {
+    "id": "m0310",
+    "mode": "mcq",
+    "prompt": "Vangelis'in 1971'de Londra'da yaptığı kayıtlar, izni olmadan hangi yıl albüm olarak yayımlanmıştır?",
+    "choices": [
+      "1972",
+      "1978",
+      "1968",
+      "1973"
+    ],
+    "correct_index": 1,
+    "explanation": "Kayıtlar Hypothesis ve The Dragon adlarıyla çıktı; sanatçının ilk solo albümü ise 1972 tarihlidir.",
+    "topics": [
+      "müzik"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Vangelis",
+    "kaynak_id": "17225#13",
+    "kaynak_baslik": "Vangelis"
+  },
+  {
+    "id": "m0311",
+    "mode": "mcq",
+    "prompt": "Brahms'a Bach, Beethoven ve Schubert geleneğini aktaran öğretmeni kimdir?",
+    "choices": [
+      "Sigismund Thalberg",
+      "Robert Schumann",
+      "Eduard Marxsen",
+      "Jacob Rosenhain"
+    ],
+    "correct_index": 2,
+    "explanation": "Marxsen, Beethoven ve Schubert'i kişisel olarak tanıyordu; Brahms onunla 1845-1848 arasında çalıştı.",
+    "topics": [
+      "müzik"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Johannes Brahms",
+    "kaynak_id": "17244#7",
+    "kaynak_baslik": "Johannes Brahms"
+  },
+  {
+    "id": "m0312",
+    "mode": "mcq",
+    "prompt": "Carl Linnaeus'a ün kazandıran ve on iki baskı yapan eseri hangisidir?",
+    "choices": [
+      "Philosophia Botanica",
+      "Systema Naturae",
+      "Genera Plantarum",
+      "Species Plantarum"
+    ],
+    "correct_index": 1,
+    "explanation": "1735'te yazdı ve aynı yıl tıp doktoru unvanını aldı; İsveç'te bu derece olmadığı için Hollanda'ya gitmişti.",
+    "topics": [
+      "bilim",
+      "doğa"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Carl Linnaeus",
+    "kaynak_id": "17648#2",
+    "kaynak_baslik": "Carl Linnaeus"
+  },
+  {
+    "id": "m0313",
+    "mode": "mcq",
+    "prompt": "Çayönü kazıları 1964'te kimlerin başkanlığında başlatılmıştır?",
+    "choices": [
+      "Muazzez İlmiye Çığ ve Mehmet Özdoğan",
+      "Ekrem Akurgal ve Robert J. Braidwood",
+      "Mehmet Özdoğan ve Halet Çambel",
+      "Halet Çambel ve Robert J. Braidwood"
+    ],
+    "correct_index": 3,
+    "explanation": "Kazılar 1968'den itibaren Mehmet Özdoğan başkanlığında sürdü ve 1992'de bölgedeki terör olayları nedeniyle sona erdi.",
+    "topics": [
+      "arkeoloji",
+      "tarih"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Çayönü",
+    "kaynak_id": "18308#3",
+    "kaynak_baslik": "Çayönü"
+  },
+  {
+    "id": "m0314",
+    "mode": "mcq",
+    "prompt": "Milwaukee Bucks, 1980'de Kareem Abdul-Jabbar'ın ayrılığıyla oluşan boşluğu doldurmak için hangi oyuncuyu takas etmiştir?",
+    "choices": [
+      "Bob Lanier",
+      "Kent Benson",
+      "Sidney Moncrief",
+      "Marques Johnson"
+    ],
+    "correct_index": 0,
+    "explanation": "Tecrübeli pivot o sırada Detroit Pistons'ta oynuyordu; Bucks aynı yıl Midwest Division'ı zirvede bitirdi.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Milwaukee Bucks",
+    "kaynak_id": "165015#8",
+    "kaynak_baslik": "Milwaukee Bucks"
+  },
+  {
+    "id": "m0315",
+    "mode": "mcq",
+    "prompt": "Buzulların sürüklenmesinin kaya dağılımına yol açmış olabileceğini 1742'de ilk öne süren kişi kimdir?",
+    "choices": [
+      "Daniel Tilas",
+      "Louis Agassiz",
+      "Göran Wahlenberg",
+      "James Hutton"
+    ],
+    "correct_index": 0,
+    "explanation": "İsveçli maden uzmanının fikrini 1795'te Hutton'ın Alpler gözlemleri, 1818'de ise Wahlenberg'in eseri izledi.",
+    "topics": [
+      "bilim",
+      "doğa"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Buzul çağı",
+    "kaynak_id": "165384#11",
+    "kaynak_baslik": "Buzul çağı"
+  },
+  {
+    "id": "m0316",
+    "mode": "mcq",
+    "prompt": "Cağaloğlu Anadolu Lisesi'nin yeni binası hangi eğitim-öğretim yılında kullanıma açılmıştır?",
+    "choices": [
+      "1968-1969",
+      "1892-1893",
+      "1970-1971",
+      "1967-1968"
+    ],
+    "correct_index": 0,
+    "explanation": "Yapımına 1967'de başlanan bina 1968'de tamamlandı; okul Divanyolu'nda II. Mahmud Türbesi'nin arkasında yer alıyor.",
+    "topics": [
+      "eğitim",
+      "mimari"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Cağaloğlu Anadolu Lisesi",
+    "kaynak_id": "19988#10",
+    "kaynak_baslik": "Cağaloğlu Anadolu Lisesi"
+  },
+  {
+    "id": "m0317",
+    "mode": "mcq",
+    "prompt": "Gülden Karaböcek, 22 yıl aradan sonra 2006'da Muazzez Abacı ile birlikte nerede sahne almıştır?",
+    "choices": [
+      "İzmir Fuarı Nostaljik Göl Gazinosu",
+      "Harbiye Açıkhava Tiyatrosu",
+      "Haydar Aliyev Sarayı",
+      "Cemil Topuzlu Sahnesi"
+    ],
+    "correct_index": 0,
+    "explanation": "Sanatçı 2004'te aktif müzik yaşamına dönmüş, Murathan Mungan'ın tribute albümüne katkıda bulunmuştu.",
+    "topics": [
+      "müzik"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Gülden Karaböcek",
+    "kaynak_id": "107674#11",
+    "kaynak_baslik": "Gülden Karaböcek"
+  },
+  {
+    "id": "m0318",
+    "mode": "mcq",
+    "prompt": "Marge Simpson'ın Playboy kapağında yer alması hangi olayın kutlama etkinliklerindendi?",
+    "choices": [
+      "Dizinin 500. bölümü",
+      "Simpsonlar'ın 20. yıldönümü",
+      "Marge karakterinin 25. yılı",
+      "Derginin 50. yılı"
+    ],
+    "correct_index": 1,
+    "explanation": "Kasım 2009 sayısı 16 Ekim 2009'da yayımlandı; kapak, Darine Stern'in Ekim 1971 tarihli kapağından esinlendi.",
+    "topics": [
+      "film",
+      "kültür"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Marge Simpson",
+    "kaynak_id": "108015#23",
+    "kaynak_baslik": "Marge Simpson"
+  },
+  {
+    "id": "m0319",
+    "mode": "mcq",
+    "prompt": "1990'da Salton Denizi'nde 14.000 kadar pelikanın ölümüne yol açan sebep nedir?",
+    "choices": [
+      "Botulizm",
+      "Petrol sızıntısı",
+      "Kuş gribi",
+      "Endrin zehirlenmesi"
+    ],
+    "correct_index": 0,
+    "explanation": "Ölenler arasında 7.500 kadar Amerika ak pelikanı vardı; endrin ise 1975'te Louisiana'daki ölümlerin sebebiydi.",
+    "topics": [
+      "hayvan",
+      "çevre"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Pelikan",
+    "kaynak_id": "120226#28",
+    "kaynak_baslik": "Pelikan"
+  },
+  {
+    "id": "m0320",
+    "mode": "mcq",
+    "prompt": "Kuzey Rodezya, Güney Rodezya ve Nyasaland'ı birleştiren federasyon hangi tarihte sona ermiştir?",
+    "choices": [
+      "31 Aralık 1963",
+      "1964",
+      "1965",
+      "1 Ağustos 1953"
+    ],
+    "correct_index": 0,
+    "explanation": "1964'te Kuzey Rodezya Zambiya, Nyasaland ise Malavi olarak bağımsızlaştı; Güney Rodezya sömürge sisteminde kaldı.",
+    "topics": [
+      "tarih",
+      "coğrafya"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Zimbabve",
+    "kaynak_id": "20475#15",
+    "kaynak_baslik": "Zimbabve"
+  },
+  {
+    "id": "m0321",
+    "mode": "mcq",
+    "prompt": "Sicilya'dan Amerika Birleşik Devletleri'ne yönelik büyük göç dalgası hangi dönemde yaşanmıştır?",
+    "choices": [
+      "1960'lar-1980'ler",
+      "1920'ler-1940'lar",
+      "1840'lar-1860'lar",
+      "1880'ler-1920'ler"
+    ],
+    "correct_index": 3,
+    "explanation": "Sonraki dalgalar Kuzey İtalya'ya, 1960'lardan itibaren de Belçika, Fransa, Almanya ve İsviçre'ye yöneldi.",
+    "topics": [
+      "tarih",
+      "toplum"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Sicilya",
+    "kaynak_id": "15913#23",
+    "kaynak_baslik": "Sicilya"
+  },
+  {
+    "id": "m0322",
+    "mode": "mcq",
+    "prompt": "Bundesliga kulüpleri toplam kaç UEFA Şampiyonlar Ligi şampiyonluğu kazanmıştır?",
+    "choices": [
+      "Yedi",
+      "Sekiz",
+      "Dört",
+      "On iki"
+    ],
+    "correct_index": 1,
+    "explanation": "Ayrıca yedi UEFA Avrupa Ligi, dört Kupa Galipleri Kupası ve üç Kıtalararası Kupa kazanıldı.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Bundesliga",
+    "kaynak_id": "21106#3",
+    "kaynak_baslik": "Bundesliga"
+  },
+  {
+    "id": "m0323",
+    "mode": "mcq",
+    "prompt": "Kylie Minogue'un Doctor Who'nun 2007 Noel özel bölümünde canlandırdığı karakter hangisidir?",
+    "choices": [
+      "Astrid Peth",
+      "Clara Oswald",
+      "Donna Noble",
+      "Amy Pond"
+    ],
+    "correct_index": 0,
+    "explanation": "13,31 milyon izleyiciye ulaşan \"Voyage of the Damned\", dizinin 1979'dan beri en çok izlenen bölümü oldu.",
+    "topics": [
+      "film",
+      "müzik"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Kylie Minogue",
+    "kaynak_id": "138351#22",
+    "kaynak_baslik": "Kylie Minogue"
+  },
+  {
+    "id": "m0324",
+    "mode": "mcq",
+    "prompt": "Binghamton Üniversitesi'nin kuruluşunda öncü rol oynayan ve arsalarını bağışlayan iş insanı kimdir?",
+    "choices": [
+      "Andrew Carnegie",
+      "Ezra Cornell",
+      "John D. Rockefeller",
+      "Thomas J. Watson"
+    ],
+    "correct_index": 3,
+    "explanation": "IBM'in kurucu üyesi Watson, 1940'larda Triple Cities College'ın kuruluşuna öncülük etti; mühendislik okulu adını taşıyor.",
+    "topics": [
+      "eğitim",
+      "ekonomi"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Binghamton Üniversitesi",
+    "kaynak_id": "109728#6",
+    "kaynak_baslik": "Binghamton Üniversitesi"
+  },
+  {
+    "id": "m0325",
+    "mode": "mcq",
+    "prompt": "Jack White, Meg White ile evlendiğinde alışılanın aksine ne yapmıştır?",
+    "choices": [
+      "İki soyadını birleştirmiştir",
+      "Eşinin soyadını almıştır",
+      "Soyadını hiç değiştirmemiştir",
+      "Nikâhı gizli tutmuştur"
+    ],
+    "correct_index": 1,
+    "explanation": "Çift 1996'da evlendi, 1997'de The White Stripes'ı kurdu ve 2000'de boşandı.",
+    "topics": [
+      "müzik"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Jack White",
+    "kaynak_id": "168823#29",
+    "kaynak_baslik": "Jack White"
+  },
+  {
+    "id": "m0326",
+    "mode": "mcq",
+    "prompt": "Hacı Emir İbrahim Bey, 1357'de kime karşı sefer düzenlemiştir?",
+    "choices": [
+      "Bizans İmparatoru V. Ioannes",
+      "Trabzon Tekfuru III. Aleksius",
+      "Oğlu Süleyman Bey",
+      "Taceddinoğulları beyi Emir Tacettin"
+    ],
+    "correct_index": 1,
+    "explanation": "Bu seferde Çepniler Maçka'ya kadar ilerledi; Süleyman Bey tahtı 1387'de tamamen ele geçirdi.",
+    "topics": [
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Çepniler",
+    "kaynak_id": "110836#8",
+    "kaynak_baslik": "Çepniler"
+  },
+  {
+    "id": "m0327",
+    "mode": "mcq",
+    "prompt": "Magic Johnson'ın ortağı olduğu Los Angeles Sparks, hangi yıl WNBA şampiyonluğunu kazanmıştır?",
+    "choices": [
+      "2018",
+      "2014",
+      "2016",
+      "2022"
+    ],
+    "correct_index": 2,
+    "explanation": "Johnson takımı 2014'te Guggenheim ile satın almıştı; 2018'de sahibi olduğu Los Angeles FC ise 2022'de MLS Kupası'nı kazandı.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Magic Johnson",
+    "kaynak_id": "111308#20",
+    "kaynak_baslik": "Magic Johnson"
   }
 ]
