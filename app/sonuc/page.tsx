@@ -11,6 +11,7 @@ import type { Soru } from '@/lib/game/types';
 export default function SonucSayfa() {
 	const [sonuc, setSonuc] = useState<SaklananSonuc | null>(null);
 	const [kopyalandi, setKopyalandi] = useState(false);
+	const [panoHatasi, setPanoHatasi] = useState(false);
 
 	useEffect(() => setSonuc(sonucuAl()), []);
 
@@ -41,9 +42,19 @@ export default function SonucSayfa() {
 		puanlar: gecerliIndeksler.map((i) => sonuc.puanlar[i] ?? 0)
 	};
 
+	const paylasimTexti = paylasimMetni(gecerliSonuc, sorular);
+
 	async function kopyala() {
-		await navigator.clipboard.writeText(paylasimMetni(gecerliSonuc, sorular));
-		setKopyalandi(true);
+		try {
+			await navigator.clipboard.writeText(paylasimTexti);
+			setKopyalandi(true);
+			setPanoHatasi(false);
+		} catch {
+			// Guvenli olmayan baglamda navigator.clipboard tanimsizdir ya da izin
+			// reddedilebilir - sessizce yutmak yerine metni elle kopyalanabilir hale getir.
+			setKopyalandi(false);
+			setPanoHatasi(true);
+		}
 	}
 
 	return (
@@ -70,6 +81,21 @@ export default function SonucSayfa() {
 			>
 				{kopyalandi ? 'Kopyalandı' : 'Sonucu kopyala'}
 			</button>
+
+			{panoHatasi && (
+				<div className="mt-3">
+					<p className="text-sm text-[var(--metin-ikincil)]">
+						Panoya erişilemedi, metni elle kopyalayabilirsin.
+					</p>
+					<textarea
+						readOnly
+						value={paylasimTexti}
+						onFocus={(e) => e.currentTarget.select()}
+						className="mt-2 w-full rounded-lg border border-[var(--kenar)] bg-[var(--yuzey)] p-3 text-sm"
+						rows={sorular.length + 3}
+					/>
+				</div>
+			)}
 
 			<nav className="mt-6 text-sm text-[var(--metin-soluk)]">
 				<a href="/">Ana ekran</a>
