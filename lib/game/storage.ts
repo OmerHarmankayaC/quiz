@@ -30,6 +30,19 @@ function gecerliKayitMi(d: unknown): d is OyunKaydi {
 	if (typeof d.streak !== 'number' || !Number.isFinite(d.streak)) return false;
 	if (d.sonOynananGun !== null && typeof d.sonOynananGun !== 'string') return false;
 	if (!nesneMi(d.gunluk) || !nesneMi(d.paketler)) return false;
+
+	// Validate gunluk: all values must be finite numbers
+	for (const deger of Object.values(d.gunluk)) {
+		if (typeof deger !== 'number' || !Number.isFinite(deger)) return false;
+	}
+
+	// Validate paketler: all values must have enIyi (finite number) and tamamlandi (string)
+	for (const deger of Object.values(d.paketler)) {
+		if (!nesneMi(deger)) return false;
+		if (typeof deger.enIyi !== 'number' || !Number.isFinite(deger.enIyi)) return false;
+		if (typeof deger.tamamlandi !== 'string') return false;
+	}
+
 	return true;
 }
 

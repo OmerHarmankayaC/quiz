@@ -99,4 +99,25 @@ describe('kaydiOku ve kaydiYaz', () => {
 		);
 		expect(kaydiOku()).toEqual(BOS_KAYIT);
 	});
+
+	it('gunluk degeri sayi olmayan kayit bos kayit verir', () => {
+		localStorage.setItem(
+			'kac:v1',
+			JSON.stringify({ streak: 1, sonOynananGun: null, gunluk: { '2026-08-17': 'x' }, paketler: {} })
+		);
+		expect(kaydiOku()).toEqual(BOS_KAYIT);
+	});
+
+	it('paketler girdisi eksik alanli kayit bos kayit verir', () => {
+		localStorage.setItem(
+			'kac:v1',
+			JSON.stringify({
+				streak: 1,
+				sonOynananGun: null,
+				gunluk: {},
+				paketler: { 'sayilarla-istanbul': { enIyi: 500 } }
+			})
+		);
+		expect(kaydiOku()).toEqual(BOS_KAYIT);
+	});
 });
