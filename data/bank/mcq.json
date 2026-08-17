@@ -4413,5 +4413,413 @@
     "source": "Vikipedi: Bertone",
     "kaynak_id": "150012#15",
     "kaynak_baslik": "Bertone"
+  },
+  {
+    "id": "m0205",
+    "mode": "mcq",
+    "prompt": "Fear Factory'nin bugün grupta bulunan tek orijinal üyesi kimdir?",
+    "choices": [
+      "Burton C. Bell",
+      "Christian Olde Wolbers",
+      "Gene Hoglan",
+      "Dino Cazares"
+    ],
+    "correct_index": 3,
+    "explanation": "Gitarist Cazares kurucu üye; vokalist Burton C. Bell 31 yıl kaldıktan sonra 2020'de ayrıldı.",
+    "topics": [
+      "müzik"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Fear Factory",
+    "kaynak_id": "1546572#1",
+    "kaynak_baslik": "Fear Factory"
+  },
+  {
+    "id": "m0206",
+    "mode": "mcq",
+    "prompt": "\"Altı Ok\" olarak bilinen Atatürk İlkeleri'ne ilk kez hangi yıl \"Kemalizm\" adı verilmiştir?",
+    "choices": [
+      "1937",
+      "1923",
+      "1931",
+      "1935"
+    ],
+    "correct_index": 2,
+    "explanation": "1931'de \"Kemalizm\" adı verildi; 13 Mayıs 1935'te ise \"Kamâlizm\" adıyla CHP'nin program ilkeleri olarak benimsendi.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Atatürk İlkeleri",
+    "kaynak_id": "179099#0",
+    "kaynak_baslik": "Atatürk İlkeleri"
+  },
+  {
+    "id": "m0207",
+    "mode": "mcq",
+    "prompt": "Bakü'de ilk elektrikli tramvay hangi tarihte kullanıma açılmıştır?",
+    "choices": [
+      "8 Şubat 1924",
+      "1922",
+      "1903",
+      "1889"
+    ],
+    "correct_index": 0,
+    "explanation": "Elektrikli tramvay önerisi 1903'te geldi ama ancak 20 yıl sonra, Bakü Sovyeti döneminde hayata geçti; 1889'da atlı tramvay vardı.",
+    "topics": [
+      "tarih",
+      "ulaşım"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Bakü",
+    "kaynak_id": "16711#19",
+    "kaynak_baslik": "Bakü"
+  },
+  {
+    "id": "m0208",
+    "mode": "mcq",
+    "prompt": "Çanakkale'de Marmara Denizi'ne geçilip geçilemeyeceğini araştırmak için hangi denizaltının kullanılmasına karar verilmiştir?",
+    "choices": [
+      "Joule",
+      "Saphir",
+      "B-9",
+      "B-11"
+    ],
+    "correct_index": 3,
+    "explanation": "Amiral Carden'ın Abluka Filosu'nda üç İngiliz (B9, B10, B11) ve üç Fransız denizaltısı vardı; görev B-11'e verildi.",
+    "topics": [
+      "tarih",
+      "denizcilik"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Çanakkale Savaşı deniz harekâtları",
+    "kaynak_id": "120230#17",
+    "kaynak_baslik": "Çanakkale Savaşı deniz harekâtları"
+  },
+  {
+    "id": "m0209",
+    "mode": "mcq",
+    "prompt": "Addison hastalığını 1849'da ilk kez tanımlayan hekim kimdir?",
+    "choices": [
+      "Karl Adolph von Basedow",
+      "Robert James Graves",
+      "Thomas Addison",
+      "Caleb Hillier Parry"
+    ],
+    "correct_index": 2,
+    "explanation": "Graves hastalığı ise 1835'te bir guatr vakasını tanımlayan İrlandalı doktor Robert James Graves'in adını taşır.",
+    "topics": [
+      "sağlık",
+      "bilim"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Endokrinoloji",
+    "kaynak_id": "10523#23",
+    "kaynak_baslik": "Endokrinoloji"
+  },
+  {
+    "id": "m0210",
+    "mode": "mcq",
+    "prompt": "Aerosmith'in 1975'te yayımlanan ve grubu süperstar konumuna taşıyan albümü hangisidir?",
+    "choices": [
+      "Draw the Line",
+      "Get Your Wings",
+      "Rocks",
+      "Toys in the Attic"
+    ],
+    "correct_index": 3,
+    "explanation": "1975 tarihli Toys in the Attic ve onu izleyen 1976 tarihli Rocks, grubu dünyanın en popüler hard rock topluluklarından biri yaptı.",
+    "topics": [
+      "müzik"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Aerosmith",
+    "kaynak_id": "11168#2",
+    "kaynak_baslik": "Aerosmith"
+  },
+  {
+    "id": "m0211",
+    "mode": "mcq",
+    "prompt": "Atari, 1982 yılında video oyunu pazarının yüzde kaçını elinde tutuyordu?",
+    "choices": [
+      "%40",
+      "%70",
+      "%25",
+      "%90"
+    ],
+    "correct_index": 1,
+    "explanation": "Bu hâkimiyete rağmen şirket 1991'in ilk çeyreğinde iki milyon doların üzerinde zarar açıkladı.",
+    "topics": [
+      "teknoloji",
+      "ekonomi"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Bıçak Sırtı",
+    "kaynak_id": "11239#20",
+    "kaynak_baslik": "Bıçak Sırtı"
+  },
+  {
+    "id": "m0212",
+    "mode": "mcq",
+    "prompt": "Syd Barrett, Pink Floyd'un bir üyesi olarak hangi yıl Rock and Roll Hall of Fame'e girmiştir?",
+    "choices": [
+      "1996",
+      "1979",
+      "1988",
+      "2006"
+    ],
+    "correct_index": 0,
+    "explanation": "Barrett 1972'de müziği bırakıp inzivaya çekilmişti; 1988'de Opel albümü yayımlandı, 2006'da hayatını kaybetti.",
+    "topics": [
+      "müzik"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Syd Barrett",
+    "kaynak_id": "11900#3",
+    "kaynak_baslik": "Syd Barrett"
+  },
+  {
+    "id": "m0213",
+    "mode": "mcq",
+    "prompt": "2017 Küresel Barış Endeksi'ne göre dünyanın en barışsever ülkesi hangisidir?",
+    "choices": [
+      "İzlanda",
+      "Finlandiya",
+      "Suriye",
+      "Güney Sudan"
+    ],
+    "correct_index": 0,
+    "explanation": "Aynı endekste en az barışsever ülke Suriye'ydi; Finlandiya ise 2015 Kırılgan Devletler Endeksi'nde en az kırılgan devletti.",
+    "topics": [
+      "siyaset",
+      "coğrafya"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Barış",
+    "kaynak_id": "186978#118",
+    "kaynak_baslik": "Barış"
+  },
+  {
+    "id": "m0214",
+    "mode": "mcq",
+    "prompt": "Şenol Güneş yönetimindeki Beşiktaş, 2016'da Napoli'yi deplasmanda yenerek kaç maçlık yenilmezlik serisine son vermiştir?",
+    "choices": [
+      "7",
+      "25",
+      "10",
+      "18"
+    ],
+    "correct_index": 3,
+    "explanation": "Beşiktaş, San Paolo'da oynanan maçı 3-2 kazanarak Napoli'nin 18 maçlık serisini bitirdi.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Şenol Güneş",
+    "kaynak_id": "12282#28",
+    "kaynak_baslik": "Şenol Güneş"
+  },
+  {
+    "id": "m0215",
+    "mode": "mcq",
+    "prompt": "Kartal ilçesinden 1992 yılında hangi ilçeler ayrılmıştır?",
+    "choices": [
+      "Kadıköy ve Ataşehir",
+      "Adalar ve Bakırköy",
+      "Maltepe ve Sultanbeyli",
+      "Pendik ve Samandıra"
+    ],
+    "correct_index": 2,
+    "explanation": "Pendik 1987'de, Maltepe ve Sultanbeyli 1992'de, Samandıra ise 2009'da ayrıldı; bu ayrılmalar Kartal'ın nüfusunu azalttı.",
+    "topics": [
+      "coğrafya"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Kartal, İstanbul",
+    "kaynak_id": "12722#12",
+    "kaynak_baslik": "Kartal, İstanbul"
+  },
+  {
+    "id": "m0216",
+    "mode": "mcq",
+    "prompt": "Ankara Muharebesi sonrası Timur'un atamasıyla Amasya çevresinde emirliğini ilan eden Osmanlı şehzadesi kimdir?",
+    "choices": [
+      "Kubadoğlu Ali Bey",
+      "Kubadoğlu Cüneyd Bey",
+      "Mehmed Çelebi",
+      "Taşanoğlu Ahmed Bey"
+    ],
+    "correct_index": 2,
+    "explanation": "Mehmed Çelebi, Kubadoğlu Ali Bey'i bozguna uğratıp Taşanoğlu Ahmed Bey'i Samsun valisi olarak atadı.",
+    "topics": [
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Samsun",
+    "kaynak_id": "130434#21",
+    "kaynak_baslik": "Samsun"
+  },
+  {
+    "id": "m0217",
+    "mode": "mcq",
+    "prompt": "Babür hükümdarı Hümayun, Şir Şah Surî tarafından tahtından edildikten sonra kaç yıl sürgünde yaşamıştır?",
+    "choices": [
+      "25",
+      "10",
+      "15",
+      "5"
+    ],
+    "correct_index": 2,
+    "explanation": "Hümayun 1555'te Sirhind Muharebesi'nde Surî İmparatorluğu'nu yenerek Hindistan'daki imparatorluğu yeniden kurdu.",
+    "topics": [
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Babürlüler",
+    "kaynak_id": "130779#7",
+    "kaynak_baslik": "Babürlüler"
+  },
+  {
+    "id": "m0218",
+    "mode": "mcq",
+    "prompt": "Robert Millikan, Einstein'ın fotoelektrik etki yasasını doğrulayan çalışmasıyla Nobel Ödülü'nü hangi yıl almıştır?",
+    "choices": [
+      "1914",
+      "1923",
+      "1921",
+      "1905"
+    ],
+    "correct_index": 1,
+    "explanation": "Millikan deneyini 1914'te yaptı, Nobel'i 1923'te aldı; Einstein ise aynı yasanın keşfi için 1921'de ödüllendirilmişti.",
+    "topics": [
+      "bilim"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Fotoelektrik etkisi",
+    "kaynak_id": "14051#4",
+    "kaynak_baslik": "Fotoelektrik etkisi"
+  },
+  {
+    "id": "m0219",
+    "mode": "mcq",
+    "prompt": "İzlanda'da 2008 mali krizinin ardından, 2009 yılında kaç kişi ülkeden göç etmiştir?",
+    "choices": [
+      "50.000",
+      "20.000",
+      "500",
+      "5.000"
+    ],
+    "correct_index": 3,
+    "explanation": "Bu, 1887'den bu yana İzlanda'dan yaşanan en büyük göç dalgasıydı.",
+    "topics": [
+      "ekonomi",
+      "coğrafya"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: İzlanda",
+    "kaynak_id": "14602#9",
+    "kaynak_baslik": "İzlanda"
+  },
+  {
+    "id": "m0220",
+    "mode": "mcq",
+    "prompt": "Paul McCartney'nin 1995'te kaydettiği klasik müzik çalışması A Leaf'te birlikte çalıştığı piyanist kimdir?",
+    "choices": [
+      "George Martin",
+      "Elvis Costello",
+      "Anya Alexeyev",
+      "Carl Davis"
+    ],
+    "correct_index": 2,
+    "explanation": "Carl Davis ile Liverpool Oratorio projesinde çalışmıştı; A Leaf sonrası üç klasik albüm daha kaydetti.",
+    "topics": [
+      "müzik"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Paul McCartney",
+    "kaynak_id": "14811#20",
+    "kaynak_baslik": "Paul McCartney"
+  },
+  {
+    "id": "m0221",
+    "mode": "mcq",
+    "prompt": "Rage Against the Machine'in The Battle of Los Angeles albümü ilk haftasında kaç kopya satmıştır?",
+    "choices": [
+      "80.000",
+      "150.000",
+      "1.000.000",
+      "450.000"
+    ],
+    "correct_index": 3,
+    "explanation": "Albüm listelere bir numaradan girdi ve çift platin elde etti; Rolling Stone'un tüm zamanların en iyi 500 albümü listesinde 426. sırada yer aldı.",
+    "topics": [
+      "müzik"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Rage Against the Machine",
+    "kaynak_id": "16726#10",
+    "kaynak_baslik": "Rage Against the Machine"
+  },
+  {
+    "id": "m0222",
+    "mode": "mcq",
+    "prompt": "Samsunspor, beş amatör lig takımının birleşmesiyle hangi tarihte kurulmuştur?",
+    "choices": [
+      "1 Ağustos 1965",
+      "19 Mayıs 1960",
+      "30 Haziran 1965",
+      "29 Temmuz 1965"
+    ],
+    "correct_index": 2,
+    "explanation": "Kulüp 30 Haziran 1965'te vücut buldu; ilk antrenmanını 1 Ağustos 1965'te seyirciye açık olarak yaptı.",
+    "topics": [
+      "spor",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Samsunspor (futbol takımı)",
+    "kaynak_id": "18327#6",
+    "kaynak_baslik": "Samsunspor (futbol takımı)"
+  },
+  {
+    "id": "m0223",
+    "mode": "mcq",
+    "prompt": "Acaralılar hangi yüzyılda Romalılar aracılığıyla Hristiyanlığı kabul etmiştir?",
+    "choices": [
+      "17. yüzyıl",
+      "12. yüzyıl",
+      "7. yüzyıl",
+      "4. yüzyıl"
+    ],
+    "correct_index": 3,
+    "explanation": "17. yüzyıldan itibaren ise halkın tamamına yakını Sünniliğin Hanefi mezhebini benimsedi.",
+    "topics": [
+      "tarih",
+      "din"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Acara Özerk Cumhuriyeti",
+    "kaynak_id": "18356#29",
+    "kaynak_baslik": "Acara Özerk Cumhuriyeti"
   }
 ]
