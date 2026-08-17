@@ -13,5 +13,10 @@ data/raw/.bundle.mjs
 .DS_Store
 node_modules/
 
+# Next.js derleme ciktisi ve uretilen tip dosyasi.
+.next/
+out/
+next-env.d.ts
+
 # Diger oturumlarin actigi worktree kopyalari - ayri git depolari.
 .claude/worktrees/

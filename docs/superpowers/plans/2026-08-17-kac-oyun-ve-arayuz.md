@@ -33,12 +33,10 @@
 | `lib/game/daily.ts` | Tarih → günün bulmacası, takvim doğrulama. Saf |
 | `lib/game/storage.ts` | localStorage'ın tek kapısı + saf kayıt geçiş fonksiyonları |
 | `lib/game/bank.ts` | JSON bankasını okur, id → soru dizini kurar |
-| `data/bank/fermi.json` | 12 tahmin sorusu |
-| `data/bank/mcq.json` | 28 çoktan seçmeli soru |
-| `data/bank/packs.json` | 4 paket: slug, başlık, renk, soru listesi |
+| `data/bank/fermi.json` | Tahmin soruları — paralel oturumun ürünü, salt okunur |
+| `data/bank/mcq.json` | Çoktan seçmeli sorular — aynı şekilde salt okunur |
+| `data/bank/packs.json` | Paketler: slug, başlık, açıklama, renk, soru listesi |
 | `data/bank/calendar.json` | tarih → 3 soru kimliği |
-| `scripts/build-calendar.mjs` | Takvimi üretir, mevcut günleri korur |
-| `scripts/validate-bank.mjs` | Şema ve kalite kapısı |
 | `components/TahminSlider.tsx` | Logaritmik slider + senkron sayı girişi |
 | `components/SikListesi.tsx` | Dört şık |
 | `components/SonucKarti.tsx` | Cevap açılışı, sapma, peçete hesabı |
@@ -289,12 +287,12 @@ export interface OrtakSoru {
 	topics: string[];
 	difficulty: Zorluk;
 	source: string;
-	source_url?: string;
 	origin: Koken;
 	verified_at: string;
 }
 
 export interface Napkin {
+	type?: string;
 	lead: string;
 	rows: [string, string][];
 }
@@ -303,8 +301,12 @@ export interface FermiSoru extends OrtakSoru {
 	mode: 'fermi';
 	answer: number;
 	unit: string;
-	math: [string, string][];
+	kaynak_soru: string;
+	donusum?: string;
+	math?: [string, string][];
 	napkin?: Napkin;
+	_math_en?: [string, string][];
+	_napkin_en?: Napkin;
 }
 
 export interface McqSoru extends OrtakSoru {
@@ -312,6 +314,8 @@ export interface McqSoru extends OrtakSoru {
 	choices: [string, string, string, string];
 	correct_index: 0 | 1 | 2 | 3;
 	explanation: string;
+	kaynak_id: string;
+	kaynak_baslik: string;
 }
 
 export type Soru = FermiSoru | McqSoru;
@@ -430,10 +434,10 @@ describe('soruPuani', () => {
 		difficulty: 1,
 		source: 's',
 		origin: 'original',
-		verified_at: '2026-08-17',
+		verified_at: '2026-08',
 		answer: 100,
 		unit: 'adet',
-		math: []
+		kaynak_soru: 'q1'
 	};
 
 	const mcq: McqSoru = {
@@ -443,11 +447,13 @@ describe('soruPuani', () => {
 		topics: [],
 		difficulty: 1,
 		source: 's',
-		origin: 'original',
-		verified_at: '2026-08-17',
+		origin: 'wiki',
+		verified_at: '2026-08',
 		choices: ['a', 'b', 'c', 'd'],
 		correct_index: 2,
-		explanation: 'cunku'
+		explanation: 'cunku',
+		kaynak_id: 'k1',
+		kaynak_baslik: 'Kaynak'
 	};
 
 	it('tipe gore dogru fonksiyona yonlenir', () => {
@@ -1012,14 +1018,22 @@ git commit -m "feat: localStorage kaliciligi ve streak kurallari"
 
 ---
 
-### Task 5: Tohum soru bankası, doğrulama ve takvim üretimi
+### Task 5: Banka yükleyicisi
+
+> Bu task 2026-08-17'de yeniden yazıldı. Özgün hali "40 soruluk tohum set üret + doğrulama
+> scripti + takvim scripti" diyordu. O iş paralel bir oturumda Python tarafında yapıldı:
+> `data/bank/` altında 224 fermi, 204 mcq, 6 paket ve 100 günlük takvim hazır duruyor;
+> `scripts/build_packs.py`, `build_calendar.py` ve `validate_bank.py` üretimi ve kalite
+> kapısını üstlenmiş durumda. Geriye bu veriyi uygulamaya bağlayan yükleyici kaldı.
+> `scripts/` altına `.mjs` eklenmiyor — orası Python tarafının.
 
 **Files:**
-- Create: `data/bank/fermi.json`, `data/bank/mcq.json`, `data/bank/packs.json`, `data/bank/calendar.json`, `scripts/validate-bank.mjs`, `scripts/build-calendar.mjs`, `lib/game/bank.ts`
+- Create: `lib/game/bank.ts`
+- Modify: `lib/game/types.ts` (`Paket` arayüzüne `aciklama` alanı)
 - Test: `tests/bank.test.ts`
 
 **Interfaces:**
-- Consumes: `Soru`, `Paket`, `TakvimGunu` (Task 2), `takvimHatalari` (Task 3)
+- Consumes: `Soru`, `FermiSoru`, `McqSoru`, `Paket`, `TakvimGunu` (Task 2), `takvimHatalari` (Task 3)
 - Produces:
   - `TUM_SORULAR: Soru[]`
   - `SORU_DIZINI: Map<string, Soru>`
@@ -1028,323 +1042,65 @@ git commit -m "feat: localStorage kaliciligi ve streak kurallari"
   - `sorulariGetir(ids: string[]): Soru[]` — bulunamayan id'de hata fırlatır
   - `paketiGetir(slug: string): Paket | null`
 
-**İçerik kuralı — dikkat:** Cevaplar uydurulmaz. Her sorunun `answer` / `correct_index` değeri güvenilir bir kaynaktan doğrulanır, `source` alanına kaynak yazılır, `verified_at` alanına doğrulama tarihi (`2026-08-17`) yazılır. Doğrulanamayan bir soru bankaya girmez, yerine listeden başka bir konu seçilir. `validate-bank.mjs` boş `source` alanını reddeder.
+**Testlerde sayı sabitlemek yasak.** Banka canlı: paralel oturum soru eklemeye devam ediyor
+ve fermi sorularındaki İngilizce `_math_en` / `_napkin_en` alanlarını Türkçe `math` /
+`napkin` alanlarına çevirip eskilerini silecek. `expect(TUM_SORULAR).toHaveLength(428)`
+gibi bir iddia yarın kırılır ve kırıldığında kimseye bir şey öğretmez. Testler yapısal
+olacak: banka boş değil, kimlikler tekil, her paketin her sorusu çözülebiliyor, takvim
+geçerli. Aynı sebeple **paket başına sabit fermi/mcq oranı da varsayılmayacak** —
+`mutfaktaki-fizik` paketi 9 fermi + 1 mcq, diğer beşi 3 + 7.
 
-- [ ] **Step 1: Soru listesini yaz**
+- [ ] **Step 0: Ölü script komutlarını kaldır**
 
-Dört paket, her biri 3 fermi + 7 mcq. Aşağıdaki `prompt` metinleri kullanılacak; cevaplar doğrulanarak doldurulacak.
+Task 1, `package.json` içine `bank:validate` ve `bank:calendar` komutlarını yazmıştı; ikisi de
+artık var olmayan `.mjs` dosyalarına işaret ediyor ve çalıştırılırsa hata veriyor. O iş Python
+tarafına geçti. Her iki satırı da `scripts` bloğundan sil; `dev`, `build`, `test`, `test:watch`
+kalsın.
 
-**`sayilarla-istanbul` — Sayılarla İstanbul** (renk `#26215C`, metin `#EEEDFE`)
+- [ ] **Step 1: `Paket` tipine `aciklama` ekle**
 
-| id | mode | prompt |
-|---|---|---|
-| f1 | fermi | İstanbul'da günde kaç simit satılıyor? |
-| f2 | fermi | İstanbul Boğazı'ndan bir yılda kaç gemi geçiyor? |
-| f3 | fermi | İstanbul metrosunda günde kaç yolcu taşınıyor? |
-| m1 | mcq | Boğaziçi Köprüsü hangi yıl trafiğe açıldı? |
-| m2 | mcq | İstanbul'un nüfus olarak en kalabalık ilçesi hangisi? |
-| m3 | mcq | Kapalıçarşı'da yaklaşık kaç dükkân var? |
-| m4 | mcq | İstanbul kaç ilçeden oluşur? |
-| m5 | mcq | Galata Kulesi yaklaşık kaç metre yüksekliğinde? |
-| m6 | mcq | Marmaray hangi yıl hizmete girdi? |
-| m7 | mcq | Kız Kulesi hangi kıyının açığında yer alır? |
+`lib/game/types.ts` içindeki `Paket` arayüzünü şununla değiştir:
 
-**`dunyayi-olcmek` — Dünyayı Ölçmek** (renk `#0F6E56`, metin `#E1F5EE`)
-
-| id | mode | prompt |
-|---|---|---|
-| f4 | fermi | Dünya'nın ekvator çevresi kaç kilometre? |
-| f5 | fermi | Bir insanın kalbi ortalama bir ömür boyunca kaç kez atar? |
-| f6 | fermi | Dünyada bir günde kaç tarifeli uçak seferi yapılıyor? |
-| m8 | mcq | Güneş'ten çıkan ışık Dünya'ya yaklaşık kaç dakikada ulaşır? |
-| m9 | mcq | Okyanusların ortalama derinliği yaklaşık kaç metre? |
-| m10 | mcq | Everest Dağı'nın deniz seviyesinden yüksekliği kaç metre? |
-| m11 | mcq | En geniş yüzölçümüne sahip okyanus hangisi? |
-| m12 | mcq | Sahra Çölü hangi kıtada yer alır? |
-| m13 | mcq | Bir yıl yaklaşık kaç saniyedir? |
-| m14 | mcq | Dünya'nın kaç doğal uydusu var? |
-
-**`mutfaktaki-fizik` — Mutfaktaki Fizik** (renk `#993C1D`, metin `#FAECE7`)
-
-| id | mode | prompt |
-|---|---|---|
-| f7 | fermi | Bir çay bardağı suyu kaynatmak kaç joule enerji ister? |
-| f8 | fermi | Türkiye'de bir yılda kaç bardak çay içiliyor? |
-| f9 | fermi | Ortalama bir buzdolabı yılda kaç kilovatsaat elektrik harcar? |
-| m15 | mcq | Su deniz seviyesinde kaç derecede kaynar? |
-| m16 | mcq | Düdüklü tencere yemeği neden daha hızlı pişirir? |
-| m17 | mcq | Karamelizasyon yaklaşık kaç derecede başlar? |
-| m18 | mcq | Mikrodalga fırın öncelikle hangi molekülü titreştirir? |
-| m19 | mcq | Ekmek hamurunu kabartan mikroorganizma hangisi? |
-| m20 | mcq | Buzun normal koşullarda erime sıcaklığı kaç derecedir? |
-| m21 | mcq | Yumurta akındaki proteinler pişerken ne olur? |
-
-**`tarihin-rakamlari` — Tarihin Rakamları** (renk `#993556`, metin `#FBEAF0`)
-
-| id | mode | prompt |
-|---|---|---|
-| f10 | fermi | Giza'daki Büyük Piramit'te yaklaşık kaç taş blok var? |
-| f11 | fermi | Osmanlı İmparatorluğu kaç yıl ayakta kaldı? |
-| f12 | fermi | Tarihî İpek Yolu'nun toplam uzunluğu kaç kilometre? |
-| m22 | mcq | İstanbul hangi yıl fethedildi? |
-| m23 | mcq | Türkiye Cumhuriyeti hangi yıl ilan edildi? |
-| m24 | mcq | Birinci Dünya Savaşı kaç yıl sürdü? |
-| m25 | mcq | Matbaayı Avrupa'da kim geliştirdi? |
-| m26 | mcq | Ay'a ilk insanlı iniş hangi yıl gerçekleşti? |
-| m27 | mcq | Batı Roma İmparatorluğu hangi yüzyılda yıkıldı? |
-| m28 | mcq | Truva antik kenti bugün hangi ilimizin sınırları içinde? |
-
-- [ ] **Step 2: Banka dosyalarını yaz**
-
-`data/bank/fermi.json` — 12 nesnelik dizi. Tam biçim örneği (kalan 11 soru aynı alanlarla):
-
-```json
-[
-  {
-    "id": "f1",
-    "mode": "fermi",
-    "prompt": "İstanbul'da günde kaç simit satılıyor?",
-    "topics": ["istanbul", "gunluk-hayat"],
-    "difficulty": 2,
-    "source": "İstanbul Simit Üreticileri Derneği tahmini",
-    "origin": "original",
-    "verified_at": "2026-08-17",
-    "answer": 2500000,
-    "unit": "simit",
-    "math": [
-      ["İstanbul nüfusu", "~16 milyon"],
-      ["Günde simit alan oran", "× 0,15"],
-      ["16M × 0,15", "≈ 2,5 milyon"]
-    ],
-    "napkin": {
-      "lead": "Tek bir sayıya tutunacak yer yok, o yüzden nüfustan kur. İstanbul'da 16 milyon insan yaşıyor ve her gün her altı kişiden biri bir simit alsa bu bile milyonlara çıkar.",
-      "rows": [
-        ["İstanbul nüfusu", "~16 milyon"],
-        ["Günde simit alan oran", "× 0,15"],
-        ["16M × 0,15", "≈ 2,5 milyon"]
-      ]
-    }
-  }
-]
+```ts
+export interface Paket {
+	slug: string;
+	baslik: string;
+	aciklama?: string;
+	renk: string;
+	metin_rengi: string;
+	soru_ids: string[];
+}
 ```
 
-`data/bank/mcq.json` — 28 nesnelik dizi. Tam biçim örneği:
-
-```json
-[
-  {
-    "id": "m1",
-    "mode": "mcq",
-    "prompt": "Boğaziçi Köprüsü hangi yıl trafiğe açıldı?",
-    "topics": ["istanbul", "tarih"],
-    "difficulty": 1,
-    "source": "Karayolları Genel Müdürlüğü",
-    "origin": "original",
-    "verified_at": "2026-08-17",
-    "choices": ["1965", "1973", "1981", "1988"],
-    "correct_index": 1,
-    "explanation": "Köprü 29 Ekim 1973'te, Cumhuriyet'in 50. yılında açıldı."
-  }
-]
-```
-
-`data/bank/packs.json`:
-
-```json
-[
-  {
-    "slug": "sayilarla-istanbul",
-    "baslik": "Sayılarla İstanbul",
-    "renk": "#26215C",
-    "metin_rengi": "#EEEDFE",
-    "soru_ids": ["f1", "m1", "m2", "f2", "m3", "m4", "f3", "m5", "m6", "m7"]
-  },
-  {
-    "slug": "dunyayi-olcmek",
-    "baslik": "Dünyayı Ölçmek",
-    "renk": "#0F6E56",
-    "metin_rengi": "#E1F5EE",
-    "soru_ids": ["f4", "m8", "m9", "f5", "m10", "m11", "f6", "m12", "m13", "m14"]
-  },
-  {
-    "slug": "mutfaktaki-fizik",
-    "baslik": "Mutfaktaki Fizik",
-    "renk": "#993C1D",
-    "metin_rengi": "#FAECE7",
-    "soru_ids": ["f7", "m15", "m16", "f8", "m17", "m18", "f9", "m19", "m20", "m21"]
-  },
-  {
-    "slug": "tarihin-rakamlari",
-    "baslik": "Tarihin Rakamları",
-    "renk": "#993556",
-    "metin_rengi": "#FBEAF0",
-    "soru_ids": ["f10", "m22", "m23", "f11", "m24", "m25", "f12", "m26", "m27", "m28"]
-  }
-]
-```
-
-Soru sırası bilinçli: her pakette tahmin soruları araya serpiştirilmiş.
-
-- [ ] **Step 3: Doğrulama scriptini yaz**
-
-`scripts/validate-bank.mjs`:
-
-```js
-#!/usr/bin/env node
-import { readFile } from 'node:fs/promises';
-
-const oku = async (ad) => JSON.parse(await readFile(new URL(`../data/bank/${ad}`, import.meta.url), 'utf8'));
-
-const fermi = await oku('fermi.json');
-const mcq = await oku('mcq.json');
-const paketler = await oku('packs.json');
-
-const hatalar = [];
-const sorular = [...fermi, ...mcq];
-const idler = new Set();
-const promptlar = new Set();
-
-for (const s of sorular) {
-	if (idler.has(s.id)) hatalar.push(`tekrar eden id: ${s.id}`);
-	idler.add(s.id);
-
-	const normal = s.prompt.trim().toLocaleLowerCase('tr');
-	if (promptlar.has(normal)) hatalar.push(`tekrar eden soru metni: ${s.id}`);
-	promptlar.add(normal);
-
-	for (const alan of ['prompt', 'source', 'origin', 'verified_at']) {
-		if (!s[alan] || String(s[alan]).trim() === '') hatalar.push(`${s.id}: ${alan} bos`);
-	}
-	if (![1, 2, 3].includes(s.difficulty)) hatalar.push(`${s.id}: difficulty 1-3 disinda`);
-
-	if (s.mode === 'fermi') {
-		if (!(typeof s.answer === 'number' && s.answer > 0)) hatalar.push(`${s.id}: answer pozitif sayi degil`);
-		if (!s.unit) hatalar.push(`${s.id}: unit bos`);
-	} else if (s.mode === 'mcq') {
-		if (!Array.isArray(s.choices) || s.choices.length !== 4) hatalar.push(`${s.id}: 4 sik yok`);
-		else if (new Set(s.choices).size !== 4) hatalar.push(`${s.id}: siklar tekil degil`);
-		if (!(s.correct_index >= 0 && s.correct_index <= 3)) hatalar.push(`${s.id}: correct_index gecersiz`);
-		if (!s.explanation) hatalar.push(`${s.id}: explanation bos`);
-	} else {
-		hatalar.push(`${s.id}: bilinmeyen mode ${s.mode}`);
-	}
-}
-
-// Klasik sizinti: en uzun sik hep dogru cevap olmamali.
-const enUzunDogru = mcq.filter((s) => {
-	const uzunluklar = s.choices.map((c) => c.length);
-	return uzunluklar.indexOf(Math.max(...uzunluklar)) === s.correct_index;
-}).length;
-if (mcq.length && enUzunDogru / mcq.length > 0.4) {
-	hatalar.push(`en uzun sik %${Math.round((enUzunDogru / mcq.length) * 100)} oranla dogru cevap - sik uzunluklarini dengele`);
-}
-
-for (const p of paketler) {
-	if (p.soru_ids.length !== 10) hatalar.push(`${p.slug}: 10 yerine ${p.soru_ids.length} soru`);
-	if (new Set(p.soru_ids).size !== p.soru_ids.length) hatalar.push(`${p.slug}: pakette tekrar eden soru`);
-
-	const eksik = p.soru_ids.filter((id) => !idler.has(id));
-	if (eksik.length) hatalar.push(`${p.slug}: bankada olmayan soru ${eksik.join(', ')}`);
-
-	const fermiSayisi = p.soru_ids.filter((id) => fermi.some((f) => f.id === id)).length;
-	if (fermiSayisi !== 3) hatalar.push(`${p.slug}: 3 yerine ${fermiSayisi} fermi sorusu`);
-}
-
-if (hatalar.length) {
-	console.error(`${hatalar.length} hata:`);
-	for (const h of hatalar) console.error('  - ' + h);
-	process.exit(1);
-}
-console.log(`banka gecerli: ${fermi.length} fermi + ${mcq.length} mcq, ${paketler.length} paket`);
-```
-
-- [ ] **Step 4: Doğrulamayı çalıştır**
-
-Run: `npm run bank:validate`
-Expected: `banka gecerli: 12 fermi + 28 mcq, 4 paket`. Hata çıkarsa veriyi düzelt ve tekrar çalıştır.
-
-- [ ] **Step 5: Takvim scriptini yaz ve çalıştır**
-
-`scripts/build-calendar.mjs`:
-
-```js
-#!/usr/bin/env node
-// Takvimi uretir. Mevcut gunlere DOKUNMAZ - yalnizca sona yeni gun ekler.
-// Boylece banka buyudugunde gecmis bulmacalar degismez.
-import { readFile, writeFile } from 'node:fs/promises';
-
-const BASLANGIC = '2026-08-17';
-const TOHUM = 20260817;
-
-const yol = (ad) => new URL(`../data/bank/${ad}`, import.meta.url);
-const oku = async (ad) => JSON.parse(await readFile(yol(ad), 'utf8'));
-
-const fermi = await oku('fermi.json');
-const mcq = await oku('mcq.json');
-const mevcut = await readFile(yol('calendar.json'), 'utf8').then(JSON.parse).catch(() => []);
-
-function rastgele(tohum) {
-	let a = tohum >>> 0;
-	return () => {
-		a = (a + 0x6d2b79f5) >>> 0;
-		let t = Math.imul(a ^ (a >>> 15), 1 | a);
-		t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t;
-		return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
-	};
-}
-
-function karistir(dizi, uret) {
-	const d = [...dizi];
-	for (let i = d.length - 1; i > 0; i--) {
-		const j = Math.floor(uret() * (i + 1));
-		[d[i], d[j]] = [d[j], d[i]];
-	}
-	return d;
-}
-
-function gunEkle(tarih, adet) {
-	const d = new Date(tarih + 'T00:00:00Z');
-	d.setUTCDate(d.getUTCDate() + adet);
-	return d.toISOString().slice(0, 10);
-}
-
-const kullanilan = new Set(mevcut.flatMap((g) => g.soru_ids));
-const uret = rastgele(TOHUM);
-const kalanFermi = karistir(fermi.map((s) => s.id).filter((id) => !kullanilan.has(id)), uret);
-const kalanMcq = karistir(mcq.map((s) => s.id).filter((id) => !kullanilan.has(id)), uret);
-
-const takvim = [...mevcut];
-let no = mevcut.length ? Math.max(...mevcut.map((g) => g.no)) + 1 : 1;
-let tarih = mevcut.length ? gunEkle(mevcut[mevcut.length - 1].tarih, 1) : BASLANGIC;
-
-// Her gun 1 fermi + 2 mcq.
-while (kalanFermi.length >= 1 && kalanMcq.length >= 2) {
-	takvim.push({ tarih, no, soru_ids: [kalanFermi.pop(), kalanMcq.pop(), kalanMcq.pop()] });
-	no += 1;
-	tarih = gunEkle(tarih, 1);
-}
-
-await writeFile(yol('calendar.json'), JSON.stringify(takvim, null, 2) + '\n');
-console.log(`takvim: ${takvim.length} gun (${takvim[0].tarih} - ${takvim[takvim.length - 1].tarih})`);
-```
-
-`data/bank/calendar.json` dosyasını `[]` içeriğiyle oluştur, sonra:
-
-Run: `npm run bank:calendar`
-Expected: `takvim: 12 gun (2026-08-17 - 2026-08-28)`
-
-- [ ] **Step 6: Failing testleri yaz**
+- [ ] **Step 2: Failing testi yaz**
 
 `tests/bank.test.ts`:
 
 ```ts
 import { describe, it, expect } from 'vitest';
-import { TUM_SORULAR, SORU_DIZINI, PAKETLER, TAKVIM, sorulariGetir, paketiGetir } from '@/lib/game/bank';
+import {
+	TUM_SORULAR,
+	SORU_DIZINI,
+	PAKETLER,
+	TAKVIM,
+	sorulariGetir,
+	paketiGetir
+} from '@/lib/game/bank';
 import { takvimHatalari } from '@/lib/game/daily';
 
-describe('banka', () => {
-	it('40 soru yuklenir', () => {
-		expect(TUM_SORULAR).toHaveLength(40);
+describe('banka yuklenmesi', () => {
+	it('soru bankasi bos degil', () => {
+		expect(TUM_SORULAR.length).toBeGreaterThan(0);
+	});
+
+	it('hem fermi hem mcq sorusu tasir', () => {
+		expect(TUM_SORULAR.some((s) => s.mode === 'fermi')).toBe(true);
+		expect(TUM_SORULAR.some((s) => s.mode === 'mcq')).toBe(true);
+	});
+
+	it('kimlikler tekil', () => {
+		const idler = new Set(TUM_SORULAR.map((s) => s.id));
+		expect(idler.size).toBe(TUM_SORULAR.length);
 	});
 
 	it('dizin her soruyu id ile bulur', () => {
@@ -1352,27 +1108,39 @@ describe('banka', () => {
 			expect(SORU_DIZINI.get(s.id)).toBe(s);
 		}
 	});
+});
 
-	it('dort paket vardir ve her biri 10 soru tutar', () => {
-		expect(PAKETLER).toHaveLength(4);
-		for (const p of PAKETLER) expect(p.soru_ids).toHaveLength(10);
+describe('paketler', () => {
+	it('en az bir paket vardir', () => {
+		expect(PAKETLER.length).toBeGreaterThan(0);
 	});
 
-	it('paket sorulari bankada bulunur', () => {
+	it('her paketin sorulari bankada cozulebilir', () => {
 		for (const p of PAKETLER) {
-			expect(sorulariGetir(p.soru_ids)).toHaveLength(10);
+			expect(sorulariGetir(p.soru_ids)).toHaveLength(p.soru_ids.length);
 		}
 	});
 
-	it('bulunamayan id hata firlatir', () => {
-		expect(() => sorulariGetir(['yok'])).toThrow('bankada olmayan soru: yok');
+	it('paket slug lari tekil', () => {
+		const slugler = new Set(PAKETLER.map((p) => p.slug));
+		expect(slugler.size).toBe(PAKETLER.length);
+	});
+
+	it('her paketin kapak icin gerekli alanlari dolu', () => {
+		for (const p of PAKETLER) {
+			expect(p.baslik.length).toBeGreaterThan(0);
+			expect(p.renk).toMatch(/^#[0-9a-fA-F]{6}$/);
+			expect(p.metin_rengi).toMatch(/^#[0-9a-fA-F]{6}$/);
+		}
 	});
 
 	it('paketiGetir slug ile bulur, yoksa null verir', () => {
-		expect(paketiGetir('sayilarla-istanbul')?.baslik).toBe('Sayılarla İstanbul');
-		expect(paketiGetir('yok')).toBeNull();
+		expect(paketiGetir(PAKETLER[0].slug)).toBe(PAKETLER[0]);
+		expect(paketiGetir('boyle-bir-paket-yok')).toBeNull();
 	});
+});
 
+describe('takvim', () => {
 	it('takvim gecerlidir', () => {
 		expect(takvimHatalari(TAKVIM)).toEqual([]);
 	});
@@ -1382,15 +1150,34 @@ describe('banka', () => {
 			expect(sorulariGetir(gun.soru_ids)).toHaveLength(3);
 		}
 	});
+
+	it('gun numaralari tekil ve artan', () => {
+		const numaralar = TAKVIM.map((g) => g.no);
+		expect(new Set(numaralar).size).toBe(numaralar.length);
+		expect([...numaralar].sort((a, b) => a - b)).toEqual(numaralar);
+	});
+});
+
+describe('sorulariGetir', () => {
+	it('sirayi korur', () => {
+		const ids = TUM_SORULAR.slice(0, 3).map((s) => s.id);
+		expect(sorulariGetir(ids).map((s) => s.id)).toEqual(ids);
+	});
+
+	it('bulunamayan id hata firlatir', () => {
+		expect(() => sorulariGetir(['boyle-bir-soru-yok'])).toThrow(
+			'bankada olmayan soru: boyle-bir-soru-yok'
+		);
+	});
 });
 ```
 
-- [ ] **Step 7: Testleri çalıştır, başarısız olduklarını doğrula**
+- [ ] **Step 3: Testi çalıştır, başarısız olduğunu doğrula**
 
 Run: `npm test tests/bank.test.ts`
 Expected: FAIL — `Failed to resolve import "@/lib/game/bank"`
 
-- [ ] **Step 8: Banka modülünü yaz**
+- [ ] **Step 4: Banka modülünü yaz**
 
 `lib/game/bank.ts`:
 
@@ -1425,16 +1212,161 @@ export function paketiGetir(slug: string): Paket | null {
 }
 ```
 
-- [ ] **Step 9: Testleri çalıştır, geçtiklerini doğrula**
+JSON dosyaları `resolveJsonModule` ile içe aktarılıyor; `tsconfig.json` bunu Task 1'de
+açmıştı. Dosyalar `as` ile daraltılıyor çünkü TypeScript JSON'dan gelen dizgi alanlarını
+geniş `string` olarak çıkarsıyor ve `mode: 'fermi' | 'mcq'` gibi birleşimlere kendiliğinden
+oturmuyor.
+
+- [ ] **Step 5: Testi çalıştır, geçtiğini doğrula**
 
 Run: `npm test`
-Expected: PASS — tüm test dosyaları
+Expected: PASS — mevcut testler + bank testleri
 
-- [ ] **Step 10: Commit**
+- [ ] **Step 6: Commit**
 
 ```bash
-git add data/bank scripts lib/game/bank.ts tests/bank.test.ts package.json
-git commit -m "feat: 40 soruluk tohum banka, dogrulama ve takvim uretimi"
+git add lib/game/bank.ts lib/game/types.ts tests/bank.test.ts
+git commit -m "feat: soru bankasi yukleyicisi"
+```
+
+**Bilinen ödünç — sonraki tur:** `bank.ts` bütün bankayı (şu an ~340 KB JSON) tek parçada
+istemci paketine katıyor. Statik çıktıda çalışır ama ilk yükleme gereğinden ağır: oyuncu
+tek paket oynarken 428 sorunun tamamını indiriyor. Paket başına ayrı JSON'a bölmek
+Task 7'nin değil, ayrı bir performans turunun işi. Şimdilik bilinçli ödünç.
+
+---
+
+### Task 5b: Slider menzilini gerçek bankaya genişlet
+
+> Task 5 sonrası eklendi. Task 2'nin slider menzili fermi.gg'nin bundle'ından alınmıştı:
+> 61 kademe, `10^(kademe/10)`, yani 1 ile 10⁶ arası. Gerçek banka bu aralığa sığmıyor —
+> 224 fermi sorusunun 74'ü 10⁶'nın üstünde, ikisi 1'in altında. O sorularda oyuncu
+> slider'ı sonuna kadar itse bile 0 puan alıyor, yani bankanın üçte biri oynanamaz durumda.
+>
+> Menzil soru başına daraltılmıyor: dar bir menzil cevabın büyüklüğünü ele verir ve oyunun
+> tahmin etme işini yapar. Tek ve geniş bir ölçek herkese aynı bilgiyi verir — yani hiçbir
+> bilgi vermez. Kaba ayarı slider, kesin sayıyı yazılı giriş üstlenir.
+
+**Files:**
+- Modify: `lib/game/scoring.ts` (`SLIDER_MAX`, `sliderDegerine`, `kademeye`)
+- Test: `tests/scoring.test.ts` (yalnızca `slider donusumu` describe bloğu)
+
+**Interfaces:**
+- Consumes: yok
+- Produces: `SLIDER_MAX = 180`; `sliderDegerine(kademe)` → `10^((kademe − 10) / 10)`, yani
+  kademe 0 → 0,1 · kademe 10 → 1 · kademe 180 → 10¹⁷. `kademeye` bunun tersi, sınırlara kilitli.
+
+Bir kademe ×1,26 demek — puan tablosuna göre yaklaşık 4 puan. Slider'ın çözünürlüğü
+oyunun hassasiyetinin altında kalmıyor.
+
+- [ ] **Step 1: Testleri yeni menzile göre yaz**
+
+`tests/scoring.test.ts` içindeki `describe('slider donusumu', ...)` bloğunu **tümüyle**
+şununla değiştir. Dosyanın geri kalanına (oran, fermiPuan, mcqPuan, soruPuani, toplamPuan,
+oranMetni blokları) dokunma.
+
+```ts
+describe('slider donusumu', () => {
+	it('kademe 0 en kucuk degeri verir', () => {
+		expect(sliderDegerine(0)).toBeCloseTo(0.1, 10);
+	});
+
+	it('kademe 10 degeri 1 verir', () => {
+		expect(sliderDegerine(10)).toBeCloseTo(1, 10);
+	});
+
+	it('ust kademe 10^17 verir', () => {
+		expect(sliderDegerine(SLIDER_MAX) / 1e17).toBeCloseTo(1, 6);
+	});
+
+	it('kademeye ve sliderDegerine birbirinin tersi', () => {
+		expect(kademeye(sliderDegerine(43))).toBe(43);
+		expect(kademeye(sliderDegerine(173))).toBe(173);
+	});
+
+	it('bankanin uc degerleri menzile sigar', () => {
+		expect(kademeye(0.1)).toBe(0);
+		expect(kademeye(2e16)).toBe(173);
+		expect(sliderDegerine(kademeye(2e16))).toBeGreaterThan(1e16);
+	});
+
+	it('menzil disi girdiyi sinirlara kilitler', () => {
+		expect(kademeye(0.001)).toBe(0);
+		expect(kademeye(1e30)).toBe(SLIDER_MAX);
+	});
+
+	it('gecersiz girdi 0 verir', () => {
+		expect(kademeye(0)).toBe(0);
+		expect(kademeye(-5)).toBe(0);
+		expect(kademeye(NaN)).toBe(0);
+	});
+});
+```
+
+- [ ] **Step 2: Testleri çalıştır, başarısız olduklarını doğrula**
+
+Run: `npm test tests/scoring.test.ts`
+Expected: FAIL — eski menzil hâlâ yürürlükte, örneğin `sliderDegerine(0)` 1 veriyor ama
+test 0,1 bekliyor; `kademeye(2e16)` 60 veriyor ama test 173 bekliyor.
+
+- [ ] **Step 3: Uygulamayı güncelle**
+
+`lib/game/scoring.ts` dosyasının başındaki üç tanımı şununla değiştir. Dosyadaki diğer
+fonksiyonlara (`oran`, `fermiPuan`, `mcqPuan`, `soruPuani`, `toplamPuan`, `oranMetni`)
+dokunma — puanlama mantığı değişmiyor, yalnızca girdi ölçeği değişiyor.
+
+```ts
+export const SLIDER_MAX = 180;
+
+// Kademe 10 birimi temsil eder: 10^((10 - 10) / 10) = 1. Ofset, olcegin 1'in altina
+// inmesini saglar - bankada yuzde ve metrekare gibi 1'den kucuk cevaplar var.
+const KADEME_OFSETI = 10;
+
+export function sliderDegerine(kademe: number): number {
+	return Math.pow(10, (kademe - KADEME_OFSETI) / 10);
+}
+
+export function kademeye(deger: number): number {
+	if (!Number.isFinite(deger) || deger <= 0) return 0;
+	const kademe = Math.round(Math.log10(deger) * 10) + KADEME_OFSETI;
+	return Math.min(SLIDER_MAX, Math.max(0, kademe));
+}
+```
+
+- [ ] **Step 4: Testleri çalıştır, geçtiklerini doğrula**
+
+Run: `npm test`
+Expected: PASS — bütün test dosyaları. Yalnızca `slider donusumu` bloğu değişti,
+puanlama testlerinin tamamı olduğu gibi geçmeli.
+
+- [ ] **Step 5: Menzilin bankayı gerçekten kapsadığını doğrula**
+
+Aşağıdaki tek seferlik kontrolü çalıştır. Amaç, testlerin uydurma sınır değerlerle değil
+gerçek veriyle uyuştuğunu görmek:
+
+```bash
+node -e "
+const f = require('./data/bank/fermi.json');
+const ALT = 0.1, UST = 1e17;
+const disarida = f.filter(s => s.answer < ALT || s.answer > UST);
+console.log('menzil disinda kalan soru:', disarida.length);
+if (disarida.length) console.log(disarida.map(s => s.id + ': ' + s.answer).join('\n'));
+"
+```
+
+Expected: `menzil disinda kalan soru: 0`
+
+Sıfır çıkmazsa dur ve bildir — bankaya menzilin dışına taşan bir soru girmiş demektir ve
+bunu testleri gevşeterek değil, menzili ya da soruyu düzelterek çözmek gerekir.
+
+- [ ] **Step 6: Commit**
+
+```bash
+git add lib/game/scoring.ts tests/scoring.test.ts
+git commit -m "fix: slider menzilini 0,1 - 10^17 araligina genislet
+
+Banka cevaplarinin ucte biri eski 1 - 10^6 menzilinin ustundeydi ve o
+sorular slider ile tahmin edilemiyordu."
 ```
 
 ---
@@ -1573,9 +1505,8 @@ export function TahminSlider({ birim, deger, onDegisti }: Props) {
 			/>
 
 			<div className="mt-1 flex justify-between text-xs text-[var(--metin-soluk)]">
-				<span>1</span>
-				<span>bin</span>
-				<span>milyon</span>
+				<span>0,1</span>
+				<span>10¹⁷</span>
 			</div>
 		</div>
 	);
@@ -2154,10 +2085,10 @@ const fermi: FermiSoru = {
 	difficulty: 1,
 	source: 's',
 	origin: 'original',
-	verified_at: '2026-08-17',
+	verified_at: '2026-08',
 	answer: 100,
 	unit: 'adet',
-	math: []
+	kaynak_soru: 'q1'
 };
 
 const mcq: McqSoru = {
@@ -2167,11 +2098,13 @@ const mcq: McqSoru = {
 	topics: [],
 	difficulty: 1,
 	source: 's',
-	origin: 'original',
-	verified_at: '2026-08-17',
+	origin: 'wiki',
+	verified_at: '2026-08',
 	choices: ['a', 'b', 'c', 'd'],
 	correct_index: 2,
-	explanation: 'cunku'
+	explanation: 'cunku',
+	kaynak_id: 'k1',
+	kaynak_baslik: 'Kaynak'
 };
 
 const sonuc: SaklananSonuc = {
@@ -2378,9 +2311,6 @@ export default function ArsivSayfa() {
 
 Run: `npm test`
 Expected: PASS — bütün test dosyaları
-
-Run: `npm run bank:validate`
-Expected: `banka gecerli: 12 fermi + 28 mcq, 4 paket`
 
 Run: `npm run build`
 Expected: başarılı
