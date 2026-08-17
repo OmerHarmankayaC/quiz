@@ -1236,6 +1236,141 @@ Task 7'nin değil, ayrı bir performans turunun işi. Şimdilik bilinçli ödün
 
 ---
 
+### Task 5b: Slider menzilini gerçek bankaya genişlet
+
+> Task 5 sonrası eklendi. Task 2'nin slider menzili fermi.gg'nin bundle'ından alınmıştı:
+> 61 kademe, `10^(kademe/10)`, yani 1 ile 10⁶ arası. Gerçek banka bu aralığa sığmıyor —
+> 224 fermi sorusunun 74'ü 10⁶'nın üstünde, ikisi 1'in altında. O sorularda oyuncu
+> slider'ı sonuna kadar itse bile 0 puan alıyor, yani bankanın üçte biri oynanamaz durumda.
+>
+> Menzil soru başına daraltılmıyor: dar bir menzil cevabın büyüklüğünü ele verir ve oyunun
+> tahmin etme işini yapar. Tek ve geniş bir ölçek herkese aynı bilgiyi verir — yani hiçbir
+> bilgi vermez. Kaba ayarı slider, kesin sayıyı yazılı giriş üstlenir.
+
+**Files:**
+- Modify: `lib/game/scoring.ts` (`SLIDER_MAX`, `sliderDegerine`, `kademeye`)
+- Test: `tests/scoring.test.ts` (yalnızca `slider donusumu` describe bloğu)
+
+**Interfaces:**
+- Consumes: yok
+- Produces: `SLIDER_MAX = 180`; `sliderDegerine(kademe)` → `10^((kademe − 10) / 10)`, yani
+  kademe 0 → 0,1 · kademe 10 → 1 · kademe 180 → 10¹⁷. `kademeye` bunun tersi, sınırlara kilitli.
+
+Bir kademe ×1,26 demek — puan tablosuna göre yaklaşık 4 puan. Slider'ın çözünürlüğü
+oyunun hassasiyetinin altında kalmıyor.
+
+- [ ] **Step 1: Testleri yeni menzile göre yaz**
+
+`tests/scoring.test.ts` içindeki `describe('slider donusumu', ...)` bloğunu **tümüyle**
+şununla değiştir. Dosyanın geri kalanına (oran, fermiPuan, mcqPuan, soruPuani, toplamPuan,
+oranMetni blokları) dokunma.
+
+```ts
+describe('slider donusumu', () => {
+	it('kademe 0 en kucuk degeri verir', () => {
+		expect(sliderDegerine(0)).toBeCloseTo(0.1, 10);
+	});
+
+	it('kademe 10 degeri 1 verir', () => {
+		expect(sliderDegerine(10)).toBeCloseTo(1, 10);
+	});
+
+	it('ust kademe 10^17 verir', () => {
+		expect(sliderDegerine(SLIDER_MAX) / 1e17).toBeCloseTo(1, 6);
+	});
+
+	it('kademeye ve sliderDegerine birbirinin tersi', () => {
+		expect(kademeye(sliderDegerine(43))).toBe(43);
+		expect(kademeye(sliderDegerine(173))).toBe(173);
+	});
+
+	it('bankanin uc degerleri menzile sigar', () => {
+		expect(kademeye(0.1)).toBe(0);
+		expect(kademeye(2e16)).toBe(173);
+		expect(sliderDegerine(kademeye(2e16))).toBeGreaterThan(1e16);
+	});
+
+	it('menzil disi girdiyi sinirlara kilitler', () => {
+		expect(kademeye(0.001)).toBe(0);
+		expect(kademeye(1e30)).toBe(SLIDER_MAX);
+	});
+
+	it('gecersiz girdi 0 verir', () => {
+		expect(kademeye(0)).toBe(0);
+		expect(kademeye(-5)).toBe(0);
+		expect(kademeye(NaN)).toBe(0);
+	});
+});
+```
+
+- [ ] **Step 2: Testleri çalıştır, başarısız olduklarını doğrula**
+
+Run: `npm test tests/scoring.test.ts`
+Expected: FAIL — eski menzil hâlâ yürürlükte, örneğin `sliderDegerine(0)` 1 veriyor ama
+test 0,1 bekliyor; `kademeye(2e16)` 60 veriyor ama test 173 bekliyor.
+
+- [ ] **Step 3: Uygulamayı güncelle**
+
+`lib/game/scoring.ts` dosyasının başındaki üç tanımı şununla değiştir. Dosyadaki diğer
+fonksiyonlara (`oran`, `fermiPuan`, `mcqPuan`, `soruPuani`, `toplamPuan`, `oranMetni`)
+dokunma — puanlama mantığı değişmiyor, yalnızca girdi ölçeği değişiyor.
+
+```ts
+export const SLIDER_MAX = 180;
+
+// Kademe 10 birimi temsil eder: 10^((10 - 10) / 10) = 1. Ofset, olcegin 1'in altina
+// inmesini saglar - bankada yuzde ve metrekare gibi 1'den kucuk cevaplar var.
+const KADEME_OFSETI = 10;
+
+export function sliderDegerine(kademe: number): number {
+	return Math.pow(10, (kademe - KADEME_OFSETI) / 10);
+}
+
+export function kademeye(deger: number): number {
+	if (!Number.isFinite(deger) || deger <= 0) return 0;
+	const kademe = Math.round(Math.log10(deger) * 10) + KADEME_OFSETI;
+	return Math.min(SLIDER_MAX, Math.max(0, kademe));
+}
+```
+
+- [ ] **Step 4: Testleri çalıştır, geçtiklerini doğrula**
+
+Run: `npm test`
+Expected: PASS — bütün test dosyaları. Yalnızca `slider donusumu` bloğu değişti,
+puanlama testlerinin tamamı olduğu gibi geçmeli.
+
+- [ ] **Step 5: Menzilin bankayı gerçekten kapsadığını doğrula**
+
+Aşağıdaki tek seferlik kontrolü çalıştır. Amaç, testlerin uydurma sınır değerlerle değil
+gerçek veriyle uyuştuğunu görmek:
+
+```bash
+node -e "
+const f = require('./data/bank/fermi.json');
+const ALT = 0.1, UST = 1e17;
+const disarida = f.filter(s => s.answer < ALT || s.answer > UST);
+console.log('menzil disinda kalan soru:', disarida.length);
+if (disarida.length) console.log(disarida.map(s => s.id + ': ' + s.answer).join('\n'));
+"
+```
+
+Expected: `menzil disinda kalan soru: 0`
+
+Sıfır çıkmazsa dur ve bildir — bankaya menzilin dışına taşan bir soru girmiş demektir ve
+bunu testleri gevşeterek değil, menzili ya da soruyu düzelterek çözmek gerekir.
+
+- [ ] **Step 6: Commit**
+
+```bash
+git add lib/game/scoring.ts tests/scoring.test.ts
+git commit -m "fix: slider menzilini 0,1 - 10^17 araligina genislet
+
+Banka cevaplarinin ucte biri eski 1 - 10^6 menzilinin ustundeydi ve o
+sorular slider ile tahmin edilemiyordu."
+```
+
+---
+
 ### Task 6: Oyun ekranı
 
 **Files:**
@@ -1370,9 +1505,8 @@ export function TahminSlider({ birim, deger, onDegisti }: Props) {
 			/>
 
 			<div className="mt-1 flex justify-between text-xs text-[var(--metin-soluk)]">
-				<span>1</span>
-				<span>bin</span>
-				<span>milyon</span>
+				<span>0,1</span>
+				<span>10¹⁷</span>
 			</div>
 		</div>
 	);
