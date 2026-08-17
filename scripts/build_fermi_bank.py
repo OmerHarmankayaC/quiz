@@ -175,8 +175,13 @@ def main() -> None:
     bilinmeyen = set(napkin_tr) - cevrilmis
     if bilinmeyen:
         sys.exit(f"ceviri dosyasinda bankada olmayan id var: {sorted(bilinmeyen)}")
-    kalan = sayac["t"] - len(cevrilmis)
-    print(f"\npecete hesabi: {len(cevrilmis)} Turkce, {kalan} hala Ingilizce yedekte")
+    # Ham veride math/napkin tasimayan sorular da var; "kalan" olarak yalnizca
+    # gercekten Ingilizce yedek tasiyanlari saymak lazim, ceviri girisi
+    # olmayanlarin hepsini degil.
+    kalan = sum(1 for b in banka if "_math_en" in b or "_napkin_en" in b)
+    napkinli = sum(1 for b in banka if b.get("napkin"))
+    print(f"\npecete hesabi: {len(cevrilmis)} ceviri girisi, {kalan} hala Ingilizce yedekte")
+    print(f"  napkin alani dolu: {napkinli}/{len(banka)} soru")
 
     donusenler = [b for b in banka if "donusum" in b]
     if donusenler:
