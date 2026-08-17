@@ -1,0 +1,305 @@
+[
+  {
+    "id": "m0001",
+    "mode": "mcq",
+    "prompt": "Avrupalıların Amerika Birleşik Devletleri topraklarına ilk belgelenmiş varışı, 1513'te Florida'ya sefer düzenleyen hangi İspanyol kâşif tarafından gerçekleştirilmiştir?",
+    "choices": [
+      "Hernán Cortés",
+      "Juan Ponce de León",
+      "Francisco Pizarro",
+      "Vasco Núñez de Balboa"
+    ],
+    "correct_index": 1,
+    "explanation": "Ponce de León 1513'te Florida'ya ilk seferini yaptı. Columbus 1493'te Porto Riko'ya inmişti ama bugünkü ABD topraklarına ayak basmamıştı.",
+    "topics": [
+      "tarih",
+      "coğrafya"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Amerika Birleşik Devletleri",
+    "kaynak_id": "1958#15",
+    "kaynak_baslik": "Amerika Birleşik Devletleri"
+  },
+  {
+    "id": "m0002",
+    "mode": "mcq",
+    "prompt": "Bizans'ın Puglia'daki ana kalesi Bari, Normanların kuşatmasının ardından hangi yıl düştü?",
+    "choices": [
+      "1060",
+      "1054",
+      "1071",
+      "1068"
+    ],
+    "correct_index": 2,
+    "explanation": "Bari Ağustos 1068'de kuşatıldı ve Nisan 1071'de düştü. Aynı yıl Bizans doğuda Malazgirt'te de yenilgiye uğradı.",
+    "topics": [
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Bizans İmparatorluğu",
+    "kaynak_id": "15917#56",
+    "kaynak_baslik": "Bizans İmparatorluğu"
+  },
+  {
+    "id": "m0003",
+    "mode": "mcq",
+    "prompt": "1804-1867 arasında New Archangel adıyla anılan ve Rus Amerika'sının başkenti olan yerleşim hangisidir?",
+    "choices": [
+      "Cordova",
+      "Valdez",
+      "Nootka Sound",
+      "Sitka"
+    ],
+    "correct_index": 3,
+    "explanation": "Baranof Adası'ndaki Sitka, Rus Amerika'sının başkentiydi ve koloni ABD'ye devredildikten sonra da başkent olarak kaldı.",
+    "topics": [
+      "tarih",
+      "coğrafya"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Alaska",
+    "kaynak_id": "17178#12",
+    "kaynak_baslik": "Alaska"
+  },
+  {
+    "id": "m0004",
+    "mode": "mcq",
+    "prompt": "İtalya, uçağı dünya tarihinde ilk kez bir savaş aleti olarak hangi savaşta kullanmıştır?",
+    "choices": [
+      "İtalyan-Habeş Savaşı",
+      "Kırım Savaşı",
+      "Trablusgarp Savaşı",
+      "I. Dünya Savaşı"
+    ],
+    "correct_index": 2,
+    "explanation": "1911'de Osmanlı Devleti ile İtalya arasındaki Trablusgarp Savaşı'nda uçak ilk kez savaş aracı olarak kullanıldı.",
+    "topics": [
+      "tarih",
+      "havacılık"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: İtalya",
+    "kaynak_id": "1871#106",
+    "kaynak_baslik": "İtalya"
+  },
+  {
+    "id": "m0005",
+    "mode": "mcq",
+    "prompt": "Fenerbahçe'nin 1966-67'de kazandığı ve Türk futbol tarihinin ilk uluslararası başarısı sayılan kupa hangisidir?",
+    "choices": [
+      "UEFA Kupa Galipleri Kupası",
+      "Balkanlar Kupası",
+      "Başbakanlık Kupası",
+      "UEFA Konferans Ligi"
+    ],
+    "correct_index": 1,
+    "explanation": "Fenerbahçe 1966-67 Balkanlar Kupası'nı kazandı. Kupa Galipleri Kupası'nda ise 1963-64'te çeyrek final oynamıştı.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Fenerbahçe SK",
+    "kaynak_id": "1130#3",
+    "kaynak_baslik": "Fenerbahçe SK"
+  },
+  {
+    "id": "m0006",
+    "mode": "mcq",
+    "prompt": "İstanbul, Türkiye'deki sanayi istihdamının yaklaşık yüzde kaçını karşılamaktadır?",
+    "choices": [
+      "%50",
+      "%38",
+      "%20",
+      "%10"
+    ],
+    "correct_index": 2,
+    "explanation": "İstanbul sanayi istihdamının %20'sini karşılar; %38 ise şehrin sahip olduğu endüstriyel alan oranıdır.",
+    "topics": [
+      "ekonomi",
+      "coğrafya"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: İstanbul",
+    "kaynak_id": "13855#46",
+    "kaynak_baslik": "İstanbul"
+  },
+  {
+    "id": "m0007",
+    "mode": "mcq",
+    "prompt": "1982 Anayasası, 7 Kasım 1982'de yapılan halkoylamasında yüzde kaç \"evet\" oyu alarak kabul edildi?",
+    "choices": [
+      "%85,4",
+      "%61,5",
+      "%91,37",
+      "%78,2"
+    ],
+    "correct_index": 2,
+    "explanation": "1982 Anayasası %91,37 \"evet\" oyuyla kabul edildi. %61,5 ise 1961 Anayasası'nın aldığı orandır.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Türkiye'de çok partili dönem",
+    "kaynak_id": "196219#106",
+    "kaynak_baslik": "Türkiye'de çok partili dönem"
+  },
+  {
+    "id": "m0008",
+    "mode": "mcq",
+    "prompt": "Mobile'deki İspanyol garnizonu, bugünkü Alabama topraklarında ABD kuvvetlerine hangi yıl teslim oldu?",
+    "choices": [
+      "1813",
+      "1803",
+      "1783",
+      "1763"
+    ],
+    "correct_index": 0,
+    "explanation": "İspanya bölgenin batı kesimini 1783'ten 13 Nisan 1813'e kadar elinde tuttu; garnizon o tarihte teslim oldu.",
+    "topics": [
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Alabama",
+    "kaynak_id": "17144#11",
+    "kaynak_baslik": "Alabama"
+  },
+  {
+    "id": "m0009",
+    "mode": "mcq",
+    "prompt": "Vladimir Lenin, Sovyetler Birliği'nin hükûmet başkanlığını hangi yıldan itibaren yürütmüştür?",
+    "choices": [
+      "1917",
+      "1922",
+      "1924",
+      "1870"
+    ],
+    "correct_index": 1,
+    "explanation": "Lenin 1917'den itibaren Sovyet Rusya'nın, 1922'den ölümüne kadar da Sovyetler Birliği'nin hükûmet başkanıydı.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Vladimir Lenin",
+    "kaynak_id": "153351#1",
+    "kaynak_baslik": "Vladimir Lenin"
+  },
+  {
+    "id": "m0010",
+    "mode": "mcq",
+    "prompt": "The Undertaker, 1987'de güreş kariyerine başladığında hangi ring adını kullanıyordu?",
+    "choices": [
+      "Texas Red",
+      "The Punisher",
+      "Kane",
+      "Master of Pain"
+    ],
+    "correct_index": 0,
+    "explanation": "Kariyerine \"Texas Red\" adıyla başladı; \"Master of Pain\" ve \"The Punisher\" 1989'da kullandığı sonraki ring adlarıdır.",
+    "topics": [
+      "spor",
+      "kültür"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: The Undertaker",
+    "kaynak_id": "197952#1",
+    "kaynak_baslik": "The Undertaker"
+  },
+  {
+    "id": "m0011",
+    "mode": "mcq",
+    "prompt": "Donald Trump, ABD'nin Dünya Sağlık Örgütü'nden çekilmesinin hangi tarihten itibaren geçerli olacağını duyurmuştu?",
+    "choices": [
+      "Nisan 2020",
+      "Şubat 2020",
+      "Temmuz 2020",
+      "Temmuz 2021"
+    ],
+    "correct_index": 3,
+    "explanation": "Duyuru Temmuz 2020'de yapıldı, ancak çekilmenin Temmuz 2021'den itibaren geçerli olacağı belirtildi.",
+    "topics": [
+      "siyaset",
+      "sağlık"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Donald Trump",
+    "kaynak_id": "174173#116",
+    "kaynak_baslik": "Donald Trump"
+  },
+  {
+    "id": "m0012",
+    "mode": "mcq",
+    "prompt": "Fransız İkinci İmparatorluğu hangi savaş sırasında çökmüştür?",
+    "choices": [
+      "I. Dünya Savaşı",
+      "Fransa-Prusya Savaşı",
+      "Yedi Yıl Savaşları",
+      "Cezayir Savaşı"
+    ],
+    "correct_index": 1,
+    "explanation": "III. Napolyon'un kurduğu İkinci İmparatorluk, 1870'teki Fransa-Prusya Savaşı sırasında çöktü ve yerini Üçüncü Cumhuriyet aldı.",
+    "topics": [
+      "tarih"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Fransa",
+    "kaynak_id": "1857#2",
+    "kaynak_baslik": "Fransa"
+  },
+  {
+    "id": "m0013",
+    "mode": "mcq",
+    "prompt": "Real Madrid, 2011-12 La Liga sezonunda kaç golle şampiyonanın en çok gol atan takımı rekorunu kırdı?",
+    "choices": [
+      "103",
+      "98",
+      "121",
+      "109"
+    ],
+    "correct_index": 3,
+    "explanation": "Real Madrid, Camp Nou'daki El Clásico galibiyetiyle birlikte 109 gole ulaşarak rekoru kırdı.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: José Mourinho",
+    "kaynak_id": "122868#39",
+    "kaynak_baslik": "José Mourinho"
+  },
+  {
+    "id": "m0014",
+    "mode": "mcq",
+    "prompt": "Akıllı tasarımın bilim olmadığına ve devlet okullarında bilim gibi öğretilemeyeceğine hükmeden 2005 tarihli dava hangisidir?",
+    "choices": [
+      "Edwards v. Aguillard",
+      "Scopes Davası",
+      "Epperson v. Arkansas",
+      "Kitzmiller v. Dover Area School"
+    ],
+    "correct_index": 3,
+    "explanation": "2005 tarihli Dover davası akıllı tasarımı okullardan dışladı. Scopes 1925, Epperson ise 1968 tarihlidir.",
+    "topics": [
+      "bilim",
+      "eğitim"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Evrim",
+    "kaynak_id": "11090#108",
+    "kaynak_baslik": "Evrim"
+  }
+]
