@@ -67,6 +67,16 @@ export function kaydiYaz(kayit: OyunKaydi): void {
 	}
 }
 
+// kayit.streak yalnizca bir bulmaca bitince yeniden hesaplanir, bu yuzden ham deger
+// kopmus bir seriyi canliymis gibi gosterir. Gosterim tarafi bu fonksiyondan gecmeli.
+export function gecerliStreak(kayit: OyunKaydi, bugun: string): number {
+	if (kayit.sonOynananGun === null) return 0;
+	if (kayit.sonOynananGun === bugun || kayit.sonOynananGun === oncekiGun(bugun)) {
+		return kayit.streak;
+	}
+	return 0;
+}
+
 export function gunuKaydet(kayit: OyunKaydi, tarih: string, puan: number): OyunKaydi {
 	const ayniGun = kayit.sonOynananGun === tarih;
 	const ardisik = kayit.sonOynananGun === oncekiGun(tarih);

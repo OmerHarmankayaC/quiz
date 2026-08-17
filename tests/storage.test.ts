@@ -4,6 +4,7 @@ import {
 	kaydiOku,
 	kaydiYaz,
 	gunuKaydet,
+	gecerliStreak,
 	paketiKaydet,
 	type OyunKaydi
 } from '@/lib/game/storage';
@@ -48,6 +49,40 @@ describe('gunuKaydet', () => {
 		gunuKaydet(once, '2026-08-18', 300);
 		expect(once.streak).toBe(1);
 		expect(once.sonOynananGun).toBe('2026-08-17');
+	});
+});
+
+describe('gecerliStreak', () => {
+	it('bugun oynandiysa seriyi verir', () => {
+		const k = gunuKaydet(BOS_KAYIT, '2026-08-17', 250);
+		expect(gecerliStreak(k, '2026-08-17')).toBe(1);
+	});
+
+	it('dun oynandiysa seri hala canlidir', () => {
+		let k = gunuKaydet(BOS_KAYIT, '2026-08-16', 250);
+		k = gunuKaydet(k, '2026-08-17', 250);
+		expect(k.streak).toBe(2);
+		expect(gecerliStreak(k, '2026-08-18')).toBe(2);
+	});
+
+	it('iki gun once oynandiysa seri kopmustur', () => {
+		const k = gunuKaydet(BOS_KAYIT, '2026-08-15', 250);
+		expect(k.streak).toBe(1);
+		expect(gecerliStreak(k, '2026-08-17')).toBe(0);
+	});
+
+	it('uzun sure once oynanan seri sifir gosterir', () => {
+		const k: OyunKaydi = { ...BOS_KAYIT, streak: 7, sonOynananGun: '2026-08-03' };
+		expect(gecerliStreak(k, '2026-08-17')).toBe(0);
+	});
+
+	it('hic oynanmadiysa sifirdir', () => {
+		expect(gecerliStreak(BOS_KAYIT, '2026-08-17')).toBe(0);
+	});
+
+	it('ay basinda dun hesabini dogru yapar', () => {
+		const k: OyunKaydi = { ...BOS_KAYIT, streak: 4, sonOynananGun: '2026-07-31' };
+		expect(gecerliStreak(k, '2026-08-01')).toBe(4);
 	});
 });
 
