@@ -7961,5 +7961,441 @@
     "source": "Vikipedi: Denizlispor",
     "kaynak_id": "16070#15",
     "kaynak_baslik": "Denizlispor"
+  },
+  {
+    "id": "m0369",
+    "mode": "mcq",
+    "prompt": "Kolera son 200 yılda kaç büyük salgına yol açmıştır?",
+    "choices": [
+      "On iki",
+      "Yedi",
+      "Üç",
+      "Beş"
+    ],
+    "correct_index": 1,
+    "explanation": "Salgınlar 1817'de Japonya'da, 1826'da Moskova'da, 1831'de Berlin, Paris ve Londra'da başladı; Afrika ve Güneydoğu Asya hâlâ risk bölgeleridir.",
+    "topics": [
+      "sağlık",
+      "tarih"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Kolera",
+    "kaynak_id": "16226#2",
+    "kaynak_baslik": "Kolera"
+  },
+  {
+    "id": "m0370",
+    "mode": "mcq",
+    "prompt": "Köy Enstitüleri, hangi bakanın Milli Eğitim Bakanlığından ayrılmasının ardından kapatılmaya başlanmıştır?",
+    "choices": [
+      "Mustafa Necati",
+      "Reşat Şemsettin Sirer",
+      "Tevfik İleri",
+      "Hasan Âli Yücel"
+    ],
+    "correct_index": 3,
+    "explanation": "Kapatma süreci 1946'da Reşat Şemsettin Sirer döneminde başladı; Köy Öğretmen Okullarında 1954'e kadar 17.251 öğretmen yetişti.",
+    "topics": [
+      "eğitim",
+      "tarih"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Köy enstitüsü",
+    "kaynak_id": "16331#8",
+    "kaynak_baslik": "Köy enstitüsü"
+  },
+  {
+    "id": "m0371",
+    "mode": "mcq",
+    "prompt": "Gauss'un 1809'da yayımladığı ve en küçük kareler yöntemini ayrıntılı olarak ele aldığı eseri neyi konu almaktadır?",
+    "choices": [
+      "Yüzeylerin diferansiyel geometrisi",
+      "Sayılar teorisinin temelleri",
+      "Gök cisimlerinin Güneş çevresindeki hareketleri",
+      "Manyetizmanın matematiksel kuramı"
+    ],
+    "correct_index": 2,
+    "explanation": "Gauss bu yöntemi 1795'ten beri bildiğini iddia etti; Legendre 1805'te, Adrain ise 1808'de aynı yöntemi tanımlamıştı.",
+    "topics": [
+      "bilim",
+      "matematik"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Carl Friedrich Gauss",
+    "kaynak_id": "133593#10",
+    "kaynak_baslik": "Carl Friedrich Gauss"
+  },
+  {
+    "id": "m0372",
+    "mode": "mcq",
+    "prompt": "1689 tarihli İngiliz Yurttaş Hakları Beyannamesi neyi yasa dışı saymıştır?",
+    "choices": [
+      "Parlamento dışı vergilendirmeyi",
+      "Kilise mülklerine el konulmasını",
+      "Sömürge ticaretini",
+      "Baskıcı hükûmet uygulamalarını"
+    ],
+    "correct_index": 3,
+    "explanation": "18. yüzyıldaki iki devrim, Amerikan Bağımsızlık Bildirgesi (1776) ve İnsan ve Yurttaş Hakları Bildirisi (1789) ile büyük hak kazanımları sağladı.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: İnsan hakları",
+    "kaynak_id": "16999#6",
+    "kaynak_baslik": "İnsan hakları"
+  },
+  {
+    "id": "m0373",
+    "mode": "mcq",
+    "prompt": "Türkçü ve Turancı hareketin asıl odak noktası olan Türk Ocağı hangi tarihte kurulmuştur?",
+    "choices": [
+      "1930",
+      "1911",
+      "1908",
+      "15 Mart 1912"
+    ],
+    "correct_index": 3,
+    "explanation": "Örgüt 1912-1930 arasında Türkiye'nin en etkili ideolojik düşünce merkeziydi; Türk Yurdu Cemiyeti ise 1911'de kurulmuştu.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Turancılık",
+    "kaynak_id": "17239#10",
+    "kaynak_baslik": "Turancılık"
+  },
+  {
+    "id": "m0374",
+    "mode": "mcq",
+    "prompt": "Lityumun adı hangi Yunanca kelimeden türetilmiştir?",
+    "choices": [
+      "Kırmızı",
+      "Taş",
+      "Kül",
+      "Hafif"
+    ],
+    "correct_index": 1,
+    "explanation": "Berzelius, elementin katı bir mineralde keşfedilmesini yansıtmak için bu adı seçti; Gmelin 1818'de tuzlarının aleve kırmızı renk verdiğini gözlemledi.",
+    "topics": [
+      "bilim"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Lityum",
+    "kaynak_id": "18320#7",
+    "kaynak_baslik": "Lityum"
+  },
+  {
+    "id": "m0375",
+    "mode": "mcq",
+    "prompt": "Talat Paşa'nın hatıraları kitap hâlinde hangi yıl ve kim tarafından yayımlanmıştır?",
+    "choices": [
+      "1945, Tanin gazetesi",
+      "1921, New York Times Current History",
+      "1946, Hüseyin Cahit Yalçın",
+      "1931, Yeni Şark gazetesi"
+    ],
+    "correct_index": 2,
+    "explanation": "Hatıraların özeti 1921'de New York Times Current History'de çıkmış, 1945'te Tanin'de tefrika edilmişti.",
+    "topics": [
+      "tarih",
+      "kitap"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Talat Paşa",
+    "kaynak_id": "107437#11",
+    "kaynak_baslik": "Talat Paşa"
+  },
+  {
+    "id": "m0376",
+    "mode": "mcq",
+    "prompt": "Eskipazar, hangi ilden alınarak Karabük'e bağlanmıştır?",
+    "choices": [
+      "Kastamonu",
+      "Zonguldak",
+      "Bolu",
+      "Çankırı"
+    ],
+    "correct_index": 3,
+    "explanation": "1946'da ilçe olan Eskipazar, Karabük'ün 6 Haziran 1995'te il statüsü kazanmasıyla bu ile bağlandı.",
+    "topics": [
+      "coğrafya",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Eskipazar",
+    "kaynak_id": "20148#13",
+    "kaynak_baslik": "Eskipazar"
+  },
+  {
+    "id": "m0377",
+    "mode": "mcq",
+    "prompt": "Juventus'un 57 yıl boyunca 890 lig maçı oynadığı stadın II. Dünya Savaşı sonrası aldığı ad nedir?",
+    "choices": [
+      "Stadio Renzo Barbera",
+      "Stadio Comunale Vittorio Pozzo",
+      "Piazza d'Armi Stadı",
+      "Corso Sebastopoli Stadyumu"
+    ],
+    "correct_index": 1,
+    "explanation": "Stat 1934 Dünya Kupası için Mussolini Stadyumu adıyla yeniden açılmıştı.",
+    "topics": [
+      "spor",
+      "mimari"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Juventus FC",
+    "kaynak_id": "20852#10",
+    "kaynak_baslik": "Juventus FC"
+  },
+  {
+    "id": "m0378",
+    "mode": "mcq",
+    "prompt": "Ankara'da 1972'deki metro etüt projesi hangi gerekçeyle DPT tarafından geri çevrilmiştir?",
+    "choices": [
+      "Yer altı su seviyesinin uygun olmadığı",
+      "Nüfus tahminlerinin abartılı olduğu",
+      "Hat güzergâhının yanlış seçildiği",
+      "Fransız teknolojisine bağımlılık yaratacağı"
+    ],
+    "correct_index": 3,
+    "explanation": "EGO'nun Fransız Sofretu firmasıyla yaptığı etüt, toplam 14 km'lik iki metro hattı öngörüyordu; finansman sıkıntısı da etkili oldu.",
+    "topics": [
+      "ulaşım",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Ankara Metrosu",
+    "kaynak_id": "109978#3",
+    "kaynak_baslik": "Ankara Metrosu"
+  },
+  {
+    "id": "m0379",
+    "mode": "mcq",
+    "prompt": "Lewis Hamilton 2008 sezonunu şampiyon olarak tamamlarken son yarışı kaçıncı sırada bitirmiştir?",
+    "choices": [
+      "Üçüncü",
+      "Birinci",
+      "Altıncı",
+      "Beşinci"
+    ],
+    "correct_index": 2,
+    "explanation": "Interlagos'taki yarışı Felipe Massa kazandı ama Hamilton'ın altıncılığı şampiyonluk için yeterli oldu.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Lewis Hamilton",
+    "kaynak_id": "197757#14",
+    "kaynak_baslik": "Lewis Hamilton"
+  },
+  {
+    "id": "m0380",
+    "mode": "mcq",
+    "prompt": "Fidel Castro ve kardeşi Raúl'un 26 Temmuz 1953'te silahlı saldırı düzenlediği hedef neresidir?",
+    "choices": [
+      "Havana Limanı",
+      "Başkanlık Sarayı",
+      "Santiago Radyoevi",
+      "Moncada Kışlası"
+    ],
+    "correct_index": 3,
+    "explanation": "Saldırı başarısız oldu ve Castro kardeşler tutuklandı; devrim, Batista'nın 1952'deki darbesinin ardından başlamıştı.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Küba Devrimi",
+    "kaynak_id": "110941#0",
+    "kaynak_baslik": "Küba Devrimi"
+  },
+  {
+    "id": "m0381",
+    "mode": "mcq",
+    "prompt": "San Antonio Spurs'ün takım renkleri, Chaparrals döneminden sonra hangi renklere değiştirilmiştir?",
+    "choices": [
+      "Kırmızı, beyaz ve mavi",
+      "Siyah, gümüş ve beyaz",
+      "Lacivert ve turuncu",
+      "Yeşil ve altın"
+    ],
+    "correct_index": 1,
+    "explanation": "Takım önce San Antonio Gunslingers adını almış, kısa süre sonra Spurs olmuştu.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: San Antonio Spurs",
+    "kaynak_id": "140157#7",
+    "kaynak_baslik": "San Antonio Spurs"
+  },
+  {
+    "id": "m0382",
+    "mode": "mcq",
+    "prompt": "Pokémon animesinin baş karakteri Ash Ketchum'un memleketi neresidir?",
+    "choices": [
+      "Kanto Limanı",
+      "Pallet Kasabası",
+      "Alola",
+      "Viridian Şehri"
+    ],
+    "correct_index": 1,
+    "explanation": "Ash, ilk bölümde Pokémon ustası olma hayaliyle kasabasından ayrılır; yanında yalnızca Pikachu vardır.",
+    "topics": [
+      "oyun",
+      "kültür"
+    ],
+    "difficulty": 1,
+    "origin": "wiki",
+    "source": "Vikipedi: Ash Ketchum",
+    "kaynak_id": "199165#1",
+    "kaynak_baslik": "Ash Ketchum"
+  },
+  {
+    "id": "m0383",
+    "mode": "mcq",
+    "prompt": "Südet Alman Partisi'ni kuran ve sonuna kadar başkanlığını yürüten kişi kimdir?",
+    "choices": [
+      "Emil Hácha",
+      "Konrad Henlein",
+      "Edvard Beneš",
+      "Reinhard Heydrich"
+    ],
+    "correct_index": 1,
+    "explanation": "Parti 1933'te kuruldu, 1935'ten itibaren Almanya'dan aylık mali destek aldı ve Çekoslovakya'nın ikinci büyük partisi oldu.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Südet Krizi",
+    "kaynak_id": "169884#5",
+    "kaynak_baslik": "Südet Krizi"
+  },
+  {
+    "id": "m0384",
+    "mode": "mcq",
+    "prompt": "\"Depresyon\" kelimesinin kökeni olan Latince deprimere fiili ne anlama gelir?",
+    "choices": [
+      "Ağırlaşmak",
+      "Karanlığa çekilmek",
+      "Uzaklaşmak",
+      "Aşağı bastırmak"
+    ],
+    "correct_index": 3,
+    "explanation": "Terim 1860'lardan itibaren tıp sözlüklerinde duygusal fonksiyonların gerilemesi anlamında yer almaya başladı.",
+    "topics": [
+      "sağlık",
+      "kültür"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Majör depresif bozukluk",
+    "kaynak_id": "205996#48",
+    "kaynak_baslik": "Majör depresif bozukluk"
+  },
+  {
+    "id": "m0385",
+    "mode": "mcq",
+    "prompt": "Komintern Yürütme Kurulunun ilk başkanlığını 1919-1926 arasında kim yapmıştır?",
+    "choices": [
+      "Nikolay Buharin",
+      "Grigori Zinovyev",
+      "Bela Kun",
+      "Karl Korsch"
+    ],
+    "correct_index": 1,
+    "explanation": "Zinovyev, Haziran 1924'teki V. Kongre'de Lukacs ve Korsch'u revizyonizmle suçladı; aynı yıl Stalin \"tek ülkede sosyalizm\" tezini ortaya attı.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Komintern",
+    "kaynak_id": "113301#17",
+    "kaynak_baslik": "Komintern"
+  },
+  {
+    "id": "m0386",
+    "mode": "mcq",
+    "prompt": "Fransa, A400M'in hangi eksikliği nedeniyle 2016'da dört adet C-130J satın alacağını duyurmuştur?",
+    "choices": [
+      "Helikoptere uçuş içi yakıt ikmali yapamaması",
+      "Yeterli menzile ulaşamaması",
+      "Kısa pistlere inememesi",
+      "Zırhlı araç taşıyamaması"
+    ],
+    "correct_index": 0,
+    "explanation": "ONERA, Temmuz 2016'da 36,5 metrelik hortumla helikopter ikmaline izin veren konfigürasyonun rüzgâr tüneli denemelerini doğruladı.",
+    "topics": [
+      "havacılık",
+      "askeri"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Airbus A400M Atlas",
+    "kaynak_id": "201947#13",
+    "kaynak_baslik": "Airbus A400M Atlas"
+  },
+  {
+    "id": "m0387",
+    "mode": "mcq",
+    "prompt": "Valentina Tereşkova, 1975'te hangi şehirdeki Birleşmiş Milletler Uluslararası Kadınlar Konferansı'nda Sovyet temsilciliğini yapmıştır?",
+    "choices": [
+      "Cezayir",
+      "Moskova",
+      "Mexico City",
+      "Kopenhag"
+    ],
+    "correct_index": 2,
+    "explanation": "Ayrıca Sovyet delegasyonunu Kopenhag'daki Dünya Kadın Konferansı'na götürdü ve 1966'da Dünya Barış Konseyi üyesi oldu.",
+    "topics": [
+      "uzay",
+      "siyaset"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Valentina Tereşkova",
+    "kaynak_id": "116036#16",
+    "kaynak_baslik": "Valentina Tereşkova"
+  },
+  {
+    "id": "m0388",
+    "mode": "mcq",
+    "prompt": "Konyaspor, 2019-20 sezonunda Aykut Kocaman ile yolları ayırdıktan sonra hangi teknik direktörü göreve getirmiştir?",
+    "choices": [
+      "Rıza Çalımbay",
+      "Fatih Terim",
+      "Bülent Korkmaz",
+      "İlhan Palut"
+    ],
+    "correct_index": 2,
+    "explanation": "Kocaman 44 resmî maçta 9 galibiyet almıştı; takım sezonu 36 puanla 13. sırada tamamladı.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Konyaspor",
+    "kaynak_id": "19938#13",
+    "kaynak_baslik": "Konyaspor"
   }
 ]
