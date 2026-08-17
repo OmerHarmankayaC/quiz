@@ -4191,38 +4191,37 @@
     "answer": 20000000000000000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "People on Earth",
-        "~8 billion"
+        "Dünyadaki insan",
+        "~8 milyar"
       ],
       [
-        "Ants per person",
-        "~2.5 million"
+        "Kişi başına karınca",
+        "~2,5 milyon"
       ],
       [
-        "2022 PNAS global census",
-        "≈ 20 quadrillion"
+        "2022 PNAS küresel sayımı",
+        "≈ 20 katrilyon"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Ants are underfoot on every continent. Here's a handle: for every person on Earth, how many ants are there? The famous line is a million each, but it's really more. Call it a couple million, times 8 billion people.",
+      "lead": "Karıncalar her kıtada ayağının altında. Şöyle bir tutamak var: Dünya'daki her insana kaç karınca düşüyor? Meşhur söz kişi başına bir milyon der ama gerçekte daha fazla. Birkaç milyon de, 8 milyar insanla çarp.",
       "rows": [
         [
-          "People on Earth",
-          "8,000,000,000"
+          "Dünyadaki insan",
+          "8.000.000.000"
         ],
         [
-          "Ants per person",
-          "× ~2 million"
+          "Kişi başına karınca",
+          "× ~2 milyon"
         ],
         [
-          "8B × 2M",
-          "≈ 16 quadrillion"
+          "8 milyar × 2 milyon",
+          "≈ 16 katrilyon"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -4239,35 +4238,35 @@
     "answer": 1300000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Sun's radius vs Earth's",
+        "Güneş'in yarıçapı Dünya'nınkine göre",
         "~109×"
       ],
       [
-        "Volume scales as the cube",
+        "Hacim küple ölçeklenir",
         "109³"
       ],
       [
-        "Sun ÷ Earth volume (NASA)",
-        "≈ 1.3 million"
+        "Güneş ÷ Dünya hacmi (NASA)",
+        "≈ 1,3 milyon"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "The Sun is about 100 times wider than Earth. But things fill up in three dimensions, so volume grows with the cube. Multiply 100 by itself three times.",
+      "lead": "Güneş Dünya'dan yaklaşık 100 kat geniş. Ama hacim üç boyutta doluyor, yani küple büyüyor. 100'ü kendisiyle üç kez çarp.",
       "rows": [
         [
-          "Sun's width vs Earth",
+          "Güneş'in eni Dünya'ya göre",
           "~100×"
         ],
         [
           "100 × 100 × 100",
-          "= 1,000,000"
+          "= 1.000.000"
         ],
         [
-          "Earths that fit",
-          "≈ 1.3 million"
+          "Sığan Dünya",
+          "≈ 1,3 milyon"
         ]
       ]
     }
@@ -4287,18 +4286,18 @@
     "answer": 2500,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Naked-eye stars, whole sky",
-        "~9,100"
+        "Çıplak gözle görülebilen yıldız, tüm gökyüzü",
+        "~9.100"
       ],
       [
-        "You only see half at once",
+        "Aynı anda yalnızca yarısını görürsün",
         "÷ 2"
       ],
       [
-        "Minus horizon haze",
-        "≈ 2,500"
+        "Ufuk pusu düşülünce",
+        "≈ 2.500"
       ]
     ]
   },
@@ -4317,35 +4316,35 @@
     "answer": 37,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Words to say 1 to 1,000,000",
-        "= 8,019,002"
+        "1'den 1.000.000'a saymak için kelime",
+        "= 8.019.002"
       ],
       [
-        "Average speaking pace",
-        "≈ 150 words/min"
+        "Ortalama konuşma hızı",
+        "≈ dakikada 150 kelime"
       ],
       [
-        "8,019,002 ÷ 150 ÷ 60 ÷ 24",
-        "≈ 37 days"
+        "8.019.002 ÷ 150 ÷ 60 ÷ 24",
+        "≈ 37 gün"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "Most numbers in that range take about two words to say, like fifty three or four hundred twelve. Multiply two words by a million and you get roughly eight million words total. A voice assistant talks about as fast as a person, around 150 words a minute. Divide it out.",
+      "lead": "Bu aralıktaki sayıların çoğu iki kelimeyle söyleniyor: elli üç, dört yüz on iki gibi. İki kelimeyi bir milyonla çarp, kabaca sekiz milyon kelime eder. Sesli asistan da insan kadar hızlı konuşur, dakikada 150 kelime.",
       "rows": [
         [
-          "Words to say, roughly",
-          "≈ 8 million"
+          "Söylenecek kelime, kabaca",
+          "≈ 8 milyon"
         ],
         [
-          "Speaking pace",
-          "≈ 150 words/min"
+          "Konuşma hızı",
+          "≈ dakikada 150 kelime"
         ],
         [
-          "8M ÷ 150 ÷ 60 ÷ 24",
-          "≈ 37 days"
+          "8 milyon ÷ 150 ÷ 60 ÷ 24",
+          "≈ 37 gün"
         ]
       ]
     }
@@ -4365,35 +4364,35 @@
     "answer": 15000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Blinks per minute",
+        "Dakikada kırpma",
         "~15-20"
       ],
       [
-        "Waking minutes (16 hrs)",
-        "~1,000"
+        "Uyanık dakika (16 saat)",
+        "~1.000"
       ],
       [
-        "Roughly",
-        "≈ 15,000"
+        "Kabaca",
+        "≈ 15.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "You blink without ever thinking about it. How often? Maybe 15 times a minute. You're awake around 16 hours, which is about 1,000 minutes.",
+      "lead": "Hiç düşünmeden göz kırpıyorsun. Ne sıklıkla? Dakikada 15 kez kadar. Günde 16 saat uyanıksın, yani yaklaşık 1.000 dakika.",
       "rows": [
         [
-          "Blinks per minute",
+          "Dakikada kırpma",
           "~15"
         ],
         [
-          "Waking minutes",
-          "× ~1,000"
+          "Uyanık dakika",
+          "× ~1.000"
         ],
         [
-          "15 × 1,000",
-          "≈ 15,000"
+          "15 × 1.000",
+          "≈ 15.000"
         ]
       ]
     }
@@ -4412,38 +4411,37 @@
     "answer": 308,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Matches played",
+        "Oynanan maç",
         "104"
       ],
       [
-        "Avg goals per match",
-        "2.96"
+        "Maç başına ortalama gol",
+        "2,96"
       ],
       [
-        "Total goals",
+        "Toplam gol",
         "308"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Start with the tournament's size. The 2026 World Cup expanded to 48 teams, the biggest field ever, playing around 100 matches total. How many goals land in a typical match? Usually just under 3. Multiply those together and you're already close.",
+      "lead": "Turnuvanın boyutundan başla. 2026 Dünya Kupası 48 takıma çıktı, tarihin en geniş katılımı — toplam 100 kadar maç. Tipik bir maçta kaç gol oluyor? Genelde 3'ün biraz altı. İkisini çarp, zaten yaklaştın.",
       "rows": [
         [
-          "2026 World Cup matches",
+          "2026 Dünya Kupası maçı",
           "≈ 100"
         ],
         [
-          "Goals per match",
+          "Maç başına gol",
           "≈ 3"
         ],
         [
           "100 × 3",
           "≈ 300"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -4461,57 +4459,37 @@
     "origin": "translated",
     "verified_at": "2026-08",
     "donusum": "256 feet (feet -> metre)",
-    "_math_en": [
+    "math": [
       [
-        "Record distance",
-        "78.014 m"
+        "Rekor mesafe",
+        "78,014 m"
       ],
       [
-        "Guinness-stated conversion",
+        "Guinness kaydı",
         "255 ft 11 in"
       ],
       [
-        "Rounded",
-        "≈ 256 ft"
+        "Yuvarlanmış",
+        "≈ 78 m"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Start with the pitch, about 360 feet end to end. A goalie regularly kicks it past the midfield line, so call a normal boot 180 feet. How much farther does a world record go? Maybe 50% more.",
+      "lead": "Sahadan başla: baştan başa 110 metre. Kaleci topu düzenli olarak orta sahayı geçirecek şekilde vuruyor, yani normal bir vuruş 55 metre. Dünya rekoru ne kadar öteye gider? Yarı yarıya fazla.",
       "rows": [
         [
-          "Pitch, end to end",
-          "≈ 360 ft"
+          "Saha, baştan başa",
+          "≈ 110 m"
         ],
         [
-          "Goalie clears midfield",
-          "≈ 180 ft"
+          "Kaleci orta sahayı geçer",
+          "≈ 55 m"
         ],
         [
-          "Record, 50% more",
-          "≈ 270 ft"
+          "Rekor, %50 fazla",
+          "≈ 82 m"
         ]
-      ],
-      "startRow": 0,
-      "system": "imperial",
-      "alt": {
-        "lead": "Start with the pitch, about 110 meters end to end. A goalie regularly kicks it past the midfield line, so call a normal boot 55 meters. How much farther does a world record go? Maybe 50% more.",
-        "rows": [
-          [
-            "Pitch, end to end",
-            "≈ 110 m"
-          ],
-          [
-            "Goalie clears midfield",
-            "≈ 55 m"
-          ],
-          [
-            "Record, 50% more",
-            "≈ 83 m"
-          ]
-        ],
-        "startRow": 0
-      }
+      ]
     }
   },
   {
@@ -4529,38 +4507,37 @@
     "answer": 750000000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "World population (2026)",
-        "≈ 8.3 billion"
+        "Dünya nüfusu (2026)",
+        "≈ 8,3 milyar"
       ],
       [
-        "Share of people with blue eyes",
-        "≈ 8–10%, take 9%"
+        "Mavi gözlü oranı",
+        "≈ %8-10, %9 al"
       ],
       [
-        "8.3B × 9%",
-        "≈ 750,000,000"
+        "8,3 milyar × %9",
+        "≈ 750.000.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "The easiest place to start is the world's population, about 8 billion. How many of them have blue eyes? Not many, brown dominates almost everywhere. Maybe 1 in 10.",
+      "lead": "En kolay başlangıç dünya nüfusu: 8 milyar. Kaçının gözleri mavi? Çok değil, neredeyse her yerde kahverengi baskın. 10'da bir de.",
       "rows": [
         [
-          "World population",
-          "8,000,000,000"
+          "Dünya nüfusu",
+          "8.000.000.000"
         ],
         [
-          "Have blue eyes",
-          "≈ 1 in 10"
+          "Mavi gözlü",
+          "≈ 10'da 1"
         ],
         [
-          "8B ÷ 10",
-          "≈ 800,000,000"
+          "8 milyar ÷ 10",
+          "≈ 800.000.000"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -4578,55 +4555,37 @@
     "answer": 7600,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Physiology estimate (0.5 L/breath × 12 breaths/min × 1,440 min)",
-        "≈ 8,600 L"
+        "Fizyoloji tahmini (0,5 L/nefes × 12 nefes/dk × 1.440 dk)",
+        "≈ 8.600 L"
       ],
       [
-        "American Lung Association published figure (2,000 gal/day)",
-        "≈ 7,570 L"
+        "American Lung Association yayımlanan değer",
+        "≈ 7.570 L"
       ],
       [
-        "Adopted answer",
-        "≈ 7,600 L/day"
+        "Kabul edilen cevap",
+        "≈ 7.600 L/gün"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "How many breaths do you take in a minute? Maybe 12, that feels about right sitting still. There are 1,440 minutes in a day, and each breath moves about half a liter.",
+      "lead": "Dakikada kaç nefes alıyorsun? 12 kadar, oturur hâlde bu doğru geliyor. Günde 1.440 dakika var ve her nefes yarım litre kadar hava taşıyor.",
       "rows": [
         [
-          "Breaths per minute",
+          "Dakikada nefes",
           "≈ 12"
         ],
         [
-          "Times 1,440 minutes in a day",
-          "≈ 17,000 breaths"
+          "Günün 1.440 dakikasıyla",
+          "≈ 17.000 nefes"
         ],
         [
-          "About half a liter each",
-          "≈ 8,600 L"
+          "Her biri yarım litre",
+          "≈ 8.600 L"
         ]
-      ],
-      "system": "metric",
-      "alt": {
-        "lead": "How many breaths do you take in a minute? Maybe 12, that feels about right sitting still. There are 1,440 minutes in a day, and each breath moves about a pint of air.",
-        "rows": [
-          [
-            "Breaths per minute",
-            "≈ 12"
-          ],
-          [
-            "Times 1,440 minutes in a day",
-            "≈ 17,000 breaths"
-          ],
-          [
-            "About a pint each (8 pints per gallon)",
-            "≈ 2,100 gal"
-          ]
-        ]
-      }
+      ]
     }
   },
   {
@@ -4644,22 +4603,22 @@
     "answer": 100000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Blonde hair (finest, most numerous)",
-        "≈ 150,000"
+        "Sarı saç (en ince, en çok)",
+        "≈ 150.000"
       ],
       [
-        "Black or brown hair (average density)",
-        "≈ 100,000–110,000"
+        "Siyah veya kahverengi saç (ortalama yoğunluk)",
+        "≈ 100.000-110.000"
       ],
       [
-        "Red hair (thickest, fewest)",
-        "≈ 90,000"
+        "Kızıl saç (en kalın, en az)",
+        "≈ 90.000"
       ],
       [
-        "AAD average across hair colors",
-        "≈ 100,000"
+        "AAD renkler arası ortalama",
+        "≈ 100.000"
       ]
     ]
   },
@@ -4678,39 +4637,39 @@
     "answer": 10,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Romeo and Juliet word count (Open Source Shakespeare)",
-        "≈ 24,545 words"
+        "Romeo ve Juliet kelime sayısı",
+        "≈ 24.545 kelime"
       ],
       [
-        "Average typing speed (Ratatype, 500,000+ tests)",
-        "≈ 40 WPM"
+        "Ortalama yazma hızı",
+        "≈ dakikada 40 kelime"
       ],
       [
-        "24,545 ÷ 40",
-        "≈ 614 minutes"
+        "24.545 ÷ 40",
+        "≈ 614 dakika"
       ],
       [
         "≈",
-        "10 hours"
+        "10 saat"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "How long is the play actually? Full Shakespeare plays run long, maybe 25,000 words. The average person types around 40 words a minute, so divide it out.",
+      "lead": "Oyun gerçekte ne kadar uzun? Shakespeare oyunları uzundur — 25.000 kelime de. Ortalama bir insan dakikada 40 kelime yazar, böl.",
       "rows": [
         [
-          "Words in the play",
-          "≈ 25,000"
+          "Oyundaki kelime",
+          "≈ 25.000"
         ],
         [
-          "Typing speed",
-          "≈ 40 WPM"
+          "Yazma hızı",
+          "≈ dakikada 40 kelime"
         ],
         [
-          "25,000 ÷ 40",
-          "≈ 625 min, about 10 hours"
+          "25.000 ÷ 40",
+          "≈ 625 dakika, yaklaşık 10 saat"
         ]
       ]
     }
@@ -4730,46 +4689,41 @@
     "answer": 300000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Public saunas",
-        "≈ 4,000"
+        "Halka açık sauna",
+        "≈ 4.000"
       ],
       [
-        "Private saunas (homes, summer houses, apartment blocks)",
-        "≈ 300,000"
+        "Özel sauna (evler, yazlıklar, apartmanlar)",
+        "≈ 300.000"
       ],
       [
-        "Cited estimate (public + private)",
-        "≈ 300,000"
+        "İsveç nüfusu",
+        "≈ 10,5 milyon"
       ],
       [
-        "Sweden population",
-        "≈ 10.5 million"
-      ],
-      [
-        "Ratio",
-        "≈ 1 sauna per 35 people"
+        "Oran",
+        "≈ 35 kişiye 1 sauna"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "The easiest place to start is Swedish households, about 4.5 million of them. A sauna there is a fixture rather than a luxury: in houses, in summer cabins, in the basement of an apartment block. How many households have one? Call it 1 in 15.",
+      "lead": "En kolay başlangıç İsveç haneleri: 4,5 milyon kadar. Orada sauna lüks değil, demirbaş: evlerde, yazlıklarda, apartman bodrumlarında. Kaç hanede var? 15'te bir de.",
       "rows": [
         [
-          "Swedish households",
-          "4,500,000"
+          "İsveç hanesi",
+          "4.500.000"
         ],
         [
-          "Share with a sauna",
+          "Saunası olan pay",
           "× 1/15"
         ],
         [
-          "4.5M ÷ 15",
-          "≈ 300,000"
+          "4,5 milyon ÷ 15",
+          "≈ 300.000"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -4787,57 +4741,37 @@
     "answer": 500,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "1 US ton",
-        "2,000 lbs"
+        "1 ton",
+        "907 kg"
       ],
       [
-        "Average whole pineapple (produce-industry range 2-6 lb by variety)",
-        "≈ 4 lbs"
+        "Ortalama bütün ananas (çeşide göre 1-2,7 kg)",
+        "≈ 1,8 kg"
       ],
       [
-        "2,000 ÷ 4",
-        "500"
+        "907 ÷ 1,8",
+        "≈ 500"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "A US ton is 2,000 pounds, easy to remember. How much does one pineapple weigh? Feels like a bowling ball, maybe 4 pounds~. Divide the two.",
+      "lead": "Bir ton 900 kilo kadar. Bir ananas ne çeker? Bowling topu gibi hissettiriyor — 1,8 kilo de. İkisini böl.",
       "rows": [
         [
-          "1 US ton",
-          "2,000 lbs"
+          "1 ton",
+          "≈ 900 kg"
         ],
         [
-          "One pineapple",
-          "≈ 4 lbs"
+          "Bir ananas",
+          "≈ 1,8 kg"
         ],
         [
-          "2,000 ÷ 4",
+          "900 ÷ 1,8",
           "≈ 500"
         ]
-      ],
-      "startRow": 0,
-      "system": "imperial",
-      "alt": {
-        "lead": "A US ton is 2,000 pounds, which is about 900 kilograms. How much does one pineapple weigh? Feels like a bowling ball, maybe 1.8 kilograms~. Divide the two.",
-        "rows": [
-          [
-            "1 US ton",
-            "≈ 900 kg"
-          ],
-          [
-            "One pineapple",
-            "≈ 1.8 kg"
-          ],
-          [
-            "900 ÷ 1.8",
-            "≈ 500"
-          ]
-        ],
-        "startRow": 0
-      }
+      ]
     }
   },
   {
@@ -4855,39 +4789,39 @@
     "answer": 1760,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "LOTR trilogy word count (excl. appendices)",
-        "≈ 481,000 words"
+        "LOTR üçlemesi kelime sayısı (ekler hariç)",
+        "≈ 481.000 kelime"
       ],
       [
-        "× avg. letters/word, × share of letters that are 'O'",
-        "× 4.79 × 7.64%"
+        "× kelime başına ortalama harf, × 'O' harflerinin payı",
+        "× 4,79 × %7,64"
       ],
       [
-        "Total O's needed to spell the text",
-        "≈ 176,000"
+        "Metni yazmak için gereken toplam O",
+        "≈ 176.000"
       ],
       [
-        "÷ pasta O's per can (est., unpublished)",
-        "≈ 1,760 cans"
+        "÷ kutu başına makarna O'su (tahmini)",
+        "≈ 1.760 kutu"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "Lord of the Rings runs about half a million words. Words average around 5 letters each, so that's a couple million letters. How many of those are O? Maybe 1 in 12. A can of SpaghettiOs probably holds around 100 pieces of pasta.",
+      "lead": "Yüzüklerin Efendisi yarım milyon kelime kadar. Kelimeler ortalama 5 harf, yani birkaç milyon harf. Bunların kaçı O? 12'de bir de. Bir kutu SpaghettiOs'ta 100 kadar makarna vardır.",
       "rows": [
         [
-          "Trilogy word count",
-          "~500,000"
+          "Üçlemenin kelime sayısı",
+          "~500.000"
         ],
         [
-          "Letters per word",
+          "Kelime başına harf",
           "× 5"
         ],
         [
-          "2.5M letters, 1 in 12 are O's, ÷ 100 per can",
-          "≈ 2,000 cans"
+          "2,5 milyon harfin 12'de 1'i O, ÷ kutu başına 100",
+          "≈ 2.000 kutu"
         ]
       ]
     }
@@ -4907,59 +4841,41 @@
     "answer": 24700000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Boston Marathon field size (BAA)",
-        "≈ 30,000 runners"
+        "Boston Maratonu katılımcı sayısı (BAA)",
+        "≈ 30.000 koşucu"
       ],
       [
-        "Avg. calories burned per marathon",
-        "× 2,800 kcal"
+        "Maraton başına ortalama yakılan kalori",
+        "× 2.800 kcal"
       ],
       [
-        "Total calories burned by the field",
-        "≈ 84,000,000 kcal"
+        "Katılımcıların yaktığı toplam kalori",
+        "≈ 84.000.000 kcal"
       ],
       [
-        "÷ calories per M&M (3.4 kcal)",
-        "≈ 24.7 million M&M's"
+        "÷ M&M başına kalori (3,4 kcal)",
+        "≈ 24,7 milyon"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "The Boston Marathon fields about 30,000 runners a year. Running 26 miles burns a lot of energy, maybe 3,000 calories a person. One M&M is basically nothing, worth about 3 calories.",
+      "lead": "Boston Maratonu'na yılda 30 bin kadar koşucu katılıyor. 42 kilometre koşmak çok enerji yakar — kişi başına 3.000 kalori de. Bir M&M ise neredeyse hiç: 3 kalori.",
       "rows": [
         [
-          "Boston Marathon runners",
-          "~30,000"
+          "Boston Maratonu koşucusu",
+          "~30.000"
         ],
         [
-          "Calories burned each",
-          "× 3,000"
+          "Kişi başına yakılan kalori",
+          "× 3.000"
         ],
         [
-          "90 million ÷ 3 cal per M&M",
-          "≈ 30 million M&M's"
+          "90 milyon ÷ M&M başına 3 kalori",
+          "≈ 30 milyon"
         ]
-      ],
-      "system": "imperial",
-      "alt": {
-        "lead": "The Boston Marathon fields about 30,000 runners a year. Running 42 kilometers burns a lot of energy, maybe 3,000 calories a person. One M&M is basically nothing, worth about 3 calories.",
-        "rows": [
-          [
-            "Boston Marathon runners",
-            "~30,000"
-          ],
-          [
-            "Calories burned each",
-            "× 3,000"
-          ],
-          [
-            "90 million ÷ 3 cal per M&M",
-            "≈ 30 million M&M's"
-          ]
-        ]
-      }
+      ]
     }
   },
   {
@@ -4977,59 +4893,41 @@
     "answer": 16700000000000000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Earth-Proxima Centauri distance",
-        "≈ 4.24 light-years"
+        "Dünya-Proxima Centauri uzaklığı",
+        "≈ 4,24 ışık yılı"
       ],
       [
-        "Converted to meters",
-        "≈ 4.01 × 10^16 m"
+        "Metreye çevrilmiş",
+        "≈ 4,01 × 10¹⁶ m"
       ],
       [
-        "Horse length, nose to tail ('horse length' racing unit)",
-        "÷ 2.4 m"
+        "At boyu, burundan kuyruğa",
+        "÷ 2,4 m"
       ],
       [
-        "Centaurs, head to tail",
-        "≈ 16.7 quadrillion"
+        "Baştan kuyruğa sentor",
+        "≈ 16,7 katrilyon"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "Proxima Centauri is the nearest star outside our solar system, about 4 light years away. A light year is something like 6 trillion miles. A horse-sized centaur runs maybe 8 feet nose to tail.",
+      "lead": "Proxima Centauri Güneş sistemimizin dışındaki en yakın yıldız, 4 ışık yılı uzakta. Bir ışık yılı 9,5 trilyon kilometre kadar. At boyunda bir sentor burundan kuyruğa 2,5 metre.",
       "rows": [
         [
-          "Distance to Proxima Centauri",
-          "~4 light-years"
+          "Proxima Centauri'ye uzaklık",
+          "~4 ışık yılı"
         ],
         [
-          "Miles in a light-year",
-          "× 6 trillion"
+          "Işık yılında kilometre",
+          "× 9,5 trilyon"
         ],
         [
-          "24 trillion miles, in feet, ÷ 8 ft per centaur",
-          "≈ 16 quadrillion"
+          "38 trilyon km, metreye çevir, ÷ sentor başına 2,5 m",
+          "≈ 15 katrilyon"
         ]
-      ],
-      "system": "imperial",
-      "alt": {
-        "lead": "Proxima Centauri is the nearest star outside our solar system, about 4 light years away. A light year is something like 10 trillion kilometers. A horse-sized centaur runs maybe 2.5 meters nose to tail.",
-        "rows": [
-          [
-            "Distance to Proxima Centauri",
-            "~4 light-years"
-          ],
-          [
-            "Kilometers in a light-year",
-            "× 10 trillion"
-          ],
-          [
-            "40 trillion km, in meters, ÷ 2.5 m per centaur",
-            "≈ 16 quadrillion"
-          ]
-        ]
-      }
+      ]
     }
   },
   {
@@ -5047,57 +4945,37 @@
     "answer": 3610000000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "OIV 2024 first estimate for France",
-        "36.1 million hL"
+        "OIV 2024 Fransa ilk tahmini",
+        "36,1 milyon hektolitre"
       ],
       [
-        "Convert hectoliters to liters",
+        "Hektolitreyi litreye çevir",
         "× 100"
       ],
       [
-        "36.1M × 100",
-        "≈ 3.61 billion"
+        "36,1 milyon × 100",
+        "≈ 3,61 milyar"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "The easiest place to start is France's population, about 68 million~. How much wine does that work out to per person, once you count everything that gets exported? France makes way more than it drinks, so guess something high, maybe 50 liters a year each.",
+      "lead": "En kolay başlangıç Fransa'nın nüfusu: 68 milyon. İhraç edilen her şeyi de sayınca kişi başına ne kadar şarap düşüyor? Fransa içtiğinden çok daha fazlasını üretiyor, yüksek tahmin et — yılda 50 litre.",
       "rows": [
         [
-          "French population",
-          "68,000,000"
+          "Fransa nüfusu",
+          "68.000.000"
         ],
         [
-          "Wine produced per person per year",
-          "× 50 liters"
+          "Kişi başına yıllık üretilen şarap",
+          "× 50 litre"
         ],
         [
-          "68M × 50",
-          "≈ 3.4 billion"
+          "68 milyon × 50",
+          "≈ 3,4 milyar"
         ]
-      ],
-      "startRow": 0,
-      "system": "metric",
-      "alt": {
-        "lead": "The easiest place to start is France's population, about 68 million~. How much wine does that work out to per person, once you count everything that gets exported? France makes way more than it drinks, so guess something high, maybe 13 gallons a year each.",
-        "rows": [
-          [
-            "French population",
-            "68,000,000"
-          ],
-          [
-            "Wine produced per person per year",
-            "× 13 gallons"
-          ],
-          [
-            "68M × 13",
-            "≈ 900 million"
-          ]
-        ],
-        "startRow": 0
-      }
+      ]
     }
   },
   {
@@ -5114,38 +4992,33 @@
     "answer": 12000000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Dogs + cats in Italy, 2024 (Assalco-Zoomark)",
-        "≈ 20 million"
+        "İtalya'da köpek + kedi, 2024 (Assalco-Zoomark)",
+        "≈ 20 milyon"
       ],
       [
-        "Cats specifically, up over 1 million on the year before",
-        "≈ 12 million"
-      ],
-      [
-        "Used as answer",
-        "= 12 million"
+        "Yalnızca kedi, bir önceki yıla göre 1 milyon fazla",
+        "≈ 12 milyon"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Start with Italian households, something like 25 million~ of them. How many keep a cat around? Cats are hugely popular there, and plenty of owners have more than one, so guess it evens out to about half of all households.",
+      "lead": "İtalyan hanelerinden başla: 25 milyon kadar. Kaçında kedi var? Kediler orada çok seviliyor ve birçok sahibinin birden fazla kedisi var; hanelerin yarısında var gibi düşün.",
       "rows": [
         [
-          "Italian households",
-          "25,000,000"
+          "İtalyan hanesi",
+          "25.000.000"
         ],
         [
-          "Keep a cat (some keep two or three)",
-          "≈ 1 in 2"
+          "Kedi besleyen (bazıları iki üç)",
+          "≈ 2'de 1"
         ],
         [
-          "25M ÷ 2",
-          "≈ 12 million"
+          "25 milyon ÷ 2",
+          "≈ 12 milyon"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -5163,18 +5036,14 @@
     "answer": 365000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Nutella made across roughly 11 Ferrero factories worldwide",
-        "multiple sites"
+        "Nutella dünya genelinde ~11 Ferrero fabrikasında üretiliyor",
+        "birden fazla tesis"
       ],
       [
-        "Commonly cited industry/press estimate",
-        "≈ 365,000 tonnes/year"
-      ],
-      [
-        "Used as answer",
-        "= 365,000 tonnes"
+        "Yaygın sektör ve basın tahmini",
+        "≈ yılda 365.000 ton"
       ]
     ]
   },
@@ -5192,57 +5061,37 @@
     "answer": 7500000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "World cocoa bean grindings, 2023/24 (ICCO, a demand proxy)",
-        "≈ 4.85 million tonnes"
+        "Dünya kakao çekirdeği öğütmesi, 2023/24 (ICCO, talep göstergesi)",
+        "≈ 4,85 milyon ton"
       ],
       [
-        "Chocolate product weight vs. cocoa content (added sugar, milk, etc.)",
-        "× ≈ 1.55"
+        "Çikolata ürün ağırlığı / kakao içeriği (şeker, süt vb.)",
+        "× ≈ 1,55"
       ],
       [
-        "Estimated global chocolate consumption by weight",
-        "≈ 7.5 million tonnes"
+        "Tahmini küresel çikolata tüketimi",
+        "≈ 7,5 milyon ton"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "The easiest place to start is world population, about 8 billion~. How much chocolate does the average person eat in a year? A lot of people barely touch it, but plenty eat it all the time, so guess it evens out to around a kilogram each.",
+      "lead": "En kolay başlangıç dünya nüfusu: 8 milyar. Ortalama bir insan yılda ne kadar çikolata yiyor? Çoğu neredeyse hiç yemiyor ama bir kısmı sürekli yiyor; ortalamada kişi başına bir kilo de.",
       "rows": [
         [
-          "World population",
-          "8,000,000,000"
+          "Dünya nüfusu",
+          "8.000.000.000"
         ],
         [
-          "Chocolate eaten per person, per year",
+          "Kişi başına yıllık çikolata",
           "× 1 kg"
         ],
         [
-          "8B × 1 kg",
-          "≈ 8 million tonnes"
+          "8 milyar × 1 kg",
+          "≈ 8 milyon ton"
         ]
-      ],
-      "startRow": 0,
-      "system": "metric",
-      "alt": {
-        "lead": "The easiest place to start is world population, about 8 billion~. How much chocolate does the average person eat in a year? A lot of people barely touch it, but plenty eat it all the time, so guess it evens out to around 2 pounds each.",
-        "rows": [
-          [
-            "World population",
-            "8,000,000,000"
-          ],
-          [
-            "Chocolate eaten per person, per year",
-            "× 2 lbs"
-          ],
-          [
-            "16B lbs ÷ 2,000",
-            "≈ 8 million tons"
-          ]
-        ],
-        "startRow": 0
-      }
+      ]
     }
   },
   {
@@ -5260,34 +5109,29 @@
     "answer": 230000000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Omdia full-year 2024 global TV shipments",
-        "≈ 230 million units"
-      ],
-      [
-        "Used as answer",
-        "= 230 million"
+        "Omdia 2024 tam yıl küresel TV sevkiyatı",
+        "≈ 230 milyon adet"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Start with households worldwide, something like 2 billion~. How often does a household replace its TV? Not that often, maybe once every 8 years.",
+      "lead": "Dünyadaki hanelerden başla: 2 milyar kadar. Bir hane televizyonunu ne sıklıkla değiştiriyor? O kadar sık değil — 8 yılda bir de.",
       "rows": [
         [
-          "Households worldwide",
-          "2,000,000,000"
+          "Dünyadaki hane",
+          "2.000.000.000"
         ],
         [
-          "Replace a TV every",
-          "~8 years"
+          "TV değiştirme sıklığı",
+          "~8 yıl"
         ],
         [
-          "2B ÷ 8",
-          "≈ 250 million"
+          "2 milyar ÷ 8",
+          "≈ 250 milyon"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -5305,34 +5149,33 @@
     "answer": 550000000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Widely cited McDonald's-sourced estimate, U.S. annual Big Mac sales",
-        "≈ 550 million"
+        "McDonald's kaynaklı yaygın tahmin, ABD yıllık Big Mac satışı",
+        "≈ 550 milyon"
       ],
       [
-        "Figure repeated consistently across press coverage including around 2017",
-        "= 550 million"
+        "Basında tutarlı biçimde tekrarlanan değer",
+        "= 550 milyon"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Start with McDonald's US locations, something like 14,000~ of them. How many Big Macs does one store sell in a day? Call it 100, spread across breakfast, lunch, and dinner rushes.",
+      "lead": "McDonald's'ın ABD şubelerinden başla: 14.000 kadar. Bir şube günde kaç Big Mac satıyor? Kahvaltı, öğle ve akşam yoğunluğuna yayılmış 100 de.",
       "rows": [
         [
-          "McDonald's US locations",
-          "≈ 14,000"
+          "McDonald's ABD şubesi",
+          "≈ 14.000"
         ],
         [
-          "Big Macs sold per store per day",
+          "Şube başına günlük Big Mac",
           "× 100"
         ],
         [
-          "14,000 × 100 × 365",
-          "≈ 510 million"
+          "14.000 × 100 × 365",
+          "≈ 510 milyon"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
