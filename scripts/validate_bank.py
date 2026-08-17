@@ -20,11 +20,14 @@ from __future__ import annotations
 import json
 import sys
 from collections import Counter
+from datetime import date, timedelta
 from pathlib import Path
 
 KOK = Path(__file__).resolve().parent.parent
 FERMI = KOK / "data" / "bank" / "fermi.json"
 MCQ = KOK / "data" / "bank" / "mcq.json"
+PACKS = KOK / "data" / "bank" / "packs.json"
+CALENDAR = KOK / "data" / "bank" / "calendar.json"
 
 hatalar: list[str] = []
 uyarilar: list[str] = []
@@ -114,9 +117,100 @@ def mcq_kontrol(kayitlar: list[dict]) -> None:
                     uyarilar.append(f"mcq: {i}. indeks dengesiz ({dagilim.get(i, 0)}/{len(kayitlar)})")
 
 
+def paket_kontrol(paketler: list[dict], dizin: dict[str, dict]) -> None:
+    sluglar = Counter(p.get("slug") for p in paketler)
+    for slug, adet in sluglar.items():
+        if adet > 1:
+            hatalar.append(f"paket: '{slug}' slug'i {adet} kez kullanilmis")
+
+    gorulen_soru: dict[str, str] = {}
+    for p in paketler:
+        slug = p.get("slug", "?")
+        idler = p.get("soru_ids", [])
+
+        if len(idler) != 10:
+            uyarilar.append(f"paket {slug}: 10 soru bekleniyor, {len(idler)} var")
+        if len(set(idler)) != len(idler):
+            hatalar.append(f"paket {slug}: ayni soru birden fazla kez listelenmis")
+
+        for alan in ("baslik", "aciklama", "renk", "metin_rengi"):
+            if not p.get(alan):
+                hatalar.append(f"paket {slug}: '{alan}' bos")
+        for alan in ("renk", "metin_rengi"):
+            deger = p.get(alan, "")
+            if deger and not (deger.startswith("#") and len(deger) == 7):
+                hatalar.append(f"paket {slug}: {alan} '#RRGGBB' bicminde olmali ({deger})")
+
+        fermi_sayisi = 0
+        for qid in idler:
+            soru = dizin.get(qid)
+            if soru is None:
+                hatalar.append(f"paket {slug}: bankada olmayan soru '{qid}'")
+                continue
+            if soru["mode"] == "fermi":
+                fermi_sayisi += 1
+            if qid in gorulen_soru:
+                hatalar.append(
+                    f"paket {slug}: '{qid}' zaten '{gorulen_soru[qid]}' paketinde"
+                )
+            gorulen_soru[qid] = slug
+
+        # Pecete hesabi her pakette cikmali - bu yuzden fermi bir alt sinir.
+        if fermi_sayisi < 3:
+            hatalar.append(f"paket {slug}: en az 3 fermi gerekli, {fermi_sayisi} var")
+
+
+def takvim_kontrol(takvim: list[dict], dizin: dict[str, dict], paketler: list[dict]) -> None:
+    paket_sorulari = {qid for p in paketler for qid in p.get("soru_ids", [])}
+
+    tarihler = Counter(g.get("tarih") for g in takvim)
+    for t, adet in tarihler.items():
+        if adet > 1:
+            hatalar.append(f"takvim: '{t}' tarihi {adet} kez var")
+
+    onceki_tarih = None
+    onceki_no = 0
+    kullanilan: dict[str, str] = {}
+
+    for gun in takvim:
+        tarih = gun.get("tarih", "?")
+        idler = gun.get("soru_ids", [])
+
+        if len(idler) != 3:
+            hatalar.append(f"takvim {tarih}: 3 soru bekleniyor, {len(idler)} var")
+        if len(set(idler)) != len(idler):
+            hatalar.append(f"takvim {tarih}: gun icinde ayni soru tekrarliyor")
+
+        no = gun.get("no")
+        if not isinstance(no, int) or no != onceki_no + 1:
+            hatalar.append(f"takvim {tarih}: 'no' ardisik degil ({onceki_no} -> {no})")
+        onceki_no = no if isinstance(no, int) else onceki_no
+
+        try:
+            bugun = date.fromisoformat(tarih)
+        except ValueError:
+            hatalar.append(f"takvim: gecersiz tarih '{tarih}' (YYYY-MM-DD olmali)")
+            continue
+        if onceki_tarih and bugun != onceki_tarih + timedelta(days=1):
+            hatalar.append(f"takvim: {onceki_tarih} ile {bugun} arasinda gun atlanmis")
+        onceki_tarih = bugun
+
+        for qid in idler:
+            if qid not in dizin:
+                hatalar.append(f"takvim {tarih}: bankada olmayan soru '{qid}'")
+                continue
+            if qid in kullanilan:
+                hatalar.append(f"takvim {tarih}: '{qid}' {kullanilan[qid]} gununde de var")
+            kullanilan[qid] = tarih
+            if qid in paket_sorulari:
+                hatalar.append(f"takvim {tarih}: '{qid}' bir pakette de kullanilmis")
+
+
 def main() -> None:
     fermi = yukle(FERMI)
     mcq = yukle(MCQ)
+    paketler = yukle(PACKS)
+    takvim = yukle(CALENDAR)
 
     if fermi:
         ortak_kontrol(fermi, "fermi")
@@ -125,7 +219,14 @@ def main() -> None:
         ortak_kontrol(mcq, "mcq")
         mcq_kontrol(mcq)
 
+    dizin = {q["id"]: q for q in fermi + mcq if q.get("id")}
+    if paketler:
+        paket_kontrol(paketler, dizin)
+    if takvim:
+        takvim_kontrol(takvim, dizin, paketler)
+
     print(f"fermi: {len(fermi)} soru | mcq: {len(mcq)} soru | toplam: {len(fermi) + len(mcq)}")
+    print(f"paket: {len(paketler)} | takvim: {len(takvim)} gun")
 
     if uyarilar:
         print(f"\n{len(uyarilar)} uyari:")

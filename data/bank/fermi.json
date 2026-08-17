@@ -9339,5 +9339,1541 @@
       ],
       "startRow": 0
     }
+  },
+  {
+    "id": "f0180",
+    "mode": "fermi",
+    "prompt": "Türkiye'nin yüzölçümüne kaç tane Kıbrıs adası sığar?",
+    "unit": "kat",
+    "answer": 85,
+    "topics": [
+      "coğrafya",
+      "matematik"
+    ],
+    "difficulty": 2,
+    "source": "Türkiye 783.562 km², Kıbrıs adası 9.251 km²",
+    "origin": "original",
+    "verified_at": "2026-08",
+    "napkin": {
+      "type": "chain",
+      "lead": "Türkiye'yi kabaca 800 bin km², Kıbrıs'ı da 9-10 bin km² kabul et; gerisi tek bölme.",
+      "rows": [
+        [
+          "Türkiye yüzölçümü",
+          "783.562 km²"
+        ],
+        [
+          "Kıbrıs adası",
+          "9.251 km²"
+        ],
+        [
+          "783.562 ÷ 9.251",
+          "≈ 85"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f0181",
+    "mode": "fermi",
+    "prompt": "Ağrı Dağı'nın zirvesine ulaşmak için üst üste kaç Galata Kulesi koymak gerekir?",
+    "unit": "kule",
+    "answer": 77,
+    "topics": [
+      "coğrafya",
+      "fizik"
+    ],
+    "difficulty": 2,
+    "source": "Ağrı Dağı 5.137 m, Galata Kulesi 67 m",
+    "origin": "original",
+    "verified_at": "2026-08",
+    "napkin": {
+      "type": "chain",
+      "lead": "Ağrı 5 kilometreyi biraz geçiyor, kule ise 70 metreye yakın. 5.000'i 70'e böl.",
+      "rows": [
+        [
+          "Ağrı Dağı",
+          "5.137 m"
+        ],
+        [
+          "Galata Kulesi",
+          "67 m"
+        ],
+        [
+          "5.137 ÷ 67",
+          "≈ 77"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f0182",
+    "mode": "fermi",
+    "prompt": "Türkiye'nin bütün kıyı şeridini günde 8 saat yürüyerek kaç günde tamamlarsınız?",
+    "unit": "gün",
+    "answer": 208,
+    "topics": [
+      "coğrafya",
+      "günlük"
+    ],
+    "difficulty": 2,
+    "source": "Türkiye kıyı şeridi 8.333 km, yürüme hızı 5 km/sa",
+    "origin": "original",
+    "verified_at": "2026-08",
+    "napkin": {
+      "type": "chain",
+      "lead": "Günde 8 saat, saatte 5 km — yani günde 40 km. Kıyı 8 bin küsur kilometre.",
+      "rows": [
+        [
+          "Kıyı şeridi",
+          "8.333 km"
+        ],
+        [
+          "Günlük yürüyüş",
+          "8 sa × 5 km = 40 km"
+        ],
+        [
+          "8.333 ÷ 40",
+          "≈ 208 gün"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f0183",
+    "mode": "fermi",
+    "prompt": "Türkiye'nin bütün nüfusu el ele tutuşsa oluşan sıra kaç kilometre uzanır?",
+    "unit": "kilometre",
+    "answer": 129000,
+    "topics": [
+      "insan",
+      "coğrafya"
+    ],
+    "difficulty": 3,
+    "source": "Türkiye nüfusu ~85,7 milyon, el ele kişi başı ~1,5 m",
+    "origin": "original",
+    "verified_at": "2026-08",
+    "napkin": {
+      "type": "chain",
+      "lead": "Kollar açık bir insan yaklaşık 1,5 metre yer kaplar. 85 milyonu 1,5 ile çarp.",
+      "rows": [
+        [
+          "Nüfus",
+          "85,7 milyon"
+        ],
+        [
+          "Kişi başı genişlik",
+          "≈ 1,5 m"
+        ],
+        [
+          "85,7M × 1,5 m",
+          "≈ 129.000 km"
+        ],
+        [
+          "Karşılaştırma",
+          "Dünya çevresinin 3 katı"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f0184",
+    "mode": "fermi",
+    "prompt": "İstanbul Boğazı'nın en dar yerine yan yana kaç şehir otobüsü dizilir?",
+    "unit": "otobüs",
+    "answer": 58,
+    "topics": [
+      "coğrafya",
+      "ulaşım"
+    ],
+    "difficulty": 2,
+    "source": "Boğaz'ın en dar yeri ~700 m, şehir otobüsü ~12 m",
+    "origin": "original",
+    "verified_at": "2026-08",
+    "napkin": {
+      "type": "chain",
+      "lead": "Boğaz en dar yerinde 700 metre kadar; bir otobüs 12 metre.",
+      "rows": [
+        [
+          "En dar geçiş",
+          "≈ 700 m"
+        ],
+        [
+          "Otobüs boyu",
+          "≈ 12 m"
+        ],
+        [
+          "700 ÷ 12",
+          "≈ 58"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f0185",
+    "mode": "fermi",
+    "prompt": "1915 Çanakkale Köprüsü'nün orta açıklığı kaç Galata Kulesi boyundadır?",
+    "unit": "kule",
+    "answer": 30,
+    "topics": [
+      "mimari",
+      "coğrafya"
+    ],
+    "difficulty": 2,
+    "source": "1915 Çanakkale Köprüsü orta açıklığı 2.023 m, Galata Kulesi 67 m",
+    "origin": "original",
+    "verified_at": "2026-08",
+    "napkin": {
+      "type": "chain",
+      "lead": "Köprünün orta açıklığı 2 kilometreyi geçiyor — açılış yılına gönderme olsun diye 2.023 metre.",
+      "rows": [
+        [
+          "Orta açıklık",
+          "2.023 m"
+        ],
+        [
+          "Galata Kulesi",
+          "67 m"
+        ],
+        [
+          "2.023 ÷ 67",
+          "≈ 30"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f0186",
+    "mode": "fermi",
+    "prompt": "Dünya'nın çevresini günde 8 saat yürüyerek dolaşmak kaç gün sürer?",
+    "unit": "gün",
+    "answer": 1000,
+    "topics": [
+      "coğrafya",
+      "günlük"
+    ],
+    "difficulty": 2,
+    "source": "Ekvator çevresi 40.075 km, yürüme hızı 5 km/sa",
+    "origin": "original",
+    "verified_at": "2026-08",
+    "napkin": {
+      "type": "chain",
+      "lead": "Günde 40 km yürürsün, Dünya'nın çevresi 40 bin km. Bölme çok temiz çıkıyor.",
+      "rows": [
+        [
+          "Ekvator çevresi",
+          "40.075 km"
+        ],
+        [
+          "Günlük yürüyüş",
+          "40 km"
+        ],
+        [
+          "40.075 ÷ 40",
+          "≈ 1.000 gün"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f0187",
+    "mode": "fermi",
+    "prompt": "Van Gölü'nün yüzeyine kaç futbol sahası sığar?",
+    "unit": "saha",
+    "answer": 520000,
+    "topics": [
+      "coğrafya",
+      "spor"
+    ],
+    "difficulty": 3,
+    "source": "Van Gölü 3.713 km², futbol sahası 105 × 68 m",
+    "origin": "original",
+    "verified_at": "2026-08",
+    "napkin": {
+      "type": "chain",
+      "lead": "Bir saha kabaca 7.000 m². Gölü m²'ye çevir, sahaya böl.",
+      "rows": [
+        [
+          "Van Gölü",
+          "3.713 km² = 3,7 milyar m²"
+        ],
+        [
+          "Futbol sahası",
+          "105 × 68 ≈ 7.140 m²"
+        ],
+        [
+          "3,7 milyar ÷ 7.140",
+          "≈ 520.000"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f0188",
+    "mode": "fermi",
+    "prompt": "Ortalama bir insan ömrü boyunca kaç kez nefes alır?",
+    "unit": "nefes",
+    "answer": 660000000,
+    "topics": [
+      "insan",
+      "biyoloji"
+    ],
+    "difficulty": 3,
+    "source": "Dinlenme hâlinde ~16 nefes/dakika, ortalama ömür 78 yıl",
+    "origin": "original",
+    "verified_at": "2026-08",
+    "napkin": {
+      "type": "chain",
+      "lead": "Dakikada 16 nefes; günde 23 bin, yılda 8,4 milyon eder. Ömürle çarp.",
+      "rows": [
+        [
+          "Dakikada",
+          "≈ 16 nefes"
+        ],
+        [
+          "Günde",
+          "16 × 1.440 ≈ 23.000"
+        ],
+        [
+          "Yılda",
+          "≈ 8,4 milyon"
+        ],
+        [
+          "78 yıl",
+          "≈ 660 milyon"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f0189",
+    "mode": "fermi",
+    "prompt": "İstanbul'dan Ankara'ya durmadan yürümek kaç saat sürer?",
+    "unit": "saat",
+    "answer": 90,
+    "topics": [
+      "coğrafya",
+      "ulaşım"
+    ],
+    "difficulty": 1,
+    "source": "İstanbul-Ankara karayolu ~450 km, yürüme hızı 5 km/sa",
+    "origin": "original",
+    "verified_at": "2026-08",
+    "napkin": {
+      "type": "chain",
+      "lead": "Arayı 450 km al, saatte 5 km yürü.",
+      "rows": [
+        [
+          "Mesafe",
+          "≈ 450 km"
+        ],
+        [
+          "Yürüme hızı",
+          "5 km/sa"
+        ],
+        [
+          "450 ÷ 5",
+          "= 90 saat"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f0190",
+    "mode": "fermi",
+    "prompt": "Marmara Denizi'ne kaç tane Van Gölü sığar?",
+    "unit": "göl",
+    "answer": 3,
+    "topics": [
+      "coğrafya"
+    ],
+    "difficulty": 1,
+    "source": "Marmara Denizi 11.350 km², Van Gölü 3.713 km²",
+    "origin": "original",
+    "verified_at": "2026-08",
+    "napkin": {
+      "type": "chain",
+      "lead": "Marmara 11 bin km², Van Gölü ise 3,7 bin km². Aradaki fark sandığından küçük.",
+      "rows": [
+        [
+          "Marmara Denizi",
+          "11.350 km²"
+        ],
+        [
+          "Van Gölü",
+          "3.713 km²"
+        ],
+        [
+          "11.350 ÷ 3.713",
+          "≈ 3"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f0191",
+    "mode": "fermi",
+    "prompt": "Bir A4 kâğıdı 50 kez ikiye katlanabilseydi kalınlığı kaç kilometre olurdu?",
+    "unit": "kilometre",
+    "answer": 113000000,
+    "topics": [
+      "matematik",
+      "fizik"
+    ],
+    "difficulty": 3,
+    "source": "Kâğıt kalınlığı 0,1 mm, 2^50 kat",
+    "origin": "original",
+    "verified_at": "2026-08",
+    "napkin": {
+      "type": "chain",
+      "lead": "Her katlama kalınlığı ikiye katlar. 2'nin 50. kuvveti akıl almaz bir sayı — sezgin burada tökezler.",
+      "rows": [
+        [
+          "Kâğıt kalınlığı",
+          "0,1 mm"
+        ],
+        [
+          "50 katlama",
+          "2⁵⁰ ≈ 1,1 katrilyon"
+        ],
+        [
+          "Sonuç",
+          "≈ 113 milyon km"
+        ],
+        [
+          "Karşılaştırma",
+          "Güneş'in dörtte üçü kadar uzak"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f0192",
+    "mode": "fermi",
+    "prompt": "Everest'in zirvesine ulaşmak için üst üste kaç Çamlıca Kulesi koymak gerekir?",
+    "unit": "kule",
+    "answer": 24,
+    "topics": [
+      "coğrafya",
+      "mimari"
+    ],
+    "difficulty": 2,
+    "source": "Everest 8.849 m, Çamlıca Kulesi 369 m",
+    "origin": "original",
+    "verified_at": "2026-08",
+    "napkin": {
+      "type": "chain",
+      "lead": "Çamlıca Kulesi Türkiye'nin en yüksek yapısı, yaklaşık 370 metre. Everest ise 8,8 kilometre.",
+      "rows": [
+        [
+          "Everest",
+          "8.849 m"
+        ],
+        [
+          "Çamlıca Kulesi",
+          "369 m"
+        ],
+        [
+          "8.849 ÷ 369",
+          "≈ 24"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f0193",
+    "mode": "fermi",
+    "prompt": "Türkiye'nin en doğusundan en batısına arabayla kaç saatte gidilir?",
+    "unit": "saat",
+    "answer": 21,
+    "topics": [
+      "coğrafya",
+      "ulaşım"
+    ],
+    "difficulty": 2,
+    "source": "Doğu-batı genişliği ~1.660 km, ortalama hız 80 km/sa",
+    "origin": "original",
+    "verified_at": "2026-08",
+    "napkin": {
+      "type": "chain",
+      "lead": "Türkiye doğudan batıya 1.600 kilometreyi geçiyor; molalar dahil ortalama 80 km/sa gerçekçi.",
+      "rows": [
+        [
+          "Doğu-batı genişliği",
+          "≈ 1.660 km"
+        ],
+        [
+          "Ortalama hız",
+          "80 km/sa"
+        ],
+        [
+          "1.660 ÷ 80",
+          "≈ 21 saat"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f0194",
+    "mode": "fermi",
+    "prompt": "Ortalama bir insan ömrü boyunca toplam kaç saat uyur?",
+    "unit": "saat",
+    "answer": 228000,
+    "topics": [
+      "insan",
+      "günlük"
+    ],
+    "difficulty": 2,
+    "source": "Günde 8 saat uyku, ortalama ömür 78 yıl",
+    "origin": "original",
+    "verified_at": "2026-08",
+    "napkin": {
+      "type": "chain",
+      "lead": "Günde 8 saat, yılda yaklaşık 2.900 saat. Ömrün üçte biri uykuda geçiyor.",
+      "rows": [
+        [
+          "Günde",
+          "8 saat"
+        ],
+        [
+          "Yılda",
+          "8 × 365 ≈ 2.920 saat"
+        ],
+        [
+          "78 yıl",
+          "≈ 228.000 saat"
+        ],
+        [
+          "Yıla çevirirsek",
+          "≈ 26 yıl"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f0195",
+    "mode": "fermi",
+    "prompt": "Dünya'dan Ay'a arka arkaya kaç otobüs dizmek gerekir?",
+    "unit": "otobüs",
+    "answer": 32000000,
+    "topics": [
+      "uzay",
+      "ulaşım"
+    ],
+    "difficulty": 3,
+    "source": "Ay uzaklığı 384.400 km, otobüs boyu 12 m",
+    "origin": "original",
+    "verified_at": "2026-08",
+    "napkin": {
+      "type": "chain",
+      "lead": "Ay 384 bin kilometre uzakta. Bunu metreye çevirip 12'ye böl.",
+      "rows": [
+        [
+          "Ay uzaklığı",
+          "384.400 km"
+        ],
+        [
+          "Metreye çevir",
+          "384,4 milyon m"
+        ],
+        [
+          "Otobüs boyu",
+          "12 m"
+        ],
+        [
+          "Bölme",
+          "≈ 32 milyon"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f0196",
+    "mode": "fermi",
+    "prompt": "Kalbiniz bir yılda kaç litre kan pompalar?",
+    "unit": "litre",
+    "answer": 2600000,
+    "topics": [
+      "insan",
+      "biyoloji"
+    ],
+    "difficulty": 3,
+    "source": "Atım başına ~70 ml, dakikada ~70 atım",
+    "origin": "original",
+    "verified_at": "2026-08",
+    "napkin": {
+      "type": "chain",
+      "lead": "Her atımda yaklaşık 70 ml kan çıkıyor, dakikada 70 atım var — yani dakikada 5 litre.",
+      "rows": [
+        [
+          "Dakikada",
+          "70 × 70 ml ≈ 5 litre"
+        ],
+        [
+          "Günde",
+          "5 × 1.440 ≈ 7.000 litre"
+        ],
+        [
+          "Yılda",
+          "≈ 2,6 milyon litre"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f0197",
+    "mode": "fermi",
+    "prompt": "Türkiye'nin yüzölçümü kaç futbol sahası eder?",
+    "unit": "saha",
+    "answer": 110000000,
+    "topics": [
+      "coğrafya",
+      "spor"
+    ],
+    "difficulty": 3,
+    "source": "Türkiye 783.562 km², futbol sahası 105 × 68 m",
+    "origin": "original",
+    "verified_at": "2026-08",
+    "napkin": {
+      "type": "chain",
+      "lead": "Türkiye'yi m²'ye çevir (783 milyar), saha alanına (7.140) böl.",
+      "rows": [
+        [
+          "Türkiye",
+          "783.562 km² = 783 milyar m²"
+        ],
+        [
+          "Futbol sahası",
+          "≈ 7.140 m²"
+        ],
+        [
+          "Bölme",
+          "≈ 110 milyon"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f0198",
+    "mode": "fermi",
+    "prompt": "İstanbul'un bütün nüfusu üst üste dizilse kaç kilometre yükseklik olur?",
+    "unit": "kilometre",
+    "answer": 28000,
+    "topics": [
+      "insan",
+      "coğrafya"
+    ],
+    "difficulty": 3,
+    "source": "İstanbul nüfusu ~15,9 milyon, ortalama boy 1,75 m",
+    "origin": "original",
+    "verified_at": "2026-08",
+    "napkin": {
+      "type": "chain",
+      "lead": "16 milyon kişiyi 1,75 metre ile çarp; sonuç Dünya çevresinin epey altında kalıyor.",
+      "rows": [
+        [
+          "İstanbul nüfusu",
+          "≈ 15,9 milyon"
+        ],
+        [
+          "Ortalama boy",
+          "1,75 m"
+        ],
+        [
+          "Çarpım",
+          "≈ 28.000 km"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f0199",
+    "mode": "fermi",
+    "prompt": "Ortalama bir insan ömrü boyunca kaç öğün yemek yer?",
+    "unit": "öğün",
+    "answer": 85000,
+    "topics": [
+      "yiyecek",
+      "günlük"
+    ],
+    "difficulty": 2,
+    "source": "Günde 3 öğün, ortalama ömür 78 yıl",
+    "origin": "original",
+    "verified_at": "2026-08",
+    "napkin": {
+      "type": "chain",
+      "lead": "Günde 3 öğün, yılda yaklaşık 1.100 öğün.",
+      "rows": [
+        [
+          "Günde",
+          "3 öğün"
+        ],
+        [
+          "Yılda",
+          "3 × 365 ≈ 1.095"
+        ],
+        [
+          "78 yıl",
+          "≈ 85.000"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f0200",
+    "mode": "fermi",
+    "prompt": "Dünya ile Güneş arasına yan yana kaç tane Dünya dizilir?",
+    "unit": "Dünya",
+    "answer": 12000,
+    "topics": [
+      "uzay"
+    ],
+    "difficulty": 3,
+    "source": "Güneş uzaklığı 149,6 milyon km, Dünya çapı 12.742 km",
+    "origin": "original",
+    "verified_at": "2026-08",
+    "napkin": {
+      "type": "chain",
+      "lead": "Güneş 150 milyon km uzakta, Dünya'nın çapı ise 12,7 bin km.",
+      "rows": [
+        [
+          "Güneş uzaklığı",
+          "149,6 milyon km"
+        ],
+        [
+          "Dünya çapı",
+          "12.742 km"
+        ],
+        [
+          "Bölme",
+          "≈ 12.000"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f0201",
+    "mode": "fermi",
+    "prompt": "15 Temmuz Şehitler Köprüsü'nün orta açıklığına yan yana kaç kişi dizilir?",
+    "unit": "kişi",
+    "answer": 2400,
+    "topics": [
+      "mimari",
+      "insan"
+    ],
+    "difficulty": 2,
+    "source": "Orta açıklık 1.074 m, omuz genişliği ~45 cm",
+    "origin": "original",
+    "verified_at": "2026-08",
+    "napkin": {
+      "type": "chain",
+      "lead": "Köprünün orta açıklığı bir kilometreyi biraz geçiyor; bir insanın omuzu 45 santim.",
+      "rows": [
+        [
+          "Orta açıklık",
+          "1.074 m"
+        ],
+        [
+          "Omuz genişliği",
+          "≈ 0,45 m"
+        ],
+        [
+          "1.074 ÷ 0,45",
+          "≈ 2.400"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f0202",
+    "mode": "fermi",
+    "prompt": "Işık bir saniyede Dünya'nın çevresini kaç kez dolaşır?",
+    "unit": "tur",
+    "answer": 7,
+    "topics": [
+      "fizik",
+      "uzay"
+    ],
+    "difficulty": 1,
+    "source": "Işık hızı 300.000 km/s, ekvator çevresi 40.075 km",
+    "origin": "original",
+    "verified_at": "2026-08",
+    "napkin": {
+      "type": "chain",
+      "lead": "Işık saniyede 300 bin km gidiyor, Dünya'nın çevresi 40 bin km.",
+      "rows": [
+        [
+          "Işık hızı",
+          "300.000 km/s"
+        ],
+        [
+          "Ekvator çevresi",
+          "40.075 km"
+        ],
+        [
+          "300.000 ÷ 40.075",
+          "≈ 7,5"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f0203",
+    "mode": "fermi",
+    "prompt": "Ortalama bir insan ömrü boyunca kaç kilometre yürür?",
+    "unit": "kilometre",
+    "answer": 107000,
+    "topics": [
+      "insan",
+      "günlük"
+    ],
+    "difficulty": 3,
+    "source": "Günde ~5.000 adım, adım uzunluğu 0,75 m, ömür 78 yıl",
+    "origin": "original",
+    "verified_at": "2026-08",
+    "napkin": {
+      "type": "chain",
+      "lead": "Günde 5.000 adım, adım başına 75 santim — günde 3,75 km eder.",
+      "rows": [
+        [
+          "Günlük",
+          "5.000 adım × 0,75 m ≈ 3,75 km"
+        ],
+        [
+          "Yılda",
+          "≈ 1.370 km"
+        ],
+        [
+          "78 yıl",
+          "≈ 107.000 km"
+        ],
+        [
+          "Karşılaştırma",
+          "Dünya'nın çevresinin 2,7 katı"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f0204",
+    "mode": "fermi",
+    "prompt": "Dünya'nın çevresini A4 kâğıtlarını uç uca dizerek sarmak için kaç sayfa gerekir?",
+    "unit": "sayfa",
+    "answer": 135000000,
+    "topics": [
+      "günlük",
+      "matematik"
+    ],
+    "difficulty": 3,
+    "source": "Ekvator çevresi 40.075 km, A4 uzun kenarı 29,7 cm",
+    "origin": "original",
+    "verified_at": "2026-08",
+    "napkin": {
+      "type": "chain",
+      "lead": "Bir A4'ün uzun kenarı 30 santime yakın. 40 bin kilometreyi 0,3 metreye böl.",
+      "rows": [
+        [
+          "Ekvator çevresi",
+          "40.075 km = 40 milyon m"
+        ],
+        [
+          "A4 uzun kenarı",
+          "0,297 m"
+        ],
+        [
+          "Bölme",
+          "≈ 135 milyon"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f0205",
+    "mode": "fermi",
+    "prompt": "Van Gölü'nün suyunu boşaltmak için kaç olimpik yüzme havuzu gerekir?",
+    "unit": "havuz",
+    "answer": 243000000,
+    "topics": [
+      "coğrafya",
+      "fizik"
+    ],
+    "difficulty": 3,
+    "source": "Van Gölü hacmi ~607 km³, olimpik havuz 2.500 m³",
+    "origin": "original",
+    "verified_at": "2026-08",
+    "napkin": {
+      "type": "chain",
+      "lead": "Olimpik havuz 50 × 25 × 2 metre, yani 2.500 m³. Gölün hacmi 607 km³.",
+      "rows": [
+        [
+          "Van Gölü hacmi",
+          "607 km³"
+        ],
+        [
+          "m³'e çevir",
+          "607 milyar m³"
+        ],
+        [
+          "Havuz hacmi",
+          "2.500 m³"
+        ],
+        [
+          "Bölme",
+          "≈ 243 milyon"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f0206",
+    "mode": "fermi",
+    "prompt": "Dünya nüfusu tek sıra hâlinde dizilse ekvatoru kaç kez dolanır?",
+    "unit": "tur",
+    "answer": 92,
+    "topics": [
+      "insan",
+      "coğrafya"
+    ],
+    "difficulty": 3,
+    "source": "Dünya nüfusu ~8,2 milyar, omuz genişliği 45 cm, ekvator 40.075 km",
+    "origin": "original",
+    "verified_at": "2026-08",
+    "napkin": {
+      "type": "chain",
+      "lead": "8 milyar kişiyi 45 santimle çarp, çıkan uzunluğu ekvatora böl.",
+      "rows": [
+        [
+          "Nüfus",
+          "8,2 milyar"
+        ],
+        [
+          "Omuz genişliği",
+          "0,45 m"
+        ],
+        [
+          "Toplam sıra",
+          "≈ 3,7 milyon km"
+        ],
+        [
+          "Ekvatora böl",
+          "≈ 92 tur"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f0207",
+    "mode": "fermi",
+    "prompt": "Ankara'dan İzmir'e bisikletle kaç saatte gidilir?",
+    "unit": "saat",
+    "answer": 30,
+    "topics": [
+      "coğrafya",
+      "spor"
+    ],
+    "difficulty": 2,
+    "source": "Ankara-İzmir ~590 km, bisiklet hızı 20 km/sa",
+    "origin": "original",
+    "verified_at": "2026-08",
+    "napkin": {
+      "type": "chain",
+      "lead": "Ara 600 kilometreye yakın; yüklü bisikletle saatte 20 km makul.",
+      "rows": [
+        [
+          "Mesafe",
+          "≈ 590 km"
+        ],
+        [
+          "Bisiklet hızı",
+          "20 km/sa"
+        ],
+        [
+          "590 ÷ 20",
+          "≈ 30 saat"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f0208",
+    "mode": "fermi",
+    "prompt": "Bir insanın saçları ömrü boyunca toplam kaç kilometre uzar?",
+    "unit": "kilometre",
+    "answer": 1170,
+    "topics": [
+      "insan",
+      "biyoloji"
+    ],
+    "difficulty": 3,
+    "source": "~100.000 saç teli, yılda 15 cm uzama, 78 yıl",
+    "origin": "original",
+    "verified_at": "2026-08",
+    "napkin": {
+      "type": "chain",
+      "lead": "Kafada 100 bin tel var ve her biri yılda 15 santim uzuyor. Tek tel az, hepsi birden çok.",
+      "rows": [
+        [
+          "Saç teli sayısı",
+          "≈ 100.000"
+        ],
+        [
+          "Yıllık uzama",
+          "0,15 m"
+        ],
+        [
+          "Yılda toplam",
+          "15.000 m = 15 km"
+        ],
+        [
+          "78 yıl",
+          "≈ 1.170 km"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f0209",
+    "mode": "fermi",
+    "prompt": "Kapalıçarşı'nın bütün dükkânlarını birer dakika gezseniz kaç saat sürer?",
+    "unit": "saat",
+    "answer": 67,
+    "topics": [
+      "kültür",
+      "günlük"
+    ],
+    "difficulty": 2,
+    "source": "Kapalıçarşı'da ~4.000 dükkân",
+    "origin": "original",
+    "verified_at": "2026-08",
+    "napkin": {
+      "type": "chain",
+      "lead": "Kapalıçarşı'da dört bine yakın dükkân var. Her birine bir dakika ver.",
+      "rows": [
+        [
+          "Dükkân sayısı",
+          "≈ 4.000"
+        ],
+        [
+          "Dükkân başına",
+          "1 dakika"
+        ],
+        [
+          "4.000 dk",
+          "≈ 67 saat"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f0210",
+    "mode": "fermi",
+    "prompt": "Dünyadaki bütün insanlar İstanbul'a taşınsa kişi başına kaç metrekare düşer?",
+    "unit": "metrekare",
+    "answer": 0.67,
+    "topics": [
+      "insan",
+      "coğrafya"
+    ],
+    "difficulty": 3,
+    "source": "İstanbul 5.461 km², dünya nüfusu ~8,2 milyar",
+    "origin": "original",
+    "verified_at": "2026-08",
+    "napkin": {
+      "type": "chain",
+      "lead": "İstanbul'un alanını m²'ye çevir, dünya nüfusuna böl. Sonuç bir metrekarenin altında.",
+      "rows": [
+        [
+          "İstanbul",
+          "5.461 km² = 5,46 milyar m²"
+        ],
+        [
+          "Dünya nüfusu",
+          "8,2 milyar"
+        ],
+        [
+          "Bölme",
+          "≈ 0,67 m²"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f0211",
+    "mode": "fermi",
+    "prompt": "Everest'in zirvesine ulaşmak için üst üste kaç Galata Kulesi koymak gerekir?",
+    "unit": "kule",
+    "answer": 132,
+    "topics": [
+      "coğrafya",
+      "fizik"
+    ],
+    "difficulty": 2,
+    "source": "Everest 8.849 m, Galata Kulesi 67 m",
+    "origin": "original",
+    "verified_at": "2026-08",
+    "napkin": {
+      "type": "chain",
+      "lead": "Everest 8,8 kilometre; kule 67 metre.",
+      "rows": [
+        [
+          "Everest",
+          "8.849 m"
+        ],
+        [
+          "Galata Kulesi",
+          "67 m"
+        ],
+        [
+          "8.849 ÷ 67",
+          "≈ 132"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f0212",
+    "mode": "fermi",
+    "prompt": "Dünya bir yılda Güneş'in çevresinde kaç kilometre yol alır?",
+    "unit": "kilometre",
+    "answer": 940000000,
+    "topics": [
+      "uzay",
+      "fizik"
+    ],
+    "difficulty": 3,
+    "source": "Yörünge yarıçapı 149,6 milyon km, çevre = 2πr",
+    "origin": "original",
+    "verified_at": "2026-08",
+    "napkin": {
+      "type": "chain",
+      "lead": "Yörüngeyi daire kabul et: çevre 2πr. Yarıçap 150 milyon km.",
+      "rows": [
+        [
+          "Yörünge yarıçapı",
+          "149,6 milyon km"
+        ],
+        [
+          "Çevre",
+          "2 × π × 149,6M"
+        ],
+        [
+          "Sonuç",
+          "≈ 940 milyon km"
+        ],
+        [
+          "Saatte",
+          "≈ 107.000 km"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f0213",
+    "mode": "fermi",
+    "prompt": "Saatte 100 km hızla giden bir araba Güneş'e kaç yılda ulaşır?",
+    "unit": "yıl",
+    "answer": 171,
+    "topics": [
+      "uzay",
+      "ulaşım"
+    ],
+    "difficulty": 3,
+    "source": "Güneş uzaklığı 149,6 milyon km, hız 100 km/sa",
+    "origin": "original",
+    "verified_at": "2026-08",
+    "napkin": {
+      "type": "chain",
+      "lead": "150 milyon kilometreyi saatte 100 km ile bölersen 1,5 milyon saat çıkar. Bunu yıla çevir.",
+      "rows": [
+        [
+          "Mesafe",
+          "149,6 milyon km"
+        ],
+        [
+          "Hız",
+          "100 km/sa"
+        ],
+        [
+          "Süre",
+          "≈ 1,5 milyon saat"
+        ],
+        [
+          "Yıla çevir",
+          "≈ 171 yıl"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f0214",
+    "mode": "fermi",
+    "prompt": "İstanbul'un bütün nüfusu saniyede iki kişi geçecek şekilde köprüden geçse kaç gün sürer?",
+    "unit": "gün",
+    "answer": 92,
+    "topics": [
+      "insan",
+      "ulaşım"
+    ],
+    "difficulty": 3,
+    "source": "İstanbul nüfusu ~15,9 milyon, saniyede 2 kişi",
+    "origin": "original",
+    "verified_at": "2026-08",
+    "napkin": {
+      "type": "chain",
+      "lead": "Saniyede 2 kişi, günde 172 bin kişi eder. 16 milyonu buna böl.",
+      "rows": [
+        [
+          "Nüfus",
+          "≈ 15,9 milyon"
+        ],
+        [
+          "Geçiş hızı",
+          "saniyede 2 kişi"
+        ],
+        [
+          "Günde",
+          "2 × 86.400 ≈ 173.000"
+        ],
+        [
+          "Bölme",
+          "≈ 92 gün"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f0215",
+    "mode": "fermi",
+    "prompt": "Haftada bir kitap okuyan biri 60 yılda kaç kitap bitirir?",
+    "unit": "kitap",
+    "answer": 3100,
+    "topics": [
+      "kitap",
+      "günlük"
+    ],
+    "difficulty": 1,
+    "source": "Yılda 52 hafta, 60 yıllık okuma ömrü",
+    "origin": "original",
+    "verified_at": "2026-08",
+    "napkin": {
+      "type": "chain",
+      "lead": "Yılda 52 kitap; 60 yıl okursan çarpım basit.",
+      "rows": [
+        [
+          "Yılda",
+          "52 kitap"
+        ],
+        [
+          "Okuma ömrü",
+          "60 yıl"
+        ],
+        [
+          "52 × 60",
+          "≈ 3.100"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f0216",
+    "mode": "fermi",
+    "prompt": "Ortalama bir insan ömrü boyunca kaç kez duş alır?",
+    "unit": "duş",
+    "answer": 14000,
+    "topics": [
+      "günlük",
+      "insan"
+    ],
+    "difficulty": 2,
+    "source": "İki günde bir duş, 78 yıllık ömür",
+    "origin": "original",
+    "verified_at": "2026-08",
+    "napkin": {
+      "type": "chain",
+      "lead": "İki günde bir duş alırsan yılda 180 civarı eder.",
+      "rows": [
+        [
+          "Yılda",
+          "365 ÷ 2 ≈ 180"
+        ],
+        [
+          "Ömür",
+          "78 yıl"
+        ],
+        [
+          "180 × 78",
+          "≈ 14.000"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f0217",
+    "mode": "fermi",
+    "prompt": "Türkiye'nin yüzölçümüne kaç tane İstanbul sığar?",
+    "unit": "kat",
+    "answer": 144,
+    "topics": [
+      "coğrafya"
+    ],
+    "difficulty": 2,
+    "source": "Türkiye 783.562 km², İstanbul ili 5.461 km²",
+    "origin": "original",
+    "verified_at": "2026-08",
+    "napkin": {
+      "type": "chain",
+      "lead": "İstanbul ili 5.500 km² kadar; Türkiye ise 783 bin.",
+      "rows": [
+        [
+          "Türkiye",
+          "783.562 km²"
+        ],
+        [
+          "İstanbul ili",
+          "5.461 km²"
+        ],
+        [
+          "Bölme",
+          "≈ 144"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f0218",
+    "mode": "fermi",
+    "prompt": "Türkiye'nin kıyı şeridi Dünya'nın çevresinin yüzde kaçı kadardır?",
+    "unit": "%",
+    "answer": 21,
+    "topics": [
+      "coğrafya"
+    ],
+    "difficulty": 2,
+    "source": "Türkiye kıyı şeridi 8.333 km, ekvator çevresi 40.075 km",
+    "origin": "original",
+    "verified_at": "2026-08",
+    "napkin": {
+      "type": "chain",
+      "lead": "8 bin küsur kilometrelik kıyıyı 40 bin kilometrelik ekvatora oranla.",
+      "rows": [
+        [
+          "Kıyı şeridi",
+          "8.333 km"
+        ],
+        [
+          "Ekvator çevresi",
+          "40.075 km"
+        ],
+        [
+          "Oran",
+          "≈ %21"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f0219",
+    "mode": "fermi",
+    "prompt": "Günde beş bardak çay içen biri 78 yılda kaç bardak çay içmiş olur?",
+    "unit": "bardak",
+    "answer": 142000,
+    "topics": [
+      "yiyecek",
+      "kültür"
+    ],
+    "difficulty": 2,
+    "source": "Günde 5 bardak, 78 yıllık ömür",
+    "origin": "original",
+    "verified_at": "2026-08",
+    "napkin": {
+      "type": "chain",
+      "lead": "Günde 5 bardak yılda 1.800 küsur eder — Türkiye ortalaması için mütevazı bir tahmin.",
+      "rows": [
+        [
+          "Günde",
+          "5 bardak"
+        ],
+        [
+          "Yılda",
+          "5 × 365 ≈ 1.825"
+        ],
+        [
+          "78 yıl",
+          "≈ 142.000"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f0220",
+    "mode": "fermi",
+    "prompt": "Dünyadaki bütün suyu olimpik havuzlara doldursanız kaç havuz gerekir?",
+    "unit": "havuz",
+    "answer": 550000000000000,
+    "topics": [
+      "doğa",
+      "fizik"
+    ],
+    "difficulty": 3,
+    "source": "Dünyadaki toplam su ~1,386 milyar km³, olimpik havuz 2.500 m³",
+    "origin": "original",
+    "verified_at": "2026-08",
+    "napkin": {
+      "type": "chain",
+      "lead": "Dünyadaki su 1,4 milyar km³. Bir km³ = 1 milyar m³ olduğunu hatırla; sonra 2.500'e böl.",
+      "rows": [
+        [
+          "Toplam su",
+          "1,386 milyar km³"
+        ],
+        [
+          "m³'e çevir",
+          "1,386 × 10¹⁸ m³"
+        ],
+        [
+          "Havuz",
+          "2.500 m³"
+        ],
+        [
+          "Bölme",
+          "≈ 550 trilyon"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f0221",
+    "mode": "fermi",
+    "prompt": "Anıtkabir'in Aslanlı Yolu'nu baştan sona kaç adımda yürürsünüz?",
+    "unit": "adım",
+    "answer": 350,
+    "topics": [
+      "mimari",
+      "günlük"
+    ],
+    "difficulty": 1,
+    "source": "Aslanlı Yol 262 m, adım uzunluğu 0,75 m",
+    "origin": "original",
+    "verified_at": "2026-08",
+    "napkin": {
+      "type": "chain",
+      "lead": "Aslanlı Yol 262 metre; normal bir adım 75 santim.",
+      "rows": [
+        [
+          "Yol uzunluğu",
+          "262 m"
+        ],
+        [
+          "Adım",
+          "0,75 m"
+        ],
+        [
+          "262 ÷ 0,75",
+          "≈ 350"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f0222",
+    "mode": "fermi",
+    "prompt": "Bir insan ömrü boyunca kalbi kaç litre kan pompalar?",
+    "unit": "litre",
+    "answer": 200000000,
+    "topics": [
+      "insan",
+      "biyoloji"
+    ],
+    "difficulty": 3,
+    "source": "Dakikada ~5 litre, ortalama ömür 78 yıl",
+    "origin": "original",
+    "verified_at": "2026-08",
+    "napkin": {
+      "type": "chain",
+      "lead": "Dakikada 5 litre; yılda 2,6 milyon litre. Ömürle çarpınca sayı patlıyor.",
+      "rows": [
+        [
+          "Dakikada",
+          "≈ 5 litre"
+        ],
+        [
+          "Yılda",
+          "≈ 2,6 milyon litre"
+        ],
+        [
+          "78 yıl",
+          "≈ 200 milyon litre"
+        ],
+        [
+          "Karşılaştırma",
+          "80 olimpik havuz"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f0223",
+    "mode": "fermi",
+    "prompt": "Karadeniz'in yüzeyine kaç tane Marmara Denizi sığar?",
+    "unit": "kat",
+    "answer": 38,
+    "topics": [
+      "coğrafya"
+    ],
+    "difficulty": 2,
+    "source": "Karadeniz 436.400 km², Marmara Denizi 11.350 km²",
+    "origin": "original",
+    "verified_at": "2026-08",
+    "napkin": {
+      "type": "chain",
+      "lead": "Karadeniz 436 bin km², Marmara ise 11 bin. Aradaki fark sandığından büyük.",
+      "rows": [
+        [
+          "Karadeniz",
+          "436.400 km²"
+        ],
+        [
+          "Marmara Denizi",
+          "11.350 km²"
+        ],
+        [
+          "Bölme",
+          "≈ 38"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f0224",
+    "mode": "fermi",
+    "prompt": "Bir yılda kalbiniz kaç kez atar?",
+    "unit": "atış",
+    "answer": 37000000,
+    "topics": [
+      "insan",
+      "biyoloji"
+    ],
+    "difficulty": 2,
+    "source": "Dakikada ~70 atım",
+    "origin": "original",
+    "verified_at": "2026-08",
+    "napkin": {
+      "type": "chain",
+      "lead": "Dakikada 70 atım; günde 100 bini geçiyor.",
+      "rows": [
+        [
+          "Dakikada",
+          "≈ 70 atım"
+        ],
+        [
+          "Günde",
+          "70 × 1.440 ≈ 100.000"
+        ],
+        [
+          "Yılda",
+          "≈ 37 milyon"
+        ]
+      ]
+    }
   }
 ]
