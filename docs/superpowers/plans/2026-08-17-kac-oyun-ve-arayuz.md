@@ -289,12 +289,12 @@ export interface OrtakSoru {
 	topics: string[];
 	difficulty: Zorluk;
 	source: string;
-	source_url?: string;
 	origin: Koken;
 	verified_at: string;
 }
 
 export interface Napkin {
+	type?: string;
 	lead: string;
 	rows: [string, string][];
 }
@@ -303,8 +303,12 @@ export interface FermiSoru extends OrtakSoru {
 	mode: 'fermi';
 	answer: number;
 	unit: string;
-	math: [string, string][];
+	kaynak_soru: string;
+	donusum?: string;
+	math?: [string, string][];
 	napkin?: Napkin;
+	_math_en?: [string, string][];
+	_napkin_en?: Napkin;
 }
 
 export interface McqSoru extends OrtakSoru {
@@ -312,6 +316,8 @@ export interface McqSoru extends OrtakSoru {
 	choices: [string, string, string, string];
 	correct_index: 0 | 1 | 2 | 3;
 	explanation: string;
+	kaynak_id: string;
+	kaynak_baslik: string;
 }
 
 export type Soru = FermiSoru | McqSoru;
@@ -430,10 +436,10 @@ describe('soruPuani', () => {
 		difficulty: 1,
 		source: 's',
 		origin: 'original',
-		verified_at: '2026-08-17',
+		verified_at: '2026-08',
 		answer: 100,
 		unit: 'adet',
-		math: []
+		kaynak_soru: 'q1'
 	};
 
 	const mcq: McqSoru = {
@@ -443,11 +449,13 @@ describe('soruPuani', () => {
 		topics: [],
 		difficulty: 1,
 		source: 's',
-		origin: 'original',
-		verified_at: '2026-08-17',
+		origin: 'wiki',
+		verified_at: '2026-08',
 		choices: ['a', 'b', 'c', 'd'],
 		correct_index: 2,
-		explanation: 'cunku'
+		explanation: 'cunku',
+		kaynak_id: 'k1',
+		kaynak_baslik: 'Kaynak'
 	};
 
 	it('tipe gore dogru fonksiyona yonlenir', () => {
@@ -1013,6 +1021,22 @@ git commit -m "feat: localStorage kaliciligi ve streak kurallari"
 ---
 
 ### Task 5: Tohum soru bankası, doğrulama ve takvim üretimi
+
+> **DURDURULDU — bu task bu haliyle uygulanmayacak.** Plan yazıldığında `data/bank/` boştu.
+> 2026-08-17 11:20 itibarıyla paralel bir oturum gerçek bankayı yazdı: 179 fermi + 164 mcq,
+> 35 konu etiketi, id biçimi `f0001` / `m0001`. Aşağıdaki 40 soruluk tohum listesi ve
+> `f1`/`m1` kimlikleri artık geçersiz.
+>
+> Yerine gelecek olan: `data/bank/` içindeki gerçek soruları konu etiketlerine göre
+> paketlere bölen bir script (`scripts/build-packs.mjs`), gerçek id'ler üzerinden çalışan
+> `build-calendar.mjs` ve gerçek şemaya göre uyarlanmış `validate-bank.mjs`.
+> Bu task, banka durulduğunda yeniden yazılacak. Task 1–4 bankadan bağımsız olduğu için
+> etkilenmez ve önce onlar yürütülür.
+>
+> Ayrıca çözülmesi gereken içerik boşluğu: fermi sorularındaki peçete hesabı hâlâ
+> `_math_en` / `_napkin_en` alanlarında **İngilizce**. Türkçe `math` / `napkin` alanları
+> dolmadan sonuç ekranı Türkçe soruya İngilizce hesap açar. Task 6'nın `SonucKarti`
+> bileşeni bu alanların yokluğunda çökmemeli.
 
 **Files:**
 - Create: `data/bank/fermi.json`, `data/bank/mcq.json`, `data/bank/packs.json`, `data/bank/calendar.json`, `scripts/validate-bank.mjs`, `scripts/build-calendar.mjs`, `lib/game/bank.ts`
@@ -2154,10 +2178,10 @@ const fermi: FermiSoru = {
 	difficulty: 1,
 	source: 's',
 	origin: 'original',
-	verified_at: '2026-08-17',
+	verified_at: '2026-08',
 	answer: 100,
 	unit: 'adet',
-	math: []
+	kaynak_soru: 'q1'
 };
 
 const mcq: McqSoru = {
@@ -2167,11 +2191,13 @@ const mcq: McqSoru = {
 	topics: [],
 	difficulty: 1,
 	source: 's',
-	origin: 'original',
-	verified_at: '2026-08-17',
+	origin: 'wiki',
+	verified_at: '2026-08',
 	choices: ['a', 'b', 'c', 'd'],
 	correct_index: 2,
-	explanation: 'cunku'
+	explanation: 'cunku',
+	kaynak_id: 'k1',
+	kaynak_baslik: 'Kaynak'
 };
 
 const sonuc: SaklananSonuc = {
