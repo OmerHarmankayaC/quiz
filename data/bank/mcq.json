@@ -7505,5 +7505,461 @@
     "source": "Vikipedi: Genel Hükûmet",
     "kaynak_id": "1173727#7",
     "kaynak_baslik": "Genel Hükûmet"
+  },
+  {
+    "id": "m0348",
+    "mode": "mcq",
+    "prompt": "Nuri Paşa komutasındaki Kafkas İslam Ordusu, Bakü şehrini hangi tarihte ele geçirmiştir?",
+    "choices": [
+      "28 Mayıs 1918",
+      "25 Temmuz 1918",
+      "15 Eylül 1918",
+      "11 Kasım 1918"
+    ],
+    "correct_index": 2,
+    "explanation": "Şehrin alınması sırasında 1.130 Türk askeri öldü; orduda 8 bin Türk askeri ve 7 bin Azeri milis vardı.",
+    "topics": [
+      "tarih",
+      "askeri"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Azerbaycan Demokratik Cumhuriyeti",
+    "kaynak_id": "126797#13",
+    "kaynak_baslik": "Azerbaycan Demokratik Cumhuriyeti"
+  },
+  {
+    "id": "m0349",
+    "mode": "mcq",
+    "prompt": "Ahmet Altan, 2011'de hangi ödüle layık görülmüştür?",
+    "choices": [
+      "Uğur Mumcu Onur Ödülü",
+      "Hrant Dink Barış Ödülü",
+      "Yunus Nadi Ödülü",
+      "Sedat Simavi Gazetecilik Ödülü"
+    ],
+    "correct_index": 1,
+    "explanation": "Altan 2007'de Taraf gazetesinin kurucuları arasındaydı ve Aralık 2012'de görevinden istifa etti.",
+    "topics": [
+      "kültür",
+      "siyaset"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Ahmet Altan",
+    "kaynak_id": "10147#4",
+    "kaynak_baslik": "Ahmet Altan"
+  },
+  {
+    "id": "m0350",
+    "mode": "mcq",
+    "prompt": "Haldun Dormen'in 1961'de yönettiği ve Türkiye'de sahnelenen ilk batılı müzikal olan yapım hangisidir?",
+    "choices": [
+      "Sokak Kızı İrma",
+      "Hisseli Harikalar Kumpanyası",
+      "Lüküs Hayat",
+      "Şen Sazın Bülbülleri"
+    ],
+    "correct_index": 0,
+    "explanation": "Dormen 1955'te kendi tiyatrosunu kurmuştu; 1985'te sahnelediği Lüküs Hayat 30 yıl aralıksız oynandı.",
+    "topics": [
+      "tiyatro",
+      "kültür"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Haldun Dormen",
+    "kaynak_id": "10382#1",
+    "kaynak_baslik": "Haldun Dormen"
+  },
+  {
+    "id": "m0351",
+    "mode": "mcq",
+    "prompt": "David Gilmour, Pink Floyd'a hangi yıl katılmıştır?",
+    "choices": [
+      "1967",
+      "1975",
+      "1985",
+      "1946"
+    ],
+    "correct_index": 0,
+    "explanation": "Kurucu üye Syd Barrett'ın ayrılmasından kısa süre önce katıldı; 1985'te Roger Waters ayrılınca grubun liderliğini üstlendi.",
+    "topics": [
+      "müzik"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: David Gilmour",
+    "kaynak_id": "10405#1",
+    "kaynak_baslik": "David Gilmour"
+  },
+  {
+    "id": "m0352",
+    "mode": "mcq",
+    "prompt": "Pers kralı III. Darius, Gaugamela Savaşı'nda İskender'e karşı yaklaşık kaç savaş fili kullanmıştır?",
+    "choices": [
+      "20",
+      "50",
+      "6.000",
+      "200"
+    ],
+    "correct_index": 1,
+    "explanation": "Hint kral Porus Hydaspes'te 200 fil kullandı; Nanda İmparatorluğu'nun ordusunda ise 6.000 savaş fili vardı.",
+    "topics": [
+      "tarih",
+      "askeri"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Antik Çağ'da savaş",
+    "kaynak_id": "106490#50",
+    "kaynak_baslik": "Antik Çağ'da savaş"
+  },
+  {
+    "id": "m0353",
+    "mode": "mcq",
+    "prompt": "Boston şehri adını nereden almıştır?",
+    "choices": [
+      "İngiltere'deki Lincolnshire bölgesinde bir pazar kasabası",
+      "Bir Puritan din adamının soyadı",
+      "İlk valisinin doğum yeri",
+      "Shawmut Yarımadası'nın yerli adı"
+    ],
+    "correct_index": 0,
+    "explanation": "Şehir 1630'da İngiliz Puritan yerleşimciler tarafından Shawmut Yarımadası'nda kuruldu.",
+    "topics": [
+      "tarih",
+      "coğrafya"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Boston",
+    "kaynak_id": "11102#2",
+    "kaynak_baslik": "Boston"
+  },
+  {
+    "id": "m0354",
+    "mode": "mcq",
+    "prompt": "Deneysel embriyolojinin öncüsü sayılan ve kurbağa yumurtaları üzerinde çalışan Alman anatomi bilgini kimdir?",
+    "choices": [
+      "Ernst Haeckel",
+      "Wilhelm Roux",
+      "Hans Speemann",
+      "Karl Ernst von Baer"
+    ],
+    "correct_index": 1,
+    "explanation": "Speemann ise gelişmenin hızını ve yönünü belirleyen etkenleri araştırarak 1935 Nobel Fizyoloji veya Tıp Ödülü'nü aldı.",
+    "topics": [
+      "bilim",
+      "sağlık"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Embriyoloji",
+    "kaynak_id": "11759#3",
+    "kaynak_baslik": "Embriyoloji"
+  },
+  {
+    "id": "m0355",
+    "mode": "mcq",
+    "prompt": "Nicolas Anelka, Kasım 2018'de hangi kulübün gençlik takımında antrenörlüğe başlamıştır?",
+    "choices": [
+      "Lille",
+      "Arsenal",
+      "Hyères FC",
+      "Roda JC"
+    ],
+    "correct_index": 0,
+    "explanation": "Şubat 2017'de Roda JC'nin teknik personeline katılmıştı; 2021'de Hyères FC'de spor direktörü oldu.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Nicolas Anelka",
+    "kaynak_id": "12238#11",
+    "kaynak_baslik": "Nicolas Anelka"
+  },
+  {
+    "id": "m0356",
+    "mode": "mcq",
+    "prompt": "Del Río, keşfettiği elementin aslında hangi element olduğuna ikna olarak 1804'te bu yönde yazmıştır?",
+    "choices": [
+      "Niyobyum",
+      "Platin",
+      "Uranyum",
+      "Krom"
+    ],
+    "correct_index": 3,
+    "explanation": "Von Humboldt bu öneriyi yapmıştı; kromun detaylı tanımı o dönemde henüz Meksika'ya ulaşmamıştı.",
+    "topics": [
+      "bilim",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Vanadyum",
+    "kaynak_id": "100301#4",
+    "kaynak_baslik": "Vanadyum"
+  },
+  {
+    "id": "m0357",
+    "mode": "mcq",
+    "prompt": "Boris Pasternak, 1958 Nobel Edebiyat Ödülü'nü hangi nedenle reddetmiştir?",
+    "choices": [
+      "Ödülün siyasi bulunması",
+      "Sovyetler Birliği'nin baskısı",
+      "Kişisel ilkeleri gereği",
+      "Sağlık sorunları"
+    ],
+    "correct_index": 1,
+    "explanation": "Sartre tüm resmî ödülleri ilke olarak reddederken, Hitler hükûmeti de üç Alman bilim insanının ödül almasına izin vermemişti.",
+    "topics": [
+      "tarih",
+      "kitap"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Nobel Ödülü",
+    "kaynak_id": "12773#3",
+    "kaynak_baslik": "Nobel Ödülü"
+  },
+  {
+    "id": "m0358",
+    "mode": "mcq",
+    "prompt": "Bertolt Brecht'in cenaze töreninin dikkat çeken özelliği neydi?",
+    "choices": [
+      "Hiçbir konuşma yapılmaması",
+      "Gizli tutulması",
+      "Devlet töreni olarak düzenlenmesi",
+      "Tiyatro sahnesinde yapılması"
+    ],
+    "correct_index": 0,
+    "explanation": "17 Ağustos 1956'daki törene büyük bir kalabalık, politikacılar ve sanatçılar katıldı; mezarı Dorotheenstadt mezarlığındadır.",
+    "topics": [
+      "tiyatro",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Bertolt Brecht",
+    "kaynak_id": "13009#24",
+    "kaynak_baslik": "Bertolt Brecht"
+  },
+  {
+    "id": "m0359",
+    "mode": "mcq",
+    "prompt": "Stefan Zweig, son yıllarını geçirdiği ve hakkında kitap yazdığı ülke hangisidir?",
+    "choices": [
+      "İngiltere",
+      "Amerika Birleşik Devletleri",
+      "Brezilya",
+      "Avusturya"
+    ],
+    "correct_index": 2,
+    "explanation": "1934'te İngiltere'ye, 1940'ta kısa süre New York'a, ardından Brezilya'ya taşındı ve orada \"Brezilya, Geleceğin Ülkesi\"ni yazdı.",
+    "topics": [
+      "kitap",
+      "tarih"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Stefan Zweig",
+    "kaynak_id": "13184#3",
+    "kaynak_baslik": "Stefan Zweig"
+  },
+  {
+    "id": "m0360",
+    "mode": "mcq",
+    "prompt": "Ermenistan Anayasası hangi tarihte kabul edilmiştir?",
+    "choices": [
+      "5 Temmuz 1995",
+      "8 Aralık 1991",
+      "17 Mart 1991",
+      "21 Eylül 1991"
+    ],
+    "correct_index": 0,
+    "explanation": "Ermenistan 17 Mart 1991'de Sovyetler Birliği referandumunu boykot etmiş, bağımsızlığı Belavezha Anlaşması'yla resmiyet kazanmıştı.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Ermenistan Sovyet Sosyalist Cumhuriyeti",
+    "kaynak_id": "100895#21",
+    "kaynak_baslik": "Ermenistan Sovyet Sosyalist Cumhuriyeti"
+  },
+  {
+    "id": "m0361",
+    "mode": "mcq",
+    "prompt": "Queen'in basçısı John Deacon, 1980'lerde hangi grupla solo projeler yapmıştır?",
+    "choices": [
+      "Immortals",
+      "The Cross",
+      "Smile",
+      "Wreckage"
+    ],
+    "correct_index": 0,
+    "explanation": "Immortals ile 1986'da \"The Biggles\" filmi için bestelenen bir parçada bas gitar çaldı.",
+    "topics": [
+      "müzik"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: John Deacon",
+    "kaynak_id": "14526#7",
+    "kaynak_baslik": "John Deacon"
+  },
+  {
+    "id": "m0362",
+    "mode": "mcq",
+    "prompt": "Akhisarspor'un Türk futbolundaki benzersiz başarısı nedir?",
+    "choices": [
+      "Üst üste iki kez Süper Lig'e yükselmesi",
+      "Süper Lig'e çıkan ilk Manisa takımı olması",
+      "Türkiye Kupası ve Süper Kupa kazanan ilk ilçe takımı olması",
+      "Avrupa kupalarında grup aşamasına kalan ilk Anadolu takımı olması"
+    ],
+    "correct_index": 2,
+    "explanation": "Kulüp 2018'de her iki kupayı da kazandı; 2011-12'de 1. Lig şampiyonu olarak ilk kez Süper Lig'e yükselmişti.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Akhisarspor",
+    "kaynak_id": "102430#0",
+    "kaynak_baslik": "Akhisarspor"
+  },
+  {
+    "id": "m0363",
+    "mode": "mcq",
+    "prompt": "Hermann Göring, Hitler'in iktidara gelmesinin ardından 1933'te hangi kurumu kurmuştur?",
+    "choices": [
+      "Gestapo",
+      "Wehrmacht",
+      "Abwehr",
+      "SS"
+    ],
+    "correct_index": 0,
+    "explanation": "Göring aynı dönemde Prusya Eyalet Başbakanı ve Reich Havacılık Bakanı görevlerini de üstlendi.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Hermann Göring",
+    "kaynak_id": "102711#15",
+    "kaynak_baslik": "Hermann Göring"
+  },
+  {
+    "id": "m0364",
+    "mode": "mcq",
+    "prompt": "Naziler Bauhaus'u hangi gerekçeyle kapattıklarını açıklamıştır?",
+    "choices": [
+      "Mimarlık standartlarına uymadığı",
+      "Yabancı sermayeyle çalıştığı",
+      "Komünist propaganda yaptığı",
+      "\"Dejenere sanat\" ürettiği"
+    ],
+    "correct_index": 3,
+    "explanation": "Klee 1931-1933 arasında Düsseldorf Akademisi'nde ders vermeyi sürdürebildi, ardından işinden kovuldu ve İsviçre'ye göç etti.",
+    "topics": [
+      "sanat",
+      "tarih"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Paul Klee",
+    "kaynak_id": "102939#14",
+    "kaynak_baslik": "Paul Klee"
+  },
+  {
+    "id": "m0365",
+    "mode": "mcq",
+    "prompt": "Fakir Baykurt'un Yılanların Öcü romanının tefrika edilmesi neye yol açmıştır?",
+    "choices": [
+      "Gazetenin kapatılmasına",
+      "Yazar ve gazete hakkında soruşturma açılmasına",
+      "Romanın toplatılmasına",
+      "Yazarın öğretmenlikten atılmasına"
+    ],
+    "correct_index": 1,
+    "explanation": "Soruşturma dönemin Milli Eğitim Bakanı Tevfik İleri'nin talimatıyla açıldı; savcı takipsizlik kararı verdi.",
+    "topics": [
+      "kitap",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Fakir Baykurt",
+    "kaynak_id": "15466#4",
+    "kaynak_baslik": "Fakir Baykurt"
+  },
+  {
+    "id": "m0366",
+    "mode": "mcq",
+    "prompt": "Stuttgart, hangi Alman eyaletinin başkentidir?",
+    "choices": [
+      "Bavyera",
+      "Baden-Württemberg",
+      "Saarland",
+      "Hessen"
+    ],
+    "correct_index": 1,
+    "explanation": "Neckar Nehri üzerindeki şehir, 2023 nüfusuyla Almanya'nın altıncı büyük şehridir.",
+    "topics": [
+      "coğrafya"
+    ],
+    "difficulty": 1,
+    "origin": "wiki",
+    "source": "Vikipedi: Stuttgart",
+    "kaynak_id": "15863#1",
+    "kaynak_baslik": "Stuttgart"
+  },
+  {
+    "id": "m0367",
+    "mode": "mcq",
+    "prompt": "1873 ekonomik bunalımında Almanya'da yeni kurulan çok ortaklı şirketlerin yaklaşık yüzde kaçı iflas etmiştir?",
+    "choices": [
+      "%5",
+      "%35",
+      "%50",
+      "%20"
+    ],
+    "correct_index": 3,
+    "explanation": "Net millî hasılanın düşüşü altı yıl durdurulamadı; 1870'lerde 600 bin olan Amerika'ya göç 1880'lerde iki katını aştı.",
+    "topics": [
+      "ekonomi",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Alman İmparatorluğu",
+    "kaynak_id": "190886#19",
+    "kaynak_baslik": "Alman İmparatorluğu"
+  },
+  {
+    "id": "m0368",
+    "mode": "mcq",
+    "prompt": "Denizlispor'un Süper Lig'deki en iyi derecesi nedir?",
+    "choices": [
+      "Dördüncülük",
+      "Üçüncülük",
+      "Beşincilik",
+      "İkincilik"
+    ],
+    "correct_index": 2,
+    "explanation": "Kulüp ilk kez 1983-84'te Süper Lig'de mücadele etti ve iki kez beşinci oldu; toplam 46 yıl profesyonel liglerde yer aldı.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Denizlispor",
+    "kaynak_id": "16070#15",
+    "kaynak_baslik": "Denizlispor"
   }
 ]
