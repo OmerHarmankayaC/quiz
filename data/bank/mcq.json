@@ -6168,5 +6168,435 @@
     "source": "Vikipedi: Buca Geliştirmespor",
     "kaynak_id": "110767#19",
     "kaynak_baslik": "Buca Geliştirmespor"
+  },
+  {
+    "id": "m0286",
+    "mode": "mcq",
+    "prompt": "I. Dünya Savaşı sonrası kurulan ve İtilaf Devletleri tarafından tanınmayan devletin adı neydi?",
+    "choices": [
+      "Avusturya-Macaristan Birliği",
+      "İkinci Avusturya Cumhuriyeti",
+      "Birinci Avusturya Cumhuriyeti",
+      "Alman-Avusturya Cumhuriyeti"
+    ],
+    "correct_index": 3,
+    "explanation": "Almanya ile birleşme niyetiyle ilan edildi ama tanınmadı; 1919'da Birinci Avusturya Cumhuriyeti yasal halef oldu.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Avusturya",
+    "kaynak_id": "1879#3",
+    "kaynak_baslik": "Avusturya"
+  },
+  {
+    "id": "m0287",
+    "mode": "mcq",
+    "prompt": "Yaz saati uygulamasının sağlık açısından olumlu sayılan etkilerinden biri hangisidir?",
+    "choices": [
+      "Kalp ritminin düzenlenmesi",
+      "Deride D vitamini sentezinin artması",
+      "Cilt kanseri riskinin azalması",
+      "Uyku süresinin uzaması"
+    ],
+    "correct_index": 1,
+    "explanation": "Güneş ışığıyla temas süresinin artması D vitamini sentezini artırır, ancak aynı temas cilt kanserini de tetikleyebilir.",
+    "topics": [
+      "sağlık",
+      "günlük"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Yaz saati uygulaması",
+    "kaynak_id": "155475#22",
+    "kaynak_baslik": "Yaz saati uygulaması"
+  },
+  {
+    "id": "m0288",
+    "mode": "mcq",
+    "prompt": "Müteferrika Matbaası'nda Arapça harflerle basılan ilk kitap hangisidir?",
+    "choices": [
+      "Tarih-i Hind-i garbi",
+      "Grammaire Turque",
+      "Cihannuma",
+      "Vankulu Lugati"
+    ],
+    "correct_index": 3,
+    "explanation": "1729'da basıldı. Cihannuma 1732, Grammaire Turque ise 1730 tarihlidir ve Latin alfabesi kullanan ilk baskıdır.",
+    "topics": [
+      "tarih",
+      "kültür"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Grafik tasarım",
+    "kaynak_id": "11137#4",
+    "kaynak_baslik": "Grafik tasarım"
+  },
+  {
+    "id": "m0289",
+    "mode": "mcq",
+    "prompt": "Müteferrika Matbaası'nda 1729-1742 arasında kaç kitap basılmıştır?",
+    "choices": [
+      "42",
+      "27",
+      "16",
+      "8"
+    ],
+    "correct_index": 2,
+    "explanation": "Matbaa 14 Aralık 1727'de kuruldu; bastığı kitaplar Osmanlı kültür tarihi açısından önemli kaynaklardır.",
+    "topics": [
+      "tarih",
+      "kültür"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Grafik tasarım",
+    "kaynak_id": "11137#4",
+    "kaynak_baslik": "Grafik tasarım"
+  },
+  {
+    "id": "m0290",
+    "mode": "mcq",
+    "prompt": "Britanya'da Lord Chancellor makamı hangi yılki anayasal reformla dönüştürülmüştür?",
+    "choices": [
+      "2005",
+      "2011",
+      "1998",
+      "1972"
+    ],
+    "correct_index": 0,
+    "explanation": "Reformdan önce makam yasama, yürütme ve yargının üçünde birden yer alıyordu; sonrasında Adalet Devlet Sekreterliğine dönüştü.",
+    "topics": [
+      "siyaset"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Kuvvetler ayrılığı",
+    "kaynak_id": "210084#32",
+    "kaynak_baslik": "Kuvvetler ayrılığı"
+  },
+  {
+    "id": "m0291",
+    "mode": "mcq",
+    "prompt": "Half-Life'ın grafik motoru GoldSrc, hangi motorun kodunun yeniden yazılmış hâlidir?",
+    "choices": [
+      "Doom",
+      "Quake",
+      "Unreal",
+      "Source"
+    ],
+    "correct_index": 1,
+    "explanation": "GoldSrc, Quake motorunun kodunun %70'inden fazlasının yeniden yazılmasıyla ortaya çıktı.",
+    "topics": [
+      "oyun",
+      "teknoloji"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Half-Life",
+    "kaynak_id": "11982#2",
+    "kaynak_baslik": "Half-Life"
+  },
+  {
+    "id": "m0292",
+    "mode": "mcq",
+    "prompt": "Half-Life'ta oyuncunun canlandırdığı karakter kimdir?",
+    "choices": [
+      "Gabe Newell",
+      "Alyx Vance",
+      "Gordon Freeman",
+      "Adrian Shephard"
+    ],
+    "correct_index": 2,
+    "explanation": "Freeman, ters giden bir ışınlanma deneyi sonrası Black Mesa Araştırma Tesisi'nden kaçmaya çalışır; oyunda ara sahne yoktur.",
+    "topics": [
+      "oyun"
+    ],
+    "difficulty": 1,
+    "origin": "wiki",
+    "source": "Vikipedi: Half-Life",
+    "kaynak_id": "11982#2",
+    "kaynak_baslik": "Half-Life"
+  },
+  {
+    "id": "m0293",
+    "mode": "mcq",
+    "prompt": "Randy Orton, Money in the Bank merdiven maçını hangi yıl kazanmıştır?",
+    "choices": [
+      "2009",
+      "2011",
+      "2013",
+      "2017"
+    ],
+    "correct_index": 2,
+    "explanation": "Royal Rumble'ı ise iki kez, 2009 ve 2017'de kazandı; WWE'nin 17. Triple Crown şampiyonudur.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Randy Orton",
+    "kaynak_id": "187634#2",
+    "kaynak_baslik": "Randy Orton"
+  },
+  {
+    "id": "m0294",
+    "mode": "mcq",
+    "prompt": "Marcel Proust'un yedi ciltlik başyapıtı hangi yıllar arasında yayımlanmıştır?",
+    "choices": [
+      "1900-1910",
+      "1913-1927",
+      "1930-1940",
+      "1871-1922"
+    ],
+    "correct_index": 1,
+    "explanation": "Kayıp Zamanın İzinde, yazarın 1922'deki ölümünden sonra da yayımlanmaya devam etti.",
+    "topics": [
+      "kitap"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Marcel Proust",
+    "kaynak_id": "12805#0",
+    "kaynak_baslik": "Marcel Proust"
+  },
+  {
+    "id": "m0295",
+    "mode": "mcq",
+    "prompt": "Spice Girls'ün hamiliğini ve menajerliğini üstlenen isim kimdir?",
+    "choices": [
+      "Simon Cowell",
+      "Geri Halliwell",
+      "Simon Fuller",
+      "Malcolm McLaren"
+    ],
+    "correct_index": 2,
+    "explanation": "Grup, Fuller'ın yönetiminde kendisini de bir ürün olarak pazarlamayı kabul etti; Mayıs 1998 itibarıyla gelirleri 500-800 milyon dolardı.",
+    "topics": [
+      "müzik"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Spice Girls",
+    "kaynak_id": "12823#2",
+    "kaynak_baslik": "Spice Girls"
+  },
+  {
+    "id": "m0296",
+    "mode": "mcq",
+    "prompt": "1. FC Köln, 1977-78 sezonunda hangi başarıyı elde etmiştir?",
+    "choices": [
+      "Ligi yenilgisiz tamamlamak",
+      "Lig ve kupayı aynı sezonda kazanmak",
+      "UEFA Kupası finaline çıkmak",
+      "Şampiyon Kulüpler Kupası'nı kazanmak"
+    ],
+    "correct_index": 1,
+    "explanation": "Hennes Weisweiler yönetiminde üçüncü lig birinciliğini alan takım, birkaç hafta sonra Almanya Kupası'nı da kazandı.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: 1. FC Köln",
+    "kaynak_id": "100908#14",
+    "kaynak_baslik": "1. FC Köln"
+  },
+  {
+    "id": "m0297",
+    "mode": "mcq",
+    "prompt": "Villa Park'ın hangi özelliği onu benzersiz kılmaktadır?",
+    "choices": [
+      "En çok kupa finaline sahne olan stat olması",
+      "Avrupa'nın en yüksek kapasiteli stadı olması",
+      "İlk kapalı çatılı stat olması",
+      "Üç yüzyılda da İngiltere millî takımını ağırlaması"
+    ],
+    "correct_index": 3,
+    "explanation": "42.788 kapasiteli stat uluslararası düzeyde 16 maça ev sahipliği yaptı; ilki 1899, sonuncusu 2005'teydi.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Aston Villa FC",
+    "kaynak_id": "159537#20",
+    "kaynak_baslik": "Aston Villa FC"
+  },
+  {
+    "id": "m0298",
+    "mode": "mcq",
+    "prompt": "I. Baybars, Haçlılarla mücadeleye hangi yıl başlamıştır?",
+    "choices": [
+      "1250",
+      "1259",
+      "1263",
+      "1271"
+    ],
+    "correct_index": 2,
+    "explanation": "1271'e gelindiğinde Ortadoğu'daki Haçlı devletleri harabe hâlindeydi; Baybars'ı asıl kaygılandıran Haçlı-Moğol ittifakı olasılığıydı.",
+    "topics": [
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: I. Baybars",
+    "kaynak_id": "102077#18",
+    "kaynak_baslik": "I. Baybars"
+  },
+  {
+    "id": "m0299",
+    "mode": "mcq",
+    "prompt": "Mao Zedong'un 1966'da uygulamaya koyduğu ideolojik kampanya hangisidir?",
+    "choices": [
+      "Büyük Proleter Kültür Devrimi",
+      "Uzun Yürüyüş",
+      "Yüz Çiçek Hareketi",
+      "Büyük İleri Atılım"
+    ],
+    "correct_index": 0,
+    "explanation": "Büyük İleri Atılım sanayileşmeyi hedeflemişti; Kültür Devrimi ise Çin genelinde geniş kapsamlı bir ideolojik eğitim başlattı.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Mao Zedong",
+    "kaynak_id": "10036#23",
+    "kaynak_baslik": "Mao Zedong"
+  },
+  {
+    "id": "m0300",
+    "mode": "mcq",
+    "prompt": "Jens Lehmann, 2011'de Arsenal ile neden sezon sonuna kadar sözleşme imzalamıştır?",
+    "choices": [
+      "Takımın üç kalecisinin birden sakatlanması",
+      "Kupa kadrosunda eksik bulunması",
+      "Genç kalecilere antrenörlük yapması",
+      "Kadro dışı kalan bir oyuncunun yerine geçmesi"
+    ],
+    "correct_index": 0,
+    "explanation": "Szczęsny, Fabiański ve Mannone sakatlanınca Lehmann emeklilikten döndü; Wenger formda olmadığını itiraf etti.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Jens Lehmann",
+    "kaynak_id": "102535#20",
+    "kaynak_baslik": "Jens Lehmann"
+  },
+  {
+    "id": "m0301",
+    "mode": "mcq",
+    "prompt": "Hitler, 4 Şubat 1938'de Joachim von Ribbentrop'u kimin yerine Dışişleri Bakanı olarak atamıştır?",
+    "choices": [
+      "Rudolf Hess",
+      "Hermann Göring",
+      "Wilhelm Frick",
+      "Konstantin von Neurath"
+    ],
+    "correct_index": 3,
+    "explanation": "Neurath'ın tedbirli doğasının aksine Ribbentrop 1938-1939'da savaşı tümüyle destekledi; öncesinde Londra büyükelçisiydi.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Joachim von Ribbentrop",
+    "kaynak_id": "102712#9",
+    "kaynak_baslik": "Joachim von Ribbentrop"
+  },
+  {
+    "id": "m0302",
+    "mode": "mcq",
+    "prompt": "Kurucu Davit'in Kutaisi yakınlarında inşa ettirdiği ve \"İkinci Kudüs\" olarak anılan yapı hangisidir?",
+    "choices": [
+      "Bagrati Katedrali",
+      "Vardzia Manastırı",
+      "Svetitskhoveli Katedrali",
+      "Gelati Manastırı"
+    ],
+    "correct_index": 3,
+    "explanation": "1106-1125 arasında inşa edilen Gelati, manastırın yanı sıra bir akademi de barındırıyordu.",
+    "topics": [
+      "tarih",
+      "mimari"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Kutaisi",
+    "kaynak_id": "161054#11",
+    "kaynak_baslik": "Kutaisi"
+  },
+  {
+    "id": "m0303",
+    "mode": "mcq",
+    "prompt": "Türkiye A Millî Futbol Takımı, 2002 Dünya Kupası üçüncülük maçını hangi şehirde oynamıştır?",
+    "choices": [
+      "Seul",
+      "Yokohama",
+      "Busan",
+      "Daegu"
+    ],
+    "correct_index": 3,
+    "explanation": "29 Haziran 2002'de Daegu Stadyumu'nda Güney Kore 3-2 yenildi; şehir turnuvada dört maça ev sahipliği yaptı.",
+    "topics": [
+      "spor",
+      "coğrafya"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Daegu",
+    "kaynak_id": "15912#27",
+    "kaynak_baslik": "Daegu"
+  },
+  {
+    "id": "m0304",
+    "mode": "mcq",
+    "prompt": "Kayserispor, 2014-15 sezonunda hangi teknik direktör yönetiminde 1. Lig'de şampiyon olarak Süper Lig'e yükselmiştir?",
+    "choices": [
+      "Tolunay Kafkas",
+      "Erol Bedir",
+      "Cüneyt Dumlupınar",
+      "Şota Arveladze"
+    ],
+    "correct_index": 2,
+    "explanation": "Kulüp 2013-14'te ligde sonuncu olarak düşmüştü; Erol Bedir ise 2017'de başkan seçildi.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Kayserispor",
+    "kaynak_id": "11644#7",
+    "kaynak_baslik": "Kayserispor"
+  },
+  {
+    "id": "m0305",
+    "mode": "mcq",
+    "prompt": "Mirza Gulam Ahmed, 1864'te hangi amaçla Siyalküt kentine gönderilmiştir?",
+    "choices": [
+      "Hukuk eğitimi almak",
+      "Ticaret yapmak",
+      "Tıp öğrenimi görmek",
+      "Askerî okula girmek"
+    ],
+    "correct_index": 0,
+    "explanation": "Hukuk imtihanında başarılı olamayınca 1868'de Kadıyan'a döndü; 1876'dan itibaren yazıları gazetelerde yayımlanmaya başladı.",
+    "topics": [
+      "din",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Ahmedîlik",
+    "kaynak_id": "16314#5",
+    "kaynak_baslik": "Ahmedîlik"
   }
 ]
