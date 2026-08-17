@@ -1,0 +1,116 @@
+[
+  {
+    "slug": "tarihin-rakamlari",
+    "baslik": "Tarihin Rakamları",
+    "aciklama": "Piramitlerden anayasa oylamalarına, tarihin sayıya dökülmüş hâli.",
+    "renk": "#3A1F1B",
+    "metin_rengi": "#FBEAE3",
+    "soru_ids": [
+      "f0039",
+      "f0043",
+      "f0042",
+      "m0133",
+      "m0160",
+      "m0127",
+      "m0001",
+      "m0128",
+      "m0004",
+      "m0002"
+    ]
+  },
+  {
+    "slug": "dunyayi-olcmek",
+    "baslik": "Dünyayı Ölçmek",
+    "aciklama": "Kıyı şeritleri, dağlar, şehirler — gezegeni rakamlarla tartmak.",
+    "renk": "#10322E",
+    "metin_rengi": "#E3F5EE",
+    "soru_ids": [
+      "f0055",
+      "f0147",
+      "f0164",
+      "m0125",
+      "m0003",
+      "m0006",
+      "m0024",
+      "m0026",
+      "m0034",
+      "m0041"
+    ]
+  },
+  {
+    "slug": "mutfaktaki-fizik",
+    "baslik": "Mutfaktaki Fizik",
+    "aciklama": "Bir kutu spagetti kaç metre? Yemek masasında büyüklük sezgisi.",
+    "renk": "#2E2416",
+    "metin_rengi": "#F7EEDC",
+    "soru_ids": [
+      "f0002",
+      "f0011",
+      "f0019",
+      "f0004",
+      "f0151",
+      "f0021",
+      "f0007",
+      "f0020",
+      "f0102",
+      "m0114"
+    ]
+  },
+  {
+    "slug": "ekranlar-ve-sesler",
+    "baslik": "Ekranlar ve Sesler",
+    "aciklama": "Şarkılar, filmler, diziler — kültürün ölçülebilir tarafı.",
+    "renk": "#331A2B",
+    "metin_rengi": "#FAE8F4",
+    "soru_ids": [
+      "f0001",
+      "f0009",
+      "f0141",
+      "m0142",
+      "m0035",
+      "m0040",
+      "m0053",
+      "m0061",
+      "m0057",
+      "m0067"
+    ]
+  },
+  {
+    "slug": "bilim-ve-uzay",
+    "baslik": "Bilim ve Uzay",
+    "aciklama": "Atom saatinden süpernovaya, laboratuvardan yörüngeye.",
+    "renk": "#26215C",
+    "metin_rengi": "#EEEDFE",
+    "soru_ids": [
+      "f0006",
+      "f0069",
+      "f0104",
+      "m0072",
+      "m0016",
+      "m0014",
+      "m0023",
+      "m0017",
+      "m0107",
+      "m0019"
+    ]
+  },
+  {
+    "slug": "sahada-ve-pistte",
+    "baslik": "Sahada ve Pistte",
+    "aciklama": "Goller, kupalar, rekorlar. Sporun sayılarla anlatımı.",
+    "renk": "#1B2A3A",
+    "metin_rengi": "#E4F0FA",
+    "soru_ids": [
+      "f0012",
+      "f0050",
+      "f0073",
+      "m0005",
+      "m0047",
+      "m0010",
+      "m0078",
+      "m0013",
+      "m0084",
+      "m0043"
+    ]
+  }
+]
