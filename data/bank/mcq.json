@@ -5757,5 +5757,416 @@
     "source": "Vikipedi: II. Kiros",
     "kaynak_id": "117752#58",
     "kaynak_baslik": "II. Kiros"
+  },
+  {
+    "id": "m0267",
+    "mode": "mcq",
+    "prompt": "Alexander Graham Bell'in 7 Mart 1876'da aldığı telefon patentinin numarası kaçtır?",
+    "choices": [
+      "101.112",
+      "174.465",
+      "319.204",
+      "223.898"
+    ],
+    "correct_index": 1,
+    "explanation": "Bell ve Elisha Gray, 14 Şubat 1876'da patent için ayrı ayrı başvurmuştu; patent Bell'e verildi.",
+    "topics": [
+      "teknoloji",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Alexander Graham Bell",
+    "kaynak_id": "18045#5",
+    "kaynak_baslik": "Alexander Graham Bell"
+  },
+  {
+    "id": "m0268",
+    "mode": "mcq",
+    "prompt": "Zlatan Ibrahimović, PSG'deki son sezonunda 31 maçta kaç gol atarak üçüncü kez gol kralı olmuştur?",
+    "choices": [
+      "25",
+      "30",
+      "50",
+      "38"
+    ],
+    "correct_index": 3,
+    "explanation": "PSG'de toplam 180 maçta 156 gol attı ve lig dışında 8 kupa kazandı, ancak Şampiyonlar Ligi'nde her sezon çeyrek finalde elendi.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Zlatan Ibrahimović",
+    "kaynak_id": "193533#26",
+    "kaynak_baslik": "Zlatan Ibrahimović"
+  },
+  {
+    "id": "m0269",
+    "mode": "mcq",
+    "prompt": "Geoffrey Parker'a göre yaylım ateşi taktiği hangi ülkede keşfedilmiştir?",
+    "choices": [
+      "Hollanda",
+      "İspanya",
+      "Fransa",
+      "İsveç"
+    ],
+    "correct_index": 0,
+    "explanation": "Parker taktiğin 1594-1595 arasında keşfedildiğini belirtir; bir Osmanlı belgesi ise 1605'te Yeniçeri'nin bu taktiği ustalıkla uyguladığını gösteriyor.",
+    "topics": [
+      "tarih",
+      "askeri"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Barutlu silahlarla savaş",
+    "kaynak_id": "106512#16",
+    "kaynak_baslik": "Barutlu silahlarla savaş"
+  },
+  {
+    "id": "m0270",
+    "mode": "mcq",
+    "prompt": "Sivasspor, 2008-09 sezonunu kaç puanla ikinci tamamlayarak Şampiyonlar Ligi elemelerine katılma hakkı kazanmıştır?",
+    "choices": [
+      "61",
+      "66",
+      "72",
+      "58"
+    ],
+    "correct_index": 1,
+    "explanation": "Şampiyon Beşiktaş'ın 5 puan gerisinde kalan Sivasspor, Türkiye'yi Şampiyonlar Ligi'nde temsil eden 5. Türk takımı oldu.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Sivasspor",
+    "kaynak_id": "19936#16",
+    "kaynak_baslik": "Sivasspor"
+  },
+  {
+    "id": "m0271",
+    "mode": "mcq",
+    "prompt": "Santiago Bernabéu Stadı, hangi turnuvanın finaline en son 2010 yılında ev sahipliği yapmıştır?",
+    "choices": [
+      "Avrupa Şampiyonası",
+      "UEFA Şampiyonlar Ligi",
+      "FIFA Dünya Kupası",
+      "UEFA Avrupa Ligi"
+    ],
+    "correct_index": 1,
+    "explanation": "Stat ayrıca 1964 Avrupa Şampiyonası ve 1982 Dünya Kupası finallerine, Şampiyon Kulüpler Kupası'nın ise 1957, 1969 ve 1980 finallerine sahne oldu.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Real Madrid CF",
+    "kaynak_id": "20532#18",
+    "kaynak_baslik": "Real Madrid CF"
+  },
+  {
+    "id": "m0272",
+    "mode": "mcq",
+    "prompt": "Christopher Nolan'ın Yıldızlararası filmi, hangi kuramsal fizikçinin bilimsel kuramlarına dayanmaktadır?",
+    "choices": [
+      "Brian Greene",
+      "Kip Thorne",
+      "Michio Kaku",
+      "Stephen Hawking"
+    ],
+    "correct_index": 1,
+    "explanation": "Filmi aslında Steven Spielberg yönetecekti; 87. Akademi Ödülleri'nde beş adaylık alıp En İyi Görsel Efekt ödülünü kazandı.",
+    "topics": [
+      "film",
+      "bilim"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Christopher Nolan",
+    "kaynak_id": "137629#12",
+    "kaynak_baslik": "Christopher Nolan"
+  },
+  {
+    "id": "m0273",
+    "mode": "mcq",
+    "prompt": "Tacikistan'da Sovyet kolektifleştirme politikasına karşı canlanan direniş hareketi hangisidir?",
+    "choices": [
+      "Cedidcilik",
+      "Basmacı Hareketi",
+      "Alaş Otonomu",
+      "Müsavat"
+    ],
+    "correct_index": 1,
+    "explanation": "1927-1934 arasındaki kolektifleştirme ve pamuk üretimindeki genişleme, köylülere karşı şiddet ve zorla yerleştirme getirdi.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Tacikistan",
+    "kaynak_id": "21080#10",
+    "kaynak_baslik": "Tacikistan"
+  },
+  {
+    "id": "m0274",
+    "mode": "mcq",
+    "prompt": "Köln'ün binlerce yıllık şehir merkezinin yaklaşık yüzde kaçı II. Dünya Savaşı bombardımanlarında yok olmuştur?",
+    "choices": [
+      "%80",
+      "%50",
+      "%25",
+      "%93"
+    ],
+    "correct_index": 0,
+    "explanation": "%93 ise esas olarak tahliye nedeniyle nüfusta yaşanan azalmanın oranıdır; şehir bugün yaklaşık %25 oranında savaş öncesi binalardan oluşuyor.",
+    "topics": [
+      "tarih",
+      "coğrafya"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Köln",
+    "kaynak_id": "16601#5",
+    "kaynak_baslik": "Köln"
+  },
+  {
+    "id": "m0275",
+    "mode": "mcq",
+    "prompt": "Popülasyon genetiğinde Darwin'in doğal seçilim prensibini ilk kez matematiksel biçimde ifade eden bilim insanı kimdir?",
+    "choices": [
+      "Sewall Wright",
+      "Ronald Fisher",
+      "Gregor Mendel",
+      "Theodosius Dobzhansky"
+    ],
+    "correct_index": 1,
+    "explanation": "Fisher'in 1918'de başlayan çalışması, 1930'da Doğal Seçilim'in Genetik Teorisi kitabıyla sonuçlandı.",
+    "topics": [
+      "bilim",
+      "doğa"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Popülasyon genetiği",
+    "kaynak_id": "197883#46",
+    "kaynak_baslik": "Popülasyon genetiği"
+  },
+  {
+    "id": "m0276",
+    "mode": "mcq",
+    "prompt": "Prizren, Fatih Sultan Mehmed komutasındaki Osmanlı ordusu tarafından hangi tarihte kesin olarak fethedilmiştir?",
+    "choices": [
+      "1389",
+      "1390",
+      "21 Haziran 1455",
+      "1512"
+    ],
+    "correct_index": 2,
+    "explanation": "Şehir I. Kosova Savaşı sonrasında 1390'da I. Murad tarafından ele geçirilmişti, ancak kesin fetih 1455'te gerçekleşti.",
+    "topics": [
+      "tarih",
+      "coğrafya"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Prizren",
+    "kaynak_id": "174825#18",
+    "kaynak_baslik": "Prizren"
+  },
+  {
+    "id": "m0277",
+    "mode": "mcq",
+    "prompt": "Cezayir Beylerbeyliği, Osmanlı İmparatorluğu'nun özerk bir vasal devleti olarak hangi yıl kurulmuştur?",
+    "choices": [
+      "1516",
+      "1903",
+      "1848",
+      "1830"
+    ],
+    "correct_index": 0,
+    "explanation": "Ülke Osmanlı egemenliğinde yaklaşık üç yüzyıl Akdeniz'de güç oldu; 1830'da Fransa işgal etti, 1848'de resmen ilhak edildi.",
+    "topics": [
+      "tarih",
+      "coğrafya"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Cezayir",
+    "kaynak_id": "1032#3",
+    "kaynak_baslik": "Cezayir"
+  },
+  {
+    "id": "m0278",
+    "mode": "mcq",
+    "prompt": "Los Angeles, İspanyol valisi Felipe de Neve yönetiminde hangi tarihte kurulmuştur?",
+    "choices": [
+      "4 Nisan 1850",
+      "1542",
+      "1821",
+      "4 Eylül 1781"
+    ],
+    "correct_index": 3,
+    "explanation": "Şehir Yaanga köyü üzerinde kuruldu; 1850'de belediye olarak resmen kuruldu, 1890'larda petrolün keşfi büyümeyi hızlandırdı.",
+    "topics": [
+      "tarih",
+      "coğrafya"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Los Angeles",
+    "kaynak_id": "1186#3",
+    "kaynak_baslik": "Los Angeles"
+  },
+  {
+    "id": "m0279",
+    "mode": "mcq",
+    "prompt": "Ekşi Sözlük'ün öncülü olan \"sourtimes\" sitesinin adı nereden esinlenilmiştir?",
+    "choices": [
+      "Portishead'in bir şarkısının adından",
+      "Bir gazete köşesinden",
+      "Kurucusunun takma adından",
+      "Bir bilgisayar oyunundan"
+    ],
+    "correct_index": 0,
+    "explanation": "Sedat Kapanoğlu siteyi 1998'de kurdu; Ekşi Sözlük 15 Şubat 1999'da 10-15 kişilik bir kullanıcı grubuyla yayına başladı.",
+    "topics": [
+      "teknoloji",
+      "kültür"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Ekşi Sözlük",
+    "kaynak_id": "1238#2",
+    "kaynak_baslik": "Ekşi Sözlük"
+  },
+  {
+    "id": "m0280",
+    "mode": "mcq",
+    "prompt": "Lamborghini geleneği hâline gelen yukarı açılan kapılara sahip ilk otomobil hangisidir?",
+    "choices": [
+      "Miura",
+      "Countach",
+      "Espada",
+      "Diablo"
+    ],
+    "correct_index": 1,
+    "explanation": "LP500 Countach konsepti 1971'de tanıtıldı, üretim 1974'te LP400 ile başladı; Miura'nın 4 litrelik V12'sini kullanıyordu.",
+    "topics": [
+      "ulaşım",
+      "teknoloji"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Lamborghini",
+    "kaynak_id": "1435#6",
+    "kaynak_baslik": "Lamborghini"
+  },
+  {
+    "id": "m0281",
+    "mode": "mcq",
+    "prompt": "Macaristan'ın üç parçaya ayrılmasına yol açan süreç hangi muharebeyle başlamıştır?",
+    "choices": [
+      "Mohaç Muharebesi",
+      "Varna Muharebesi",
+      "Zenta Muharebesi",
+      "II. Viyana Kuşatması"
+    ],
+    "correct_index": 0,
+    "explanation": "1526'daki yenilginin ardından Buda 1541'de düştü; Osmanlılar Macaristan'ın kaybını 1699 Karlofça Antlaşması ile tanıdı.",
+    "topics": [
+      "tarih"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Macaristan",
+    "kaynak_id": "1920#2",
+    "kaynak_baslik": "Macaristan"
+  },
+  {
+    "id": "m0282",
+    "mode": "mcq",
+    "prompt": "Radyoaktif bozunmanın Dünya'nın yaşı hesaplarındaki varsayımları bozduğunu 1903'te ilk kez belirten bilim insanları kimlerdir?",
+    "choices": [
+      "Marie ve Pierre Curie",
+      "Henri Becquerel ve Ernest Rutherford",
+      "Albert Laborde ve Lord Kelvin",
+      "George Darwin ve John Joly"
+    ],
+    "correct_index": 3,
+    "explanation": "Jeologlar Dünya'nın ısısının sürekli uzaya yayıldığını varsayıyordu; radyoaktif bozunma bu ısının sürekli yenilendiğini gösterdi.",
+    "topics": [
+      "bilim",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Dünya'nın yaşı",
+    "kaynak_id": "148934#18",
+    "kaynak_baslik": "Dünya'nın yaşı"
+  },
+  {
+    "id": "m0283",
+    "mode": "mcq",
+    "prompt": "Titanik filmi, 25. yıldönümü nedeniyle hangi tarihte yeniden vizyona girmiştir?",
+    "choices": [
+      "10 Şubat 2023",
+      "19 Aralık 1997",
+      "1 Aralık 2017",
+      "14 Şubat 2012"
+    ],
+    "correct_index": 0,
+    "explanation": "Film 20. yıldönümünde, 1 Aralık 2017'de Dolby Vision'da bir hafta gösterilmişti.",
+    "topics": [
+      "film"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Titanik (film, 1997)",
+    "kaynak_id": "190162#37",
+    "kaynak_baslik": "Titanik (film, 1997)"
+  },
+  {
+    "id": "m0284",
+    "mode": "mcq",
+    "prompt": "Windows 10'un 1703 sürümüne Microsoft tarafından verilen ad nedir?",
+    "choices": [
+      "Redstone 2",
+      "Kasım Güncelleştirmesi",
+      "Yaratıcılar Güncelleştirmesi",
+      "Yıldönümü Güncelleştirmesi"
+    ],
+    "correct_index": 2,
+    "explanation": "Geliştirme sırasında \"Redstone 2\" kod adını taşıyan sürüm 11 Nisan 2017'de genel kullanıma sunuldu.",
+    "topics": [
+      "teknoloji"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Windows 10",
+    "kaynak_id": "1768722#57",
+    "kaynak_baslik": "Windows 10"
+  },
+  {
+    "id": "m0285",
+    "mode": "mcq",
+    "prompt": "Bucaspor, futbol akademisini hangi yıl kurmuştur?",
+    "choices": [
+      "1998",
+      "2010",
+      "2006",
+      "2013"
+    ],
+    "correct_index": 2,
+    "explanation": "Kulüp 2010'da Buca Genç ile birleşme kararı aldı ve Buca Genç'in adı Bucaspor Futbol Akademisi olarak değişti.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Buca Geliştirmespor",
+    "kaynak_id": "110767#19",
+    "kaynak_baslik": "Buca Geliştirmespor"
   }
 ]
