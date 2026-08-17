@@ -35,8 +35,6 @@ const mcq: McqSoru = {
 
 const sonuc: SaklananSonuc = {
 	baslik: 'Kaç? · No. 23',
-	kaynak: 'gunluk',
-	slug: '2026-08-17',
 	soruIdler: ['f1', 'm1'],
 	cevaplar: [200, 2],
 	puanlar: [85, 100]

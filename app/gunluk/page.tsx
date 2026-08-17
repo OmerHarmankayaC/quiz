@@ -22,7 +22,13 @@ export default function GunlukSayfa() {
 		const gun = gunuBul(TAKVIM, t);
 		setTarih(t);
 		setNo(gun?.no ?? 0);
-		setSorular(gun ? sorulariGetir(gun.soru_ids) : []);
+		// sorulariGetir bankada olmayan bir id icin firlatir. Takvim ile banka arasinda
+		// bir kopukluk olursa oyuncuya bos ekran degil, cikisi olan bir mesaj gosterilir.
+		try {
+			setSorular(gun ? sorulariGetir(gun.soru_ids) : []);
+		} catch {
+			setSorular([]);
+		}
 	}, []);
 
 	if (sorular === null) return <main className="p-5">Yükleniyor…</main>;
@@ -43,8 +49,6 @@ export default function GunlukSayfa() {
 		kaydiYaz(gunuKaydet(kaydiOku(), tarih, toplamPuan(puanlar)));
 		sonucuSakla({
 			baslik: `Kaç? · No. ${no}`,
-			kaynak: 'gunluk',
-			slug: tarih,
 			soruIdler: sonuclar.map((s) => s.soruId),
 			cevaplar: sonuclar.map((s) => s.cevap),
 			puanlar

@@ -11,19 +11,14 @@ import type { OyunSonucu } from '@/lib/game/akis';
 export function PaketOyunu({ slug }: { slug: string }) {
 	const router = useRouter();
 	const paket = paketiGetir(slug);
+	// generateStaticParams yalnizca gercek slug'lari uretir ve export'ta catch-all yok:
+	// bilinmeyen slug 404.html'e duser, buraya hic gelmez. Tip daraltmasi icin firlatiyoruz,
+	// beklenmedik bir durumda app/error.tsx devreye girer.
+	if (!paket) throw new Error(`bilinmeyen paket: ${slug}`);
 
-	if (!paket) {
-		return (
-			<main className="mx-auto max-w-xl p-5">
-				<p>Bu paket bulunamadı.</p>
-				<a href="/" className="mt-4 inline-block underline">
-					Ana ekrana dön
-				</a>
-			</main>
-		);
-	}
-
-	const sorular = sorulariGetir(paket.soru_ids);
+	// Bir kez daralt: hoist edilen bitti() icinde tekrar null kontrolu gerekmesin.
+	const { baslik, soru_ids } = paket;
+	const sorular = sorulariGetir(soru_ids);
 
 	function bitti(sonuclar: OyunSonucu[]) {
 		const puanlar = sonuclar.map((s) => s.puan);
@@ -31,9 +26,7 @@ export function PaketOyunu({ slug }: { slug: string }) {
 			paketiKaydet(kaydiOku(), slug, toplamPuan(puanlar), new Date().toISOString())
 		);
 		sonucuSakla({
-			baslik: `Kaç? · ${paket!.baslik}`,
-			kaynak: 'paket',
-			slug,
+			baslik: `Kaç? · ${baslik}`,
 			soruIdler: sonuclar.map((s) => s.soruId),
 			cevaplar: sonuclar.map((s) => s.cevap),
 			puanlar
@@ -41,5 +34,5 @@ export function PaketOyunu({ slug }: { slug: string }) {
 		router.push('/sonuc');
 	}
 
-	return <SoruEkrani sorular={sorular} baslik={paket.baslik} onBitti={bitti} />;
+	return <SoruEkrani sorular={sorular} baslik={baslik} onBitti={bitti} />;
 }
