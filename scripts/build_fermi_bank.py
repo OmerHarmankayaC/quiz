@@ -27,6 +27,7 @@ KOK = Path(__file__).resolve().parent.parent
 HAM = KOK / "data" / "raw" / "questions.json"
 TRIAGE = KOK / "data" / "work" / "fermi-triage.json"
 OZGUN = KOK / "data" / "work" / "fermi-original.json"
+NAPKIN_TR = KOK / "data" / "work" / "fermi-napkin-tr.json"
 BANKA = KOK / "data" / "bank" / "fermi.json"
 BEKLEYEN = KOK / "data" / "work" / "fermi-adapted-pending.json"
 
@@ -66,7 +67,13 @@ def main() -> None:
     if atlanan:
         print(f"uyari: triage'da karar verilmemis {len(atlanan)} soru atlandi", file=sys.stderr)
 
+    napkin_tr = {}
+    if NAPKIN_TR.exists():
+        napkin_tr = json.loads(NAPKIN_TR.read_text(encoding="utf-8"))
+        napkin_tr.pop("_aciklama", None)
+
     banka, bekleyen = [], []
+    cevrilmis: set[str] = set()
     sayac = {"t": 0, "a": 0, "x": 0}
     sira = 0
 
@@ -108,18 +115,29 @@ def main() -> None:
             continue
 
         sira += 1
-        kayit["id"] = f"f{sira:04d}"
+        kayit_id = f"f{sira:04d}"
+        kayit["id"] = kayit_id
         kayit["answer"] = cevap
         kayit["origin"] = "translated"
         kayit["verified_at"] = DOGRULAMA_TARIHI
         if donusum_notu:
             kayit["donusum"] = donusum_notu
-        # Adim adim cozum ve tahmin zinciri henuz cevrilmedi; veri kaybolmasin
-        # diye orijinal haliyle tasiniyor.
-        if h.get("math"):
-            kayit["_math_en"] = h["math"]
-        if h.get("napkin"):
-            kayit["_napkin_en"] = h["napkin"]
+
+        # Pecete hesabi kademeli olarak ceviriliyor. Cevirisi hazir olan soru
+        # Turkce math/napkin alir; hazir olmayan, veri kaybolmasin diye
+        # Ingilizce yedegini _math_en/_napkin_en'de tasimaya devam eder.
+        tr = napkin_tr.get(kayit_id)
+        if tr:
+            cevrilmis.add(kayit_id)
+            if tr.get("math"):
+                kayit["math"] = tr["math"]
+            if tr.get("napkin"):
+                kayit["napkin"] = tr["napkin"]
+        else:
+            if h.get("math"):
+                kayit["_math_en"] = h["math"]
+            if h.get("napkin"):
+                kayit["_napkin_en"] = h["napkin"]
 
         # Alan sirasi okunabilir olsun diye id one aliniyor.
         banka.append({"id": kayit.pop("id"), **kayit})
@@ -153,6 +171,12 @@ def main() -> None:
     print(f"triage: {sayac['t']} cevrildi, {sayac['a']} uyarlandi, {sayac['x']} elendi")
     print(f"  {BANKA.relative_to(KOK)}    -> {len(banka)} soru (oynanabilir, {ozgun_sayisi} ozgun TR)")
     print(f"  {BEKLEYEN.relative_to(KOK)} -> {len(bekleyen)} soru (cevap arastirmasi bekliyor)")
+
+    bilinmeyen = set(napkin_tr) - cevrilmis
+    if bilinmeyen:
+        sys.exit(f"ceviri dosyasinda bankada olmayan id var: {sorted(bilinmeyen)}")
+    kalan = sayac["t"] - len(cevrilmis)
+    print(f"\npecete hesabi: {len(cevrilmis)} Turkce, {kalan} hala Ingilizce yedekte")
 
     donusenler = [b for b in banka if "donusum" in b]
     if donusenler:

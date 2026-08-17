@@ -14,39 +14,39 @@
     "answer": 1084170,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Books in the series",
+        "Serideki kitap sayısı",
         "× 7"
       ],
       [
-        "Avg pages per book",
+        "Kitap başına ortalama sayfa",
         "≈ 590"
       ],
       [
-        "Words per page",
+        "Sayfa başına kelime",
         "≈ 260"
       ],
       [
         "7 × 590 × 260",
-        "≈ 1.08 million"
+        "≈ 1,08 milyon"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "There's no single number to grab, so build it up. A big novel runs maybe 150,000 words, and Harry Potter is seven books, a few of them huge.",
+      "lead": "Hazır bir sayı yok, kurarak git. Kalın bir roman 150 bin kelime civarı; Harry Potter yedi kitap ve birkaçı devasa.",
       "rows": [
         [
-          "Words in a big novel",
-          "~150,000"
+          "Kalın bir romanda kelime",
+          "~150.000"
         ],
         [
-          "Books in the series",
+          "Serideki kitap",
           "× 7"
         ],
         [
-          "150k × 7",
-          "≈ 1 million"
+          "150 bin × 7",
+          "≈ 1 milyon"
         ]
       ]
     }
@@ -66,42 +66,41 @@
     "answer": 75000000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Restaurants worldwide",
-        "≈ 40,000"
+        "Dünya genelinde şube",
+        "≈ 40.000"
       ],
       [
-        "Customers per restaurant per day",
-        "× 1,600"
+        "Şube başına günlük müşteri",
+        "× 1.600"
       ],
       [
-        "Burgers per customer (avg.)",
-        "× 1.2"
+        "Müşteri başına hamburger",
+        "× 1,2"
       ],
       [
-        "40,000 × 1,600 × 1.2",
-        "≈ 75 million"
+        "40.000 × 1.600 × 1,2",
+        "≈ 75 milyon"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Start with McDonald's restaurants, something like 40,000 worldwide. How many burgers does one sell in a day? It's a busy place, so call it a couple thousand.",
+      "lead": "McDonald's şubelerinden başla: dünyada 40 bin kadar var. Bir şube günde kaç hamburger satar? Yoğun bir yer, birkaç bin de.",
       "rows": [
         [
-          "Restaurants worldwide",
-          "~40,000"
+          "Dünyada şube",
+          "~40.000"
         ],
         [
-          "Burgers per store per day",
-          "~2,000"
+          "Şube başına günlük hamburger",
+          "~2.000"
         ],
         [
-          "40,000 × 2,000",
-          "≈ 80 million"
+          "40.000 × 2.000",
+          "≈ 80 milyon"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -118,42 +117,41 @@
     "answer": 66000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Daily active users",
-        "≈ 2 billion"
+        "Günlük aktif kullanıcı",
+        "≈ 2 milyar"
       ],
       [
-        "Posts per active user per day",
-        "× 0.05"
+        "Kullanıcı başına günlük paylaşım",
+        "× 0,05"
       ],
       [
-        "Posts per day",
-        "≈ 95 million"
+        "Günlük paylaşım",
+        "≈ 95 milyon"
       ],
       [
-        "÷ 1,440 minutes",
-        "≈ 66,000"
+        "÷ 1.440 dakika",
+        "≈ 66.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Instagram has around 2 billion users. How many post a photo on a given day? Not most of them, maybe 1 in 20. Spread that across the 1,440 minutes in a day.",
+      "lead": "Instagram'ın 2 milyar kadar kullanıcısı var. Bugün kaçı fotoğraf paylaşır? Çoğu değil, belki 20'de biri. Bunu günün 1.440 dakikasına yay.",
       "rows": [
         [
-          "Instagram users",
-          "2,000,000,000"
+          "Instagram kullanıcısı",
+          "2 milyar"
         ],
         [
-          "Post a photo today",
-          "~1 in 20"
+          "Bugün fotoğraf paylaşan",
+          "~20'de 1"
         ],
         [
-          "100M/day ÷ 1,440",
-          "≈ 70,000"
+          "100 milyon ÷ 1.440",
+          "≈ 70.000"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -171,65 +169,47 @@
     "answer": 56000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Interior volume (VW Golf, seats folded)",
-        "≈ 126.4 ft³ (3,580 L)"
+        "Golf'ün iç hacmi (koltuklar yatık)",
+        "≈ 3.580 litre"
       ],
       [
-        "Volume of one golf ball",
-        "≈ 40.7 cm³"
+        "Bir golf topunun hacmi",
+        "≈ 40,7 cm³"
       ],
       [
-        "Packing efficiency (random)",
-        "× 0.64"
+        "Doldurma verimi (rastgele)",
+        "× 0,64"
       ],
       [
-        "3,580,000 ÷ 40.7 × 0.64",
-        "≈ 56,000"
+        "3.580.000 ÷ 40,7 × 0,64",
+        "≈ 56.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "Picture filling the whole inside of the car with the seats folded, roughly 3,500 liters. A golf ball is small, but the gaps around it are wasted space. How many fit in a liter? Maybe 15.",
+      "lead": "Koltukları yatırılmış arabanın içini tamamen doldurduğunu düşün: kabaca 3.500 litre. Golf topu küçük ama aralarındaki boşluklar ziyan oluyor. Bir litreye kaç tane sığar? Belki 15.",
       "rows": [
         [
-          "Car interior",
-          "~3,500 L"
+          "Araba iç hacmi",
+          "~3.500 L"
         ],
         [
-          "Golf balls per liter",
+          "Litre başına golf topu",
           "× 15"
         ],
         [
-          "3,500 × 15",
-          "≈ 52,500"
+          "3.500 × 15",
+          "≈ 52.500"
         ]
-      ],
-      "system": "metric",
-      "alt": {
-        "lead": "Picture filling the whole inside of the car with the seats folded, roughly 130 cubic feet. How many golf balls fit in one cubic foot once you count the gaps? Maybe 400.",
-        "rows": [
-          [
-            "Car interior",
-            "~130 ft³"
-          ],
-          [
-            "Golf balls per cubic foot",
-            "× 400"
-          ],
-          [
-            "130 × 400",
-            "≈ 52,000"
-          ]
-        ]
-      }
+      ]
     }
   },
   {
     "id": "f0005",
     "mode": "fermi",
-    "prompt": "Ortalama bir insan ömrü boyunca kalp kaç kez atar?",
+    "prompt": "60 yıllık bir ömür boyunca kalp kaç kez atar?",
     "unit": "atış",
     "topics": [
       "insan",
@@ -241,46 +221,45 @@
     "answer": 2300000000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Life expectancy at birth, Mali",
-        "≈ 60 years"
+        "Ömür",
+        "60 yıl"
       ],
       [
-        "Minutes in a year",
-        "× 525,600"
+        "Yıldaki dakika",
+        "× 525.600"
       ],
       [
-        "Avg resting heart rate",
-        "× 72 bpm"
+        "Dakikada atım",
+        "× 72"
       ],
       [
-        "60 × 525,600 × 72",
-        "≈ 2.3 billion"
+        "60 × 525.600 × 72",
+        "≈ 2,3 milyar"
       ]
     ],
-    "_napkin_en": {
-      "type": "anchor",
-      "lead": "Start with life expectancy in Mali, around 60 years, well short of the world average. Your heart beats about 70 times a minute, and there are roughly 500,000 minutes in a year.",
+    "napkin": {
+      "type": "chain",
+      "lead": "Kalbin dakikada yaklaşık 70 kez atıyor ve bir yılda kabaca 500 bin dakika var. Gerisi çarpma.",
       "rows": [
         [
-          "Life expectancy in Mali",
-          "≈ 60 years"
+          "Yıldaki dakika",
+          "525.600"
         ],
         [
-          "Minutes in a year",
-          "× 525,600"
-        ],
-        [
-          "Beats per minute",
+          "Dakikada atım",
           "× 70"
         ],
         [
-          "60 × 525k × 70",
-          "≈ 2.2 billion"
+          "Yılda",
+          "≈ 37 milyon"
+        ],
+        [
+          "× 60 yıl",
+          "≈ 2,2 milyar"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -298,57 +277,37 @@
     "answer": 4940,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Football field length",
-        "= 360 ft = 4,320 in"
+        "Amerikan futbolu sahası",
+        "110 m = 11.000 cm"
       ],
       [
-        "Width of one white piano key",
-        "≈ 7/8 in"
+        "Bir beyaz tuşun genişliği",
+        "≈ 2,22 cm"
       ],
       [
-        "4,320 ÷ 0.875",
-        "≈ 4,940"
+        "11.000 ÷ 2,22",
+        "≈ 4.940"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "A football field with the end zones is 120 yards, which is 360 feet or about 4,300 inches. How wide is a piano key? Roughly an inch, so it's nearly one key per inch.",
+      "lead": "Kale alanlarıyla birlikte saha 110 metre, yani 11 bin santim. Piyano tuşu ne kadar geniş? İki santimi biraz geçiyor.",
       "rows": [
         [
-          "Field length",
-          "~4,300 in"
+          "Saha boyu",
+          "~11.000 cm"
         ],
         [
-          "Width of a key",
-          "~1 in"
+          "Tuş genişliği",
+          "~2,2 cm"
         ],
         [
-          "4,300 ÷ 1",
-          "≈ 4,300"
+          "11.000 ÷ 2,2",
+          "≈ 5.000"
         ]
-      ],
-      "startRow": 0,
-      "system": "imperial",
-      "alt": {
-        "lead": "A football field with the end zones is about 110 meters, which is 11,000 centimeters. How wide is a piano key? Call it 2.5 centimeters.",
-        "rows": [
-          [
-            "Field length",
-            "~11,000 cm"
-          ],
-          [
-            "Width of a key",
-            "~2.5 cm"
-          ],
-          [
-            "11,000 ÷ 2.5",
-            "≈ 4,400"
-          ]
-        ],
-        "startRow": 0
-      }
+      ]
     }
   },
   {
@@ -366,55 +325,37 @@
     "answer": 5700,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Average adult mass",
+        "Ortalama yetişkin kütlesi",
         "≈ 80 kg"
       ],
       [
-        "Lift per 11\" helium balloon",
+        "28 cm'lik helyum balonun kaldırdığı",
         "≈ 14 g"
       ],
       [
-        "80,000 ÷ 14",
-        "≈ 5,700"
+        "80.000 ÷ 14",
+        "≈ 5.700"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "An adult weighs around 80 kilograms, which is 80,000 grams. How much can one party balloon lift? Barely anything, only about 14 grams. So you need a balloon for every 14 grams.",
+      "lead": "Yetişkin 80 kilo, yani 80 bin gram. Bir parti balonu ne kaldırır? Neredeyse hiç — 14 gram kadar. Yani her 14 gram için bir balon gerekiyor.",
       "rows": [
         [
-          "Adult weight",
-          "80,000 g"
+          "Yetişkin ağırlığı",
+          "80.000 g"
         ],
         [
-          "Lift per balloon",
+          "Balon başına kaldırma",
           "~14 g"
         ],
         [
-          "80,000 ÷ 14",
-          "≈ 5,700"
+          "80.000 ÷ 14",
+          "≈ 5.700"
         ]
-      ],
-      "system": "metric",
-      "alt": {
-        "lead": "An adult weighs around 175 pounds, which is 2,800 ounces. How much can one party balloon lift? Barely anything, about half an ounce. So you need a balloon for every half ounce.",
-        "rows": [
-          [
-            "Adult weight",
-            "2,800 oz"
-          ],
-          [
-            "Lift per balloon",
-            "~0.5 oz"
-          ],
-          [
-            "2,800 ÷ 0.5",
-            "≈ 5,600"
-          ]
-        ]
-      }
+      ]
     }
   },
   {
@@ -432,59 +373,41 @@
     "answer": 164000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "School bus interior",
-        "≈ 40 m³ = 40,000 L"
+        "Okul otobüsü iç hacmi",
+        "≈ 40 m³ = 40.000 litre"
       ],
       [
-        "Volume of one tennis ball",
+        "Bir tenis topunun hacmi",
         "≈ 156 cm³"
       ],
       [
-        "Packing efficiency (random)",
-        "× 0.64"
+        "Doldurma verimi",
+        "× 0,64"
       ],
       [
-        "40,000,000 ÷ 156 × 0.64",
-        "≈ 164,000"
+        "40.000.000 ÷ 156 × 0,64",
+        "≈ 164.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "A school bus is big inside, roughly 40 cubic meters, which is 40,000 liters. How many tennis balls fit in a liter once packed? About 4. Multiply it out.",
+      "lead": "Okul otobüsünün içi geniş: kabaca 40 metreküp, yani 40 bin litre. Sıkıştırınca bir litreye kaç tenis topu girer? Dört kadar.",
       "rows": [
         [
-          "Bus interior",
-          "40,000 L"
+          "Otobüs iç hacmi",
+          "40.000 L"
         ],
         [
-          "Tennis balls per liter",
+          "Litre başına tenis topu",
           "× 4"
         ],
         [
-          "40,000 × 4",
-          "≈ 160,000"
+          "40.000 × 4",
+          "≈ 160.000"
         ]
-      ],
-      "system": "metric",
-      "alt": {
-        "lead": "A school bus is big inside, roughly 1,400 cubic feet. How many tennis balls fit in a cubic foot once packed? Call it 110. Multiply it out.",
-        "rows": [
-          [
-            "Bus interior",
-            "~1,400 ft³"
-          ],
-          [
-            "Tennis balls per cubic foot",
-            "× 110"
-          ],
-          [
-            "1,400 × 110",
-            "≈ 150,000"
-          ]
-        ]
-      }
+      ]
     }
   },
   {
@@ -501,38 +424,37 @@
     "answer": 150000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Minutes in a year",
-        "≈ 525,600"
+        "Yıldaki dakika",
+        "≈ 525.600"
       ],
       [
-        "Average song length",
-        "÷ 3.5 min"
+        "Ortalama şarkı süresi",
+        "÷ 3,5 dakika"
       ],
       [
-        "525,600 ÷ 3.5",
-        "≈ 150,000"
+        "525.600 ÷ 3,5",
+        "≈ 150.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Start with the minutes in a year, about 525,600. How long is the average song? Maybe three and a half minutes. Divide one into the other.",
+      "lead": "Yıldaki dakikadan başla: 525.600. Ortalama bir şarkı kaç dakika? Üç buçuk civarı. Birini diğerine böl.",
       "rows": [
         [
-          "Minutes in a year",
-          "525,600"
+          "Yıldaki dakika",
+          "525.600"
         ],
         [
-          "Minutes per song",
-          "÷ 3.5"
+          "Şarkı başına dakika",
+          "÷ 3,5"
         ],
         [
-          "525,600 ÷ 3.5",
-          "≈ 150,000"
+          "525.600 ÷ 3,5",
+          "≈ 150.000"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -549,35 +471,35 @@
     "answer": 1150000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Commercial flights airborne",
-        "≈ 9,500"
+        "Havadaki ticari uçuş",
+        "≈ 9.500"
       ],
       [
-        "Average passengers per flight",
+        "Uçuş başına ortalama yolcu",
         "× 135"
       ],
       [
-        "9,500 × 135",
-        "≈ 1.3 million"
+        "9.500 × 135",
+        "≈ 1,3 milyon"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "No single number to grab, so build it. Picture the flight-tracker map, maybe 10,000 planes in the air at once. Each one holds around 130 people.",
+      "lead": "Hazır sayı yok, kur. Uçuş takip haritasını gözünde canlandır: aynı anda belki 10 bin uçak havada. Her biri 130 kişi taşıyor.",
       "rows": [
         [
-          "Planes airborne",
-          "~10,000"
+          "Havadaki uçak",
+          "~10.000"
         ],
         [
-          "People per plane",
+          "Uçak başına kişi",
           "× 130"
         ],
         [
-          "10,000 × 130",
-          "≈ 1.3 million"
+          "10.000 × 130",
+          "≈ 1,3 milyon"
         ]
       ]
     }
@@ -597,67 +519,45 @@
     "answer": 1820,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Queen mattress area",
-        "60 × 80 = 4,800 in²"
+        "Çift kişilik yatak alanı",
+        "152 × 203 = 30.856 cm²"
       ],
       [
-        "Area of one Oreo",
-        "≈ 2.4 in²"
+        "Bir Oreo'nun alanı",
+        "≈ 15,5 cm²"
       ],
       [
-        "Hexagonal packing efficiency",
-        "× 0.91"
+        "Altıgen dizilim verimi",
+        "× 0,91"
       ],
       [
-        "4,800 ÷ 2.4 × 0.91",
-        "≈ 1,820"
+        "30.856 ÷ 15,5 × 0,91",
+        "≈ 1.820"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "A queen bed is about 60 by 80 inches, roughly 4,800 square inches. An Oreo is around 1.75 inches across, covering maybe 2.4 square inches. Tuck them together to close the gaps.",
+      "lead": "Çift kişilik yatak kabaca 150 × 200 santim, yani 30 bin santimetrekare. Oreo'nun çapı 4,5 santim, alanı 15 santimetrekare kadar. Aralarını sıkıştırıp boşluğu kapat.",
       "rows": [
         [
-          "Bed area",
-          "4,800 in²"
+          "Yatak alanı",
+          "30.000 cm²"
         ],
         [
-          "Area of an Oreo",
-          "~2.4 in²"
+          "Bir Oreo'nun alanı",
+          "~15 cm²"
         ],
         [
-          "Tucked together",
-          "× 0.9"
+          "Sıkıştırılmış dizilim",
+          "× 0,9"
         ],
         [
-          "4,800 ÷ 2.4 × 0.9",
-          "≈ 1,800"
+          "30.000 ÷ 15 × 0,9",
+          "≈ 1.800"
         ]
-      ],
-      "system": "imperial",
-      "alt": {
-        "lead": "A queen bed is about 150 by 200 centimeters, roughly 30,000 square centimeters. An Oreo is around 4.5 centimeters across, covering maybe 15 square centimeters. Tuck them together to close the gaps.",
-        "rows": [
-          [
-            "Bed area",
-            "30,000 cm²"
-          ],
-          [
-            "Area of an Oreo",
-            "~15 cm²"
-          ],
-          [
-            "Tucked together",
-            "× 0.9"
-          ],
-          [
-            "30,000 ÷ 15 × 0.9",
-            "≈ 1,800"
-          ]
-        ]
-      }
+      ]
     }
   },
   {
@@ -675,59 +575,37 @@
     "answer": 1360,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Doubles court area",
-        "78 × 36 = 2,808 ft²"
+        "Çiftler kortu alanı",
+        "23,8 × 11 ≈ 261 m²"
       ],
       [
-        "Convert to in²",
-        "× 144 = 404,352 in²"
+        "Raketin kapladığı alan",
+        "≈ 70 × 28 cm = 0,196 m²"
       ],
       [
-        "Racket footprint",
-        "≈ 27 × 11 = 297 in²"
-      ],
-      [
-        "404,352 ÷ 297",
-        "≈ 1,360"
+        "261 ÷ 0,196",
+        "≈ 1.360"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "A doubles tennis court is about 78 by 36 feet, roughly 2,800 square feet. How much does one racket cover? Maybe 2 square feet. Divide and you land close.",
+      "lead": "Çiftler kortu yaklaşık 24 × 11 metre, yani 260 metrekare. Bir raket ne kadar yer kaplar? Beşte bir metrekare civarı.",
       "rows": [
         [
-          "Court area",
-          "~2,800 ft²"
+          "Kort alanı",
+          "~260 m²"
         ],
         [
-          "Racket footprint",
-          "~2 ft²"
+          "Raketin alanı",
+          "~0,2 m²"
         ],
         [
-          "2,800 ÷ 2",
-          "≈ 1,400"
+          "260 ÷ 0,2",
+          "≈ 1.300"
         ]
-      ],
-      "system": "imperial",
-      "alt": {
-        "lead": "A doubles tennis court is about 24 by 11 meters, roughly 260 square meters. How much does one racket cover? Maybe a fifth of a square meter. Divide and you land close.",
-        "rows": [
-          [
-            "Court area",
-            "~260 m²"
-          ],
-          [
-            "Racket footprint",
-            "~0.2 m²"
-          ],
-          [
-            "260 ÷ 0.2",
-            "≈ 1,300"
-          ]
-        ]
-      }
+      ]
     }
   },
   {
@@ -745,71 +623,45 @@
     "answer": 1490,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "NBA court area",
-        "94 × 50 = 4,700 ft²"
+        "NBA sahası",
+        "28,7 × 15,2 ≈ 437 m²"
       ],
       [
-        "Convert to in²",
-        "× 144 = 676,800 in²"
+        "Bir kartın alanı",
+        "6,35 × 8,9 = 56,5 cm²"
       ],
       [
-        "Card area",
-        "2.5 × 3.5 = 8.75 in²"
+        "Gereken kart",
+        "≈ 77.300"
       ],
       [
-        "Cards needed",
-        "≈ 77,300"
-      ],
-      [
-        "÷ 52 per deck",
-        "≈ 1,490"
+        "÷ deste başına 52",
+        "≈ 1.490"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "An NBA court is 94 by 50 feet, close to 677,000 square inches. A playing card covers about 9 square inches, so that's roughly 75,000 cards. A deck holds 52.",
+      "lead": "NBA sahası 29 × 15 metre, yani 437 metrekare. Bir oyun kâğıdı 57 santimetrekare kaplıyor — metrekareye 175 kart düşüyor. Deste ise 52 kart.",
       "rows": [
         [
-          "Court area",
-          "677,000 in²"
+          "Saha alanı",
+          "437 m²"
         ],
         [
-          "Area of a card",
-          "÷ 9 in²"
+          "Metrekareye kart",
+          "× 175"
         ],
         [
-          "Cards needed",
-          "~75,000"
+          "Gereken kart",
+          "~76.000"
         ],
         [
-          "÷ 52 per deck",
-          "≈ 1,450"
+          "÷ 52",
+          "≈ 1.470"
         ]
-      ],
-      "system": "imperial",
-      "alt": {
-        "lead": "An NBA court is about 29 by 15 meters, close to 4.4 million square centimeters. A playing card covers about 60 square centimeters, so that's roughly 73,000 cards. A deck holds 52.",
-        "rows": [
-          [
-            "Court area",
-            "~4,400,000 cm²"
-          ],
-          [
-            "Area of a card",
-            "÷ 60 cm²"
-          ],
-          [
-            "Cards needed",
-            "~73,000"
-          ],
-          [
-            "÷ 52 per deck",
-            "≈ 1,400"
-          ]
-        ]
-      }
+      ]
     }
   },
   {
@@ -827,55 +679,37 @@
     "answer": 925,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Driving distance NYC → LA",
-        "≈ 2,790 mi"
+        "New York → Los Angeles karayolu",
+        "≈ 4.490 km"
       ],
       [
-        "Walking pace",
-        "÷ 3 mph"
+        "Yürüme hızı",
+        "÷ 4,85 km/sa"
       ],
       [
-        "2,790 ÷ 3",
-        "≈ 925 hours (~39 days)"
+        "4.490 ÷ 4,85",
+        "≈ 925 saat (~39 gün)"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "The US is roughly 3,000 miles coast to coast, and the drive lands around 2,800. How fast do you walk? Maybe 3 miles an hour.",
+      "lead": "ABD bir kıyıdan diğerine 4.800 kilometre kadar; karayolu 4.500 civarında kalıyor. Ne hızda yürürsün? Saatte 5 kilometre.",
       "rows": [
         [
-          "NYC to LA distance",
-          "~2,800 mi"
+          "New York - Los Angeles",
+          "~4.500 km"
         ],
         [
-          "Walking pace",
-          "÷ 3 mph"
+          "Yürüme hızı",
+          "÷ 5 km/sa"
         ],
         [
-          "2,800 ÷ 3",
-          "≈ 930 hours"
+          "4.500 ÷ 5",
+          "≈ 900 saat"
         ]
-      ],
-      "system": "imperial",
-      "alt": {
-        "lead": "The US is roughly 4,500 kilometers coast to coast by road. How fast do you walk? Maybe 5 kilometers an hour.",
-        "rows": [
-          [
-            "NYC to LA distance",
-            "~4,500 km"
-          ],
-          [
-            "Walking pace",
-            "÷ 5 km/h"
-          ],
-          [
-            "4,500 ÷ 5",
-            "≈ 900 hours"
-          ]
-        ]
-      }
+      ]
     }
   },
   {
@@ -893,57 +727,37 @@
     "answer": 2300000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Olympic pool volume",
-        "≈ 660,000 gal"
+        "Olimpik havuz hacmi",
+        "≈ 2.500.000 litre"
       ],
       [
-        "Retail price of 2% milk",
-        "× $3.50/gal"
+        "Sütün litre fiyatı",
+        "× 0,92 dolar"
       ],
       [
-        "660,000 × 3.50",
-        "≈ $2.3 million"
+        "2.500.000 × 0,92",
+        "≈ 2,3 milyon dolar"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "An Olympic pool is huge, about 2.5 million liters, which is roughly 660,000 gallons. What does milk cost? Maybe 4 dollars a gallon.",
+      "lead": "Olimpik havuz devasa: 2,5 milyon litre. Sütün litresi kaç dolar? Bir doların biraz altında.",
       "rows": [
         [
-          "Pool volume",
-          "~660,000 gal"
+          "Havuz hacmi",
+          "2.500.000 L"
         ],
         [
-          "Price per gallon",
-          "× $4"
+          "Litre fiyatı",
+          "× ~1 dolar"
         ],
         [
-          "660,000 × 4",
-          "≈ $2.6 million"
+          "Çarpım",
+          "≈ 2,5 milyon dolar"
         ]
-      ],
-      "startRow": 0,
-      "system": "imperial",
-      "alt": {
-        "lead": "An Olympic pool is huge, about 2.5 million liters. What does milk cost? Maybe a dollar a liter.",
-        "rows": [
-          [
-            "Pool volume",
-            "~2,500,000 L"
-          ],
-          [
-            "Price per liter",
-            "× $1"
-          ],
-          [
-            "2,500,000 × 1",
-            "≈ $2.5 million"
-          ]
-        ],
-        "startRow": 0
-      }
+      ]
     }
   },
   {
@@ -962,55 +776,37 @@
     "origin": "translated",
     "verified_at": "2026-08",
     "donusum": "358 feet (feet -> metre)",
-    "_math_en": [
+    "math": [
       [
-        "Thickness of one bill",
-        "≈ 0.0043 in"
+        "Bir banknotun kalınlığı",
+        "≈ 0,11 mm"
       ],
       [
-        "1,000,000 × 0.0043",
-        "= 4,300 in"
+        "1.000.000 × 0,11 mm",
+        "= 110.000 mm"
       ],
       [
-        "Convert to ft",
-        "÷ 12 ≈ 358"
+        "Metreye çevir",
+        "= 110 m"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "How thick is a single bill? Really thin, maybe a tenth of a millimeter. Stack a million of them and it adds up fast.",
+      "lead": "Tek bir banknot ne kadar kalın? Çok ince — onda bir milimetre kadar. Ama bir milyon tanesi hızla birikiyor.",
       "rows": [
         [
-          "Bill thickness",
-          "~0.1 mm"
+          "Banknot kalınlığı",
+          "~0,1 mm"
         ],
         [
-          "× 1,000,000 bills",
+          "× 1.000.000 adet",
+          "= 100.000 mm"
+        ],
+        [
+          "Metreye çevir",
           "= 100 m"
-        ],
-        [
-          "In feet",
-          "≈ 350 ft"
         ]
-      ],
-      "system": "imperial",
-      "alt": {
-        "lead": "How thick is a single bill? Really thin, maybe a tenth of a millimeter. Stack a million of them and it adds up fast.",
-        "rows": [
-          [
-            "Bill thickness",
-            "~0.1 mm"
-          ],
-          [
-            "× 1,000,000 bills",
-            "= 100,000 mm"
-          ],
-          [
-            "In meters",
-            "≈ 100 m"
-          ]
-        ]
-      }
+      ]
     }
   },
   {
@@ -1029,63 +825,45 @@
     "origin": "translated",
     "verified_at": "2026-08",
     "donusum": "470 feet (feet -> metre)",
-    "_math_en": [
+    "math": [
       [
-        "Strand mass",
-        "≈ 0.8 g"
+        "Bir telin ağırlığı",
+        "≈ 0,8 g"
       ],
       [
-        "Box mass (16 oz)",
+        "Paket ağırlığı",
         "= 454 g"
       ],
       [
-        "Strands per box",
+        "Paketteki tel sayısı",
         "≈ 567"
       ],
       [
-        "Strand length",
-        "× 10 in"
+        "Tel uzunluğu",
+        "× 25,4 cm"
       ],
       [
-        "Total ÷ 12",
-        "≈ 470 ft"
+        "Toplam",
+        "≈ 144 m"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "A box feeds a handful of people, so figure maybe 550 strands. How long is one dry strand? About 10 inches.",
+      "lead": "Bir paket birkaç kişiyi doyurur; 550 tel civarı say. Kuru bir tel ne kadar uzun? 25 santim.",
       "rows": [
         [
-          "Strands in a box",
+          "Paketteki tel",
           "~550"
         ],
         [
-          "Length each",
-          "× 10 in"
+          "Tel başına uzunluk",
+          "× 25 cm"
         ],
         [
-          "5,500 in ÷ 12",
-          "≈ 460 ft"
+          "13.750 cm",
+          "≈ 140 m"
         ]
-      ],
-      "system": "imperial",
-      "alt": {
-        "lead": "A box feeds a handful of people, so figure maybe 550 strands. How long is one dry strand? About 25 centimeters.",
-        "rows": [
-          [
-            "Strands in a box",
-            "~550"
-          ],
-          [
-            "Length each",
-            "× 25 cm"
-          ],
-          [
-            "13,750 cm",
-            "≈ 140 m"
-          ]
-        ]
-      }
+      ]
     }
   },
   {
@@ -1103,42 +881,41 @@
     "answer": 296,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Total episodes aired (through Feb 2026)",
+        "Yayımlanan toplam bölüm",
         "≈ 808"
       ],
       [
-        "Avg runtime (no ads)",
-        "× 22 min"
+        "Reklamsız ortalama süre",
+        "× 22 dakika"
       ],
       [
         "808 × 22 ÷ 60",
-        "≈ 296 hours (~12.3 days)"
+        "≈ 296 saat (~12,3 gün)"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "The Simpsons has run since the late 80s, so call it about 36 years. Roughly 22 episodes a season, each about 22 minutes without ads.",
+      "lead": "Simpsonlar 80'lerin sonundan beri yayında, yani 36 yıl kadar. Sezon başına 22 bölüm, her biri reklamsız 22 dakika.",
       "rows": [
         [
-          "Years on air",
+          "Yayın yılı",
           "~36"
         ],
         [
-          "Episodes per year",
+          "Yılda bölüm",
           "× 22"
         ],
         [
-          "Minutes each",
+          "Bölüm başına dakika",
           "× 22"
         ],
         [
           "÷ 60",
-          "≈ 290 hours"
+          "≈ 290 saat"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -1157,55 +934,37 @@
     "origin": "translated",
     "verified_at": "2026-08",
     "donusum": "25 miles (mil -> kilometre)",
-    "_math_en": [
+    "math": [
       [
-        "Avg scroll per day",
-        "≈ 300 ft"
+        "Günlük kaydırma",
+        "≈ 110 m"
       ],
       [
-        "× 365 days",
-        "= 109,500 ft"
+        "× 365 gün",
+        "= 40.150 m"
       ],
       [
-        "÷ 5,280 ft/mi",
-        "≈ 25 miles"
+        "Kilometreye çevir",
+        "≈ 40 km"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "How far do you scroll in a day? Hard to picture, but say a few hundred feet of thumb travel. Stack up a full year of that.",
+      "lead": "Günde ne kadar kaydırıyorsun? Gözde canlandırması zor, ama başparmağın yüz metre kadar yol alıyor de. Bunu bir yıla yay.",
       "rows": [
         [
-          "Scroll per day",
-          "~300 ft"
+          "Günlük kaydırma",
+          "~110 m"
         ],
         [
-          "× 365 days",
-          "≈ 110,000 ft"
+          "× 365 gün",
+          "≈ 40.000 m"
         ],
         [
-          "÷ 5,280 ft/mi",
-          "≈ 20 miles"
+          "Kilometreye çevir",
+          "≈ 40 km"
         ]
-      ],
-      "system": "imperial",
-      "alt": {
-        "lead": "How far do you scroll in a day? Hard to picture, but say around 100 meters of thumb travel. Stack up a full year of that.",
-        "rows": [
-          [
-            "Scroll per day",
-            "~100 m"
-          ],
-          [
-            "× 365 days",
-            "≈ 36,500 m"
-          ],
-          [
-            "In kilometers",
-            "≈ 37 km"
-          ]
-        ]
-      }
+      ]
     }
   },
   {
@@ -1219,62 +978,45 @@
     "difficulty": 1,
     "source": "Charmin / Cottonelle standard roll spec",
     "kaynak_soru": "q24",
-    "answer": 150,
+    "answer": 46,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "donusum": "150 feet (feet -> metre)",
+    "math": [
       [
-        "Sheets per standard roll",
+        "Standart ruloda yaprak",
         "≈ 450"
       ],
       [
-        "Sheet length",
-        "× 4 in"
+        "Yaprak uzunluğu",
+        "× 10,2 cm"
       ],
       [
-        "Total in",
-        "= 1,800"
+        "Toplam",
+        "= 4.590 cm"
       ],
       [
-        "÷ 12",
-        "= 150 ft"
+        "Metreye çevir",
+        "≈ 46 m"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "A roll has a few hundred sheets, call it 400. How long is one sheet? About 4 inches, roughly square with the width of the roll.",
+      "lead": "Bir ruloda birkaç yüz yaprak var, 400 de. Bir yaprak ne kadar uzun? 10 santim kadar — rulonun eniyle hemen hemen kare.",
       "rows": [
         [
-          "Sheets per roll",
+          "Rulodaki yaprak",
           "~400"
         ],
         [
-          "Length each",
-          "× 4 in"
+          "Yaprak uzunluğu",
+          "× 10 cm"
         ],
         [
-          "1,600 in ÷ 12",
-          "≈ 130 ft"
+          "4.000 cm",
+          "≈ 40 m"
         ]
-      ],
-      "system": "imperial",
-      "alt": {
-        "lead": "A roll has a few hundred sheets, call it 400. How long is one sheet? About 10 centimeters, roughly square with the width of the roll.",
-        "rows": [
-          [
-            "Sheets per roll",
-            "~400"
-          ],
-          [
-            "Length each",
-            "× 10 cm"
-          ],
-          [
-            "4,000 cm",
-            "≈ 40 m"
-          ]
-        ]
-      }
+      ]
     }
   },
   {
@@ -1292,55 +1034,37 @@
     "origin": "translated",
     "verified_at": "2026-08",
     "donusum": "5500 miles (mil -> kilometre)",
-    "_math_en": [
+    "math": [
       [
-        "Trips per cart per day",
+        "Araba başına günlük tur",
         "≈ 30"
       ],
       [
-        "Distance per trip in store",
-        "× 0.5 mi"
+        "Tur başına mağaza içi mesafe",
+        "× 0,8 km"
       ],
       [
-        "× 365 days",
-        "≈ 5,500"
+        "× 365 gün",
+        "≈ 8.800 km"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "How many shoppers use one cart in a day? A busy store cycles it maybe 30 times. Each loop through the aisles is about half a mile.",
+      "lead": "Bir arabayı günde kaç müşteri kullanır? Yoğun bir markette 30 kez dönüyor. Her tur reyonlar arasında 800 metre.",
       "rows": [
         [
-          "Trips per day",
+          "Günlük tur",
           "~30"
         ],
         [
-          "Miles per trip",
-          "× 0.5"
+          "Tur başına mesafe",
+          "× 0,8 km"
         ],
         [
-          "× 365 days",
-          "≈ 5,500"
+          "× 365 gün",
+          "≈ 8.800 km"
         ]
-      ],
-      "system": "imperial",
-      "alt": {
-        "lead": "How many shoppers use one cart in a day? A busy store cycles it maybe 30 times. Each loop through the aisles is about 800 meters.",
-        "rows": [
-          [
-            "Trips per day",
-            "~30"
-          ],
-          [
-            "Kilometers per trip",
-            "× 0.8"
-          ],
-          [
-            "× 365 days",
-            "≈ 8,800"
-          ]
-        ]
-      }
+      ]
     }
   },
   {
@@ -1357,35 +1081,35 @@
     "answer": 620,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Beatles studio tracks",
+        "Beatles stüdyo şarkısı",
         "≈ 213"
       ],
       [
-        "Avg track length",
-        "× 2:45"
+        "Ortalama şarkı süresi",
+        "× 2 dk 45 sn"
       ],
       [
-        "213 × 2.75 ÷ 60",
-        "≈ 10 hours"
+        "213 × 2,75",
+        "≈ 590 dakika"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "The Beatles released 12 studio albums. Call it about 16 songs each, so roughly 200 songs total. How long is each one? Short by today's standards, maybe 3 minutes.",
+      "lead": "Beatles 12 stüdyo albümü çıkardı. Her birinde 16 şarkı say, yani 200 civarı. Süreler bugüne göre kısa — 3 dakika.",
       "rows": [
         [
-          "Beatles songs",
+          "Beatles şarkısı",
           "~200"
         ],
         [
-          "Minutes each",
+          "Şarkı başına dakika",
           "× 3"
         ],
         [
           "200 × 3",
-          "≈ 600 min, about 10 hours"
+          "≈ 600 dakika, yaklaşık 10 saat"
         ]
       ]
     }
@@ -1405,67 +1129,45 @@
     "answer": 7700,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Basketball interior (size 7)",
-        "≈ 7,240 cm³"
+        "Basketbol topu iç hacmi (7 numara)",
+        "≈ 7.240 cm³"
       ],
       [
-        "Volume of one M&M",
-        "÷ 0.64 cm³"
+        "Bir M&M'in hacmi",
+        "÷ 0,64 cm³"
       ],
       [
-        "Packing efficiency (oblate)",
-        "× 0.68"
+        "Doldurma verimi (yassı)",
+        "× 0,68"
       ],
       [
-        "7,240 ÷ 0.64 × 0.68",
-        "≈ 7,700"
+        "7.240 ÷ 0,64 × 0,68",
+        "≈ 7.700"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "A basketball holds about 7 liters inside. An M&M is tiny, under a cubic centimeter. Knock off about a third for the gaps between them.",
+      "lead": "Basketbol topunun içi 7 litre kadar. M&M küçücük, bir santimetreküpün altında. Aralardaki boşluk için üçte bir düş.",
       "rows": [
         [
-          "Basketball volume",
-          "~7,000 cm³"
+          "Top hacmi",
+          "~7.000 cm³"
         ],
         [
-          "Volume per M&M",
-          "÷ 0.6 cm³"
+          "M&M başına hacim",
+          "÷ 0,6 cm³"
         ],
         [
-          "Knock off a third for gaps",
-          "× 0.65"
+          "Boşluk payı",
+          "× 0,65"
         ],
         [
-          "7,000 ÷ 0.6 × 0.65",
-          "≈ 7,600"
+          "7.000 ÷ 0,6 × 0,65",
+          "≈ 7.600"
         ]
-      ],
-      "system": "metric",
-      "alt": {
-        "lead": "A basketball holds about 400 cubic inches inside. How many M&M's pack into one cubic inch? Maybe 25, and knock off about a third for the gaps between them.",
-        "rows": [
-          [
-            "Basketball volume",
-            "~400 in³"
-          ],
-          [
-            "M&M's per cubic inch",
-            "× 25"
-          ],
-          [
-            "Knock off a third for gaps",
-            "× 0.65"
-          ],
-          [
-            "400 × 25 × 0.65",
-            "≈ 6,500"
-          ]
-        ]
-      }
+      ]
     }
   },
   {
@@ -1483,55 +1185,37 @@
     "answer": 21000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "NFL field (incl. end zones)",
-        "= 360 × 160 = 57,600 ft²"
+        "Amerikan futbolu sahası",
+        "110 × 49 ≈ 5.350 m²"
       ],
       [
-        "Monopoly board (~19.75 in sq.)",
-        "÷ 2.71 ft²"
+        "Monopoly tahtası (50 cm kare)",
+        "÷ 0,25 m²"
       ],
       [
-        "57,600 ÷ 2.71",
-        "≈ 21,000"
+        "5.350 ÷ 0,25",
+        "≈ 21.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "A football field with end zones is about 360 by 160 feet, so roughly 58,000 square feet. A Monopoly board is about a foot and a half on a side, call it under 3 square feet.",
+      "lead": "Kale alanlarıyla saha 110 × 49 metre, yani 5.400 metrekare kadar. Monopoly tahtası yarım metre kare — çeyrek metrekare eder.",
       "rows": [
         [
-          "Field area",
-          "~58,000 ft²"
+          "Saha alanı",
+          "~5.400 m²"
         ],
         [
-          "Board footprint",
-          "÷ 2.8 ft²"
+          "Tahta alanı",
+          "÷ 0,25 m²"
         ],
         [
-          "58,000 ÷ 2.8",
-          "≈ 21,000"
+          "5.400 ÷ 0,25",
+          "≈ 21.600"
         ]
-      ],
-      "system": "imperial",
-      "alt": {
-        "lead": "A football field with end zones is about 110 by 50 meters, so roughly 5,500 square meters. A Monopoly board is about half a meter on a side, call it a quarter of a square meter.",
-        "rows": [
-          [
-            "Field area",
-            "~5,500 m²"
-          ],
-          [
-            "Board footprint",
-            "÷ 0.25 m²"
-          ],
-          [
-            "5,500 ÷ 0.25",
-            "≈ 22,000"
-          ]
-        ]
-      }
+      ]
     }
   },
   {
@@ -1549,51 +1233,37 @@
     "answer": 36000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Golden Gate Bridge length",
-        "= 8,981 ft = 107,772 in"
+        "Golden Gate Köprüsü uzunluğu",
+        "= 2.737 m = 273.700 cm"
       ],
       [
-        "Length of one Hot Wheels car",
-        "÷ 3 in"
+        "Bir Hot Wheels arabasının boyu",
+        "÷ 7,6 cm"
       ],
       [
-        "107,772 ÷ 3",
-        "≈ 36,000"
+        "273.700 ÷ 7,6",
+        "≈ 36.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "The Golden Gate is about 1.7 miles end to end, roughly 9,000 feet. A Hot Wheels car is tiny, about 3 inches long.",
+      "lead": "Golden Gate baştan başa 2,7 kilometre. Hot Wheels arabası minicik, 7-8 santim.",
       "rows": [
         [
-          "Bridge length",
-          "~9,000 ft"
+          "Köprü uzunluğu",
+          "~2.700 m"
         ],
         [
-          "In inches",
-          "× 12 = 108,000"
+          "Santime çevir",
+          "= 270.000 cm"
         ],
         [
-          "÷ 3 in per car",
-          "≈ 36,000"
+          "÷ araba başına 7,5 cm",
+          "≈ 36.000"
         ]
-      ],
-      "system": "imperial",
-      "alt": {
-        "lead": "The Golden Gate is about 2.7 kilometers end to end, which is 270,000 centimeters. A Hot Wheels car is tiny, about 7.5 centimeters long.",
-        "rows": [
-          [
-            "Bridge length",
-            "~270,000 cm"
-          ],
-          [
-            "÷ 7.5 cm per car",
-            "≈ 36,000"
-          ]
-        ]
-      }
+      ]
     }
   },
   {
@@ -1611,38 +1281,37 @@
     "answer": 29000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Avg phone unlocks per day",
+        "Günlük ortalama kilit açma",
         "≈ 80"
       ],
       [
-        "Days per year",
+        "Yıldaki gün",
         "× 365"
       ],
       [
         "80 × 365",
-        "≈ 29,000"
+        "≈ 29.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Start with the calendar, 365 days. How many times do you unlock your phone in a day? Honestly it's a lot, probably around 80.",
+      "lead": "Takvimden başla: 365 gün. Günde kaç kez telefonunun kilidini açıyorsun? İtiraf et, epey — 80 civarı.",
       "rows": [
         [
-          "Days in a year",
+          "Yıldaki gün",
           "365"
         ],
         [
-          "Unlocks per day",
+          "Günlük kilit açma",
           "~80"
         ],
         [
           "365 × 80",
-          "≈ 29,000"
+          "≈ 29.000"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -1660,39 +1329,39 @@
     "answer": 481000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Fellowship of the Ring",
-        "≈ 177,000"
+        "Yüzük Kardeşliği",
+        "≈ 177.000"
       ],
       [
-        "The Two Towers",
-        "+ 143,000"
+        "İki Kule",
+        "+ 143.000"
       ],
       [
-        "Return of the King",
-        "+ 134,000"
+        "Kralın Dönüşü",
+        "+ 134.000"
       ],
       [
-        "Sum (excl. appendices)",
-        "≈ 481,000"
+        "Toplam (ekler hariç)",
+        "≈ 481.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "There's no single number to grab, so build it up. A thick novel runs maybe 150,000 words, and Lord of the Rings is really three big books.",
+      "lead": "Hazır bir sayı yok, kurarak git. Kalın bir roman 150 bin kelime; Yüzüklerin Efendisi ise gerçekten üç kalın kitap.",
       "rows": [
         [
-          "Words in a big novel",
-          "~150,000"
+          "Kalın bir romanda kelime",
+          "~150.000"
         ],
         [
-          "Books in the trilogy",
+          "Üçlemedeki kitap",
           "× 3"
         ],
         [
-          "150k × 3",
-          "≈ 450,000"
+          "150 bin × 3",
+          "≈ 450.000"
         ]
       ]
     }
@@ -1711,39 +1380,39 @@
     "answer": 1000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Studio albums + Taylor's Versions",
+        "Stüdyo albümü + Taylor's Version",
         "≈ 14"
       ],
       [
-        "Avg album length",
-        "× 65 min"
+        "Albüm başına ortalama süre",
+        "× 65 dakika"
       ],
       [
-        "Plus EPs, singles, soundtracks",
-        "+ ~90 min"
+        "EP, single ve film müzikleri",
+        "+ ~90 dakika"
       ],
       [
         "14 × 65 + 90",
-        "≈ 1,000 min"
+        "≈ 1.000 dakika"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "Count it up by the album. Between her originals and the re-records, that's around 15 albums, and each one runs maybe 65 minutes with all the extra tracks.",
+      "lead": "Albüm albüm say. Orijinaller ve yeniden kayıtlarla birlikte 15 kadar albüm var, her biri ek parçalarla 65 dakika sürüyor.",
       "rows": [
         [
-          "Albums (with re-records)",
+          "Albüm (yeniden kayıtlarla)",
           "~15"
         ],
         [
-          "Minutes per album",
+          "Albüm başına dakika",
           "~65"
         ],
         [
           "15 × 65",
-          "≈ 1,000 min"
+          "≈ 1.000 dakika"
         ]
       ]
     }
@@ -1762,21 +1431,21 @@
     "answer": 56,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Choruses (4 × 9 repetitions)",
+        "Nakaratlar (4 × 9 tekrar)",
         "= 36"
       ],
       [
-        "Verses",
+        "Kıtalar",
         "+ 12"
       ],
       [
-        "Bridge + outro",
+        "Köprü + çıkış",
         "+ 8"
       ],
       [
-        "Total occurrences",
+        "Toplam geçiş",
         "= 56"
       ]
     ]
@@ -1795,38 +1464,37 @@
     "answer": 23000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "TikTok uploads per day",
-        "≈ 34 M"
+        "Günlük TikTok yüklemesi",
+        "≈ 34 milyon"
       ],
       [
-        "Minutes in a day",
-        "÷ 1,440"
+        "Günün dakikası",
+        "÷ 1.440"
       ],
       [
-        "34 M ÷ 1,440",
-        "≈ 23,000"
+        "34 milyon ÷ 1.440",
+        "≈ 23.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "TikTok has something like a billion users. Most don't post on a given day, but say 1 in 20 does. Spread that across the 1,440 minutes in a day.",
+      "lead": "TikTok'un bir milyar kadar kullanıcısı var. Çoğu bugün paylaşmıyor ama 20'de biri paylaşıyor de. Bunu günün 1.440 dakikasına yay.",
       "rows": [
         [
-          "TikTok users",
-          "1,000,000,000"
+          "TikTok kullanıcısı",
+          "1 milyar"
         ],
         [
-          "Post something today",
-          "~1 in 20"
+          "Bugün paylaşan",
+          "~20'de 1"
         ],
         [
-          "50M/day ÷ 1,440",
-          "≈ 35,000"
+          "50 milyon ÷ 1.440",
+          "≈ 35.000"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -1844,42 +1512,41 @@
     "answer": 175000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Monthly active users",
-        "≈ 615 M"
+        "Aylık aktif kullanıcı",
+        "≈ 615 milyon"
       ],
       [
-        "Avg streams per user per day",
+        "Kullanıcı başına günlük dinleme",
         "× 25"
       ],
       [
-        "Daily streams",
-        "≈ 15.4 B"
+        "Günlük dinleme",
+        "≈ 15,4 milyar"
       ],
       [
-        "÷ 86,400 sec",
-        "≈ 175,000"
+        "÷ 86.400 saniye",
+        "≈ 175.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Spotify has roughly 600 million users. How many songs does an active listener play in a day? Call it 25. Then spread it across the 86,400 seconds in a day.",
+      "lead": "Spotify'ın 600 milyon kadar kullanıcısı var. Aktif bir dinleyici günde kaç şarkı çalar? 25 de. Sonra günün 86.400 saniyesine yay.",
       "rows": [
         [
-          "Spotify users",
-          "600,000,000"
+          "Spotify kullanıcısı",
+          "600 milyon"
         ],
         [
-          "Streams per user per day",
+          "Kullanıcı başına günlük dinleme",
           "~25"
         ],
         [
-          "15B/day ÷ 86,400",
-          "≈ 175,000"
+          "15 milyar ÷ 86.400",
+          "≈ 175.000"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -1896,38 +1563,37 @@
     "answer": 99000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Searches per day",
-        "≈ 8.5 B"
+        "Günlük arama",
+        "≈ 8,5 milyar"
       ],
       [
-        "Seconds per day",
-        "÷ 86,400"
+        "Günün saniyesi",
+        "÷ 86.400"
       ],
       [
-        "8.5 B ÷ 86,400",
-        "≈ 99,000"
+        "8,5 milyar ÷ 86.400",
+        "≈ 99.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "About 5 billion people are online. How many times does a person search Google in a day? A couple, probably. Spread across 86,400 seconds it adds up fast.",
+      "lead": "Yaklaşık 5 milyar insan çevrimiçi. Bir kişi günde kaç kez Google'a soruyor? Birkaç kez. 86.400 saniyeye yayınca hızla birikiyor.",
       "rows": [
         [
-          "People online",
-          "5,000,000,000"
+          "Çevrimiçi insan",
+          "5 milyar"
         ],
         [
-          "Searches per person per day",
+          "Kişi başına günlük arama",
           "~2"
         ],
         [
-          "10B/day ÷ 86,400",
-          "≈ 116,000"
+          "10 milyar ÷ 86.400",
+          "≈ 116.000"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -1944,38 +1610,37 @@
     "answer": 4000000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Emails per day worldwide",
-        "≈ 347 B"
+        "Dünyada günlük e-posta",
+        "≈ 347 milyar"
       ],
       [
-        "Seconds per day",
-        "÷ 86,400"
+        "Günün saniyesi",
+        "÷ 86.400"
       ],
       [
-        "347 B ÷ 86,400",
-        "≈ 4,000,000"
+        "347 milyar ÷ 86.400",
+        "≈ 4.000.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Around 4 billion people use email. Between real messages and all the automated stuff, say 100 hit an inbox per person per day. Then spread it across 86,400 seconds.",
+      "lead": "Dünyada 4 milyar kadar e-posta kullanıcısı var. Gerçek mesajlar ve otomatik yığınla birlikte kişi başına günde 100 posta düşüyor de.",
       "rows": [
         [
-          "Email users",
-          "4,000,000,000"
+          "E-posta kullanıcısı",
+          "4 milyar"
         ],
         [
-          "Emails per user per day",
+          "Kişi başına günlük posta",
           "~100"
         ],
         [
-          "400B/day ÷ 86,400",
-          "≈ 4.6 million"
+          "400 milyar ÷ 86.400",
+          "≈ 4,6 milyon"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -1993,57 +1658,37 @@
     "answer": 2500,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Trench depth",
-        "≈ 11,000 m"
+        "Çukurun derinliği",
+        "≈ 11.000 m"
       ],
       [
-        "Cannonball terminal velocity in water",
-        "÷ 4.4 m/s"
+        "Güllenin sudaki sınır hızı",
+        "÷ 4,4 m/s"
       ],
       [
-        "11,000 ÷ 4.4",
-        "≈ 2,500 (~42 min)"
+        "11.000 ÷ 4,4",
+        "≈ 2.500 saniye (~42 dakika)"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "The Mariana Trench is about 11 kilometers deep, the lowest point in the ocean. How fast does a heavy iron ball sink? Maybe 4 or 5 meters a second.",
+      "lead": "Mariana Çukuru 11 kilometre derin, okyanusun en dibi. Ağır bir demir top ne hızla batar? Saniyede 4-5 metre.",
       "rows": [
         [
-          "Trench depth",
-          "11,000 m"
+          "Çukur derinliği",
+          "11.000 m"
         ],
         [
-          "Sink speed",
-          "~4.5 m/s"
+          "Batma hızı",
+          "~4,5 m/s"
         ],
         [
-          "11,000 ÷ 4.5",
-          "≈ 2,500 sec"
+          "11.000 ÷ 4,5",
+          "≈ 2.500 saniye"
         ]
-      ],
-      "startRow": 0,
-      "system": "metric",
-      "alt": {
-        "lead": "The Mariana Trench is about 7 miles deep, the lowest point in the ocean, which is around 36,000 feet. How fast does a heavy iron ball sink? Maybe 15 feet a second.",
-        "rows": [
-          [
-            "Trench depth",
-            "~36,000 ft"
-          ],
-          [
-            "Sink speed",
-            "~15 ft/s"
-          ],
-          [
-            "36,000 ÷ 15",
-            "≈ 2,400 sec"
-          ]
-        ],
-        "startRow": 0
-      }
+      ]
     }
   },
   {
@@ -2060,17 +1705,17 @@
     "answer": 336,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Range across approved balls",
-        "300–500"
+        "Onaylı toplardaki aralık",
+        "300-500"
       ],
       [
-        "Most common production count",
+        "En yaygın üretim sayısı",
         "= 336"
       ],
       [
-        "Standard (Titleist Pro V1, etc.)",
+        "Standart (Titleist Pro V1 vb.)",
         "= 336"
       ]
     ]
@@ -2091,57 +1736,33 @@
     "origin": "translated",
     "verified_at": "2026-08",
     "donusum": "1483 feet (feet -> metre)",
-    "_math_en": [
+    "math": [
       [
-        "Top 22 floor on CTBUH list",
-        "~452 m"
+        "CTBUH listesinde 22. sıra",
+        "≈ 452 m"
       ],
       [
-        "Convert m → ft",
-        "× 3.28"
-      ],
-      [
-        "452 × 3.28",
-        "≈ 1,483 ft"
+        "Yuvarla",
+        "≈ 450 m"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Start with the Burj Khalifa, the tallest there is, about 2,700 feet. The top of that list falls off fast, so how much shorter is 22nd place? Call it half.",
+      "lead": "Burj Khalifa'dan başla, en yükseği: 828 metre. Listenin tepesi hızla alçalıyor; 22. sıra ne kadar kısa? Yarısı kadar de.",
       "rows": [
         [
           "Burj Khalifa",
-          "≈ 2,700 ft"
+          "≈ 828 m"
         ],
         [
-          "22nd place, about half",
-          "× 0.5"
+          "22. sıra, yarısı kadar",
+          "× 0,5"
         ],
         [
-          "2,700 ÷ 2",
-          "≈ 1,350 ft"
+          "828 ÷ 2",
+          "≈ 415 m"
         ]
-      ],
-      "startRow": 0,
-      "system": "imperial",
-      "alt": {
-        "lead": "Start with the Burj Khalifa, the tallest there is, about 830 meters. The top of that list falls off fast, so how much shorter is 22nd place? Call it half.",
-        "rows": [
-          [
-            "Burj Khalifa",
-            "≈ 830 m"
-          ],
-          [
-            "22nd place, about half",
-            "× 0.5"
-          ],
-          [
-            "830 ÷ 2",
-            "≈ 415 m"
-          ]
-        ],
-        "startRow": 0
-      }
+      ]
     }
   },
   {
@@ -2158,10 +1779,10 @@
     "answer": 2118760,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
         "50 × 49 × 48 × 47 × 46",
-        "= 254,251,200"
+        "= 254.251.200"
       ],
       [
         "÷ 5! (= 120)",
@@ -2169,7 +1790,7 @@
       ],
       [
         "C(50,5)",
-        "= 2,118,760"
+        "= 2.118.760"
       ]
     ]
   },
@@ -2188,38 +1809,37 @@
     "answer": 290000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Iceland population",
-        "≈ 390,000"
+        "İzlanda nüfusu",
+        "≈ 390.000"
       ],
       [
-        "Vehicles per capita",
-        "× 0.74"
+        "Kişi başına araç",
+        "× 0,74"
       ],
       [
-        "390,000 × 0.74",
-        "≈ 290,000"
+        "390.000 × 0,74",
+        "≈ 290.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Iceland is famously tiny, only about 380,000 people. Most adults there own a car, so take away the kids and you're left with maybe three-quarters of them.",
+      "lead": "İzlanda ünlü biçimde küçük, yalnızca 380 bin kişi. Yetişkinlerin çoğunun arabası var; çocukları düşünce dörtte üçü kalıyor.",
       "rows": [
         [
-          "Iceland population",
-          "380,000"
+          "İzlanda nüfusu",
+          "380.000"
         ],
         [
-          "Own a vehicle",
-          "~0.75"
+          "Aracı olan",
+          "~0,75"
         ],
         [
-          "380k × 0.75",
-          "≈ 290,000"
+          "380 bin × 0,75",
+          "≈ 290.000"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -2237,57 +1857,37 @@
     "answer": 2300000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Pyramid volume",
-        "≈ 2.6 M m³"
+        "Piramidin hacmi",
+        "≈ 2,6 milyon m³"
       ],
       [
-        "Avg block volume",
-        "÷ 1.1 m³"
+        "Blok başına ortalama hacim",
+        "÷ 1,1 m³"
       ],
       [
-        "2.6 M ÷ 1.1",
-        "≈ 2.3 million"
+        "2,6 milyon ÷ 1,1",
+        "≈ 2,3 milyon"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "The Great Pyramid is about 140 meters tall with a base near 230 meters a side. Volume is a third of base times base times height. Each block is roughly a cubic meter.",
+      "lead": "Büyük Piramit 140 metre yüksekliğinde, taban kenarı 230 metreye yakın. Hacim, taban alanının üçte biri çarpı yükseklik. Her blok kabaca bir metreküp.",
       "rows": [
         [
-          "Volume (1/3 × 230² × 140)",
-          "≈ 2,500,000 m³"
+          "Hacim (1/3 × 230² × 140)",
+          "≈ 2.500.000 m³"
         ],
         [
-          "Volume per block",
+          "Blok başına hacim",
           "÷ ~1 m³"
         ],
         [
-          "2.5M ÷ 1",
-          "≈ 2.5 million"
+          "2,5 milyon ÷ 1",
+          "≈ 2,5 milyon"
         ]
-      ],
-      "startRow": 0,
-      "system": "metric",
-      "alt": {
-        "lead": "The Great Pyramid is about 450 feet tall with a base near 750 feet a side. Volume is a third of base times base times height. Each block is roughly a cubic yard, which is 27 cubic feet.",
-        "rows": [
-          [
-            "Volume (1/3 × 750² × 450)",
-            "≈ 84,000,000 ft³"
-          ],
-          [
-            "Volume per block",
-            "÷ ~27 ft³"
-          ],
-          [
-            "84M ÷ 27",
-            "≈ 3 million"
-          ]
-        ],
-        "startRow": 0
-      }
+      ]
     }
   },
   {
@@ -2305,39 +1905,39 @@
     "answer": 1154,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
         "State of North America's Birds (2016)",
-        "1,154"
+        "1.154"
       ],
       [
-        "Native breeders + regular oceanic species",
+        "Yerli üreyenler + düzenli okyanus türleri",
         ""
       ],
       [
-        "US + Canada + Mexico combined",
-        "= 1,154"
+        "ABD + Kanada + Meksika",
+        "= 1.154"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "Start with the US. It stretches from the Arctic to the subtropics and hosts roughly 900 species. Canada adds arctic and boreal birds you don't see farther south, call it 100 more unique ones. Mexico's highlands and tropics bring another 150 that barely cross the border.",
+      "lead": "ABD'den başla: Kuzey Kutbu'ndan subtropiklere uzanıyor ve 900 kadar tür barındırıyor. Kanada güneyde görülmeyen kutup ve boreal kuşlarını ekliyor, 100 tane daha de. Meksika'nın yaylaları ve tropikleri sınırı zar zor geçen 150 tür getiriyor.",
       "rows": [
         [
-          "US species",
+          "ABD türleri",
           "~900"
         ],
         [
-          "Canada adds (boreal, arctic)",
+          "Kanada ekler (boreal, kutup)",
           "+100"
         ],
         [
-          "Mexico adds (highland, tropical)",
+          "Meksika ekler (yayla, tropik)",
           "+150"
         ],
         [
           "900 + 100 + 150",
-          "~1,150"
+          "~1.150"
         ]
       ]
     }
@@ -2356,38 +1956,37 @@
     "answer": 2500000000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Avg annual sales 2007–2025",
-        "~130 M / yr"
+        "2007-2025 ortalama yıllık satış",
+        "~130 milyon/yıl"
       ],
       [
-        "× ~19 production years",
+        "× ~19 üretim yılı",
         ""
       ],
       [
-        "Cumulative production",
-        "≈ 2.5 billion"
+        "Kümülatif üretim",
+        "≈ 2,5 milyar"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "The iPhone launched in 2007, so it's been around about 18 years. Apple sells somewhere near 150 million a year, so multiply the two.",
+      "lead": "iPhone 2007'de çıktı, yani 18 yıl oldu. Apple yılda 150 milyona yakın satıyor; ikisini çarp.",
       "rows": [
         [
-          "Years since 2007",
+          "2007'den beri yıl",
           "~18"
         ],
         [
-          "Sold per year",
-          "~150 million"
+          "Yılda satılan",
+          "~150 milyon"
         ],
         [
-          "18 × 150M",
-          "≈ 2.7 billion"
+          "18 × 150 milyon",
+          "≈ 2,7 milyar"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -2405,38 +2004,37 @@
     "answer": 420000000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "350 millionth vehicle built",
-        "Aug 2012"
+        "350 milyonuncu araç",
+        "Ağustos 2012"
       ],
       [
-        "Since then, ~4.5 M/year × 14 years",
-        "+ ~70 M"
+        "O günden beri ~4,5 milyon/yıl × 14 yıl",
+        "+ ~70 milyon"
       ],
       [
-        "Lifetime production",
-        "≈ 420 million"
+        "Toplam üretim",
+        "≈ 420 milyon"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Ford has been building cars since 1903, so call it 120 years. Averaged across the whole run, say three and a half million vehicles a year.",
+      "lead": "Ford 1903'ten beri araba yapıyor, yani 120 yıl. Bütün döneme yayarsan yılda üç buçuk milyon araç de.",
       "rows": [
         [
-          "Years since 1903",
+          "1903'ten beri yıl",
           "~120"
         ],
         [
-          "Vehicles per year (avg)",
-          "~3.5 million"
+          "Yılda araç (ortalama)",
+          "~3,5 milyon"
         ],
         [
-          "120 × 3.5M",
-          "≈ 420 million"
+          "120 × 3,5 milyon",
+          "≈ 420 milyon"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -2454,42 +2052,41 @@
     "answer": 267,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "St. Peter through Pius XII",
+        "Aziz Petrus'tan XII. Pius'a",
         "= 260"
       ],
       [
-        "John XXIII through Francis",
+        "XXIII. John'dan Francis'e",
         "+ 6"
       ],
       [
-        "Leo XIV (elected May 2025)",
+        "XIV. Leo (Mayıs 2025)",
         "+ 1"
       ],
       [
-        "Total popes",
+        "Toplam papa",
         "= 267"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "The Church has been going about 2,000 years, and it has wanted a pope for all of them. How long does one last? They serve for life and they start late, so maybe 8 years.",
+      "lead": "Kilise 2.000 yıldır ayakta ve bu sürenin tamamında bir papa istedi. Bir papa ne kadar görevde kalır? Ömür boyu seçiliyorlar ama geç başlıyorlar — 8 yıl de.",
       "rows": [
         [
-          "Church has existed",
-          "~2,000 yrs"
+          "Kilisenin yaşı",
+          "~2.000 yıl"
         ],
         [
-          "Years per pope",
+          "Papa başına yıl",
           "~8"
         ],
         [
-          "2,000 ÷ 8",
+          "2.000 ÷ 8",
           "≈ 250"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -2507,42 +2104,41 @@
     "answer": 200,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Sovereign states",
+        "Egemen devlet",
         "≈ 195"
       ],
       [
-        "Distinct named officials",
+        "Farklı resmî dil",
         "~180"
       ],
       [
-        "Plus regional / co-officials",
+        "Bölgesel / ortak resmî diller",
         "+ ~20"
       ],
       [
-        "Total distinct",
+        "Toplam farklı",
         "≈ 200"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "There are about 200 countries in the world. Most have a single official language, and plenty share the common ones, so the total lands right around the number of countries.",
+      "lead": "Dünyada 200 kadar ülke var. Çoğunun tek resmî dili var ve birçoğu yaygın dilleri paylaşıyor; toplam, ülke sayısının hemen yanına düşüyor.",
       "rows": [
         [
-          "Countries in the world",
+          "Dünyadaki ülke",
           "~195"
         ],
         [
-          "Roughly one official each",
+          "Ülke başına kabaca bir dil",
           "× 1"
         ],
         [
-          "Distinct total",
+          "Farklı toplam",
           "≈ 200"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -2559,42 +2155,41 @@
     "answer": 260,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
         "SpaceX (Falcon 9, Starship)",
         "≈ 145"
       ],
       [
-        "China (CASC, CASIC, commercial)",
+        "Çin (CASC, CASIC, ticari)",
         "+ 70"
       ],
       [
-        "Russia, ULA, India, others",
+        "Rusya, ULA, Hindistan, diğerleri",
         "+ 45"
       ],
       [
-        "Total 2025 launches",
+        "2025 toplam fırlatma",
         "≈ 260"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "No population to lean on here, so use the calendar. How often does a rocket go up these days? Feels like every day or two, so call it 5 a week. Times 52 weeks.",
+      "lead": "Dayanacak bir nüfus yok, takvimi kullan. Bugünlerde ne sıklıkla roket kalkıyor? Neredeyse gün aşırı — haftada 5 de. 52 hafta ile çarp.",
       "rows": [
         [
-          "Weeks in a year",
+          "Yıldaki hafta",
           "52"
         ],
         [
-          "Launches per week",
+          "Haftada fırlatma",
           "~5"
         ],
         [
           "52 × 5",
           "≈ 260"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -2612,38 +2207,37 @@
     "answer": 3900000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Japan population",
-        "≈ 124 M"
+        "Japonya nüfusu",
+        "≈ 124 milyon"
       ],
       [
-        "Density",
-        "≈ 1 per 32 people"
+        "Yoğunluk",
+        "≈ 32 kişiye 1"
       ],
       [
-        "124,000,000 ÷ 32",
-        "≈ 3.9 million"
+        "124.000.000 ÷ 32",
+        "≈ 3,9 milyon"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Start with Japan's population, about 125 million. Japan is famous for machines on every block. How many people share one? Maybe 1 for every 30.",
+      "lead": "Japonya'nın nüfusundan başla: 125 milyon. Ülke her sokakta otomat olmasıyla ünlü. Kaç kişiye bir tane düşer? 30 kişiye bir de.",
       "rows": [
         [
-          "Japan population",
-          "125,000,000"
+          "Japonya nüfusu",
+          "125.000.000"
         ],
         [
-          "People per machine",
+          "Makine başına kişi",
           "~30"
         ],
         [
-          "125M ÷ 30",
-          "≈ 4 million"
+          "125 milyon ÷ 30",
+          "≈ 4 milyon"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -2660,38 +2254,37 @@
     "answer": 2900000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Peak (2017)",
-        "~3.28 M"
+        "Zirve (2017)",
+        "~3,28 milyon"
       ],
       [
-        "Declining ~2% / yr",
+        "Yılda ~%2 azalma",
         ""
       ],
       [
-        "2023 global total",
-        "≈ 2.9 million"
+        "2023 dünya toplamı",
+        "≈ 2,9 milyon"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "The easiest place to start is the world's population, about 8 billion. How many people does one ATM serve? Quite a few, call it 1 for every 3,000.",
+      "lead": "En kolay başlangıç dünya nüfusu: 8 milyar. Bir ATM kaç kişiye hizmet eder? Epey — 3.000 kişiye bir de.",
       "rows": [
         [
-          "World population",
-          "8,000,000,000"
+          "Dünya nüfusu",
+          "8.000.000.000"
         ],
         [
-          "People per ATM",
-          "~3,000"
+          "ATM başına kişi",
+          "~3.000"
         ],
         [
-          "8B ÷ 3,000",
-          "≈ 2.7 million"
+          "8 milyar ÷ 3.000",
+          "≈ 2,7 milyon"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -2709,22 +2302,22 @@
     "answer": 14000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Oct 2025 active total",
-        "~13,000"
+        "Ekim 2025 aktif toplam",
+        "~13.000"
       ],
       [
-        "+ ~6 months of launches",
-        "+ ~1,000"
+        "+ ~6 aylık fırlatmalar",
+        "+ ~1.000"
       ],
       [
-        "Starlink alone",
-        "~10,000"
+        "Yalnızca Starlink",
+        "~10.000"
       ],
       [
-        "Mid-2026 estimate",
-        "≈ 14,000"
+        "2026 ortası tahmini",
+        "≈ 14.000"
       ]
     ]
   },
@@ -2742,22 +2335,22 @@
     "answer": 33000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Total titles",
-        "~133 (films, series, specials)"
+        "Toplam yapım",
+        "~133 (film, dizi, özel bölüm)"
       ],
       [
-        "Total runtime",
-        "~554.6 hours"
+        "Toplam süre",
+        "~554,6 saat"
       ],
       [
-        "Convert to minutes",
+        "Dakikaya çevir",
         "× 60"
       ],
       [
-        "Total",
-        "≈ 33,000"
+        "Toplam",
+        "≈ 33.000"
       ]
     ]
   },
@@ -2775,38 +2368,37 @@
     "answer": 905,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Club goals (Barça + PSG + Miami)",
+        "Kulüp golleri (Barcelona + PSG + Miami)",
         "789"
       ],
       [
-        "Argentina national team",
+        "Arjantin millî takımı",
         "+ 116"
       ],
       [
-        "Career total",
+        "Kariyer toplamı",
         "≈ 905"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Messi turned pro around 2004, so call it a 20-year career. How many goals does the best player alive score in a year? A lot, maybe 45.",
+      "lead": "Messi 2004 civarında profesyonel oldu, yani 20 yıllık bir kariyer. Dünyanın en iyi oyuncusu bir yılda kaç gol atar? Çok — 45 kadar.",
       "rows": [
         [
-          "Years as a pro",
+          "Profesyonellikte yıl",
           "~20"
         ],
         [
-          "Goals per year",
+          "Yılda gol",
           "~45"
         ],
         [
           "20 × 45",
           "≈ 900"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -2824,42 +2416,41 @@
     "answer": 43500,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "U.S. locations",
-        "~13,600"
+        "ABD'deki şube",
+        "~13.600"
       ],
       [
-        "Top 4 intl. (China, Japan, France, Canada)",
-        "~14,000"
+        "İlk 4 ülke (Çin, Japonya, Fransa, Kanada)",
+        "~14.000"
       ],
       [
-        "Rest of world (110+ countries)",
-        "~15,900"
+        "Dünyanın geri kalanı (110+ ülke)",
+        "~15.900"
       ],
       [
-        "Year-end 2024 total",
-        "≈ 43,500"
+        "2024 sonu toplam",
+        "≈ 43.500"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Start with the US, about 330 million people. How many people per McDonald's? Feels like one for every 25,000. And the US is only about a third of them, so triple it.",
+      "lead": "ABD'den başla: 330 milyon kişi. Kaç kişiye bir McDonald's düşer? 25 bin kişiye bir gibi. ABD dünyanın ancak üçte biri, o yüzden üçle çarp.",
       "rows": [
         [
-          "US population",
-          "330,000,000"
+          "ABD nüfusu",
+          "330.000.000"
         ],
         [
-          "1 per ~25,000 people",
-          "≈ 13,000 US"
+          "25.000 kişiye 1",
+          "≈ 13.000 ABD"
         ],
         [
-          "US ~1/3 of world (× 3)",
-          "≈ 40,000"
+          "ABD dünyanın ~1/3'ü (× 3)",
+          "≈ 40.000"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -2876,38 +2467,37 @@
     "answer": 255,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Annual global births",
-        "~134 M"
+        "Yıllık küresel doğum",
+        "~134 milyon"
       ],
       [
-        "Minutes in a year",
-        "~525,600"
+        "Yıldaki dakika",
+        "~525.600"
       ],
       [
-        "134,000,000 ÷ 525,600",
+        "134.000.000 ÷ 525.600",
         "≈ 255"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Start with the world's 8 billion people. Everyone is born once, over a life of maybe 75 years, so around 100 million births a year. How many minutes in a year? About half a million, so spread the births across those.",
+      "lead": "Dünyanın 8 milyar insanından başla. Herkes bir kez doğuyor ve ömür 75 yıl kadar, yani yılda 100 milyon civarı doğum. Yılda kaç dakika var? Yarım milyon — doğumları bunlara yay.",
       "rows": [
         [
-          "World population",
-          "8,000,000,000"
+          "Dünya nüfusu",
+          "8.000.000.000"
         ],
         [
-          "÷ 75-year life",
-          "≈ 100M born/yr"
+          "÷ 75 yıllık ömür",
+          "≈ yılda 100 milyon"
         ],
         [
-          "÷ 525,600 minutes",
+          "÷ 525.600 dakika",
           "≈ 200"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -2925,18 +2515,18 @@
     "answer": 45,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Active thunderstorms at any moment",
-        "~2,000"
+        "Herhangi bir anda etkin fırtına",
+        "~2.000"
       ],
       [
-        "NASA flash rate (avg)",
-        "40–50 / sec"
+        "NASA çakma oranı (ortalama)",
+        "saniyede 40-50"
       ],
       [
-        "Annual total",
-        "~1.4 billion"
+        "Yıllık toplam",
+        "~1,4 milyar"
       ]
     ]
   },
@@ -2954,38 +2544,37 @@
     "answer": 20000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Tracked daily by Flightradar24",
-        "~300,000"
+        "Flightradar24'ün günlük takibi",
+        "~300.000"
       ],
       [
-        "Avg flight duration",
-        "~2 hours"
+        "Ortalama uçuş süresi",
+        "~2 saat"
       ],
       [
-        "Concurrent in air (typical peak)",
-        "≈ 20,000"
+        "Aynı anda havada (tipik zirve)",
+        "≈ 20.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "There are roughly 25,000 airliners in the world. How many are actually up in the air right now? Feels like most of them, call it two-thirds.",
+      "lead": "Dünyada 25 bin kadar yolcu uçağı var. Şu anda kaçı gerçekten havada? Çoğu gibi hissettiriyor — üçte ikisi de.",
       "rows": [
         [
-          "Airliners in the world",
-          "~25,000"
+          "Dünyadaki yolcu uçağı",
+          "~25.000"
         ],
         [
-          "Share up in the air",
+          "Havada olan pay",
           "× 2/3"
         ],
         [
-          "25,000 × 2/3",
-          "≈ 17,000"
+          "25.000 × 2/3",
+          "≈ 17.000"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -3003,57 +2592,37 @@
     "answer": 18000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Park area",
-        "843 acres"
+        "Park alanı",
+        "341 hektar"
       ],
       [
-        "Tree species",
+        "Ağaç türü",
         "~170"
       ],
       [
-        "Conservancy-maintained inventory",
-        "≈ 18,000"
+        "Conservancy envanteri",
+        "≈ 18.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Central Park is about 2.5 miles long and half a mile wide, a bit over 800 acres. How many trees per acre? It's mostly lawns and paths, so not dense, maybe 20.",
+      "lead": "Central Park 4 kilometre uzunluğunda, 800 metre eninde — 340 hektar kadar. Hektara kaç ağaç düşer? Çoğu çimen ve patika, yoğun değil: 50 de.",
       "rows": [
         [
-          "Park size",
-          "~800 acres"
+          "Park büyüklüğü",
+          "~340 hektar"
         ],
         [
-          "Trees per acre",
-          "× 20"
+          "Hektara ağaç",
+          "× 50"
         ],
         [
-          "800 × 20",
-          "≈ 16,000"
+          "340 × 50",
+          "≈ 17.000"
         ]
-      ],
-      "startRow": 0,
-      "system": "imperial",
-      "alt": {
-        "lead": "Central Park is about 4 kilometers long and 800 meters wide, roughly 340 hectares. How many trees per hectare? It's mostly lawns and paths, so not dense, maybe 50.",
-        "rows": [
-          [
-            "Park size",
-            "~340 hectares"
-          ],
-          [
-            "Trees per hectare",
-            "× 50"
-          ],
-          [
-            "340 × 50",
-            "≈ 17,000"
-          ]
-        ],
-        "startRow": 0
-      }
+      ]
     }
   },
   {
@@ -3071,42 +2640,41 @@
     "answer": 3200,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "First ceremony",
+        "İlk tören",
         "1929"
       ],
       [
-        "Ceremonies through 2026",
+        "2026'ya kadar tören sayısı",
         "98"
       ],
       [
-        "Avg statuettes / year",
+        "Yılda ortalama heykelcik",
         "~32"
       ],
       [
-        "Cumulative total",
-        "≈ 3,200"
+        "Kümülatif toplam",
+        "≈ 3.200"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "The Oscars started in 1929, nearly 100 years of ceremonies. How many awards go out each year? Across all the categories, maybe 30.",
+      "lead": "Oscar'lar 1929'da başladı, neredeyse 100 yıllık tören var. Her yıl kaç ödül veriliyor? Bütün dallar toplandığında 30 kadar.",
       "rows": [
         [
-          "Years of Oscars",
+          "Oscar yılı",
           "~97"
         ],
         [
-          "Awards per year",
+          "Yılda ödül",
           "× 30"
         ],
         [
           "97 × 30",
-          "≈ 2,900"
+          "≈ 2.900"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -3124,38 +2692,37 @@
     "answer": 7563,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "First ascent",
-        "1953 (Hillary & Norgay)"
+        "İlk tırmanış",
+        "1953 (Hillary ve Norgay)"
       ],
       [
-        "Total summit ascents",
-        "~13,700"
+        "Toplam zirve çıkışı",
+        "~13.700"
       ],
       [
-        "Unique individuals (multi-summits removed)",
-        "7,563"
+        "Farklı kişi (tekrarlar çıkarılmış)",
+        "7.563"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "The first summit was back in 1953, about 70 years ago. Hardly anyone made it in the early decades, but lately it's hundreds a year. Average across all of it, maybe 100 a year.",
+      "lead": "İlk zirve 1953'te, yani 70 yıl önce. İlk on yıllarda neredeyse kimse çıkamadı, ama son yıllarda yılda yüzlerce kişi çıkıyor. Hepsine yayarsan yılda 100 kişi.",
       "rows": [
         [
-          "Years since 1953",
+          "1953'ten beri yıl",
           "~70"
         ],
         [
-          "Summited per year",
+          "Yılda zirveye çıkan",
           "× 100"
         ],
         [
           "70 × 100",
-          "≈ 7,000"
+          "≈ 7.000"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -3173,39 +2740,39 @@
     "answer": 1028,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Gen I (Red/Blue/Yellow)",
+        "1. nesil (Red/Blue/Yellow)",
         "151"
       ],
       [
-        "Gens II–IX added",
+        "2-9. nesillerin eklediği",
         "+ 874"
       ],
       [
-        "Gen X (so far)",
+        "10. nesil (şimdilik)",
         "+ 3"
       ],
       [
-        "National Pokédex total",
-        "1,028"
+        "Ulusal Pokédex toplamı",
+        "1.028"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "The original games had the famous 151. How many generations since? About 8 more, each adding roughly another 100.",
+      "lead": "İlk oyunlarda meşhur 151 vardı. O günden beri kaç nesil geçti? 8 kadar, her biri 100 civarı ekliyor.",
       "rows": [
         [
-          "First generation",
+          "İlk nesil",
           "151"
         ],
         [
-          "~8 more gens after",
+          "Sonraki ~8 nesil",
           "× ~110"
         ],
         [
           "151 + 880",
-          "≈ 1,030"
+          "≈ 1.030"
         ]
       ]
     }
@@ -3225,39 +2792,39 @@
     "answer": 55000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Global merchant fleet (>100 GT)",
-        "~110,000"
+        "Dünya ticaret filosu (>100 GT)",
+        "~110.000"
       ],
       [
-        "Cargo carriers (bulk, container, tanker, general)",
-        "~65%"
+        "Yük taşıyanlar (dökme, konteyner, tanker, genel)",
+        "~%65"
       ],
       [
-        "Share underway at any moment",
-        "~75%"
+        "Herhangi bir anda seyirde olan",
+        "~%75"
       ],
       [
-        "110,000 × 0.65 × 0.75",
-        "≈ 55,000"
+        "110.000 × 0,65 × 0,75",
+        "≈ 55.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "Think about how many ships leave port each day worldwide, maybe 2,000 departures. How long does an average voyage take before reaching the next port? Call it a month, 30 days. That's 30 days worth of departures all still out at sea at once.",
+      "lead": "Dünyada günde kaç gemi limandan ayrılıyor? Belki 2.000. Ortalama bir sefer bir sonraki limana varana dek ne kadar sürer? Bir ay de. Yani 30 günlük kalkışın tamamı aynı anda denizde.",
       "rows": [
         [
-          "Ships departing ports worldwide per day",
-          "~2,000"
+          "Günlük liman çıkışı",
+          "~2.000"
         ],
         [
-          "Average days at sea per voyage",
+          "Sefer başına denizde gün",
           "~30"
         ],
         [
-          "2,000 × 30",
-          "≈ 60,000"
+          "2.000 × 30",
+          "≈ 60.000"
         ]
       ]
     }
@@ -3277,38 +2844,37 @@
     "answer": 81001,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Active elevators on the NYC Buildings roll",
-        "81,001"
+        "NYC Yapı İşleri kayıtlarındaki etkin asansör",
+        "81.001"
       ],
       [
-        "Manhattan's share of those",
-        "42,470"
+        "Manhattan'ın payı",
+        "42.470"
       ],
       [
-        "All conveying devices (adds escalators, dumbwaiters, lifts)",
-        "93,225"
+        "Tüm taşıma cihazları (yürüyen merdiven, servis asansörü dahil)",
+        "93.225"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Start with New York's 8.5 million people. How many does a single elevator serve? Between residents and workers in the tall buildings, maybe 100.",
+      "lead": "New York'un 8,5 milyon kişisinden başla. Tek bir asansör kaç kişiye hizmet eder? Yüksek binalardaki sakinler ve çalışanlar düşünülünce 100 kadar.",
       "rows": [
         [
-          "NYC people",
-          "8,500,000"
+          "NYC nüfusu",
+          "8.500.000"
         ],
         [
-          "People per elevator",
+          "Asansör başına kişi",
           "÷ 100"
         ],
         [
-          "8.5M ÷ 100",
-          "≈ 85,000"
+          "8,5 milyon ÷ 100",
+          "≈ 85.000"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -3326,42 +2892,41 @@
     "answer": 33000000000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Annual chickens slaughtered",
-        "~75 billion"
+        "Yıllık kesilen tavuk",
+        "~75 milyar"
       ],
       [
-        "Average lifespan in production",
-        "~45 days = 1/8 of a year"
+        "Üretimde ortalama yaşam",
+        "~45 gün = yılın 1/8'i"
       ],
       [
-        "Live population at any moment",
-        "75B × 1/8 + layer flocks"
+        "Herhangi bir anda canlı nüfus",
+        "75 milyar × 1/8 + yumurtacı sürüler"
       ],
       [
-        "FAO standing population",
-        "≈ 33 billion"
+        "FAO mevcut popülasyon",
+        "≈ 33 milyar"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Start with 8 billion people. We eat an enormous amount of chicken, and a meat bird only lives a couple of months. How many are alive per person at any moment? Maybe 4.",
+      "lead": "8 milyar insandan başla. Muazzam miktarda tavuk yiyoruz ve etlik bir tavuk ancak birkaç ay yaşıyor. Kişi başına aynı anda kaç tavuk canlı? 4 de.",
       "rows": [
         [
-          "World population",
-          "8,000,000,000"
+          "Dünya nüfusu",
+          "8.000.000.000"
         ],
         [
-          "Chickens alive per person",
+          "Kişi başına canlı tavuk",
           "× 4"
         ],
         [
-          "8B × 4",
-          "≈ 32 billion"
+          "8 milyar × 4",
+          "≈ 32 milyar"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -3378,38 +2943,37 @@
     "answer": 275000000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "On sale since 1935",
-        "~90 years"
+        "1935'ten beri satışta",
+        "~90 yıl"
       ],
       [
-        "Sets sold per year",
-        "~3 million"
+        "Yılda satılan kutu",
+        "~3 milyon"
       ],
       [
-        "Lifetime sales reported by Hasbro",
-        "≈ 275 million"
+        "Hasbro'nun bildirdiği toplam satış",
+        "≈ 275 milyon"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Monopoly has been around since 1935, so about 90 years. How many sets sell a year? It's one of the best-selling board games ever, maybe 3 million.",
+      "lead": "Monopoly 1935'ten beri var, yani 90 yıl. Yılda kaç kutu satılıyor? Tarihin en çok satan kutu oyunlarından biri — 3 milyon de.",
       "rows": [
         [
-          "Years on sale",
+          "Satışta olduğu yıl",
           "~90"
         ],
         [
-          "Sets sold per year",
-          "× 3 million"
+          "Yılda satılan kutu",
+          "× 3 milyon"
         ],
         [
-          "90 × 3M",
-          "≈ 270 million"
+          "90 × 3 milyon",
+          "≈ 270 milyon"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -3427,42 +2991,41 @@
     "answer": 41100,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Stores in the Americas",
-        "≈ 18,000"
+        "Amerika kıtasındaki mağaza",
+        "≈ 18.000"
       ],
       [
-        "Stores in China",
-        "≈ 7,800"
+        "Çin",
+        "≈ 7.800"
       ],
       [
-        "Rest of world",
-        "≈ 14,000"
+        "Dünyanın geri kalanı",
+        "≈ 14.000"
       ],
       [
-        "Total at end of FY2024",
-        "≈ 40,200"
+        "2024 mali yılı sonu toplam",
+        "≈ 40.200"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Start with the US, about 330 million people. How many people per Starbucks? It's everywhere, maybe one for every 20,000. And the US is only about 40% of the total, so a bit more than double it.",
+      "lead": "ABD'den başla: 330 milyon kişi. Kaç kişiye bir Starbucks düşer? Her yerde — 20 bin kişiye bir de. ABD toplamın %40'ı kadar, o yüzden iki buçukla çarp.",
       "rows": [
         [
-          "US population",
-          "330,000,000"
+          "ABD nüfusu",
+          "330.000.000"
         ],
         [
-          "1 per ~20,000 people",
-          "≈ 16,000 US"
+          "20.000 kişiye 1",
+          "≈ 16.000 ABD"
         ],
         [
-          "US ~40% of world (× 2.5)",
-          "≈ 40,000"
+          "ABD dünyanın ~%40'ı (× 2,5)",
+          "≈ 40.000"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -3479,42 +3042,41 @@
     "answer": 385000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Global crude birth rate",
-        "~17 per 1,000 / year"
+        "Küresel kaba doğum hızı",
+        "yılda binde ~17"
       ],
       [
-        "World population",
-        "~8.1 billion"
+        "Dünya nüfusu",
+        "~8,1 milyar"
       ],
       [
-        "Annual births",
-        "≈ 140 million"
+        "Yıllık doğum",
+        "≈ 140 milyon"
       ],
       [
-        "÷ 365 days",
-        "≈ 385,000"
+        "÷ 365 gün",
+        "≈ 385.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Start with the world's population, about 8 billion. Everyone is born once, over a life of maybe 70 years. So births per year is 8 billion ÷ 70, then split across 365 days.",
+      "lead": "Dünya nüfusundan başla: 8 milyar. Herkes bir kez doğuyor, ömür 70 yıl kadar. Yıllık doğum 8 milyar ÷ 70, sonra 365 güne böl.",
       "rows": [
         [
-          "World population",
-          "8,000,000,000"
+          "Dünya nüfusu",
+          "8.000.000.000"
         ],
         [
-          "÷ ~70 yr life",
-          "≈ 115M/yr"
+          "÷ ~70 yıllık ömür",
+          "≈ yılda 115 milyon"
         ],
         [
-          "÷ 365 days",
-          "≈ 315,000"
+          "÷ 365 gün",
+          "≈ 315.000"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -3532,17 +3094,17 @@
     "answer": 35,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Road and rail bridges in Greater London",
+        "Büyük Londra'daki karayolu ve demiryolu köprüsü",
         "≈ 33"
       ],
       [
-        "Pedestrian-only bridges (Millennium, Golden Jubilee)",
+        "Yalnızca yaya köprüleri (Millennium, Golden Jubilee)",
         "+ 2"
       ],
       [
-        "Total Thames crossings within Greater London",
+        "Büyük Londra sınırlarındaki toplam geçiş",
         "≈ 35"
       ]
     ]
@@ -3562,18 +3124,18 @@
     "answer": 1350,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Volcanoes erupted in the last 10,000 yrs (Holocene)",
-        "≈ 1,350"
+        "Son 10.000 yılda püsküren (Holosen)",
+        "≈ 1.350"
       ],
       [
-        "Erupting in any given year",
-        "~50–70"
+        "Herhangi bir yılda püsküren",
+        "~50-70"
       ],
       [
-        "Smithsonian \"active\" definition",
-        "≈ 1,350"
+        "Smithsonian \"aktif\" tanımı",
+        "≈ 1.350"
       ]
     ]
   },
@@ -3591,42 +3153,41 @@
     "answer": 9000000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Households owning a cat",
-        "~10%"
+        "Kedi besleyen hane",
+        "~%10"
       ],
       [
-        "Japanese households",
-        "~55 million"
+        "Japonya'daki hane",
+        "~55 milyon"
       ],
       [
-        "Cats per cat-owning household",
-        "~1.7"
+        "Kedili hane başına kedi",
+        "~1,7"
       ],
       [
-        "JPFA survey total",
-        "≈ 9 million"
+        "JPFA anket toplamı",
+        "≈ 9 milyon"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Start with Japan's population, about 125 million. How many keep a cat? They're popular pets but not in every home, maybe 1 in 15 people.",
+      "lead": "Japonya'nın nüfusundan başla: 125 milyon. Kaç kişi kedi besliyor? Sevilen bir evcil hayvan ama her evde yok — 15 kişide bir de.",
       "rows": [
         [
-          "Japan population",
-          "125,000,000"
+          "Japonya nüfusu",
+          "125.000.000"
         ],
         [
-          "Keep a cat",
-          "~1 in 15"
+          "Kedi besleyen",
+          "~15'te 1"
         ],
         [
-          "125M ÷ 15",
-          "≈ 8 million"
+          "125 milyon ÷ 15",
+          "≈ 8 milyon"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -3644,38 +3205,37 @@
     "answer": 1900000000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Coca-Cola Co. brands and products",
-        "200+ brands"
+        "Coca-Cola Co. markaları",
+        "200+ marka"
       ],
       [
-        "Company reported servings per day",
-        "~1.9 billion"
+        "Şirketin bildirdiği günlük porsiyon",
+        "~1,9 milyar"
       ],
       [
-        "Equivalent to per second",
-        "~22,000"
+        "Saniyeye çevirirsek",
+        "~22.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Start with the world's 8 billion people. Coke is everywhere, but not everyone drinks one on a given day. Say 1 in 4 people has a serving.",
+      "lead": "Dünyanın 8 milyar insanından başla. Coca-Cola her yerde ama herkes her gün içmiyor. Dört kişiden biri bir porsiyon içiyor de.",
       "rows": [
         [
-          "World population",
-          "8,000,000,000"
+          "Dünya nüfusu",
+          "8.000.000.000"
         ],
         [
-          "Have a Coke today",
-          "~1 in 4"
+          "Bugün Cola içen",
+          "~4'te 1"
         ],
         [
-          "8B ÷ 4",
-          "≈ 2 billion"
+          "8 milyar ÷ 4",
+          "≈ 2 milyar"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -3693,42 +3253,41 @@
     "answer": 690,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "FAI threshold (Kármán line)",
+        "FAI eşiği (Kármán çizgisi)",
         "100 km"
       ],
       [
-        "Of whom Blue Origin suborbital fliers",
+        "Bunların Blue Origin suborbital yolcusu",
         "92"
       ],
       [
-        "Same tally on the lower US 80 km line",
+        "ABD'nin 80 km çizgisiyle aynı sayım",
         "≈ 780"
       ],
       [
-        "Unique humans above 100 km, 1961 to 2026",
+        "100 km üzerine çıkan farklı insan, 1961-2026",
         "≈ 690"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "No population to lean on, so use the calendar. People have been going to space since about 1961, roughly 65 years. How many new people get up there in a year? Not many, maybe a dozen.",
+      "lead": "Dayanacak nüfus yok, takvimi kullan. 1961'den beri insanlar uzaya çıkıyor, yani 65 yıl. Yılda kaç yeni kişi çıkıyor? Çok değil — bir düzine.",
       "rows": [
         [
-          "Years since 1961",
+          "1961'den beri yıl",
           "~65"
         ],
         [
-          "New people per year",
+          "Yılda yeni kişi",
           "~11"
         ],
         [
           "65 × 11",
           "≈ 700"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -3745,34 +3304,34 @@
     "answer": 310,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Studio albums (incl. Taylor's Versions)",
+        "Stüdyo albümü (Taylor's Version dahil)",
         "13"
       ],
       [
-        "Originals + vault tracks per album",
-        "~16–20"
+        "Albüm başına orijinal + kasa parçası",
+        "~16-20"
       ],
       [
-        "Plus standalone singles & soundtrack cuts",
+        "Bağımsız single ve film müzikleri",
         "+ ~30"
       ],
       [
-        "Total recorded songs released",
+        "Toplam yayımlanan şarkı",
         "≈ 310"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "Count it up by the album. Between her originals and the re-records she's got around 15 albums. How many songs on each? Maybe 20 once you add the deluxe and vault tracks.",
+      "lead": "Albüm albüm say. Orijinaller ve yeniden kayıtlarla 15 kadar albümü var. Her birinde kaç şarkı? Deluxe ve kasa parçalarını ekleyince 20.",
       "rows": [
         [
-          "Albums (with re-records)",
+          "Albüm (yeniden kayıtlarla)",
           "~15"
         ],
         [
-          "Songs per album",
+          "Albüm başına şarkı",
           "~20"
         ],
         [
@@ -3796,42 +3355,41 @@
     "answer": 120,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Feature-film debut",
+        "İlk uzun metraj",
         "1982 (Fast Times at Ridgemont High)"
       ],
       [
-        "Working years through 2025",
+        "2025'e kadar çalışma yılı",
         "~43"
       ],
       [
-        "Average pace (esp. post-2010)",
-        "~3 films/yr"
+        "Ortalama tempo (özellikle 2010 sonrası)",
+        "~yılda 3 film"
       ],
       [
-        "IMDb feature credits as actor",
+        "IMDb oyunculuk künyesi",
         "≈ 120"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Cage has been acting since the early 80s, call it 40 years. How many films does he make a year? He's famously prolific, maybe 3.",
+      "lead": "Cage 80'lerin başından beri oynuyor, 40 yıl de. Yılda kaç film çeviriyor? Üretkenliğiyle meşhur — 3 kadar.",
       "rows": [
         [
-          "Years acting",
+          "Oyunculuk yılı",
           "~40"
         ],
         [
-          "Films per year",
+          "Yılda film",
           "~3"
         ],
         [
           "40 × 3",
           "≈ 120"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -3849,38 +3407,37 @@
     "answer": 24000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Annual visitors (2024)",
-        "~8.7 million"
+        "Yıllık ziyaretçi (2024)",
+        "~8,7 milyon"
       ],
       [
-        "Days open per year",
+        "Yılda açık gün",
         "~310"
       ],
       [
-        "8.7 M ÷ 310",
-        "≈ 28,000 on open days"
+        "8,7 milyon ÷ 310",
+        "≈ açık günlerde 28.000"
       ],
       [
-        "Averaged across all 365 days",
-        "≈ 24,000"
+        "365 güne yayılmış ortalama",
+        "≈ 24.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "The Louvre is the most-visited museum on Earth, somewhere around 9 million people a year. Spread that across all 365 days.",
+      "lead": "Louvre dünyanın en çok ziyaret edilen müzesi, yılda 9 milyon kişi civarı. Bunu 365 güne yay.",
       "rows": [
         [
-          "Louvre visitors a year",
-          "~9,000,000"
+          "Yıllık Louvre ziyaretçisi",
+          "~9.000.000"
         ],
         [
-          "÷ 365 days",
-          "≈ 25,000"
+          "÷ 365 gün",
+          "≈ 25.000"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -3897,38 +3454,37 @@
     "answer": 6000000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "PADI certifications issued since 1967",
-        "> 30 million"
+        "1967'den beri verilen PADI sertifikası",
+        "30 milyondan fazla"
       ],
       [
-        "But a card is for life, and most stop diving",
-        "~1 in 5 still active"
+        "Ama kart ömürlük ve çoğu dalmayı bırakıyor",
+        "~5'te 1 hâlâ aktif"
       ],
       [
-        "DEMA active divers worldwide",
-        "≈ 6 million"
+        "DEMA dünya aktif dalgıç sayısı",
+        "≈ 6 milyon"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "The easiest handle is the US, far and away the biggest dive market. Something like 3 million Americans get in the water in a given year. Diving is a rich country hobby and the US is about half of it, so double.",
+      "lead": "En kolay tutamak ABD, açık ara en büyük dalış pazarı. Yılda 3 milyon kadar Amerikalı suya giriyor. Dalış zengin ülke uğraşı ve ABD bunun yarısı — ikiyle çarp.",
       "rows": [
         [
-          "Active divers in the US",
-          "~3,000,000"
+          "ABD'deki aktif dalgıç",
+          "~3.000.000"
         ],
         [
-          "US share of the world",
+          "ABD'nin dünya payı",
           "~1/2"
         ],
         [
-          "3M × 2",
-          "≈ 6,000,000"
+          "3 milyon × 2",
+          "≈ 6.000.000"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -3946,39 +3502,39 @@
     "answer": 27000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Gold medals awarded (1896–2024)",
-        "~5,400 events"
+        "Verilen altın madalya (1896-2024)",
+        "~5.400 etkinlik"
       ],
       [
-        "Team events with multiple athletes per gold",
-        "~50%"
+        "Birden fazla sporcuya giden takım etkinlikleri",
+        "~%50"
       ],
       [
-        "Unique individuals with ≥1 gold (Olympedia)",
-        "≈ 27,000"
+        "En az 1 altını olan farklı kişi (Olympedia)",
+        "≈ 27.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "About 30 Summer Games since 1896 and 25 Winter Games since 1924, so call it 55 Games total. How many golds does the average one hand out? Summer gives out more than Winter, so average maybe 200, and guess 3 people share each gold since plenty go to teams.",
+      "lead": "1896'dan beri 30 kadar Yaz, 1924'ten beri 25 kadar Kış Oyunu — toplam 55 organizasyon. Ortalama bir oyunda kaç altın dağıtılıyor? Yaz, Kış'tan fazla verir; ortalama 200 de. Çoğu takımlara gittiği için her altını 3 kişi paylaşıyor say.",
       "rows": [
         [
-          "Summer + Winter Games since 1896/1924",
+          "1896/1924'ten beri Yaz + Kış Oyunları",
           "≈ 55"
         ],
         [
-          "Golds per Games (avg)",
+          "Oyun başına altın (ortalama)",
           "~200"
         ],
         [
-          "People per gold (teams)",
+          "Altın başına kişi (takımlar)",
           "~3"
         ],
         [
           "55 × 200 × 3",
-          "��� 33,000"
+          "≈ 33.000"
         ]
       ]
     }
@@ -3998,38 +3554,37 @@
     "answer": 750000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Active surfers worldwide",
-        "~35 million"
+        "Dünyadaki aktif sörfçü",
+        "~35 milyon"
       ],
       [
-        "Boards purchased per surfer per year",
-        "~1 in 45"
+        "Sörfçü başına yıllık tahta alımı",
+        "~45'te 1"
       ],
       [
-        "SIMA industry estimate",
-        "≈ 750,000"
+        "SIMA sektör tahmini",
+        "≈ 750.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "No population to lean on, so guess the surfers. Loads of people have tried it, but regulars who actually buy boards, maybe 5 million worldwide. How often does one buy a new board? Every few years, call it once every 6.",
+      "lead": "Dayanacak nüfus yok, sörfçüleri tahmin et. Çok kişi denemiştir ama gerçekten tahta alan düzenli sörfçü dünyada 5 milyon kadar. Ne sıklıkla yeni tahta alınır? Birkaç yılda bir — 6 yılda bir de.",
       "rows": [
         [
-          "Regular surfers",
-          "~5,000,000"
+          "Düzenli sörfçü",
+          "~5.000.000"
         ],
         [
-          "New board every ~6 yrs",
+          "~6 yılda bir yeni tahta",
           "÷ 6"
         ],
         [
-          "5M ÷ 6",
-          "≈ 830,000"
+          "5 milyon ÷ 6",
+          "≈ 830.000"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -4046,18 +3601,18 @@
     "answer": 3790,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Unicode 15.1 emoji set",
-        "3,782 characters"
+        "Unicode 15.1 emoji seti",
+        "3.782 karakter"
       ],
       [
-        "Apple additions / skin-tone variants surfaced",
-        "+ a few"
+        "Apple eklemeleri / ten rengi varyantları",
+        "+ birkaç"
       ],
       [
-        "Total in iOS 17 emoji picker",
-        "≈ 3,790"
+        "iOS 17 emoji seçicisindeki toplam",
+        "≈ 3.790"
       ]
     ]
   },
@@ -4075,18 +3630,18 @@
     "answer": 55000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Total channels on YouTube",
-        "~115 million"
+        "YouTube'daki toplam kanal",
+        "~115 milyon"
       ],
       [
-        "With 100K+ subscribers",
-        "~500,000"
+        "100 binden fazla aboneli",
+        "~500.000"
       ],
       [
-        "Top tier (≥1 M subscribers)",
-        "≈ 55,000"
+        "En üst kademe (1 milyon+)",
+        "≈ 55.000"
       ]
     ]
   },
@@ -4104,39 +3659,39 @@
     "answer": 21,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Released songs",
+        "Yayımlanan şarkı",
         "~310"
       ],
       [
-        "Average track length",
+        "Ortalama şarkı süresi",
         "~4:00"
       ],
       [
-        "310 × 4 min",
-        "≈ 1,240 minutes"
+        "310 × 4 dakika",
+        "≈ 1.240 dakika"
       ],
       [
         "÷ 60",
-        "≈ 21 hours"
+        "≈ 21 saat"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "Build it from her catalog. She has over a dozen albums, and with the re-records and vault tracks call it around 300 songs. Each one runs about 4 minutes.",
+      "lead": "Kataloğundan kur. Bir düzineden fazla albümü var; yeniden kayıtlar ve kasa parçalarıyla 300 şarkı de. Her biri 4 dakika.",
       "rows": [
         [
-          "Songs released",
+          "Yayımlanan şarkı",
           "~300"
         ],
         [
-          "Minutes each",
+          "Şarkı başına dakika",
           "~4"
         ],
         [
           "300 × 4 ÷ 60",
-          "≈ 20 hrs"
+          "≈ 20 saat"
         ]
       ]
     }
@@ -4156,69 +3711,45 @@
     "answer": 18,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Distance Earth → Moon (avg.)",
-        "~384,400 km"
+        "Dünya → Ay uzaklığı (ortalama)",
+        "~384.400 km"
       ],
       [
-        "Cruise speed (e.g. 747)",
-        "~900 km/h"
+        "Seyir hızı (örn. 747)",
+        "~900 km/sa"
       ],
       [
-        "384,400 ÷ 900",
-        "≈ 427 hours"
+        "384.400 ÷ 900",
+        "≈ 427 saat"
       ],
       [
         "÷ 24",
-        "≈ 18 days"
+        "≈ 18 gün"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "The Moon is about 240,000 miles away. How fast does a jet cruise? Around 550 mph. Divide for the hours, then turn that into days.",
+      "lead": "Ay 384 bin kilometre uzakta. Bir yolcu jeti ne hızla uçar? Saatte 900 kilometre. Böl, saati bul, sonra güne çevir.",
       "rows": [
         [
-          "Distance to the Moon",
-          "~240,000 mi"
+          "Ay'a uzaklık",
+          "~384.000 km"
         ],
         [
-          "Jet cruise speed",
-          "÷ 550 mph"
+          "Jet seyir hızı",
+          "÷ 900 km/sa"
         ],
         [
-          "240k ÷ 550",
-          "≈ 440 hrs"
+          "384.000 ÷ 900",
+          "≈ 430 saat"
         ],
         [
           "÷ 24",
-          "≈ 18 days"
+          "≈ 18 gün"
         ]
-      ],
-      "startRow": 0,
-      "system": "imperial",
-      "alt": {
-        "lead": "The Moon is about 380,000 kilometers away. How fast does a jet cruise? Around 900 kilometers an hour. Divide for the hours, then turn that into days.",
-        "rows": [
-          [
-            "Distance to the Moon",
-            "~380,000 km"
-          ],
-          [
-            "Jet cruise speed",
-            "÷ 900 km/h"
-          ],
-          [
-            "380k ÷ 900",
-            "≈ 420 hrs"
-          ],
-          [
-            "÷ 24",
-            "≈ 18 days"
-          ]
-        ],
-        "startRow": 0
-      }
+      ]
     }
   },
   {
@@ -4235,39 +3766,39 @@
     "answer": 220,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Feature films (actor credits)",
+        "Uzun metraj film (oyunculuk künyesi)",
         "~120"
       ],
       [
-        "Average runtime",
-        "~110 minutes"
+        "Ortalama süre",
+        "~110 dakika"
       ],
       [
-        "120 × 110 min",
-        "≈ 13,200 minutes"
+        "120 × 110 dakika",
+        "≈ 13.200 dakika"
       ],
       [
         "÷ 60",
-        "≈ 220 hours (≈ 9 days)"
+        "≈ 220 saat (≈ 9 gün)"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "Cage is famous for never stopping. He's been acting about 40 years, and lately a few films a year, so call it 120 movies. Each runs roughly 2 hours.",
+      "lead": "Cage hiç durmamasıyla ünlü. 40 yıldır oynuyor ve son dönemde yılda birkaç film — 120 film de. Her biri kabaca 2 saat.",
       "rows": [
         [
-          "Acting since ~1982",
-          "~40 yrs"
+          "1982'den beri oyunculuk",
+          "~40 yıl"
         ],
         [
-          "Films per year",
+          "Yılda film",
           "~3"
         ],
         [
-          "120 films × 2 hrs",
-          "≈ 240 hrs"
+          "120 film × 2 saat",
+          "≈ 240 saat"
         ]
       ]
     }
@@ -4287,42 +3818,41 @@
     "answer": 87,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "World population",
-        "~8.1 billion"
+        "Dünya nüfusu",
+        "~8,1 milyar"
       ],
       [
-        "South of the equator (S. America, S. Africa, Oceania, Indonesia south)",
-        "~1.05 B"
+        "Ekvatorun güneyi (G. Amerika, G. Afrika, Okyanusya, Endonezya güneyi)",
+        "~1,05 milyar"
       ],
       [
-        "Northern share",
-        "(8.1 − 1.05) / 8.1"
+        "Kuzey payı",
+        "(8,1 − 1,05) / 8,1"
       ],
       [
         "",
-        "≈ 87%"
+        "≈ %87"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Start with 8 billion people. Almost everyone is up north: all of Europe, most of Asia, the US. South of the equator it's just part of South America, southern Africa, and Australia. Maybe a billion down there.",
+      "lead": "8 milyar insandan başla. Neredeyse herkes kuzeyde: Avrupa'nın tamamı, Asya'nın çoğu, ABD. Ekvatorun güneyinde yalnızca Güney Amerika'nın bir kısmı, güney Afrika ve Avustralya var. Orada bir milyar kişi de.",
       "rows": [
         [
-          "World population",
-          "8,000,000,000"
+          "Dünya nüfusu",
+          "8.000.000.000"
         ],
         [
-          "South of the equator",
-          "~1 billion"
+          "Ekvatorun güneyi",
+          "~1 milyar"
         ],
         [
-          "(8B − 1B) ÷ 8B",
-          "≈ 88%"
+          "(8 − 1) ÷ 8",
+          "≈ %88"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -4340,38 +3870,37 @@
     "answer": 18,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Global new-car sales (2024)",
-        "~88 million"
+        "Küresel yeni araç satışı (2024)",
+        "~88 milyon"
       ],
       [
-        "Battery EVs + plug-in hybrids sold",
-        "~17 million"
+        "Satılan tam elektrikli + şarjlı hibrit",
+        "~17 milyon"
       ],
       [
         "17 / 88",
-        "≈ 18%"
+        "≈ %18"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "The world buys around 90 million new cars a year. EVs have gone from rare to everywhere, especially in China and Europe. How many of those 90 million plug in? Maybe 15 million.",
+      "lead": "Dünya yılda 90 milyon kadar yeni araba alıyor. Elektrikliler nadirden her yere geçti, özellikle Çin ve Avrupa'da. Bu 90 milyonun kaçı fişe takılıyor? 15 milyon de.",
       "rows": [
         [
-          "New cars sold worldwide",
-          "~90,000,000"
+          "Dünyada satılan yeni araba",
+          "~90.000.000"
         ],
         [
-          "Electric + plug-in",
-          "~15,000,000"
+          "Elektrikli + şarjlı hibrit",
+          "~15.000.000"
         ],
         [
-          "15M ÷ 90M",
-          "≈ 17%"
+          "15 milyon ÷ 90 milyon",
+          "≈ %17"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -4388,22 +3917,22 @@
     "answer": 0.1,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Mean male height (global)",
+        "Küresel ortalama erkek boyu",
         "~171 cm"
       ],
       [
-        "Standard deviation",
+        "Standart sapma",
         "~7 cm"
       ],
       [
-        "6'6\" = 198 cm → ~3.9 SD above mean",
+        "198 cm → ortalamanın ~3,9 sapma üstü",
         "—"
       ],
       [
-        "Combined (incl. women, ~0)",
-        "≈ 0.1%"
+        "Kadınlarla birlikte (~0)",
+        "≈ %0,1"
       ]
     ]
   },
@@ -4422,57 +3951,37 @@
     "answer": 640,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Central Park area",
-        "843 acres = 36.7 M sq ft"
+        "Central Park alanı",
+        "341 hektar = 3.410.000 m²"
       ],
       [
-        "NFL field incl. end zones",
-        "360 ft × 160 ft = 57,600 sq ft"
+        "Kale alanlarıyla saha",
+        "110 × 49 = 5.350 m²"
       ],
       [
-        "36,700,000 ÷ 57,600",
+        "3.410.000 ÷ 5.350",
         "≈ 640"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Central Park is a long strip, roughly 2.5 miles by half a mile, so about 1.3 square miles. A square mile holds 640 acres, and a football field takes up a bit over an acre.",
+      "lead": "Central Park uzun bir şerit: kabaca 4 kilometreye 800 metre, yani 3,4 kilometrekare. Bir futbol sahası yarım hektar kadar tutuyor.",
       "rows": [
         [
-          "Central Park area",
-          "~1.3 sq mi"
+          "Central Park alanı",
+          "~3,4 km² = 340 hektar"
         ],
         [
-          "That's acres (× 640)",
-          "~830 acres"
+          "Saha alanı",
+          "~0,54 hektar"
         ],
         [
-          "830 ÷ 1.3 per field",
-          "≈ 640"
+          "340 ÷ 0,54",
+          "≈ 630"
         ]
-      ],
-      "startRow": 0,
-      "system": "imperial",
-      "alt": {
-        "lead": "Central Park is a long strip, roughly 4 kilometers by 800 meters, so about 3.4 million square meters. A football field is about 110 by 50 meters, call it 5,500 square meters.",
-        "rows": [
-          [
-            "Central Park area",
-            "~3,400,000 m²"
-          ],
-          [
-            "Football field",
-            "÷ 5,500 m²"
-          ],
-          [
-            "3.4M ÷ 5,500",
-            "≈ 620"
-          ]
-        ],
-        "startRow": 0
-      }
+      ]
     }
   },
   {
@@ -4490,57 +3999,37 @@
     "answer": 2950,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Mount Everest height",
-        "8,849 m"
+        "Everest yüksekliği",
+        "8.849 m"
       ],
       [
-        "Standard bus height",
+        "Standart otobüs yüksekliği",
         "≈ 3 m"
       ],
       [
-        "8,849 ÷ 3",
-        "≈ 2,950"
+        "8.849 ÷ 3",
+        "≈ 2.950"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Start with Everest, about 9,000 meters tall. How tall is a bus? Roughly 3 meters, about a room and a half. Divide one into the other.",
+      "lead": "Everest'ten başla: 9.000 metre kadar. Bir otobüs ne kadar yüksek? Kabaca 3 metre, bir buçuk oda boyu. Birini diğerine böl.",
       "rows": [
         [
-          "Everest height",
-          "~9,000 m"
+          "Everest yüksekliği",
+          "~9.000 m"
         ],
         [
-          "Height of a bus",
+          "Otobüs yüksekliği",
           "~3 m"
         ],
         [
-          "9,000 ÷ 3",
-          "≈ 3,000"
+          "9.000 ÷ 3",
+          "≈ 3.000"
         ]
-      ],
-      "startRow": 0,
-      "system": "metric",
-      "alt": {
-        "lead": "Start with Everest, about 29,000 feet tall. How tall is a bus? Roughly 10 feet, about a room and a half. Divide one into the other.",
-        "rows": [
-          [
-            "Everest height",
-            "~29,000 ft"
-          ],
-          [
-            "Height of a bus",
-            "~10 ft"
-          ],
-          [
-            "29,000 ÷ 10",
-            "≈ 2,900"
-          ]
-        ],
-        "startRow": 0
-      }
+      ]
     }
   },
   {
@@ -4558,38 +4047,37 @@
     "answer": 9094,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "US stores",
-        "~4,500"
+        "ABD'deki mağaza",
+        "~4.500"
       ],
       [
-        "Rest of world",
-        "~4,600"
+        "Dünyanın geri kalanı",
+        "~4.600"
       ],
       [
-        "2004 peak total (Wikipedia)",
-        "9,094"
+        "2004 zirve toplamı",
+        "9.094"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Blockbuster was everywhere back then. Start with the US, about 300 million people. How many did one store serve? Say one for every 60,000. That gives the US count, and the US was about half the world, so double it.",
+      "lead": "Blockbuster o zamanlar her yerdeydi. ABD'den başla: 300 milyon kişi. Bir mağaza kaç kişiye hizmet ediyordu? 60 bin kişiye bir de. Bu ABD sayısını verir; ABD dünyanın yarısıydı, ikiyle çarp.",
       "rows": [
         [
-          "US population",
-          "300,000,000"
+          "ABD nüfusu",
+          "300.000.000"
         ],
         [
-          "1 per ~60,000 people",
-          "≈ 5,000 US"
+          "60.000 kişiye 1",
+          "≈ 5.000 ABD"
         ],
         [
-          "×2 for the rest of the world",
-          "≈ 10,000"
+          "Dünyanın geri kalanı için ×2",
+          "≈ 10.000"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -4607,57 +4095,37 @@
     "answer": 75,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Alcatraz to SF shore",
-        "~1.25 miles"
+        "Alcatraz'dan San Francisco kıyısına",
+        "~2 km"
       ],
       [
-        "Goldfish cruising speed",
-        "~1 mph"
+        "Japon balığının seyir hızı",
+        "~1,6 km/sa"
       ],
       [
-        "1.25 mi ÷ 1 mph",
-        "≈ 75 min"
+        "2 ÷ 1,6",
+        "≈ 1,25 saat = 75 dakika"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Alcatraz sits about a mile off the San Francisco shore. How fast does a goldfish actually swim? Slowly, maybe 1 mile an hour. So it works out to roughly an hour of paddling.",
+      "lead": "Alcatraz, San Francisco kıyısından 2 kilometre açıkta. Japon balığı gerçekte ne hızla yüzer? Yavaş — saatte 1,5 kilometre kadar. Yani kabaca bir saatlik kulaç.",
       "rows": [
         [
-          "Distance to shore",
-          "~1 mile"
+          "Kıyıya uzaklık",
+          "~2 km"
         ],
         [
-          "Goldfish speed",
-          "~1 mph"
+          "Japon balığı hızı",
+          "~1,5 km/sa"
         ],
         [
-          "1 mile ÷ 1 mph",
-          "≈ 1 hour"
+          "2 ÷ 1,5",
+          "≈ 1,3 saat"
         ]
-      ],
-      "startRow": 0,
-      "system": "imperial",
-      "alt": {
-        "lead": "Alcatraz sits about 2 kilometers off the San Francisco shore. How fast does a goldfish actually swim? Slowly, maybe 2 kilometers an hour. So it works out to roughly an hour of paddling.",
-        "rows": [
-          [
-            "Distance to shore",
-            "~2 km"
-          ],
-          [
-            "Goldfish speed",
-            "~2 km/h"
-          ],
-          [
-            "2 ÷ 2",
-            "≈ 1 hour"
-          ]
-        ],
-        "startRow": 0
-      }
+      ]
     }
   },
   {
@@ -4675,35 +4143,35 @@
     "answer": 49600000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Magic Kingdom (busiest park)",
-        "17.7M"
+        "Magic Kingdom (en yoğun park)",
+        "17,7 milyon"
       ],
       [
         "Epcot + Studios + Animal Kingdom",
-        "31.9M"
+        "31,9 milyon"
       ],
       [
-        "2023 total (TEA/AECOM)",
-        "≈ 49.6M"
+        "2023 toplamı (TEA/AECOM)",
+        "≈ 49,6 milyon"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "Disney World is four huge parks, open every day of the year. How many people pack into one park on a given day? Tens of thousands, call it 35,000. Four parks, times 365 days.",
+      "lead": "Disney World dört devasa park ve yılın her günü açık. Bir parka günde kaç kişi doluşuyor? On binlerce — 35.000 de. Dört park, 365 gün.",
       "rows": [
         [
-          "Disney World parks",
+          "Disney World parkı",
           "4"
         ],
         [
-          "People per park per day",
-          "× 35,000"
+          "Park başına günlük kişi",
+          "× 35.000"
         ],
         [
-          "× 365 days",
-          "≈ 50 million"
+          "× 365 gün",
+          "≈ 50 milyon"
         ]
       ]
     }
