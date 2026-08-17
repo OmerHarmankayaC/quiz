@@ -5193,38 +5193,37 @@
     "answer": 33755762,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Southbound crossings, FY2025 (Jul 2024-Jun 2025)",
-        "≈ 16,877,881"
+        "Güneye geçiş, 2025 mali yılı",
+        "≈ 16.877.881"
       ],
       [
-        "Total traffic ≈ 2 × southbound (northbound not separately tolled/counted)",
+        "Toplam trafik ≈ 2 × güney yönü (kuzey yönü ayrı ücretlendirilmiyor)",
         "× 2"
       ],
       [
         "≈",
-        "33,755,762"
+        "33.755.762"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "The easiest place to start is a daily guess. How many cars cross the Golden Gate Bridge on a normal day, both directions? A steady stream all day, call it 100,000.",
+      "lead": "En kolay başlangıç günlük bir tahmin. Golden Gate'ten normal bir günde iki yönde kaç araç geçer? Gün boyu kesintisiz akış — 100.000 de.",
       "rows": [
         [
-          "Vehicles crossing per day",
-          "~100,000"
+          "Günlük geçen araç",
+          "~100.000"
         ],
         [
-          "Days in a year",
+          "Yıldaki gün",
           "× 365"
         ],
         [
-          "100,000 × 365",
-          "≈ 36,500,000"
+          "100.000 × 365",
+          "≈ 36.500.000"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -5242,35 +5241,31 @@
     "answer": 18880,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Suez Canal Authority, ships transited, full year 2019",
-        "18,880"
+        "Süveyş Kanalı İdaresi, geçen gemi, 2019 tam yıl",
+        "18.880"
       ],
       [
-        "Combined net tonnage carried",
-        "1.2 billion tons"
-      ],
-      [
-        "≈",
-        "18,880"
+        "Taşınan toplam net tonaj",
+        "1,2 milyar ton"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "There's no single population number to anchor on here, so think about daily traffic instead. How many ships pass through the Suez Canal on an average day? It's one of the busiest shipping lanes on Earth, so maybe 50.",
+      "lead": "Dayanacak tek bir nüfus sayısı yok, günlük trafiği düşün. Süveyş Kanalı'ndan ortalama bir günde kaç gemi geçer? Dünyanın en yoğun deniz yollarından biri — 50 de.",
       "rows": [
         [
-          "Ships through the canal per day",
+          "Günde kanaldan geçen gemi",
           "~50"
         ],
         [
-          "Days in a year",
+          "Yıldaki gün",
           "× 365"
         ],
         [
           "50 × 365",
-          "≈ 18,250"
+          "≈ 18.250"
         ]
       ]
     }
@@ -5290,39 +5285,39 @@
     "answer": 13600000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Eurostar passengers, full year 2022",
-        "8,295,005"
+        "Eurostar yolcusu, 2022 tam yıl",
+        "8.295.005"
       ],
       [
-        "Le Shuttle passenger vehicles, full year 2022",
-        "2,100,000 vehicles"
+        "Le Shuttle yolcu aracı, 2022 tam yıl",
+        "2.100.000 araç"
       ],
       [
-        "Le Shuttle people (≈ 2.5 per vehicle, estimated)",
-        "≈ 5,250,000"
+        "Le Shuttle yolcusu (araç başına ≈ 2,5 kişi)",
+        "≈ 5.250.000"
       ],
       [
         "Eurostar + Le Shuttle",
-        "≈ 13,600,000"
+        "≈ 13.600.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "There's no single population to anchor on here, so think about daily traffic instead. How many people pass through the tunnel on a normal day, by train and by car shuttle combined? Somewhere around 30,000 feels right for a busy cross-Channel route.",
+      "lead": "Dayanacak tek bir nüfus yok, günlük trafiği düşün. Tünelden normal bir günde trenle ve araç mekiğiyle toplam kaç kişi geçer? Yoğun bir Manş hattı için 30.000 doğru geliyor.",
       "rows": [
         [
-          "People through the tunnel per day",
-          "~30,000"
+          "Günde tünelden geçen kişi",
+          "~30.000"
         ],
         [
-          "Days in a year",
+          "Yıldaki gün",
           "× 365"
         ],
         [
-          "30,000 × 365",
-          "≈ 11,000,000"
+          "30.000 × 365",
+          "≈ 11.000.000"
         ]
       ]
     }
@@ -5342,38 +5337,37 @@
     "answer": 500300000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "World population (2021 study baseline)",
-        "≈ 7.9 billion"
+        "Dünya nüfusu (2021 çalışma temeli)",
+        "≈ 7,9 milyar"
       ],
       [
-        "Share living at ≥1,500m elevation",
-        "× 6.3%"
+        "1.500 m ve üzerinde yaşayanların payı",
+        "× %6,3"
       ],
       [
-        "≈ result",
-        "≈ 500,300,000"
+        "Sonuç",
+        "≈ 500.300.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "The easiest place to start is the world population, about 8 billion. How many of them live somewhere seriously elevated: the Andes, the Ethiopian highlands, Tibet, cities like Denver or Mexico City? Not most people, but call it 1 in 16.",
+      "lead": "En kolay başlangıç dünya nüfusu: 8 milyar. Kaçı ciddi yükseklikte yaşıyor — And Dağları, Etiyopya yaylaları, Tibet, Denver veya Mexico City gibi şehirler? Çoğunluk değil, 16'da bir de.",
       "rows": [
         [
-          "World population",
-          "~8,000,000,000"
+          "Dünya nüfusu",
+          "~8.000.000.000"
         ],
         [
-          "Live at high elevation (Andes, Tibet, Ethiopia, etc.)",
-          "~1 in 16"
+          "Yüksek rakımda yaşayan (And, Tibet, Etiyopya vb.)",
+          "~16'da 1"
         ],
         [
-          "8B ÷ 16",
-          "≈ 500 million"
+          "8 milyar ÷ 16",
+          "≈ 500 milyon"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -5391,38 +5385,37 @@
     "answer": 1050000000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Global population (2018 baseline, LandScan data)",
-        "≈ 7.6 billion"
+        "Küresel nüfus (2018 temeli, LandScan verisi)",
+        "≈ 7,6 milyar"
       ],
       [
-        "Share living within 10km of a coast (10% within 5km + 5% within 5-10km)",
-        "× 15%"
+        "Kıyıya 10 km'den yakın yaşayanların payı (%10'u 5 km içinde + %5'i 5-10 km arasında)",
+        "× %15"
       ],
       [
-        "≈ result",
-        "≈ 1.05 billion"
+        "Sonuç",
+        "≈ 1,05 milyar"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "The easiest place to start is the world population, about 8 billion. How many of them live close enough to the ocean to see it on a clear day? Coasts pull people in for fishing, trade, and tourism, so call it 1 in 7.",
+      "lead": "En kolay başlangıç dünya nüfusu: 8 milyar. Kaçı denizi açık havada görebilecek kadar yakın yaşıyor? Kıyılar balıkçılık, ticaret ve turizmle insan çekiyor — 7'de bir de.",
       "rows": [
         [
-          "World population",
-          "~8,000,000,000"
+          "Dünya nüfusu",
+          "~8.000.000.000"
         ],
         [
-          "Live within 10km of a coast",
-          "~1 in 7"
+          "Kıyıya 10 km'den yakın yaşayan",
+          "~7'de 1"
         ],
         [
-          "8B ÷ 7",
-          "≈ 1.1 billion"
+          "8 milyar ÷ 7",
+          "≈ 1,1 milyar"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -5439,18 +5432,18 @@
     "answer": 44000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Military helicopters worldwide (2023 est.)",
-        "≈ 20,000"
+        "Dünyadaki askerî helikopter (2023 tahmini)",
+        "≈ 20.000"
       ],
       [
-        "Military share of total global fleet",
-        "÷ 45%"
+        "Askerî helikopterin toplam filodaki payı",
+        "÷ %45"
       ],
       [
-        "≈ result (total civil + military)",
-        "≈ 44,000"
+        "Sonuç (sivil + askerî toplam)",
+        "≈ 44.000"
       ]
     ]
   },
@@ -5469,38 +5462,37 @@
     "answer": 10000000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Estimated daily visitors in a typical (non-Jubilee) year",
-        "~40,000/day"
+        "Tipik (Jübile dışı) bir yılda tahmini günlük ziyaretçi",
+        "~40.000/gün"
       ],
       [
-        "Days in a year",
+        "Yıldaki gün",
         "365"
       ],
       [
-        "≈ result",
-        "10,000,000"
+        "Sonuç",
+        "10.000.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "The easiest place to start is how many people visit Rome each year, something like 10 million tourists. How many of them make time for St. Peter's? Almost everyone, it's the single biggest must-see in the city, so call it 9 in 10, which works out to around 9 million people a year.",
+      "lead": "En kolay başlangıç Roma'yı yılda kaç kişinin ziyaret ettiği: 10 milyon kadar turist. Kaçı Aziz Petrus'a vakit ayırıyor? Neredeyse hepsi — şehrin en büyük görülmesi gerekeni. 10'da 9 de.",
       "rows": [
         [
-          "Tourists visiting Rome each year, roughly",
-          "10,000,000"
+          "Roma'yı yılda ziyaret eden turist",
+          "10.000.000"
         ],
         [
-          "Share who make time for St. Peter's",
-          "× 0.9"
+          "Aziz Petrus'a vakit ayıran pay",
+          "× 0,9"
         ],
         [
-          "≈ result",
-          "9,000,000"
+          "Sonuç",
+          "9.000.000"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -5518,38 +5510,37 @@
     "answer": 12700000000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Cans sold worldwide, 2024 (Red Bull GmbH reported)",
-        "12.670 billion"
+        "Dünya genelinde satılan kutu, 2024 (Red Bull GmbH)",
+        "12,670 milyar"
       ],
       [
-        "Growth vs. 2023",
-        "+4.4%"
+        "2023'e göre büyüme",
+        "+%4,4"
       ],
       [
-        "≈ result",
-        "12,700,000,000"
+        "Sonuç",
+        "12.700.000.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "The easiest place to start is the world population, about 8 billion. How many Red Bulls does the average person drink in a year? Most people never touch the stuff, but the ones who do drink a lot, so call it 1.5 cans per person on average, which works out to around 12 billion cans.",
+      "lead": "En kolay başlangıç dünya nüfusu: 8 milyar. Ortalama bir insan yılda kaç Red Bull içiyor? Çoğu hiç dokunmuyor ama içenler çok içiyor; ortalamada kişi başına 1,5 kutu de.",
       "rows": [
         [
-          "World population, roughly",
-          "8,000,000,000"
+          "Dünya nüfusu",
+          "8.000.000.000"
         ],
         [
-          "Average cans per person per year",
-          "× 1.5"
+          "Kişi başına yıllık kutu",
+          "× 1,5"
         ],
         [
-          "≈ result",
-          "12,000,000,000"
+          "Sonuç",
+          "12.000.000.000"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -5567,38 +5558,37 @@
     "answer": 1000000000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "World population, 2024",
-        "8,200,000,000"
+        "Dünya nüfusu, 2024",
+        "8.200.000.000"
       ],
       [
-        "Estimated share living south of the equator",
-        "~12%"
+        "Ekvatorun güneyinde yaşayanların tahmini payı",
+        "~%12"
       ],
       [
-        "≈ result",
-        "1,000,000,000"
+        "Sonuç",
+        "1.000.000.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "The easiest place to start is the world population, about 8 billion. How much of that is south of the equator? Not much, most of the crowded places, China, India, the US, Europe, all sit north of the line, so call it 1 in 8, which works out to about 1 billion people.",
+      "lead": "En kolay başlangıç dünya nüfusu: 8 milyar. Bunun ne kadarı ekvatorun güneyinde? Çok değil — Çin, Hindistan, ABD, Avrupa gibi kalabalık yerlerin hepsi çizginin kuzeyinde. 8'de bir de.",
       "rows": [
         [
-          "World population, roughly",
-          "8,000,000,000"
+          "Dünya nüfusu",
+          "8.000.000.000"
         ],
         [
-          "Share living south of the equator",
+          "Ekvatorun güneyinde yaşayan pay",
           "× 1/8"
         ],
         [
-          "≈ result",
-          "1,000,000,000"
+          "Sonuç",
+          "1.000.000.000"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -5615,46 +5605,45 @@
     "answer": 1500000000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "World population, 2024 (UN estimate)",
-        "8,200,000,000"
+        "Dünya nüfusu, 2024 (BM tahmini)",
+        "8.200.000.000"
       ],
       [
-        "Share aged 0-14 (UN World Population Prospects 2024)",
-        "~25%"
+        "0-14 yaş payı (BM Dünya Nüfus Beklentileri 2024)",
+        "~%25"
       ],
       [
-        "Share of that band aged 0-10 (11 of 15 single-year cohorts)",
-        "~73%"
+        "Bu bandın 0-10 yaş payı (15 yaş diliminin 11'i)",
+        "~%73"
       ],
       [
-        "≈ result",
-        "1,500,000,000"
+        "Sonuç",
+        "1.500.000.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "The easiest place to start is the world population, about 8 billion. How much of that is kids? A lot, people have children everywhere, so call it a quarter of everyone on Earth is under 15. Most of that group is 10 or younger rather than 11 to 14, so trim it to about three quarters of that slice, which works out to around 1.5 billion.",
+      "lead": "En kolay başlangıç dünya nüfusu: 8 milyar. Bunun ne kadarı çocuk? Epey — her yerde çocuk yapılıyor, dörtte biri 15 yaş altı de. Bu grubun çoğu 11-14 değil, 10 ve altı; o yüzden dilimin dörtte üçünü al.",
       "rows": [
         [
-          "World population, roughly",
-          "8,000,000,000"
+          "Dünya nüfusu",
+          "8.000.000.000"
         ],
         [
-          "Share under 15",
+          "15 yaş altı payı",
           "× 1/4"
         ],
         [
-          "Share of that group aged 10 or younger",
+          "Bunun 10 yaş ve altı payı",
           "× 3/4"
         ],
         [
-          "≈ result",
-          "1,500,000,000"
+          "Sonuç",
+          "1.500.000.000"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -5672,38 +5661,37 @@
     "answer": 6300000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Total visitors, 2023 (SETE)",
-        "6.3 million"
+        "Toplam ziyaretçi, 2023 (SETE)",
+        "6,3 milyon"
       ],
       [
-        "Total visitors, 2024 (SETE, stable year over year)",
-        "6.3 million"
+        "Toplam ziyaretçi, 2024 (SETE, yıllık bazda sabit)",
+        "6,3 milyon"
       ],
       [
-        "≈ result",
-        "6,300,000"
+        "Sonuç",
+        "6.300.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "The easiest place to start is how many tourists visit Paris each year, something like 20 million. How many of them go up the tower? A lot, it's the most iconic thing to do in the city, so call it 1 in 3, which works out to around 6.7 million visitors.",
+      "lead": "En kolay başlangıç Paris'i yılda kaç turistin ziyaret ettiği: 20 milyon kadar. Kaçı kuleye çıkıyor? Epeyi — şehrin en simgesel etkinliği. 3'te bir de.",
       "rows": [
         [
-          "Tourists visiting Paris each year, roughly",
-          "20,000,000"
+          "Paris'i yılda ziyaret eden turist",
+          "20.000.000"
         ],
         [
-          "Share who go up the tower",
+          "Kuleye çıkan pay",
           "× 1/3"
         ],
         [
-          "≈ result",
-          "6,700,000"
+          "Sonuç",
+          "6.700.000"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -5720,18 +5708,18 @@
     "answer": 1200000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Estimated 2024 production (LuxeConsult / industry analysts)",
-        "~1.2 million watches"
+        "2024 tahmini üretim (LuxeConsult / sektör analistleri)",
+        "~1,2 milyon saat"
       ],
       [
-        "Estimated total wholesale value",
-        "~$10 billion+"
+        "Tahmini toplam toptan değer",
+        "~10 milyar dolar+"
       ],
       [
-        "≈ result",
-        "1,200,000"
+        "Sonuç",
+        "1.200.000"
       ]
     ]
   },
@@ -5749,39 +5737,35 @@
     "answer": 366000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Changi Airport 2024 passenger traffic, for context",
-        "67.7 million passengers"
+        "Changi 2024 yolcu trafiği (bağlam için)",
+        "67,7 milyon yolcu"
       ],
       [
-        "Aircraft movements (takeoffs + landings), 2024, per Changi Airport Group",
-        "366,000"
-      ],
-      [
-        "≈ result",
-        "366,000"
+        "Uçuş hareketi (kalkış + iniş), 2024, Changi Airport Group",
+        "366.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "Changi is one of the busiest airports on Earth. How often does a plane take off or land there? Maybe once every minute and a half, day and night, which adds up fast across a whole year.",
+      "lead": "Changi dünyanın en yoğun havalimanlarından biri. Orada ne sıklıkla bir uçak kalkıyor ya da iniyor? Gece gündüz, bir buçuk dakikada bir — bu bir yıla yayılınca hızla birikiyor.",
       "rows": [
         [
-          "A takeoff or landing every 90 seconds, non-stop",
-          "40 an hour"
+          "90 saniyede bir kalkış veya iniş",
+          "saatte 40"
         ],
         [
-          "Which works out to...",
-          "≈ 960 a day"
+          "Günde",
+          "≈ 960"
         ],
         [
-          "Times 365 days a year",
+          "Yılın 365 günü",
           "× 365"
         ],
         [
-          "≈ result",
-          "≈ 350,000"
+          "Sonuç",
+          "≈ 350.000"
         ]
       ]
     }
@@ -5801,38 +5785,37 @@
     "answer": 36900000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "JNTO reported international visitor arrivals, 2024 (record high)",
-        "36.9 million"
+        "JNTO uluslararası ziyaretçi girişi, 2024 (rekor)",
+        "36,9 milyon"
       ],
       [
-        "Previous record, 2019, for comparison",
-        "31.9 million"
+        "Önceki rekor, 2019 (karşılaştırma)",
+        "31,9 milyon"
       ],
       [
-        "≈ result",
-        "≈ 36,900,000"
+        "Sonuç",
+        "≈ 36.900.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Start with the world population, about 8,000,000,000. What share of everyone on Earth visits Japan in a given year? Not many, maybe 1 in 200, but that is still a huge number once you multiply it out.",
+      "lead": "Dünya nüfusundan başla: 8 milyar. Dünyadaki herkesin ne kadarı bir yıl içinde Japonya'yı ziyaret ediyor? Çok değil, 200'de bir — ama çarpınca yine devasa bir sayı çıkıyor.",
       "rows": [
         [
-          "World population",
-          "8,000,000,000"
+          "Dünya nüfusu",
+          "8.000.000.000"
         ],
         [
-          "Share who visit Japan in a year, roughly",
-          "1 in 200"
+          "Yılda Japonya'yı ziyaret eden pay",
+          "200'de 1"
         ],
         [
-          "≈ result",
-          "≈ 40,000,000"
+          "Sonuç",
+          "≈ 40.000.000"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -5850,38 +5833,37 @@
     "answer": 900000000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "China's pig inventory, most recent count (largest in the world)",
-        "≈ 453,000,000"
+        "Çin'in domuz envanteri, en güncel sayım (dünyanın en büyüğü)",
+        "≈ 453.000.000"
       ],
       [
-        "China is roughly half the global pig population, per FAO",
+        "Çin, FAO'ya göre küresel domuz nüfusunun kabaca yarısı",
         "× 2"
       ],
       [
-        "≈ result",
-        "≈ 900,000,000"
+        "Sonuç",
+        "≈ 900.000.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Start with the world population, about 8,000,000,000. Pork is the most eaten meat on the planet, so pigs are everywhere. Maybe there is 1 pig somewhere on Earth for every 8 people.",
+      "lead": "Dünya nüfusundan başla: 8 milyar. Domuz eti gezegende en çok yenen et, yani domuzlar her yerde. Her 8 kişiye bir domuz düşüyor de.",
       "rows": [
         [
-          "World population",
-          "8,000,000,000"
+          "Dünya nüfusu",
+          "8.000.000.000"
         ],
         [
-          "Pigs per person, roughly",
-          "1 for every 8 people"
+          "Kişi başına domuz",
+          "8 kişiye 1"
         ],
         [
-          "≈ result",
-          "≈ 1,000,000,000"
+          "Sonuç",
+          "≈ 1.000.000.000"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -5899,43 +5881,43 @@
     "answer": 269,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Typical transatlantic liner crossing, Southampton/Liverpool to New York, c.1900",
-        "≈ 144 hours (6 days)"
+        "Tipik transatlantik gemi geçişi, Southampton/Liverpool-New York, 1900 civarı",
+        "≈ 144 saat (6 gün)"
       ],
       [
-        "Southern Pacific's advertised New York to San Francisco rail schedule, 1892 timetable",
-        "≈ 113 hours (4 days 17 hours)"
+        "Southern Pacific'in ilan ettiği New York-San Francisco tren tarifesi, 1892",
+        "≈ 113 saat (4 gün 17 saat)"
       ],
       [
-        "London-Southampton boat train, docking, and connection time",
-        "≈ 12 hours"
+        "Londra-Southampton tren, rıhtım ve aktarma süresi",
+        "≈ 12 saat"
       ],
       [
-        "≈ result",
-        "≈ 269 hours"
+        "Sonuç",
+        "≈ 269 saat"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "There is no single anchor here, so chain a few guesses together. How long would a steamship take to cross the Atlantic back then? About a week, call it 168 hours~, then add several more days riding the rails coast to coast.",
+      "lead": "Tek bir dayanak yok, birkaç tahmini zincirle. O dönemde bir buharlı gemi Atlantik'i kaç günde geçerdi? Bir hafta kadar — 168 saat de. Sonra kıtayı boydan boya geçen tren için birkaç gün daha ekle.",
       "rows": [
         [
-          "Steamship, London area to New York, roughly a week",
-          "≈ 168 hours"
+          "Buharlı gemi, Londra çevresi-New York, kabaca bir hafta",
+          "≈ 168 saat"
         ],
         [
-          "Train, New York to San Francisco, several days",
-          "≈ 120 hours"
+          "Tren, New York-San Francisco, birkaç gün",
+          "≈ 120 saat"
         ],
         [
-          "Time lost to connections and waiting on docks",
-          "≈ 24 hours"
+          "Aktarma ve rıhtımda beklemeyle kaybedilen süre",
+          "≈ 24 saat"
         ],
         [
-          "≈ result",
-          "≈ 312 hours"
+          "Sonuç",
+          "≈ 312 saat"
         ]
       ]
     }
@@ -5954,31 +5936,31 @@
     "answer": 380000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Global active pilot population, 2025 industry estimate (Statista, aggregating aviation workforce forecasters)",
-        "≈ 382,000"
+        "Küresel aktif pilot sayısı, 2025 sektör tahmini (Statista)",
+        "≈ 382.000"
       ],
       [
-        "≈ result, rounded",
-        "≈ 380,000"
+        "Yuvarlanmış sonuç",
+        "≈ 380.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "Start with the world's commercial airplane fleet, roughly 25,000 aircraft. How many pilots does it take to keep one plane flying around the clock, covering shifts, training, and days off? Maybe a dozen or so.",
+      "lead": "Dünyanın ticari uçak filosundan başla: kabaca 25.000 uçak. Bir uçağı gece gündüz uçurmak, vardiya, eğitim ve izin günlerini karşılamak için kaç pilot gerekir? Bir düzine kadar.",
       "rows": [
         [
-          "World commercial aircraft fleet, roughly",
-          "25,000 planes"
+          "Dünya ticari uçak filosu",
+          "25.000 uçak"
         ],
         [
-          "Pilots needed per plane to cover shifts, training, and days off",
+          "Uçak başına pilot (vardiya, eğitim, izin)",
           "× 12"
         ],
         [
-          "≈ result",
-          "≈ 300,000"
+          "Sonuç",
+          "≈ 300.000"
         ]
       ]
     }
@@ -5998,35 +5980,35 @@
     "answer": 3500000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Annual visitor figures cited across tourism and travel-press sources",
-        "3,000,000 to 4,000,000 per year"
+        "Turizm ve seyahat basınında geçen yıllık ziyaretçi aralığı",
+        "yılda 3.000.000 - 4.000.000"
       ],
       [
-        "Midpoint estimate used for this entry",
-        "≈ 3,500,000"
+        "Bu kayıt için alınan orta değer",
+        "≈ 3.500.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "Start with the wheel itself: 32 capsules, each holding up to 25 people, doing a full loop every 30 minutes. That is 1,600 people an hour if every capsule were packed solid, for up to 12 hours a day it is open. It is rarely completely full, so call it about half that pace across a full year.",
+      "lead": "Çarkın kendisinden başla: 32 kapsül, her biri 25 kişilik, tam tur 30 dakika. Bütün kapsüller tıklım tıklım olsa saatte 1.600 kişi eder, günde 12 saat açık. Nadiren tamamen dolu, o yüzden yıla yayarken bu tempoyu yarıya indir.",
       "rows": [
         [
-          "Capsules x people per capsule",
-          "32 x 25 = 800 people per loop"
+          "Kapsül × kapsül başına kişi",
+          "32 × 25 = tur başına 800 kişi"
         ],
         [
-          "Loops per hour (30 min each) x hours open a day",
-          "2 x 12 = 24"
+          "Saatte tur × günlük açık saat",
+          "2 × 12 = 24"
         ],
         [
-          "Full days a year, at roughly half capacity on average",
-          "800 x 24 x 365 / 2"
+          "Yılın tamamı, ortalama yarı doluluk",
+          "800 × 24 × 365 ÷ 2"
         ],
         [
-          "≈ result",
-          "≈ 3,500,000"
+          "Sonuç",
+          "≈ 3.500.000"
         ]
       ]
     }
@@ -6046,38 +6028,37 @@
     "answer": 2000000000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "World population, 1920 (U.S. Census Bureau historical estimate)",
-        "1,860,000,000"
+        "Dünya nüfusu, 1920 (ABD Nüfus Bürosu tarihsel tahmini)",
+        "1.860.000.000"
       ],
       [
-        "World population, 1930 (U.S. Census Bureau historical estimate)",
-        "2,070,000,000"
+        "Dünya nüfusu, 1930 (ABD Nüfus Bürosu tarihsel tahmini)",
+        "2.070.000.000"
       ],
       [
-        "1925 estimate (Population Reference Bureau figure / linear interpolation)",
-        "≈ 2,000,000,000"
+        "1925 tahmini (doğrusal ara değer)",
+        "≈ 2.000.000.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "The easiest place to start is today's world population, about 8 billion. A hundred years ago, before modern medicine and farming really took hold, growth was much slower. Guess the world held around a quarter of today's number back then.",
+      "lead": "En kolay başlangıç bugünkü dünya nüfusu: 8 milyar. Yüz yıl önce, modern tıp ve tarım yerleşmeden önce büyüme çok daha yavaştı. O zaman bugünkü sayının dörtte biri kadardı de.",
       "rows": [
         [
-          "World population today (known)",
-          "8,000,000,000"
+          "Bugünkü dünya nüfusu (bilinen)",
+          "8.000.000.000"
         ],
         [
-          "Guessed share alive a century ago",
-          "≈ 1 in 4"
+          "Bir asır önce yaşayan tahmini pay",
+          "≈ 4'te 1"
         ],
         [
-          "≈ result",
-          "≈ 2,000,000,000"
+          "Sonuç",
+          "≈ 2.000.000.000"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -6095,31 +6076,31 @@
     "answer": 519000000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Native Spanish speakers worldwide (Instituto Cervantes, 'Spanish: A Language to the World' 2025 report)",
-        "519,000,000"
+        "Dünyada ana dili İspanyolca olanlar (Instituto Cervantes, 2025 raporu)",
+        "519.000.000"
       ],
       [
-        "Share of global population",
-        "≈ 6.3%"
+        "Küresel nüfustaki payı",
+        "≈ %6,3"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "Mexico is the biggest Spanish-speaking country, at around 130 million people. There are about 20 more Spanish-speaking countries across Latin America and Spain, most of them smaller, so guess they add up to three or four more Mexicos worth of people.",
+      "lead": "Meksika en büyük İspanyolca konuşan ülke, 130 milyon kişi. Latin Amerika ve İspanya'da 20 kadar İspanyolca konuşan ülke daha var, çoğu daha küçük; hepsi toplamda üç dört Meksika kadar eder de.",
       "rows": [
         [
-          "Mexico's population (known, largest Spanish-speaking country)",
-          "130,000,000"
+          "Meksika nüfusu (en büyük İspanyolca konuşan ülke)",
+          "130.000.000"
         ],
         [
-          "Guessed multiple for the rest of the Spanish-speaking world",
-          "x 4"
+          "Geri kalan İspanyolca dünyası için tahmini kat",
+          "× 4"
         ],
         [
-          "≈ result",
-          "≈ 520,000,000"
+          "Sonuç",
+          "≈ 520.000.000"
         ]
       ]
     }
@@ -6138,38 +6119,37 @@
     "answer": 180000000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Global population aged 80+, 2021 (UN World Population Prospects, 2024 revision)",
-        "152,900,000"
+        "80 yaş ve üzeri küresel nüfus, 2021 (BM Dünya Nüfus Beklentileri, 2024 revizyonu)",
+        "152.900.000"
       ],
       [
-        "Growth in that cohort (UN projects about 426 million by 2050)",
-        "≈ 3.5% a year"
+        "Bu yaş grubundaki büyüme (BM 2050 için 426 milyon öngörüyor)",
+        "≈ yılda %3,5"
       ],
       [
-        "152.9 million compounded forward 5 years",
-        "≈ 180,000,000"
+        "152,9 milyonun 5 yıl bileşik büyümesi",
+        "≈ 180.000.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Start with the world population today, about 8.2 billion. Life expectancy in a lot of the world barely reaches 80, so guess only a small slice make it that far, maybe 1 in 45 people.",
+      "lead": "Bugünkü dünya nüfusundan başla: 8,2 milyar. Dünyanın birçok yerinde yaşam beklentisi 80'e zar zor ulaşıyor, yani o yaşa varan dilim küçük — 45 kişide bir de.",
       "rows": [
         [
-          "World population, 2026 (known)",
-          "8,200,000,000"
+          "Dünya nüfusu, 2026 (bilinen)",
+          "8.200.000.000"
         ],
         [
-          "Guessed share aged 80 or older",
-          "≈ 1 in 45"
+          "80 yaş ve üzeri tahmini pay",
+          "≈ 45'te 1"
         ],
         [
-          "≈ result",
-          "≈ 182,000,000"
+          "Sonuç",
+          "≈ 182.000.000"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -6187,34 +6167,33 @@
     "answer": 16100000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Disneyland Park (Paris) attendance, 2023 (TEA/AECOM Theme Index, Global Attractions Attendance Report)",
-        "16,100,000"
+        "Disneyland Park (Paris) ziyaretçi sayısı, 2023 (TEA/AECOM Theme Index)",
+        "16.100.000"
       ],
       [
-        "Change vs. previous attendance record (2022)",
-        "+0.6% year-over-year"
+        "Önceki rekora göre değişim (2022)",
+        "+%0,6"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "The original Disneyland in California draws around 18 million visitors a year, and it is the benchmark for what a Disney park can pull in. Disneyland Paris is smaller and its home market is not as wealthy, so guess it lands a bit under that.",
+      "lead": "Kaliforniya'daki orijinal Disneyland yılda 18 milyon kadar ziyaretçi çekiyor ve bir Disney parkının ulaşabileceği tavanın ölçüsü o. Disneyland Paris daha küçük ve yerel pazarı o kadar varlıklı değil, biraz altında kalır de.",
       "rows": [
         [
-          "Disneyland California annual visitors, roughly (known)",
-          "18,000,000"
+          "Disneyland Kaliforniya yıllık ziyaretçi (bilinen)",
+          "18.000.000"
         ],
         [
-          "Guessed share Disneyland Paris pulls in",
-          "≈ 0.9x"
+          "Disneyland Paris'in tahmini oranı",
+          "≈ 0,9×"
         ],
         [
-          "≈ result",
-          "≈ 16,000,000"
+          "Sonuç",
+          "≈ 16.000.000"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
