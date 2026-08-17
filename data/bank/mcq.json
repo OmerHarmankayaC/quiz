@@ -4821,5 +4821,461 @@
     "source": "Vikipedi: Acara Özerk Cumhuriyeti",
     "kaynak_id": "18356#29",
     "kaynak_baslik": "Acara Özerk Cumhuriyeti"
+  },
+  {
+    "id": "m0224",
+    "mode": "mcq",
+    "prompt": "Justin Timberlake ve Madonna'nın düeti \"4 Minutes\", Madonna'nın hangi albümünün çıkış single'ı olmuştur?",
+    "choices": [
+      "Music",
+      "Ray of Light",
+      "Confessions on a Dance Floor",
+      "Hard Candy"
+    ],
+    "correct_index": 3,
+    "explanation": "Timberlake, Madonna'nın on birinci stüdyo albümü olan Hard Candy'de dört şarkının daha yazımına katkı sağladı.",
+    "topics": [
+      "müzik"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Justin Timberlake",
+    "kaynak_id": "136573#14",
+    "kaynak_baslik": "Justin Timberlake"
+  },
+  {
+    "id": "m0225",
+    "mode": "mcq",
+    "prompt": "Phoenix Mars Lander'ın deneyleri Mars toprağında hangi tür bir ortam bulunduğunu göstermiştir?",
+    "choices": [
+      "Yüksek asitli tuz katmanı",
+      "Organik çözücü bakımından zengin kil",
+      "Saf donmuş karbondioksit",
+      "Sodyum, potasyum ve klorür içeren alkali"
+    ],
+    "correct_index": 3,
+    "explanation": "Bu besleyici toprak yaşamı taşımaya elverişliydi; ayrıca 2004'te Mars atmosferinde metan tayf işareti saptandı.",
+    "topics": [
+      "uzay",
+      "bilim"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Astrobiyoloji",
+    "kaynak_id": "20430#33",
+    "kaynak_baslik": "Astrobiyoloji"
+  },
+  {
+    "id": "m0226",
+    "mode": "mcq",
+    "prompt": "Manchester United'ın yönetimi Ocak 1964'te kimin eline geçmiştir?",
+    "choices": [
+      "Matt Busby",
+      "Louis Edwards",
+      "Robert Maxwell",
+      "Michael Knighton"
+    ],
+    "correct_index": 1,
+    "explanation": "Münih hava faciasının ardından Edwards yaklaşık 40.000 sterlin yatırımla kulübün %54 hissesini satın aldı.",
+    "topics": [
+      "spor",
+      "ekonomi"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Manchester United FC",
+    "kaynak_id": "21178#34",
+    "kaynak_baslik": "Manchester United FC"
+  },
+  {
+    "id": "m0227",
+    "mode": "mcq",
+    "prompt": "Schopenhauer ailesi, Polonya'nın bölünmesiyle Danzig'i terk ettikten sonra hangi şehre yerleşmiştir?",
+    "choices": [
+      "Hamburg",
+      "Weimar",
+      "Berlin",
+      "Frankfurt"
+    ],
+    "correct_index": 0,
+    "explanation": "Aile 1793'te Hamburg'a taşındı ve orada yeni bir işyeri açtı; Arthur da burada özel bir okula yazıldı.",
+    "topics": [
+      "felsefe",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Arthur Schopenhauer",
+    "kaynak_id": "104849#3",
+    "kaynak_baslik": "Arthur Schopenhauer"
+  },
+  {
+    "id": "m0228",
+    "mode": "mcq",
+    "prompt": "Nümizmat İbrahim Artuk'un 1977 tarihli çalışmasına göre ilk Osmanlı sikkesini kim bastırmıştır?",
+    "choices": [
+      "Orhan Gazi",
+      "Osman Gazi",
+      "I. Murad",
+      "Ertuğrul Gazi"
+    ],
+    "correct_index": 1,
+    "explanation": "15 mm çapındaki bu gümüş para İstanbul Arkeoloji Müzesi'nde sergileniyor; Orhan Gazi'nin akçesi ise 1327'de Bursa'da basıldı.",
+    "topics": [
+      "tarih",
+      "ekonomi"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Akçe",
+    "kaynak_id": "16537#6",
+    "kaynak_baslik": "Akçe"
+  },
+  {
+    "id": "m0229",
+    "mode": "mcq",
+    "prompt": "1980'ler boyunca glam metal sahnesinin merkezi olma özelliğini koruyan Los Angeles bölgesi hangisidir?",
+    "choices": [
+      "Haight-Ashbury",
+      "Greenwich Village",
+      "Sunset Strip",
+      "Bourbon Street"
+    ],
+    "correct_index": 2,
+    "explanation": "Mötley Crüe, Cinderella ve Guns N' Roses üyelerini barındırmış London gibi gruplar için Sunset Strip en önemli yerdi.",
+    "topics": [
+      "müzik"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Glam metal",
+    "kaynak_id": "140493#13",
+    "kaynak_baslik": "Glam metal"
+  },
+  {
+    "id": "m0230",
+    "mode": "mcq",
+    "prompt": "Usame bin Ladin'in babası Muhammed bin Avad bin Ladin'in kurduğu ve bugün hâlâ faaliyet gösteren şirket hangisidir?",
+    "choices": [
+      "Aramco",
+      "Al Rajhi Group",
+      "Saudi Binladin Group",
+      "Savola"
+    ],
+    "correct_index": 2,
+    "explanation": "Yemen'in Hadramut bölgesinde doğan baba, Cidde'ye göç ettikten sonra inşaat işleriyle uğraşarak milyarder olmuştu.",
+    "topics": [
+      "tarih",
+      "ekonomi"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Usame bin Ladin",
+    "kaynak_id": "116933#3",
+    "kaynak_baslik": "Usame bin Ladin"
+  },
+  {
+    "id": "m0231",
+    "mode": "mcq",
+    "prompt": "Immanuel Wallerstein doktora derecesini hangi üniversiteden almıştır?",
+    "choices": [
+      "Columbia",
+      "Binghamton",
+      "Harvard",
+      "McGill"
+    ],
+    "correct_index": 0,
+    "explanation": "Columbia'da 1959'da doktorasını tamamladı; 1971'de McGill'de profesör oldu, 1976'da Binghamton'a geçti.",
+    "topics": [
+      "felsefe",
+      "eğitim"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Immanuel Wallerstein",
+    "kaynak_id": "1083#2",
+    "kaynak_baslik": "Immanuel Wallerstein"
+  },
+  {
+    "id": "m0232",
+    "mode": "mcq",
+    "prompt": "\"Hiper metin\" terimini 1965'te Xanadu Projesi'nde ilk kez ortaya atan kişi kimdir?",
+    "choices": [
+      "Douglas Engelbart",
+      "Vannevar Bush",
+      "Tim Berners-Lee",
+      "Ted Nelson"
+    ],
+    "correct_index": 3,
+    "explanation": "Nelson, Vannevar Bush'un 1945 tarihli makalesinde anlattığı \"memex\" vizyonundan esinlenmişti.",
+    "topics": [
+      "teknoloji"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: HTTP",
+    "kaynak_id": "1330#13",
+    "kaynak_baslik": "HTTP"
+  },
+  {
+    "id": "m0233",
+    "mode": "mcq",
+    "prompt": "HTTP'nin ilk sürümünde sunucudan sayfa talep etmek için kullanılan tek yöntem hangisiydi?",
+    "choices": [
+      "PUT",
+      "POST",
+      "GET",
+      "HEAD"
+    ],
+    "correct_index": 2,
+    "explanation": "Tim Berners-Lee ve CERN'deki ekibi orijinal HTTP'yi, HTML'i ve ilk web sunucusunu geliştirdi.",
+    "topics": [
+      "teknoloji"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: HTTP",
+    "kaynak_id": "1330#13",
+    "kaynak_baslik": "HTTP"
+  },
+  {
+    "id": "m0234",
+    "mode": "mcq",
+    "prompt": "Turgut Özal hangi özelliğiyle bir ilki gerçekleştirmiştir?",
+    "choices": [
+      "Halk tarafından seçilen ilk cumhurbaşkanı",
+      "İki dönem görev yapan ilk cumhurbaşkanı",
+      "Cumhuriyet döneminde doğan ilk cumhurbaşkanı",
+      "Askerî kökenli olmayan ilk cumhurbaşkanı"
+    ],
+    "correct_index": 2,
+    "explanation": "1927 doğumlu Özal, 1989 seçimini kazandı; Atatürk'ün ardından görevi başında ölen ikinci cumhurbaşkanıdır.",
+    "topics": [
+      "siyaset",
+      "tarih"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Turgut Özal",
+    "kaynak_id": "1525#1",
+    "kaynak_baslik": "Turgut Özal"
+  },
+  {
+    "id": "m0235",
+    "mode": "mcq",
+    "prompt": "NASA'nın 1966'da fırlattığı ilk Uydusal Astronomik Gözlemevi OAO-1'e ne olmuştur?",
+    "choices": [
+      "Üç gün sonra güç kaynağı bozularak görev dışı kaldı",
+      "Yörüngeye hiç oturamadı",
+      "Planlanan ömründen bir yıl fazla çalıştı",
+      "Fırlatma sırasında infilak etti"
+    ],
+    "correct_index": 0,
+    "explanation": "Onu izleyen OAO-2 ise 1968-1972 arasında çalışarak yıldız ve galaksilerin morötesi gözlemlerini yaptı.",
+    "topics": [
+      "uzay",
+      "bilim"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Hubble Uzay Teleskobu",
+    "kaynak_id": "119571#11",
+    "kaynak_baslik": "Hubble Uzay Teleskobu"
+  },
+  {
+    "id": "m0236",
+    "mode": "mcq",
+    "prompt": "1950'lerde NBC'nin Today Show programında sunucu Dave Garroway'e eşlik eden şempanze hangisidir?",
+    "choices": [
+      "Darwin",
+      "Çarli",
+      "J. Fred Muggs",
+      "Judy"
+    ],
+    "correct_index": 2,
+    "explanation": "Judy 1960'larda Daktari'de, Darwin ise 1990'larda The Wild Thornberrys'de yer aldı.",
+    "topics": [
+      "hayvan",
+      "kültür"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Pan (cins)",
+    "kaynak_id": "148991#34",
+    "kaynak_baslik": "Pan (cins)"
+  },
+  {
+    "id": "m0237",
+    "mode": "mcq",
+    "prompt": "Oslo barış sürecinde önemli bir dönüm noktası sayılan gelişme hangisidir?",
+    "choices": [
+      "Filistin devletinin BM'ye üye olması",
+      "İsrail'in Gazze'den tek taraflı çekilmesi",
+      "Arafat'ın İsrail'in var olma hakkını tanıdığını bildiren mektubu",
+      "Camp David'de anlaşmaya varılması"
+    ],
+    "correct_index": 2,
+    "explanation": "Süreç Kasım 1995'te İzak Rabin'in öldürülmesiyle sarsıldı ve Temmuz 2000'de Camp David'de anlaşma sağlanamayınca çöktü.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: İsrail-Filistin çatışması",
+    "kaynak_id": "120761#16",
+    "kaynak_baslik": "İsrail-Filistin çatışması"
+  },
+  {
+    "id": "m0238",
+    "mode": "mcq",
+    "prompt": "Nintendo'nun şirket tarihindeki en geniş turnuvası olan Wii Games Summer 2010 kaç katılımcı görmüştür?",
+    "choices": [
+      "50.000 kadar",
+      "400.000'in üzerinde",
+      "1 milyondan fazla",
+      "10.000 kadar"
+    ],
+    "correct_index": 1,
+    "explanation": "Bir aydan uzun süren turnuva, Espor sahnesini uzun süre göz ardı eden Nintendo için bir dönüm noktasıydı.",
+    "topics": [
+      "oyun",
+      "teknoloji"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: E-spor",
+    "kaynak_id": "1805760#17",
+    "kaynak_baslik": "E-spor"
+  },
+  {
+    "id": "m0239",
+    "mode": "mcq",
+    "prompt": "Nigel Farage, hangi antlaşmanın imzalanmasının ardından Muhafazakâr Parti'den ayrılarak UKIP'in kurucu üyesi olmuştur?",
+    "choices": [
+      "Maastricht Antlaşması",
+      "Nice Antlaşması",
+      "Roma Antlaşması",
+      "Lizbon Antlaşması"
+    ],
+    "correct_index": 0,
+    "explanation": "1992'de Avrupa bütünleşmesini teşvik eden Maastricht Antlaşması sonrası ayrıldı; 1999'da Avrupa Parlamentosu'na seçildi.",
+    "topics": [
+      "siyaset"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Nigel Farage",
+    "kaynak_id": "2120918#1",
+    "kaynak_baslik": "Nigel Farage"
+  },
+  {
+    "id": "m0240",
+    "mode": "mcq",
+    "prompt": "Henri Poincaré, École Polytechnique'de matematik okurken hangi matematikçinin öğrencisi olmuştur?",
+    "choices": [
+      "Joseph Liouville",
+      "Augustin Cauchy",
+      "Camille Jordan",
+      "Charles Hermite"
+    ],
+    "correct_index": 3,
+    "explanation": "Poincaré 1873'te en iyi eleme derecesiyle girdi, 1874'te ilk makalesini yayımladı ve 1879'da maden mühendisi derecesi aldı.",
+    "topics": [
+      "bilim",
+      "eğitim"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Henri Poincaré",
+    "kaynak_id": "16619#9",
+    "kaynak_baslik": "Henri Poincaré"
+  },
+  {
+    "id": "m0241",
+    "mode": "mcq",
+    "prompt": "Aretha Franklin, Billboard listelerine toplam kaç şarkısıyla girerek bir rekor kırmıştır?",
+    "choices": [
+      "77",
+      "20",
+      "150",
+      "112"
+    ],
+    "correct_index": 3,
+    "explanation": "Bunların 77'si Hot 100'e girdi, 20'si R&B listesinde bir numara oldu; bu onu liste tarihinde en çok şarkıyla yer alan şarkıcı yaptı.",
+    "topics": [
+      "müzik"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Aretha Franklin",
+    "kaynak_id": "180372#1",
+    "kaynak_baslik": "Aretha Franklin"
+  },
+  {
+    "id": "m0242",
+    "mode": "mcq",
+    "prompt": "Bir teruzor fosilini tanımlayan ilk bilim insanı kimdir?",
+    "choices": [
+      "Richard Owen",
+      "Cosimo Alessandro Collini",
+      "Mary Anning",
+      "Georges Cuvier"
+    ],
+    "correct_index": 1,
+    "explanation": "İtalyan doğa bilimci Collini 1784'te tanımladı; o dönemde evrim ve yok oluş kavramları henüz anlaşılmadığı için bulgu şok ediciydi.",
+    "topics": [
+      "bilim",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Teruzor",
+    "kaynak_id": "136873#34",
+    "kaynak_baslik": "Teruzor"
+  },
+  {
+    "id": "m0243",
+    "mode": "mcq",
+    "prompt": "Türkiye, F-35 Müşterek Taarruz Uçağı geliştirme programına hangi seviyede ortak olmuştur?",
+    "choices": [
+      "Gözlemci",
+      "Seviye 2",
+      "Seviye 1",
+      "Seviye 3"
+    ],
+    "correct_index": 3,
+    "explanation": "Ortaklık 11 Temmuz 2002'de kuruldu; TUSAŞ ayrıca Türk Hava Kuvvetleri için F-16 üretimi yapmıştı.",
+    "topics": [
+      "ekonomi",
+      "havacılık"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Türkiye ekonomisi",
+    "kaynak_id": "212577#35",
+    "kaynak_baslik": "Türkiye ekonomisi"
+  },
+  {
+    "id": "m0244",
+    "mode": "mcq",
+    "prompt": "2018'de Japonya'nın Fukushima vilayetinden taze balık sevkiyatı alan ilk ülke hangisidir?",
+    "choices": [
+      "Tayland",
+      "Çin",
+      "Güney Kore",
+      "Singapur"
+    ],
+    "correct_index": 0,
+    "explanation": "Valilik yetkililerine göre Nisan 2015'ten sonra güvenlik standartlarını aşan radyasyon seviyeli deniz ürünü bulunmamıştı.",
+    "topics": [
+      "çevre",
+      "sağlık"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Fukuşima I Nükleer Santrali kazaları",
+    "kaynak_id": "1212618#59",
+    "kaynak_baslik": "Fukuşima I Nükleer Santrali kazaları"
   }
 ]
