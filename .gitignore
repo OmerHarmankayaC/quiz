@@ -12,3 +12,6 @@ data/raw/.bundle.mjs
 
 .DS_Store
 node_modules/
+
+# Diger oturumlarin actigi worktree kopyalari - ayri git depolari.
+.claude/worktrees/
