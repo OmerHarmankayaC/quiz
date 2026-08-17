@@ -13,25 +13,38 @@ import {
 import type { FermiSoru, McqSoru } from '@/lib/game/types';
 
 describe('slider donusumu', () => {
-	it('kademe 0 degeri 1 verir', () => {
-		expect(sliderDegerine(0)).toBe(1);
+	it('kademe 0 en kucuk degeri verir', () => {
+		expect(sliderDegerine(0)).toBeCloseTo(0.1, 10);
 	});
 
-	it('kademe 60 degeri 1 milyon verir', () => {
-		expect(sliderDegerine(SLIDER_MAX)).toBeCloseTo(1_000_000, 0);
+	it('kademe 10 degeri 1 verir', () => {
+		expect(sliderDegerine(10)).toBeCloseTo(1, 10);
+	});
+
+	it('ust kademe 10^17 verir', () => {
+		expect(sliderDegerine(SLIDER_MAX) / 1e17).toBeCloseTo(1, 6);
 	});
 
 	it('kademeye ve sliderDegerine birbirinin tersi', () => {
 		expect(kademeye(sliderDegerine(43))).toBe(43);
+		expect(kademeye(sliderDegerine(173))).toBe(173);
 	});
 
-	it('kademeye 1 altini 0a kilitler', () => {
-		expect(kademeye(0.5)).toBe(0);
+	it('bankanin uc degerleri menzile sigar', () => {
+		expect(kademeye(0.1)).toBe(0);
+		expect(kademeye(2e16)).toBe(173);
+		expect(sliderDegerine(kademeye(2e16))).toBeGreaterThan(1e16);
+	});
+
+	it('menzil disi girdiyi sinirlara kilitler', () => {
+		expect(kademeye(0.001)).toBe(0);
+		expect(kademeye(1e30)).toBe(SLIDER_MAX);
+	});
+
+	it('gecersiz girdi 0 verir', () => {
 		expect(kademeye(0)).toBe(0);
-	});
-
-	it('kademeye ust sinirda taspmaz', () => {
-		expect(kademeye(1e12)).toBe(SLIDER_MAX);
+		expect(kademeye(-5)).toBe(0);
+		expect(kademeye(NaN)).toBe(0);
 	});
 });
 

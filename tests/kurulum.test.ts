@@ -3,7 +3,7 @@ import { SLIDER_MAX } from '@/lib/game/scoring';
 
 describe('kurulum', () => {
 	it('@ alias proje kokune cozulur', () => {
-		expect(SLIDER_MAX).toBe(60);
+		expect(SLIDER_MAX).toBe(180);
 	});
 
 	it('jsdom ortami localStorage saglar', () => {

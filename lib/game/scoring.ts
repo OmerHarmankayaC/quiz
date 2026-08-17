@@ -1,14 +1,19 @@
 import type { Soru } from './types';
 
-export const SLIDER_MAX = 60;
+export const SLIDER_MAX = 180;
+
+// Kademe 10 birimi temsil eder: 10^((10 - 10) / 10) = 1. Ofset, olcegin 1'in altina
+// inmesini saglar - bankada yuzde ve metrekare gibi 1'den kucuk cevaplar var.
+const KADEME_OFSETI = 10;
 
 export function sliderDegerine(kademe: number): number {
-	return Math.pow(10, kademe / 10);
+	return Math.pow(10, (kademe - KADEME_OFSETI) / 10);
 }
 
 export function kademeye(deger: number): number {
-	if (!Number.isFinite(deger) || deger <= 1) return 0;
-	return Math.min(SLIDER_MAX, Math.max(0, Math.round(Math.log10(deger) * 10)));
+	if (!Number.isFinite(deger) || deger <= 0) return 0;
+	const kademe = Math.round(Math.log10(deger) * 10) + KADEME_OFSETI;
+	return Math.min(SLIDER_MAX, Math.max(0, kademe));
 }
 
 export function oran(tahmin: number, cevap: number): number {
