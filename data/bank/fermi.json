@@ -1233,51 +1233,37 @@
     "answer": 36000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Golden Gate Bridge length",
-        "= 8,981 ft = 107,772 in"
+        "Golden Gate Köprüsü uzunluğu",
+        "= 2.737 m = 273.700 cm"
       ],
       [
-        "Length of one Hot Wheels car",
-        "÷ 3 in"
+        "Bir Hot Wheels arabasının boyu",
+        "÷ 7,6 cm"
       ],
       [
-        "107,772 ÷ 3",
-        "≈ 36,000"
+        "273.700 ÷ 7,6",
+        "≈ 36.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "The Golden Gate is about 1.7 miles end to end, roughly 9,000 feet. A Hot Wheels car is tiny, about 3 inches long.",
+      "lead": "Golden Gate baştan başa 2,7 kilometre. Hot Wheels arabası minicik, 7-8 santim.",
       "rows": [
         [
-          "Bridge length",
-          "~9,000 ft"
+          "Köprü uzunluğu",
+          "~2.700 m"
         ],
         [
-          "In inches",
-          "× 12 = 108,000"
+          "Santime çevir",
+          "= 270.000 cm"
         ],
         [
-          "÷ 3 in per car",
-          "≈ 36,000"
+          "÷ araba başına 7,5 cm",
+          "≈ 36.000"
         ]
-      ],
-      "system": "imperial",
-      "alt": {
-        "lead": "The Golden Gate is about 2.7 kilometers end to end, which is 270,000 centimeters. A Hot Wheels car is tiny, about 7.5 centimeters long.",
-        "rows": [
-          [
-            "Bridge length",
-            "~270,000 cm"
-          ],
-          [
-            "÷ 7.5 cm per car",
-            "≈ 36,000"
-          ]
-        ]
-      }
+      ]
     }
   },
   {
@@ -1295,38 +1281,37 @@
     "answer": 29000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Avg phone unlocks per day",
+        "Günlük ortalama kilit açma",
         "≈ 80"
       ],
       [
-        "Days per year",
+        "Yıldaki gün",
         "× 365"
       ],
       [
         "80 × 365",
-        "≈ 29,000"
+        "≈ 29.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Start with the calendar, 365 days. How many times do you unlock your phone in a day? Honestly it's a lot, probably around 80.",
+      "lead": "Takvimden başla: 365 gün. Günde kaç kez telefonunun kilidini açıyorsun? İtiraf et, epey — 80 civarı.",
       "rows": [
         [
-          "Days in a year",
+          "Yıldaki gün",
           "365"
         ],
         [
-          "Unlocks per day",
+          "Günlük kilit açma",
           "~80"
         ],
         [
           "365 × 80",
-          "≈ 29,000"
+          "≈ 29.000"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -1344,39 +1329,39 @@
     "answer": 481000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Fellowship of the Ring",
-        "≈ 177,000"
+        "Yüzük Kardeşliği",
+        "≈ 177.000"
       ],
       [
-        "The Two Towers",
-        "+ 143,000"
+        "İki Kule",
+        "+ 143.000"
       ],
       [
-        "Return of the King",
-        "+ 134,000"
+        "Kralın Dönüşü",
+        "+ 134.000"
       ],
       [
-        "Sum (excl. appendices)",
-        "≈ 481,000"
+        "Toplam (ekler hariç)",
+        "≈ 481.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "There's no single number to grab, so build it up. A thick novel runs maybe 150,000 words, and Lord of the Rings is really three big books.",
+      "lead": "Hazır bir sayı yok, kurarak git. Kalın bir roman 150 bin kelime; Yüzüklerin Efendisi ise gerçekten üç kalın kitap.",
       "rows": [
         [
-          "Words in a big novel",
-          "~150,000"
+          "Kalın bir romanda kelime",
+          "~150.000"
         ],
         [
-          "Books in the trilogy",
+          "Üçlemedeki kitap",
           "× 3"
         ],
         [
-          "150k × 3",
-          "≈ 450,000"
+          "150 bin × 3",
+          "≈ 450.000"
         ]
       ]
     }
@@ -1395,39 +1380,39 @@
     "answer": 1000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Studio albums + Taylor's Versions",
+        "Stüdyo albümü + Taylor's Version",
         "≈ 14"
       ],
       [
-        "Avg album length",
-        "× 65 min"
+        "Albüm başına ortalama süre",
+        "× 65 dakika"
       ],
       [
-        "Plus EPs, singles, soundtracks",
-        "+ ~90 min"
+        "EP, single ve film müzikleri",
+        "+ ~90 dakika"
       ],
       [
         "14 × 65 + 90",
-        "≈ 1,000 min"
+        "≈ 1.000 dakika"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "Count it up by the album. Between her originals and the re-records, that's around 15 albums, and each one runs maybe 65 minutes with all the extra tracks.",
+      "lead": "Albüm albüm say. Orijinaller ve yeniden kayıtlarla birlikte 15 kadar albüm var, her biri ek parçalarla 65 dakika sürüyor.",
       "rows": [
         [
-          "Albums (with re-records)",
+          "Albüm (yeniden kayıtlarla)",
           "~15"
         ],
         [
-          "Minutes per album",
+          "Albüm başına dakika",
           "~65"
         ],
         [
           "15 × 65",
-          "≈ 1,000 min"
+          "≈ 1.000 dakika"
         ]
       ]
     }
@@ -1446,21 +1431,21 @@
     "answer": 56,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Choruses (4 × 9 repetitions)",
+        "Nakaratlar (4 × 9 tekrar)",
         "= 36"
       ],
       [
-        "Verses",
+        "Kıtalar",
         "+ 12"
       ],
       [
-        "Bridge + outro",
+        "Köprü + çıkış",
         "+ 8"
       ],
       [
-        "Total occurrences",
+        "Toplam geçiş",
         "= 56"
       ]
     ]
@@ -1479,38 +1464,37 @@
     "answer": 23000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "TikTok uploads per day",
-        "≈ 34 M"
+        "Günlük TikTok yüklemesi",
+        "≈ 34 milyon"
       ],
       [
-        "Minutes in a day",
-        "÷ 1,440"
+        "Günün dakikası",
+        "÷ 1.440"
       ],
       [
-        "34 M ÷ 1,440",
-        "≈ 23,000"
+        "34 milyon ÷ 1.440",
+        "≈ 23.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "TikTok has something like a billion users. Most don't post on a given day, but say 1 in 20 does. Spread that across the 1,440 minutes in a day.",
+      "lead": "TikTok'un bir milyar kadar kullanıcısı var. Çoğu bugün paylaşmıyor ama 20'de biri paylaşıyor de. Bunu günün 1.440 dakikasına yay.",
       "rows": [
         [
-          "TikTok users",
-          "1,000,000,000"
+          "TikTok kullanıcısı",
+          "1 milyar"
         ],
         [
-          "Post something today",
-          "~1 in 20"
+          "Bugün paylaşan",
+          "~20'de 1"
         ],
         [
-          "50M/day ÷ 1,440",
-          "≈ 35,000"
+          "50 milyon ÷ 1.440",
+          "≈ 35.000"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -1528,42 +1512,41 @@
     "answer": 175000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Monthly active users",
-        "≈ 615 M"
+        "Aylık aktif kullanıcı",
+        "≈ 615 milyon"
       ],
       [
-        "Avg streams per user per day",
+        "Kullanıcı başına günlük dinleme",
         "× 25"
       ],
       [
-        "Daily streams",
-        "≈ 15.4 B"
+        "Günlük dinleme",
+        "≈ 15,4 milyar"
       ],
       [
-        "÷ 86,400 sec",
-        "≈ 175,000"
+        "÷ 86.400 saniye",
+        "≈ 175.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Spotify has roughly 600 million users. How many songs does an active listener play in a day? Call it 25. Then spread it across the 86,400 seconds in a day.",
+      "lead": "Spotify'ın 600 milyon kadar kullanıcısı var. Aktif bir dinleyici günde kaç şarkı çalar? 25 de. Sonra günün 86.400 saniyesine yay.",
       "rows": [
         [
-          "Spotify users",
-          "600,000,000"
+          "Spotify kullanıcısı",
+          "600 milyon"
         ],
         [
-          "Streams per user per day",
+          "Kullanıcı başına günlük dinleme",
           "~25"
         ],
         [
-          "15B/day ÷ 86,400",
-          "≈ 175,000"
+          "15 milyar ÷ 86.400",
+          "≈ 175.000"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -1580,38 +1563,37 @@
     "answer": 99000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Searches per day",
-        "≈ 8.5 B"
+        "Günlük arama",
+        "≈ 8,5 milyar"
       ],
       [
-        "Seconds per day",
-        "÷ 86,400"
+        "Günün saniyesi",
+        "÷ 86.400"
       ],
       [
-        "8.5 B ÷ 86,400",
-        "≈ 99,000"
+        "8,5 milyar ÷ 86.400",
+        "≈ 99.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "About 5 billion people are online. How many times does a person search Google in a day? A couple, probably. Spread across 86,400 seconds it adds up fast.",
+      "lead": "Yaklaşık 5 milyar insan çevrimiçi. Bir kişi günde kaç kez Google'a soruyor? Birkaç kez. 86.400 saniyeye yayınca hızla birikiyor.",
       "rows": [
         [
-          "People online",
-          "5,000,000,000"
+          "Çevrimiçi insan",
+          "5 milyar"
         ],
         [
-          "Searches per person per day",
+          "Kişi başına günlük arama",
           "~2"
         ],
         [
-          "10B/day ÷ 86,400",
-          "≈ 116,000"
+          "10 milyar ÷ 86.400",
+          "≈ 116.000"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -1628,38 +1610,37 @@
     "answer": 4000000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Emails per day worldwide",
-        "≈ 347 B"
+        "Dünyada günlük e-posta",
+        "≈ 347 milyar"
       ],
       [
-        "Seconds per day",
-        "÷ 86,400"
+        "Günün saniyesi",
+        "÷ 86.400"
       ],
       [
-        "347 B ÷ 86,400",
-        "≈ 4,000,000"
+        "347 milyar ÷ 86.400",
+        "≈ 4.000.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Around 4 billion people use email. Between real messages and all the automated stuff, say 100 hit an inbox per person per day. Then spread it across 86,400 seconds.",
+      "lead": "Dünyada 4 milyar kadar e-posta kullanıcısı var. Gerçek mesajlar ve otomatik yığınla birlikte kişi başına günde 100 posta düşüyor de.",
       "rows": [
         [
-          "Email users",
-          "4,000,000,000"
+          "E-posta kullanıcısı",
+          "4 milyar"
         ],
         [
-          "Emails per user per day",
+          "Kişi başına günlük posta",
           "~100"
         ],
         [
-          "400B/day ÷ 86,400",
-          "≈ 4.6 million"
+          "400 milyar ÷ 86.400",
+          "≈ 4,6 milyon"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -1677,57 +1658,37 @@
     "answer": 2500,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Trench depth",
-        "≈ 11,000 m"
+        "Çukurun derinliği",
+        "≈ 11.000 m"
       ],
       [
-        "Cannonball terminal velocity in water",
-        "÷ 4.4 m/s"
+        "Güllenin sudaki sınır hızı",
+        "÷ 4,4 m/s"
       ],
       [
-        "11,000 ÷ 4.4",
-        "≈ 2,500 (~42 min)"
+        "11.000 ÷ 4,4",
+        "≈ 2.500 saniye (~42 dakika)"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "The Mariana Trench is about 11 kilometers deep, the lowest point in the ocean. How fast does a heavy iron ball sink? Maybe 4 or 5 meters a second.",
+      "lead": "Mariana Çukuru 11 kilometre derin, okyanusun en dibi. Ağır bir demir top ne hızla batar? Saniyede 4-5 metre.",
       "rows": [
         [
-          "Trench depth",
-          "11,000 m"
+          "Çukur derinliği",
+          "11.000 m"
         ],
         [
-          "Sink speed",
-          "~4.5 m/s"
+          "Batma hızı",
+          "~4,5 m/s"
         ],
         [
-          "11,000 ÷ 4.5",
-          "≈ 2,500 sec"
+          "11.000 ÷ 4,5",
+          "≈ 2.500 saniye"
         ]
-      ],
-      "startRow": 0,
-      "system": "metric",
-      "alt": {
-        "lead": "The Mariana Trench is about 7 miles deep, the lowest point in the ocean, which is around 36,000 feet. How fast does a heavy iron ball sink? Maybe 15 feet a second.",
-        "rows": [
-          [
-            "Trench depth",
-            "~36,000 ft"
-          ],
-          [
-            "Sink speed",
-            "~15 ft/s"
-          ],
-          [
-            "36,000 ÷ 15",
-            "≈ 2,400 sec"
-          ]
-        ],
-        "startRow": 0
-      }
+      ]
     }
   },
   {
@@ -1744,17 +1705,17 @@
     "answer": 336,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Range across approved balls",
-        "300–500"
+        "Onaylı toplardaki aralık",
+        "300-500"
       ],
       [
-        "Most common production count",
+        "En yaygın üretim sayısı",
         "= 336"
       ],
       [
-        "Standard (Titleist Pro V1, etc.)",
+        "Standart (Titleist Pro V1 vb.)",
         "= 336"
       ]
     ]
@@ -1775,57 +1736,33 @@
     "origin": "translated",
     "verified_at": "2026-08",
     "donusum": "1483 feet (feet -> metre)",
-    "_math_en": [
+    "math": [
       [
-        "Top 22 floor on CTBUH list",
-        "~452 m"
+        "CTBUH listesinde 22. sıra",
+        "≈ 452 m"
       ],
       [
-        "Convert m → ft",
-        "× 3.28"
-      ],
-      [
-        "452 × 3.28",
-        "≈ 1,483 ft"
+        "Yuvarla",
+        "≈ 450 m"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Start with the Burj Khalifa, the tallest there is, about 2,700 feet. The top of that list falls off fast, so how much shorter is 22nd place? Call it half.",
+      "lead": "Burj Khalifa'dan başla, en yükseği: 828 metre. Listenin tepesi hızla alçalıyor; 22. sıra ne kadar kısa? Yarısı kadar de.",
       "rows": [
         [
           "Burj Khalifa",
-          "≈ 2,700 ft"
+          "≈ 828 m"
         ],
         [
-          "22nd place, about half",
-          "× 0.5"
+          "22. sıra, yarısı kadar",
+          "× 0,5"
         ],
         [
-          "2,700 ÷ 2",
-          "≈ 1,350 ft"
+          "828 ÷ 2",
+          "≈ 415 m"
         ]
-      ],
-      "startRow": 0,
-      "system": "imperial",
-      "alt": {
-        "lead": "Start with the Burj Khalifa, the tallest there is, about 830 meters. The top of that list falls off fast, so how much shorter is 22nd place? Call it half.",
-        "rows": [
-          [
-            "Burj Khalifa",
-            "≈ 830 m"
-          ],
-          [
-            "22nd place, about half",
-            "× 0.5"
-          ],
-          [
-            "830 ÷ 2",
-            "≈ 415 m"
-          ]
-        ],
-        "startRow": 0
-      }
+      ]
     }
   },
   {
@@ -1842,10 +1779,10 @@
     "answer": 2118760,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
         "50 × 49 × 48 × 47 × 46",
-        "= 254,251,200"
+        "= 254.251.200"
       ],
       [
         "÷ 5! (= 120)",
@@ -1853,7 +1790,7 @@
       ],
       [
         "C(50,5)",
-        "= 2,118,760"
+        "= 2.118.760"
       ]
     ]
   },
@@ -1872,38 +1809,37 @@
     "answer": 290000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Iceland population",
-        "≈ 390,000"
+        "İzlanda nüfusu",
+        "≈ 390.000"
       ],
       [
-        "Vehicles per capita",
-        "× 0.74"
+        "Kişi başına araç",
+        "× 0,74"
       ],
       [
-        "390,000 × 0.74",
-        "≈ 290,000"
+        "390.000 × 0,74",
+        "≈ 290.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Iceland is famously tiny, only about 380,000 people. Most adults there own a car, so take away the kids and you're left with maybe three-quarters of them.",
+      "lead": "İzlanda ünlü biçimde küçük, yalnızca 380 bin kişi. Yetişkinlerin çoğunun arabası var; çocukları düşünce dörtte üçü kalıyor.",
       "rows": [
         [
-          "Iceland population",
-          "380,000"
+          "İzlanda nüfusu",
+          "380.000"
         ],
         [
-          "Own a vehicle",
-          "~0.75"
+          "Aracı olan",
+          "~0,75"
         ],
         [
-          "380k × 0.75",
-          "≈ 290,000"
+          "380 bin × 0,75",
+          "≈ 290.000"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -1921,57 +1857,37 @@
     "answer": 2300000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Pyramid volume",
-        "≈ 2.6 M m³"
+        "Piramidin hacmi",
+        "≈ 2,6 milyon m³"
       ],
       [
-        "Avg block volume",
-        "÷ 1.1 m³"
+        "Blok başına ortalama hacim",
+        "÷ 1,1 m³"
       ],
       [
-        "2.6 M ÷ 1.1",
-        "≈ 2.3 million"
+        "2,6 milyon ÷ 1,1",
+        "≈ 2,3 milyon"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "The Great Pyramid is about 140 meters tall with a base near 230 meters a side. Volume is a third of base times base times height. Each block is roughly a cubic meter.",
+      "lead": "Büyük Piramit 140 metre yüksekliğinde, taban kenarı 230 metreye yakın. Hacim, taban alanının üçte biri çarpı yükseklik. Her blok kabaca bir metreküp.",
       "rows": [
         [
-          "Volume (1/3 × 230² × 140)",
-          "≈ 2,500,000 m³"
+          "Hacim (1/3 × 230² × 140)",
+          "≈ 2.500.000 m³"
         ],
         [
-          "Volume per block",
+          "Blok başına hacim",
           "÷ ~1 m³"
         ],
         [
-          "2.5M ÷ 1",
-          "≈ 2.5 million"
+          "2,5 milyon ÷ 1",
+          "≈ 2,5 milyon"
         ]
-      ],
-      "startRow": 0,
-      "system": "metric",
-      "alt": {
-        "lead": "The Great Pyramid is about 450 feet tall with a base near 750 feet a side. Volume is a third of base times base times height. Each block is roughly a cubic yard, which is 27 cubic feet.",
-        "rows": [
-          [
-            "Volume (1/3 × 750² × 450)",
-            "≈ 84,000,000 ft³"
-          ],
-          [
-            "Volume per block",
-            "÷ ~27 ft³"
-          ],
-          [
-            "84M ÷ 27",
-            "≈ 3 million"
-          ]
-        ],
-        "startRow": 0
-      }
+      ]
     }
   },
   {
@@ -1989,39 +1905,39 @@
     "answer": 1154,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
         "State of North America's Birds (2016)",
-        "1,154"
+        "1.154"
       ],
       [
-        "Native breeders + regular oceanic species",
+        "Yerli üreyenler + düzenli okyanus türleri",
         ""
       ],
       [
-        "US + Canada + Mexico combined",
-        "= 1,154"
+        "ABD + Kanada + Meksika",
+        "= 1.154"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "Start with the US. It stretches from the Arctic to the subtropics and hosts roughly 900 species. Canada adds arctic and boreal birds you don't see farther south, call it 100 more unique ones. Mexico's highlands and tropics bring another 150 that barely cross the border.",
+      "lead": "ABD'den başla: Kuzey Kutbu'ndan subtropiklere uzanıyor ve 900 kadar tür barındırıyor. Kanada güneyde görülmeyen kutup ve boreal kuşlarını ekliyor, 100 tane daha de. Meksika'nın yaylaları ve tropikleri sınırı zar zor geçen 150 tür getiriyor.",
       "rows": [
         [
-          "US species",
+          "ABD türleri",
           "~900"
         ],
         [
-          "Canada adds (boreal, arctic)",
+          "Kanada ekler (boreal, kutup)",
           "+100"
         ],
         [
-          "Mexico adds (highland, tropical)",
+          "Meksika ekler (yayla, tropik)",
           "+150"
         ],
         [
           "900 + 100 + 150",
-          "~1,150"
+          "~1.150"
         ]
       ]
     }
@@ -2040,38 +1956,37 @@
     "answer": 2500000000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Avg annual sales 2007–2025",
-        "~130 M / yr"
+        "2007-2025 ortalama yıllık satış",
+        "~130 milyon/yıl"
       ],
       [
-        "× ~19 production years",
+        "× ~19 üretim yılı",
         ""
       ],
       [
-        "Cumulative production",
-        "≈ 2.5 billion"
+        "Kümülatif üretim",
+        "≈ 2,5 milyar"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "The iPhone launched in 2007, so it's been around about 18 years. Apple sells somewhere near 150 million a year, so multiply the two.",
+      "lead": "iPhone 2007'de çıktı, yani 18 yıl oldu. Apple yılda 150 milyona yakın satıyor; ikisini çarp.",
       "rows": [
         [
-          "Years since 2007",
+          "2007'den beri yıl",
           "~18"
         ],
         [
-          "Sold per year",
-          "~150 million"
+          "Yılda satılan",
+          "~150 milyon"
         ],
         [
-          "18 × 150M",
-          "≈ 2.7 billion"
+          "18 × 150 milyon",
+          "≈ 2,7 milyar"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -2089,38 +2004,37 @@
     "answer": 420000000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "350 millionth vehicle built",
-        "Aug 2012"
+        "350 milyonuncu araç",
+        "Ağustos 2012"
       ],
       [
-        "Since then, ~4.5 M/year × 14 years",
-        "+ ~70 M"
+        "O günden beri ~4,5 milyon/yıl × 14 yıl",
+        "+ ~70 milyon"
       ],
       [
-        "Lifetime production",
-        "≈ 420 million"
+        "Toplam üretim",
+        "≈ 420 milyon"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Ford has been building cars since 1903, so call it 120 years. Averaged across the whole run, say three and a half million vehicles a year.",
+      "lead": "Ford 1903'ten beri araba yapıyor, yani 120 yıl. Bütün döneme yayarsan yılda üç buçuk milyon araç de.",
       "rows": [
         [
-          "Years since 1903",
+          "1903'ten beri yıl",
           "~120"
         ],
         [
-          "Vehicles per year (avg)",
-          "~3.5 million"
+          "Yılda araç (ortalama)",
+          "~3,5 milyon"
         ],
         [
-          "120 × 3.5M",
-          "≈ 420 million"
+          "120 × 3,5 milyon",
+          "≈ 420 milyon"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -2138,42 +2052,41 @@
     "answer": 267,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "St. Peter through Pius XII",
+        "Aziz Petrus'tan XII. Pius'a",
         "= 260"
       ],
       [
-        "John XXIII through Francis",
+        "XXIII. John'dan Francis'e",
         "+ 6"
       ],
       [
-        "Leo XIV (elected May 2025)",
+        "XIV. Leo (Mayıs 2025)",
         "+ 1"
       ],
       [
-        "Total popes",
+        "Toplam papa",
         "= 267"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "The Church has been going about 2,000 years, and it has wanted a pope for all of them. How long does one last? They serve for life and they start late, so maybe 8 years.",
+      "lead": "Kilise 2.000 yıldır ayakta ve bu sürenin tamamında bir papa istedi. Bir papa ne kadar görevde kalır? Ömür boyu seçiliyorlar ama geç başlıyorlar — 8 yıl de.",
       "rows": [
         [
-          "Church has existed",
-          "~2,000 yrs"
+          "Kilisenin yaşı",
+          "~2.000 yıl"
         ],
         [
-          "Years per pope",
+          "Papa başına yıl",
           "~8"
         ],
         [
-          "2,000 ÷ 8",
+          "2.000 ÷ 8",
           "≈ 250"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -2191,42 +2104,41 @@
     "answer": 200,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Sovereign states",
+        "Egemen devlet",
         "≈ 195"
       ],
       [
-        "Distinct named officials",
+        "Farklı resmî dil",
         "~180"
       ],
       [
-        "Plus regional / co-officials",
+        "Bölgesel / ortak resmî diller",
         "+ ~20"
       ],
       [
-        "Total distinct",
+        "Toplam farklı",
         "≈ 200"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "There are about 200 countries in the world. Most have a single official language, and plenty share the common ones, so the total lands right around the number of countries.",
+      "lead": "Dünyada 200 kadar ülke var. Çoğunun tek resmî dili var ve birçoğu yaygın dilleri paylaşıyor; toplam, ülke sayısının hemen yanına düşüyor.",
       "rows": [
         [
-          "Countries in the world",
+          "Dünyadaki ülke",
           "~195"
         ],
         [
-          "Roughly one official each",
+          "Ülke başına kabaca bir dil",
           "× 1"
         ],
         [
-          "Distinct total",
+          "Farklı toplam",
           "≈ 200"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
