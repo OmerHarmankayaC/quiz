@@ -1,0 +1,256 @@
+id,prompt,answer,unit,source,confidence,published_date,published_slot
+"q1","How many words are in all seven Harry Potter books combined?","1084170","words","Bloomsbury / Scholastic page counts",,,
+"q2","How many burgers does McDonald's sell worldwide each day?","75000000","burgers","McDonald's annual report · industry estimates",,,
+"q3","How many photos are uploaded to Instagram every minute?","66000","photos","Meta investor data · Domo Data Never Sleeps",,,
+"q4","How many golf balls fit inside a Volkswagen Golf?","56000","golf balls","Volkswagen interior and cargo specs · USGA ball spec",,"2026-07-31","1"
+"q5","How many piano tuners work in New York City?","130","tuners","Fermi's classic estimation problem",,"2026-07-27","1"
+"q6","How many heartbeats are there in the average lifetime of a Timbuktu resident?","2300000000","heartbeats","World Bank life expectancy, Mali (60.4 years) · typical adult resting heart rate","medium","2026-08-15","3"
+"q7","How many piano keys would it take to stretch across a football field?","4940","keys","NFL field spec · standard piano key width",,,
+"q8","How many slices of pizza are eaten in the U.S. every day?","100000000","slices","PMQ Pizza industry data",,,
+"q9","How many balloons would it take to lift an average adult?","5700","balloons","Helium density · CDC adult body weight",,,
+"q11","How many tennis balls could fit in a school bus?","164000","tennis balls","ITF ball spec · Type C bus dimensions",,,
+"q12","How many songs would you hear if you played music nonstop for a year?","150000","songs","Spotify avg track length",,,
+"q13","How many people are in the air on airplanes at any given moment?","1150000","people","Flightradar24 · IATA load factors",,"2026-08-02","3"
+"q14","How many Oreos would it take to cover a queen-size bed?","1820","Oreos","Mattress spec · Oreo diameter (1.75 in)",,"2026-08-16","1"
+"q15","How many tennis rackets would it take to cover a tennis court?","1360","rackets","International Tennis Federation",,"2026-08-10","3"
+"q16","How many decks of playing cards would it take to cover a basketball court?","1490","decks","NBA court spec · poker card dimensions",,,
+"q18","How long does Google Maps say it takes to walk nonstop from NYC to LA?","925","hours","Google Maps walking directions",,"2026-07-27","3"
+"q19","What would it cost to fill an Olympic swimming pool with 2% milk?","2300000","dollars","FINA pool spec · BLS dairy retail price",,,
+"q20","How tall would a stack of 1 million $1 bills be?","358","feet","U.S. Bureau of Engraving & Printing",,"2026-08-02","1"
+"q21","What is the total length of spaghetti in a 16 oz (450 g) box?","470","feet","Barilla packaging spec",,"2026-07-29","1"
+"q22","How long would it take to watch every episode of The Simpsons?","296","hours","Wikisimpsons list of episodes",,"2026-08-07","3"
+"q23","How far does the average person scroll on their phone in a year?","25","miles","Mary Meeker mobile usage estimates",,,
+"q24","How long would a roll of toilet paper be if fully unrolled?","150","feet","Charmin / Cottonelle standard roll spec",,,
+"q26","How far does a shopping cart travel in one year at a busy grocery store?","5500","miles","Grocery operations averages",,,
+"q27","How long would it take to listen to every Beatles song?","620","minutes","2009 Beatles stereo remaster box set official runtime",,"2026-07-28","1"
+"q28","How many M&M's would it take to fill a basketball?","7700","M&Ms","Spalding ball spec · Mars confectionery dimensions",,"2026-08-17","1"
+"q29","How many Monopoly boards would it take to cover a football field?","21000","boards","NFL field spec · Hasbro game dimensions",,,
+"q30","How many Hot Wheels cars would it take to stretch across the Golden Gate Bridge?","36000","cars","GGNRA · Mattel 1:64 scale spec",,,
+"q32","How many times does the average person unlock their phone in a year?","29000","unlocks","Apple Screen Time · Asurion mobile usage study",,,
+"q33","How many words are in the entire Lord of the Rings trilogy?","481000","words","HarperCollins published word counts",,,
+"q34","How many minutes of music has Taylor Swift officially released?","1000","minutes","Spotify · Apple Music catalog totals",,,
+"q35","How many times is the word ""baby"" sung in Justin Bieber's ""Baby""?","56","times","Genius lyrics annotation",,,
+"q36","How many TikToks are uploaded every minute?","23000","videos","Domo Data Never Sleeps · TikTok creator stats",,,
+"q37","How many Spotify streams happen worldwide every second?","175000","streams","Spotify investor data",,,
+"q38","How many Google searches happen every second?","99000","searches","Internet Live Stats · Statista",,,
+"q39","How many emails are sent worldwide every second?","4000000","emails","Radicati Group email statistics report",,,
+"q40","You drop a cannonball off a boat over the Mariana Trench. How long does it take to reach the bottom?","2500","seconds","NOAA Challenger Deep · drag-equation estimate",,,
+"q41","How many new vehicles are sold in the U.S. each year?","16000000","vehicles","Bureau of Economic Analysis · Cox Automotive",,,
+"q42","How many dimples are on a regulation golf ball?","336","dimples","USGA equipment rules · Titleist/Callaway specs",,"2026-07-30","2"
+"q43","How many planes make up United Airlines' mainline fleet?","1000","planes","United Airlines 10-K · Planespotters fleet data",,,
+"q44","How tall is the 22nd tallest building in the world?","1483","feet","CTBUH Skyscraper Database",,"2026-08-01","1"
+"q45","How many different sets of 5 can you choose from a group of 50?","2118760","combinations","Combinatorics: n choose k formula",,,
+"q46","How many registered vehicles are on the island of Iceland?","290000","vehicles","Icelandic Transport Authority (Samgöngustofa)",,"2026-07-29","3"
+"q47","If we brewed coffee in Olympic swimming pools, how many pools would the U.S. drink in a day?","40","pools","National Coffee Association · FINA pool spec",,"2026-07-30","1"
+"q48","How many stone blocks were used to build the Great Pyramid of Giza?","2300000","blocks","Harvard Giza Project",,"2026-08-09","3"
+"q49","How many bird species are found in North America?","1154","species","State of North America's Birds 2016 · Cornell Lab / ABC / Birds Canada / CEC",,"2026-08-01","3"
+"q50","If converted to gold, how much would the U.S. national debt weigh?","365000","metric tons","U.S. Treasury · LBMA gold fix",,,
+"q51","How many iPhones have been produced since the launch in 2007?","2500000000","iPhones","Apple 10-K · CIRP tracking estimates",,,
+"q52","How many vehicles has Ford sold since 1903?","420000000","vehicles","Ford Motor Company",,"2026-08-10","2"
+"q53","How many popes has the Roman Catholic Church had?","267","popes","Vatican Annuario Pontificio",,"2026-08-03","1"
+"q54","How many official languages exist in the world?","200","languages","CIA World Factbook · Ethnologue",,"2026-07-30","3"
+"q55","How many pet snakes are kept in England?","150000","snakes","PFMA pet population report",,,
+"q56","How many real Christmas trees are sold in the U.S. each year?","27000000","trees","National Christmas Tree Association",,,
+"q57","How many orbital rocket launches happened in 2025?","260","launches","Jonathan's Space Report",,,
+"q58","How many vending machines are in Japan?","3900000","machines","Japan Vending Machine Manufacturers Association (JVMA), Dec 2024",,,
+"q59","How many ATMs exist worldwide?","2900000","ATMs","RBR Data Services / Datos Insights Global ATM Intelligence Service",,,
+"q60","How many traffic lights are in Manhattan?","2900","signalized intersections","NYC Department of Transportation",,,
+"q62","How many active satellites are orbiting Earth right now?","14000","active satellites","Trade and Industry Development / KeepTrack / Starlink launch cadence",,,
+"q63","How many lighthouses are still operational in the U.S.?","175","lighthouses","U.S. Coast Guard / National Park Service",,,
+"q64","How many minutes of footage are in the entire MCU?","33000","minutes","MCU Watchlist (2026 totals through Phase 6)",,,
+"q65","How many goals has Lionel Messi scored in his professional career?","905","goals","ESPN / messivsronaldo.app, May 2026",,"2026-08-16","3"
+"q67","How many McDonald's locations exist globally?","43500","restaurants","McDonald's 2024 Restaurant Count by Market (10-K filing)",,"2026-07-27","2"
+"q68","How many babies are born every minute worldwide?","255","babies","UN World Population Prospects 2024",,"2026-08-06","2"
+"q69","How many lightning strikes hit the Earth every second?","45","strikes","NASA Earthdata / NOAA Jetstream",,,
+"q70","How many flights are in the air right now?","20000","flights","Flightradar24 live tracking statistics",,,
+"q71","How many trees are in Central Park?","18000","trees","Central Park Conservancy",,"2026-07-28","3"
+"q72","How many Oscar statuettes have been awarded since 1929?","3200","statuettes","Academy of Motion Picture Arts and Sciences",,,
+"q73","How many Olympic gold medals has the U.S. won all-time?","1230","gold medals","United States Olympic & Paralympic Committee / Wikipedia",,,
+"q74","How many people have ever summited Mount Everest?","7563","climbers","The Himalayan Database (Dec 2025)",,"2026-08-06","1"
+"q75","How many episodes of SNL have aired?","1015","episodes","NBC / Wikipedia",,,
+"q76","How many Pokémon exist across all generations?","1028","Pokémon","Bulbapedia / The Pokémon Company (Pokémon Day 2026)",,,
+"q77","How many cargo ships are at sea right now?","55000","cargo ships","UNCTAD Review of Maritime Transport · Equasis world fleet",,"2026-08-05","3"
+"q78","How many elevators are there in New York City?","81001","elevators","NYC Open Data, DOB NOW Elevator Safety Compliance (active devices, August 2026)",,"2026-08-03","3"
+"q79","How many chickens are alive on Earth right now?","33000000000","chickens","FAO FAOSTAT live animal stocks (2023)",,"2026-07-31","3"
+"q80","How many Monopoly sets have ever been sold?","275000000","sets","Hasbro Monopoly brand history (275 million as of 2015, no updated total published since)",,"2026-08-03","2"
+"q81","How many Starbucks locations are there worldwide?","41100","stores","Starbucks annual report",,"2026-08-02","2"
+"q83","How many slot machines are in Las Vegas?","135000","slot machines","Nevada Gaming Control Board",,,
+"q84","How many weddings happen in the U.S. each year?","2100000","weddings","CDC National Vital Statistics · The Wedding Report",,,
+"q85","How many babies are born in the world each day?","385000","babies","UN Population Division 2024 revision",,,
+"q86","How many bridges cross the River Thames in London?","35","bridges","Transport for London · Port of London Authority",,,
+"q87","How many active volcanoes are there in the world?","1350","active volcanoes","Smithsonian Global Volcanism Program",,,
+"q88","How many pet cats are there in Japan?","9000000","cats","Japan Pet Food Association 2024 survey",,,
+"q89","How many Coca-Cola servings are consumed each day worldwide?","1900000000","servings","The Coca-Cola Company investor materials",,,
+"q90","How many people have ever been to space?","690","people","FAI / Space Foundation",,"2026-08-08","3"
+"q91","How many songs has Taylor Swift released?","310","songs","TaylorSwift.com discography · Spotify",,"2026-08-11","3"
+"q92","How many movies has Nicolas Cage appeared in?","120","films","IMDb · Nicolas Cage filmography",,,
+"q93","How many official languages are recognized across the world's countries?","200","languages","Ethnologue · CIA World Factbook",,,
+"q96","How many yellow taxis are licensed in New York City?","13587","medallions","NYC Taxi & Limousine Commission",,,
+"q97","How many people visit the Louvre on an average day?","24000","visitors","Musée du Louvre 2024 attendance report",,"2026-08-06","3"
+"q98","How many active certified scuba divers are there worldwide?","6000000","divers","DEMA Diving Fast Facts",,"2026-08-09","1"
+"q99","How many people have won an Olympic gold medal?","27000","gold medalists","Olympedia · International Olympic Committee",,"2026-08-05","2"
+"q100","How many surfboards are sold worldwide each year?","750000","surfboards","Surf Industry Manufacturers Association",,,
+"q101","How many guitars are sold in the U.S. each year?","2500000","guitars","NAMM Global Report · Music Trades",,,
+"q102","How many pianos are there in American homes?","10000000","pianos","NAMM U.S. Music Industry Census",,,
+"q103","How many emojis are on the standard Apple keyboard?","3790","emojis","Emojipedia · Unicode Consortium",,,
+"q104","How many YouTube channels have over one million subscribers?","55000","channels","Social Blade · YouTube Press",,,
+"q105","How many cups of tea are drunk in the UK each day?","100000000","cups","UK Tea & Infusions Association",,"2026-08-08","1"
+"q106","How long would it take to listen to every Taylor Swift song back-to-back?","21","hours","Spotify discography runtimes",,,
+"q107","How long would it take to fly to the Moon in a commercial airplane?","18","days","NASA mean lunar distance · Boeing cruise specs",,"2026-08-04","2"
+"q108","How long would it take to stay one night in every hotel room in Las Vegas?","411","years","LVCVA room inventory",,"2026-08-07","1"
+"q109","How long would it take to watch every Nicolas Cage movie back-to-back?","220","hours","IMDb runtimes",,"2026-08-01","2"
+"q110","What percentage of people on Earth live in the Northern Hemisphere?","87","%","UN Population Division estimates",,,
+"q111","What percentage of U.S. adults have a bachelor's degree or higher?","38","%","U.S. Census Bureau · ACS 2024",,,
+"q112","What percentage of new cars sold worldwide in 2024 were electric?","18","%","International Energy Agency · Global EV Outlook 2025",,,
+"q113","What percentage of humans are taller than 6'6"" (198 cm)?","0.1","%","WHO MONICA · NCD-RisC anthropometric data",,,
+"q114","How many football fields would fit inside Central Park?","640","football fields","Central Park Conservancy · NFL field dimensions",,,
+"q115","How many passes were thrown in the 2025 NFL regular season?","17439","passes","NFL.com official team passing stats",,"2026-08-11","2"
+"q116","How many buses would you have to stack to reach the top of Mount Everest?","2950","buses","Everest 8,849 m (2020 Nepal-China survey); standard bus height ~3 m (Dimensions.com)",,,
+"q117","How many Blockbuster Video stores existed worldwide at their 2004 peak?","9094","stores","Blockbuster peak store count, 2004 (Wikipedia)",,,
+"q118","What are the average annual sales of a Taco Bell location in the US?","2000000","dollars","Yum! Brands 2023 filings; Restaurant Dive (Taco Bell US AUV)",,,
+"q119","How long would it take a goldfish to escape Alcatraz and swim to the shore of San Francisco?","75","minutes","NPS Alcatraz / goldfish swim speed estimates",,"2026-08-09","2"
+"q120","How many people visited Walt Disney World in Orlando in 2023?","49600000","visitors","TEA/AECOM Theme Index 2023 (estimated attendance across the 4 WDW parks)",,,
+"q121","How many ants are there on Earth?","20000000000000000","ants","The abundance, biomass, and distribution of ants on Earth (PNAS, 2022)",,,
+"q122","How many Earths could fit inside the Sun?","1300000","Earths","NASA, Sun's volume ≈ 1.3 million Earths",,,
+"q123","How many stars can you see with the naked eye on a clear, dark night?","2500","stars","Yale Bright Star Catalogue (~9,100 whole-sky); ~2,500 visible at once from a dark site (Sky & Telescope)",,,
+"q124","How long would it take Siri to count from one to a million out loud?","37","days","Arithmetic: word count for numbers 1-1,000,000 spoken aloud (American English, no 'and') at an average 150 wpm speaking pace","medium","2026-08-17","3"
+"q125","How many times does the average person blink in a day?","15000","blinks","American Academy of Ophthalmology / Harvard: ~15-20 blinks per minute",,,
+"q126","How many goals were scored at the 2026 FIFA World Cup?","308","goals","FIFA 2026 World Cup official tournament statistics, July 2026",,"2026-07-28","2"
+"q127","How many people watched the 2026 FIFA World Cup final in the US?","66400000","viewers","Nielsen data via Fox Sports and Telemundo, reported July 2026",,,
+"q128","How far is the world record for the longest football (soccer) drop kick?","256","feet","Guinness World Records, longest football (soccer) drop kick (Alireza Beiranvand, 17 April 2019)",,"2026-07-29","2"
+"q129","In USD, what is the total value of all US pennies currently in circulation?","1140000000","dollars","U.S. Department of the Treasury circulation estimate, widely reported (CNN, NBC, ABC), 2025",,,
+"q130","What is the annual cost to incarcerate one person in a New York City jail?","507000","dollars","NYC Comptroller Brad Lander, jail population and cost report, July 2024",,,
+"q131","How many people alive today have blue eyes?","750000000","people","Genetics-based population estimate widely cited by eye-color researchers (Medical News Today, World Atlas, World Population Review)",,"2026-07-31","2"
+"q132","How much air does the average person breathe in a day?","7600","liters","American Lung Association (average adult daily breathing volume)",,,
+"q133","How many hairs are on an average human head of hair?","100000","hairs","American Academy of Dermatology",,,
+"q134","How long would it take the average person to type the entire text of Romeo and Juliet?","10","hours","Open Source Shakespeare word count (text) and Ratatype aggregate typing-speed data (rate)",,,
+"q135","How many Dua Lipas does an average adult male Asian elephant weigh?","55","Dua Lipas","San Diego Zoo Wildlife Alliance elephant fact sheet (elephant weight). Dua Lipa's own body weight has no official public figure, so a height-based stand-in was used.",,,
+"q136","How many Indian cuisine restaurants are there in Scotland?","900","restaurants","Business-directory counts of UK restaurants by cuisine and region (SmartScraper UK restaurant database, cross-checked against the RestaurantListsHQ Scotland directory)",,,
+"q137","How many saunas are there in Sweden?","300000","saunas","Swedish sauna industry estimates",,"2026-08-08","2"
+"q138","How much trash does the average U.S. family of four produce in a year?","7150","pounds","US EPA, Advancing Sustainable Materials Management: Facts and Figures (national municipal solid waste generation)",,,
+"q139","How many pineapples does it take to weigh 1 US ton (2,000 lbs / 907 kg)?","500","pineapples","Blue Book Services produce industry pineapple variety guide",,"2026-08-04","1"
+"q140","How many people are incarcerated in prison in the United States at any given time?","1254200","people","Bureau of Justice Statistics, Prisoners in 2023 (preliminary data release)",,,
+"q141","SpaghettiOs pasta only comes in one letter, O. How many cans would it take to have one pasta piece for every letter O in the entire text of the Lord of the Rings trilogy?","1760","cans","HarperCollins published word counts for the LOTR trilogy (≈481,000 words); Peter Norvig, 'English Letter Frequency Counts: Mayzner Revisited' (Google Books corpus: 4.79 letters/word average, letter 'O' ≈7.64% of all letters); Campbell's SpaghettiOs can size (15.8 oz), pasta-O's-per-can is an unpublished estimate.",,,
+"q142","How many M&M's would it take to refuel, calorie for calorie, every runner who finishes the Boston Marathon in a single year?","24700000","M&M's","Boston Athletic Association official field size (~30,000 entrants, capped field); marathon calorie-burn estimates from sports-science consensus (~100 kcal per mile of running); Mars Wrigley nutrition facts for M&M'S Milk Chocolate (148 cal per 43 pieces ≈ 3.4 cal/piece).",,,
+"q143","How many horse-sized centaurs, laid head to tail, would it take to stretch from Earth to Proxima Centauri, the nearest star beyond our sun?","16700000000000000","centaurs","NASA/astronomy consensus distance to Proxima Centauri (4.24 light-years); 'horse length,' the defined measurement used in horse racing (≈8 ft / 2.4 m nose to tail).",,,
+"q144","How much wine did France produce in 2024?","3610000000","liters","International Organisation of Vine and Wine (OIV), 2024 World Wine Production first estimates","high",,
+"q145","How many cats lived in Italian households in 2024?","12000000","cats","Assalco-Zoomark 2025 Report (XVIII edition), National Observatory on the Human-Pet Bond in Italy","medium",,
+"q146","How much Nutella does Ferrero produce each year?","365000","tonnes","Ferrero-sourced production figures as widely reported in industry and consumer press (e.g. VinePair, Facts.net)","low",,
+"q147","How much chocolate is consumed worldwide each year?","7500000","tonnes","International Cocoa Organization (ICCO) cocoa grindings data, cross-referenced with industry chocolate-consumption market estimates","medium",,
+"q149","How many poker tables were there in casinos in Las Vegas in 2024?","360","poker tables","Las Vegas Review-Journal poker room survey (October 2024) and individually reported casino poker-room table counts","low",,
+"q150","How many TVs have been sold worldwide in 2024?","230000000","TVs","Omdia Global TV Shipment Tracker, full-year 2024","high",,
+"q152","How many Big Macs were sold by McDonald's in 2017?","550000000","Big Macs","McDonald's-sourced estimate as widely reported in press, U.S. annual sales","low",,
+"q153","How many basketballs are sold annually in the United States?","8000000","basketballs","Statista U.S. basketball equipment wholesale sales data, cross-referenced with manufacturer-cited annual unit estimates (e.g. Wilson)","low",,
+"q155","How many US dollars were spent on pet food and treats in the US in 2024?","65800000000","dollars","American Pet Products Association (APPA) 2025 State of the Industry Report, as reported by Pet Food Industry and Pet Food Processing","high",,
+"q157","How many people work as flight attendants in the US?","130800","flight attendants","U.S. Bureau of Labor Statistics, Occupational Outlook Handbook","high",,
+"q158","How many vehicles crossed the Golden Gate Bridge in 2025?","33755762","vehicles","Golden Gate Bridge Highway and Transportation District, Annual Vehicle Crossings and Toll Revenues","medium",,
+"q159","How many ship crossings of the Suez Canal took place in 2019?","18880","ships","Suez Canal Authority 2019 navigation statistics, as reported by PortNews and Port Economics, Management and Policy","high",,
+"q160","How many cows are kept for milk production in the United States?","9570000","cows","USDA National Agricultural Statistics Service, Cattle report (January 1, 2026)","high",,
+"q162","How many people travelled through the Channel Tunnel connecting the UK with France in 2022?","13600000","people","Getlink SE, 2022 Annual Results press release","medium",,
+"q163","How much revenue in US dollars did UK gym and fitness centers earn from memberships in 2024?","6630000000","dollars","ukactive UK Health and Fitness Market Report 2025 (analysis by Deloitte), 2024 figures","medium",,
+"q164","How much revenue in US dollars did fireworks sales for New Year's Eve generate in Mexico in 2024?","349000000","US dollars","Mexico News Daily, citing Mexican government (Secretaría de Economía) pyrotechnics industry estimates","low",,
+"q165","How many people worldwide live at ≥1,500 meters (4,900 feet) above sea level?","500300000","people","Proceedings of the National Academy of Sciences (2021), ""Global and country-level estimates of human population at high altitude""","high",,
+"q166","How many people lived in the United States without being US citizens in 2023?","22800000","people","U.S. Census Bureau, American Community Survey 2023 foreign-born population estimates, via Center for Immigration Studies analysis","medium",,
+"q167","How many people worldwide live within 10 km (6.2 miles) of a coast?","1050000000","people","Scientific Reports (Nature), ""Accelerating growth of human coastal populations at the global and continent levels: 2000-2018"" (Cosby et al., Mississippi State University / Oak Ridge National Laboratory LandScan data)","medium",,
+"q168","How many commercial flights departed the US for Europe in 2024?","70000","flights","OAG (Official Airline Guide) aviation market analysis, 2024 transatlantic schedule data","low",,
+"q169","How many bridges longer than 20 feet (6 meters) are there on public roads in the United States?","624000","bridges","Federal Highway Administration, National Bridge Inventory","high",,
+"q170","How many hotel rooms are there in London?","145984","hotel rooms","HVS Research, ""London Market Pulse 2024""","high",,
+"q171","How far do motor vehicles on US roads drive in total each day?","14523000000","kilometers","Federal Highway Administration, Highway Statistics 2024, Table VM-1","high",,
+"q172","How many gas stations are there in the United States?","150000","gas stations","NACS (National Association of Convenience Stores), fuel retailing industry data","medium",,
+"q173","How many operational helicopters are there worldwide?","44000","helicopters","Statista, ""Global helicopter market - statistics & facts"" (2023 military/civil fleet split estimate)","low",,
+"q174","How many Americans have been either Boy Scouts or Girl Scouts since 1910?","189000000","people","Scouting America (Boy Scouts of America) and Girl Scouts of the USA official historical participation figures","medium",,
+"q175","How many people visited the St. Peter's Basilica in 2024?","10000000","visitors","Vatican tourism estimates compiled by Italian travel-industry statistics (Statista, religious-site visitor tracking)","low",,
+"q176","How many cans of their energy drink did Red Bull sell in 2024?","12700000000","cans","Red Bull GmbH 2024 annual results, reported via company statements and financial press (Bloomberg)","high",,
+"q177","How many people live south of the equator?","1000000000","people","Demographic estimates based on national population data and equator-crossing country splits, compiled in geography and demography analyses","low",,
+"q178","How many children aged 10 or younger live in the world today?","1500000000","children","United Nations World Population Prospects 2024 age-structure data, cross-checked against UNICEF under-5 population estimates","medium",,
+"q179","How many people visited the Eiffel Tower's observation platforms in 2024?","6300000","visitors","Societe d'Exploitation de la Tour Eiffel (SETE), the tower's official operator, 2024 visitor report","medium",,
+"q180","How many watches did Rolex produce in 2024?","1200000","watches","Industry production estimates from watch-market analysts (e.g. LuxeConsult), since Rolex is privately held and does not publish official figures","low",,
+"q181","How many horses and ponies are there in the United Kingdom?","847000","horses and ponies","British Horse Society / British Equestrian Trade Association National Equestrian Survey","medium",,
+"q183","How many police officers work for the New York City Police Department?","34000","officers","New York City Police Department staffing figures reported in city budget and workforce coverage (NYPD, city fiscal reports, and police-recruitment press coverage), 2024","medium",,
+"q185","How many public high schools are there in the United States?","23519","public high schools","National Center for Education Statistics (NCES), Fast Facts / Digest of Education Statistics, Table 216.10","high",,
+"q186","How many aircraft takeoffs and landings did Singapore's Changi Airport handle in 2024?","366000","aircraft movements","Changi Airport Group, 2024 year-in-review press release","high",,
+"q187","How many foreign visitors came to Japan in 2024?","36900000","foreign visitors","Japan National Tourism Organization (JNTO), 2024 annual visitor arrival statistics","high",,
+"q188","How many school buses were in service in the United States as of 2024?","483041","school buses","School Bus Fleet, 'K-12 Student Transportation Statistics 2024-25' industry survey","medium",,
+"q189","How many cars were in use in the United States in 1950?","40339077","cars","Federal Highway Administration, Highway Statistics Summary to 1995, Table MV-201 (state motor vehicle registrations, 1900-1995)","medium",,
+"q190","How many pigs were alive worldwide in April 2025?","900000000","pigs","Derived from FAO/FAOSTAT livestock data and national pig inventory reports (China, EU, US)","low",,
+"q191","How many babies were born in the United States on New Year's Day in 2000?","11090","babies","CDC National Center for Health Statistics, 'Births: Final Data for 2000' (NVSR Vol. 50, No. 5), annual total divided evenly across the days of the year","medium",,
+"q192","How many hours did the average journey from London to San Francisco take in 1900?","269","hours","Constructed from period transatlantic liner crossing times and the Southern Pacific Company's 1892 published New York-San Francisco rail timetable","low",,
+"q193","How many commercial airline pilots are employed worldwide?","380000","commercial airline pilots","Industry pilot supply/demand forecasts (Statista, aggregating aviation workforce data)","low",,
+"q194","How many households in the US had an income exceeding $500,000 in 2022?","1270000","households","U.S. Census Bureau, Current Population Survey (CPS ASEC), HINC-06 income distribution table for 2022, with the $500,000+ bracket as reported in secondary analyses of Census/IRS income data","medium",,
+"q195","How many visitors does the London Eye observation wheel receive each year?","3500000","visitors","Travel-industry and press estimates (Headout, Time Out London, London Tickets) citing London Eye/Merlin Entertainments visitor figures","medium",,
+"q196","How many people were alive worldwide in 1925?","2000000000","people","U.S. Census Bureau historical world population estimates and Population Reference Bureau figures, as compiled in Wikipedia's world population estimates table","medium",,
+"q197","How many US dollars are spent on gasoline per day in the United States?","896000000","US dollars","Coltura analysis of U.S. Energy Information Administration gasoline consumption data and AAA average gasoline prices, 2024","medium",,
+"q199","How many native Spanish speakers are there worldwide?","519000000","people","Instituto Cervantes, 'Spanish: A Language to the World' 2025 report","high",,
+"q201","How many people worldwide are 80 years or older?","180000000","people","UN World Population Prospects, 2024 revision","medium","2026-08-15","2"
+"q202","How many visitors did Disneyland Paris have in 2023?","16100000","visitors","TEA/AECOM Theme Index and Museum Index 2023, Global Attractions Attendance Report, as reported by Forbes","high",,
+"q203","How many people worldwide speak English as a native or second language?","1530000000","people","Ethnologue (SIL International), 2025 language data","medium",,
+"q204","How many golf courses are there in Scotland?","550","golf courses","Scottish Golf affiliated-club count and Statista's tracked total of registered golf courses in Scotland","medium",,
+"q205","How many passengers fly in and out of US airports every day?","2470000","passengers","Transportation Security Administration, 2024 Year in Review","medium",,
+"q207","How many lawyers are there in the United States?","1322649","lawyers","American Bar Association, National Lawyer Population Survey","high",,
+"q208","How many airports are there in the US, including small private airstrips?","20031","airports","Federal Aviation Administration airport data, as compiled by the Bureau of Transportation Statistics","medium",,
+"q209","How many Americans who served in World War II were still alive as of 2024?","66000","veterans","US Department of Veterans Affairs, National Center for Veterans Analysis and Statistics","medium",,
+"q210","How many public school teachers are there in California?","286126","teachers","California Department of Education, DataQuest staff demographics","high",,
+"q211","How many sheep are there in the world?","1300000000","sheep","Food and Agriculture Organization of the United Nations, FAOSTAT livestock data","medium",,
+"q212","How many air traffic controllers are there in the United States?","14264","controllers","Federal Aviation Administration, Air Traffic Controller Workforce Plan 2024-2033","medium",,
+"q213","How many printed books has Amazon sold in the United States in 2024?","350000000","books","Circana BookScan 2024 US print unit sales, combined with industry estimates of Amazon's share of the US print book market","low",,
+"q214","How many students are currently enrolled in medical school in the US?","99562","students","AAMC (Association of American Medical Colleges), 2024 FACTS enrollment data","high",,
+"q215","How many veterinarians are there in the United States?","130415","veterinarians","American Veterinary Medical Association (AVMA), US Veterinarian Numbers 2024","high",,
+"q216","How many people live outside the country where they were born?","304000000","people","UN Department of Economic and Social Affairs (DESA), International Migrant Stock 2024","high",,
+"q217","How many different games of chess are possible after White and Black have each moved twice?","197281","games","Chess Programming Wiki's Perft move-generator validation results (perft(4) = 197,281), also reproduced in Wikipedia's Shannon number article","high",,
+"q218","How many different games of tic-tac-toe can be played?","255168","games","Game researcher Jesper Juul's full game-tree enumeration of tic-tac-toe (The Ludologist)","high",,
+"q219","How many keys would a piano need to cover every note a human can hear?","120","keys","National Academies Press, ""Basics of Sound, the Ear, and Hearing"" (hosted on NIH's NCBI Bookshelf)","medium",,
+"q220","How many words were on Wordle's original answer list when it launched in 2021?","2315","words","Wordle's original 2021 source-code answer list, reverse-engineered and documented by word-list trackers (e.g. WordsRated) and referenced in coverage of The New York Times trimming it to 2,309 words after its 2022 acquisition","high",,
+"q221","How many Skittles would it take to fill a bathtub to the brim?","260000","Skittles","Mars Wrigley Skittles nutrition facts (piece weight); standard bathtub volume, the same convention used by the game's other bathtub-fill questions","medium",,
+"q223","How many hours of Netflix did the world watch in 2025?","191000000000","hours","Netflix's ""What We Watched"" engagement reports for the first and second halves of 2025 (about.netflix.com)","high",,
+"q224","How many exercises did Duolingo learners complete each day in 2025?","2000000000","exercises","Duolingo's fiscal 2025 annual report on Form 10-K, filed February 2026 (""nearly 2 billion exercises every day""), with daily active users from Duolingo's fourth quarter and full year 2025 results","high",,
+"q225","How many views did KPop Demon Hunters get on Netflix in its first six months?","500000000","views","Netflix's ""What We Watched"" engagement report for the second half of 2025 (482 million views) and its weekly Top 10 for June 2025, as covered by Deadline, Animation Magazine and Forbes","medium",,
+"q226","How many $1.50 hot dog and soda combos did Costco sell in fiscal 2025?","245000000","combos","Costco Wholesale Q4 fiscal 2025 earnings call (CFO Gary Millerchip)","high",,
+"q227","How much revenue in US dollars did Costco's $4.99 rotisserie chickens generate in fiscal 2025?","785400000","US dollars","Costco Wholesale Q4 fiscal 2025 earnings call (unit count) at Costco's long-standing $4.99 rotisserie chicken price","high","2026-08-14","3"
+"q228","How many times was Bad Bunny streamed on Spotify in 2025?","19800000000","streams","Spotify Newsroom, 2025 Wrapped (Bad Bunny named global top artist for the 4th time)","high",,
+"q229","How many streams did ""Die With a Smile"" by Lady Gaga and Bruno Mars get on Spotify in 2025?","1700000000","streams","Spotify Newsroom, 2025 Wrapped (global top song of the year)","high",,
+"q230","How many Pokémon trading cards have been printed since the game launched?","85000000000","cards","The Pokémon Company International production figures","high",,
+"q231","How many ships pass through the Panama Canal on an average day?","33","ships","Panama Canal Authority fiscal year 2025 traffic figures","high",,
+"q232","How many pubs are there in London?","3535","pubs","Greater London Authority London pub audit, using ONS business register data","high",,
+"q233","How long is Italy's coastline, counting all of its islands?","7600","kilometers","CIA World Factbook coastline figures","medium","2026-08-04","3"
+"q234","How many words are in the Bible?","757000","words","Word counts of the English Standard Version text","medium",,
+"q235","How many shots of vodka are sold in Russia every day?","41000000","shots","Rosstat-based retail alcohol sales data reported by RBC","medium","2026-08-16","2"
+"q236","How many fast food ketchup packets does it take to fill a classic glass Heinz bottle?","44","packets","Heinz foodservice portion packet spec and glass bottle spec","medium","2026-08-14","1"
+"q237","If a cheetah could hold its top speed the whole way, how long would it take to run the Boston Marathon?","26","minutes","Cincinnati Zoo and Guinness World Records cheetah speed record (Sarah, 2012)","high","2026-08-05","1"
+"q238","How many BIC pens would you use up drawing a line all the way around the Earth?","20000","pens","BIC Cristal product claim","medium","2026-08-10","1"
+"q239","How many pips are on a full set of double-six dominoes?","168","pips","Standard double-six domino set composition","high","2026-08-12","2"
+"q240","How many Rubik's Cubes would fit in the back of a Nissan Cube?","7500","Rubik's Cubes","Nissan Cube cargo volume specification and standard 5.7 cm Rubik's Cube dimensions","medium",,
+"q241","Maria is the most common female name in the world. How many Marias are there?","61130000","people","Forebears.io forename index","medium","2026-08-07","2"
+"q242","How many pet dogs are licensed within Chicago's city limits?","38478","licensed dogs","Chicago City Clerk registration count reported by DNAinfo Chicago, August 2013","low",,
+"q243","How many actuaries are there in the United States?","33600","actuaries","U.S. Bureau of Labor Statistics, Occupational Employment and Wage Statistics","high",,
+"q244","What is the global bagel market worth in 2025?","5970000000","dollars","Fortune Business Insights, Bagel Market Size, Share & Industry Report, 2025","medium",,
+"q245","How long would it take to travel from Yellowknife, Canada to Mexico City on a 20 in (51 cm) diameter unicycle riding at 100 rpm?","28","days","Driving-distance aggregators (Trippy, Rome2Rio) for the Yellowknife-Mexico City road route; unicycle speed computed from wheel circumference (π × 20 in) at 100 rpm","medium",,
+"q246","How many rooms are in the White House?","132","rooms","White House Historical Association","high",,
+"q247","How many countries have the color red in their flag?","148","countries","Flags of the World (FOTW), Statistics on Flag Colors","high","2026-08-13","2"
+"q248","How many windows does the Empire State Building have?","6514","windows","Empire State Building official facts and figures page (esbnyc.com)","high",,
+"q249","How many rubber duckies could fit in a 40-foot (12 meter) shipping container?","124000","rubber duckies","ISO equipment spec sheets · Rubber duck retail dimensions","medium","2026-08-12","1"
+"q250","How many minutes would it take to watch every movie Quentin Tarantino has directed?","1413","minutes","Wikipedia · Quentin Tarantino filmography (official theatrical/general-release running times)","medium",,
+"q251","How many tigers are there in the wild?","5574","tigers","Global Tiger Forum / WWF joint wild tiger population estimate, announced July 2024","high",,
+"q252","How much water flows over Niagara Falls every day?","65400000000","gallons","Niagara Falls State Park (New York State Parks) official flow figures","medium",,
+"q253","How many guinea pigs would it take to fill a 100 meter pool?","2780000","guinea pigs","RSPCA average adult guinea pig weight guidance · FINA competition pool dimensions (100m length assumed, doubling this game's existing Olympic-pool convention from q19/q47)","medium",,
+"q254","How much water does the average person drink in a lifetime?","60000","liters","WHO global life expectancy · EFSA adequate intake for total water (2010)","medium","2026-08-15","1"
+"q255","How many people have played at least one game in NBA history?","5106","players","Basketball-Reference, unique players in the NBA and BAA season totals, 1946-47 through 2025-26","high","2026-08-17","2"
+"q256","How many stairs are in the Burj Khalifa?","2909","steps","Emaar Properties Burj Khalifa fact sheet","high",,
+"q257","How many paintings are in the world's biggest art gallery?","17000","paintings","State Hermitage Museum collection statistics (Google Arts & Culture partner page)","medium",,
+"q258","How many footballs would fit inside a Subaru Crosstrek?","200","footballs","Subaru official Crosstrek cargo specifications · NFL football regulations","medium",,
+"q259","How many grains of rice fit in a 500 ml (16.9 oz) water bottle?","20000","grains","USDA FoodData Central (uncooked white rice, cup measure)","medium",,
+"q260","How many movies are listed on IMDb?","750000","movies","IMDb non-commercial datasets (via Wikipedia infobox)","high",,
+"q261","How many games have been played in Major League Baseball history?","250000","games","MLB historical game logs (aggregated)","low",,
+"q262","How old are all the people in Chicago combined?","97700000","years","U.S. Census Bureau, American Community Survey 1-Year Estimates (2024), Chicago city, Illinois","medium",,
+"q263","How many home runs were hit in the 2025 MLB regular season?","5650","home runs","Baseball-Reference 2025 MLB team batting totals","high",,
+"q264","Roughly how many kangaroos are there in Australia?","42000000","kangaroos","Australian Government Department of Climate Change, Energy, the Environment and Water (DCCEEW), kangaroo population estimates","medium","2026-08-14","2"
+"q265","How long would it take a Formula 1 car to drive all the way around the Earth's equator?","108","hours","NASA Earth Fact Sheet ·  Formula 1 Race Stats","high","2026-08-12","3"
+"q266","How much would a million quarters weigh?","12500","pounds","U.S. Mint coin specifications","high",,
+"q267","How many miles of public roads are there in the United States?","4200000","miles","Federal Highway Administration, Highway Statistics 2022","high",,
+"q268","How many hours does it take to drive from Augusta, Maine to Oklahoma City, Oklahoma?","29","hours","Trippy driving distance and time calculator","medium",,
+"q269","What is the average cruising flight speed of a barn swallow, the real bird behind Monty Python's 'unladen swallow' joke?","18","mph","Blake & Kolotylo, 'Flight speeds of the barn swallow, Hirundo rustica,' Canadian Journal of Zoology (1990), Doppler radar field measurements","low",,
+"q270","How many cups of espresso do Italians drink every day?","100000000","cups","Istituto Espresso Italiano, as reported by ANSA (October 2025)","medium",,
+"q271","How many tires does the LEGO Group produce in a single day?","840000","tires","Guinness World Records, Largest annual volume toy tyre manufacturer ever (The LEGO Group)","high","2026-08-13","1"
+"q272","How many people worldwide need a wheelchair to get around?","80000000","people","World Health Organization wheelchair provision guidelines","high","2026-08-13","3"
+"q273","How many cans of soda are drunk in the U.S. each day?","350000000","cans","Beverage Marketing Corporation per-capita carbonated soft drink data, via Beverage Industry (2024)","medium",,
+"q274","How many people are watching Netflix at any given moment?","22000000","people","Netflix's Engagement Report","medium","2026-08-11","1"
+"q275","How many $1 bills are currently in circulation in the United States?","15200000000","bills","Federal Reserve Board, Volume of Currency in Circulation report","high",,

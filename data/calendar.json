@@ -1,0 +1,662 @@
+[
+  {
+    "puzzle_no": 1,
+    "date": "2026-07-27",
+    "date_str": "Monday, July 27 2026",
+    "question_ids": [
+      "q5",
+      "q67",
+      "q18"
+    ],
+    "questions": [
+      {
+        "id": "q5",
+        "prompt": "How many piano tuners work in New York City?",
+        "answer": 130,
+        "unit": "tuners"
+      },
+      {
+        "id": "q67",
+        "prompt": "How many McDonald's locations exist globally?",
+        "answer": 43500,
+        "unit": "restaurants"
+      },
+      {
+        "id": "q18",
+        "prompt": "How long does Google Maps say it takes to walk nonstop from NYC to LA?",
+        "answer": 925,
+        "unit": "hours"
+      }
+    ]
+  },
+  {
+    "puzzle_no": 2,
+    "date": "2026-07-28",
+    "date_str": "Tuesday, July 28 2026",
+    "question_ids": [
+      "q27",
+      "q126",
+      "q71"
+    ],
+    "questions": [
+      {
+        "id": "q27",
+        "prompt": "How long would it take to listen to every Beatles song?",
+        "answer": 620,
+        "unit": "minutes"
+      },
+      {
+        "id": "q126",
+        "prompt": "How many goals were scored at the 2026 FIFA World Cup?",
+        "answer": 308,
+        "unit": "goals"
+      },
+      {
+        "id": "q71",
+        "prompt": "How many trees are in Central Park?",
+        "answer": 18000,
+        "unit": "trees"
+      }
+    ]
+  },
+  {
+    "puzzle_no": 3,
+    "date": "2026-07-29",
+    "date_str": "Wednesday, July 29 2026",
+    "question_ids": [
+      "q21",
+      "q128",
+      "q46"
+    ],
+    "questions": [
+      {
+        "id": "q21",
+        "prompt": "What is the total length of spaghetti in a 16 oz (450 g) box?",
+        "answer": 470,
+        "unit": "feet"
+      },
+      {
+        "id": "q128",
+        "prompt": "How far is the world record for the longest football (soccer) drop kick?",
+        "answer": 256,
+        "unit": "feet"
+      },
+      {
+        "id": "q46",
+        "prompt": "How many registered vehicles are on the island of Iceland?",
+        "answer": 290000,
+        "unit": "vehicles"
+      }
+    ]
+  },
+  {
+    "puzzle_no": 4,
+    "date": "2026-07-30",
+    "date_str": "Thursday, July 30 2026",
+    "question_ids": [
+      "q47",
+      "q42",
+      "q54"
+    ],
+    "questions": [
+      {
+        "id": "q47",
+        "prompt": "If we brewed coffee in Olympic swimming pools, how many pools would the U.S. drink in a day?",
+        "answer": 40,
+        "unit": "pools"
+      },
+      {
+        "id": "q42",
+        "prompt": "How many dimples are on a regulation golf ball?",
+        "answer": 336,
+        "unit": "dimples"
+      },
+      {
+        "id": "q54",
+        "prompt": "How many official languages exist in the world?",
+        "answer": 200,
+        "unit": "languages"
+      }
+    ]
+  },
+  {
+    "puzzle_no": 5,
+    "date": "2026-07-31",
+    "date_str": "Friday, July 31 2026",
+    "question_ids": [
+      "q4",
+      "q131",
+      "q79"
+    ],
+    "questions": [
+      {
+        "id": "q4",
+        "prompt": "How many golf balls fit inside a Volkswagen Golf?",
+        "answer": 56000,
+        "unit": "golf balls"
+      },
+      {
+        "id": "q131",
+        "prompt": "How many people alive today have blue eyes?",
+        "answer": 750000000,
+        "unit": "people"
+      },
+      {
+        "id": "q79",
+        "prompt": "How many chickens are alive on Earth right now?",
+        "answer": 33000000000,
+        "unit": "chickens"
+      }
+    ]
+  },
+  {
+    "puzzle_no": 6,
+    "date": "2026-08-01",
+    "date_str": "Saturday, August 1 2026",
+    "question_ids": [
+      "q44",
+      "q109",
+      "q49"
+    ],
+    "questions": [
+      {
+        "id": "q44",
+        "prompt": "How tall is the 22nd tallest building in the world?",
+        "answer": 1483,
+        "unit": "feet"
+      },
+      {
+        "id": "q109",
+        "prompt": "How long would it take to watch every Nicolas Cage movie back-to-back?",
+        "answer": 220,
+        "unit": "hours"
+      },
+      {
+        "id": "q49",
+        "prompt": "How many bird species are found in North America?",
+        "answer": 1154,
+        "unit": "species"
+      }
+    ]
+  },
+  {
+    "puzzle_no": 7,
+    "date": "2026-08-02",
+    "date_str": "Sunday, August 2 2026",
+    "question_ids": [
+      "q20",
+      "q81",
+      "q13"
+    ],
+    "questions": [
+      {
+        "id": "q20",
+        "prompt": "How tall would a stack of 1 million $1 bills be?",
+        "answer": 358,
+        "unit": "feet"
+      },
+      {
+        "id": "q81",
+        "prompt": "How many Starbucks locations are there worldwide?",
+        "answer": 41100,
+        "unit": "stores"
+      },
+      {
+        "id": "q13",
+        "prompt": "How many people are in the air on airplanes at any given moment?",
+        "answer": 1150000,
+        "unit": "people"
+      }
+    ]
+  },
+  {
+    "puzzle_no": 8,
+    "date": "2026-08-03",
+    "date_str": "Monday, August 3 2026",
+    "question_ids": [
+      "q53",
+      "q80",
+      "q78"
+    ],
+    "questions": [
+      {
+        "id": "q53",
+        "prompt": "How many popes has the Roman Catholic Church had?",
+        "answer": 267,
+        "unit": "popes"
+      },
+      {
+        "id": "q80",
+        "prompt": "How many Monopoly sets have ever been sold?",
+        "answer": 275000000,
+        "unit": "sets"
+      },
+      {
+        "id": "q78",
+        "prompt": "How many elevators are there in New York City?",
+        "answer": 81001,
+        "unit": "elevators"
+      }
+    ]
+  },
+  {
+    "puzzle_no": 9,
+    "date": "2026-08-04",
+    "date_str": "Tuesday, August 4 2026",
+    "question_ids": [
+      "q139",
+      "q107",
+      "q233"
+    ],
+    "questions": [
+      {
+        "id": "q139",
+        "prompt": "How many pineapples does it take to weigh 1 US ton (2,000 lbs / 907 kg)?",
+        "answer": 500,
+        "unit": "pineapples"
+      },
+      {
+        "id": "q107",
+        "prompt": "How long would it take to fly to the Moon in a commercial airplane?",
+        "answer": 18,
+        "unit": "days"
+      },
+      {
+        "id": "q233",
+        "prompt": "How long is Italy's coastline, counting all of its islands?",
+        "answer": 7600,
+        "unit": "kilometers"
+      }
+    ]
+  },
+  {
+    "puzzle_no": 10,
+    "date": "2026-08-05",
+    "date_str": "Wednesday, August 5 2026",
+    "question_ids": [
+      "q237",
+      "q99",
+      "q77"
+    ],
+    "questions": [
+      {
+        "id": "q237",
+        "prompt": "If a cheetah could hold its top speed the whole way, how long would it take to run the Boston Marathon?",
+        "answer": 26,
+        "unit": "minutes"
+      },
+      {
+        "id": "q99",
+        "prompt": "How many people have won an Olympic gold medal?",
+        "answer": 27000,
+        "unit": "gold medalists"
+      },
+      {
+        "id": "q77",
+        "prompt": "How many cargo ships are at sea right now?",
+        "answer": 55000,
+        "unit": "cargo ships"
+      }
+    ]
+  },
+  {
+    "puzzle_no": 11,
+    "date": "2026-08-06",
+    "date_str": "Thursday, August 6 2026",
+    "question_ids": [
+      "q74",
+      "q68",
+      "q97"
+    ],
+    "questions": [
+      {
+        "id": "q74",
+        "prompt": "How many people have ever summited Mount Everest?",
+        "answer": 7563,
+        "unit": "climbers"
+      },
+      {
+        "id": "q68",
+        "prompt": "How many babies are born every minute worldwide?",
+        "answer": 255,
+        "unit": "babies"
+      },
+      {
+        "id": "q97",
+        "prompt": "How many people visit the Louvre on an average day?",
+        "answer": 24000,
+        "unit": "visitors"
+      }
+    ]
+  },
+  {
+    "puzzle_no": 12,
+    "date": "2026-08-07",
+    "date_str": "Friday, August 7 2026",
+    "question_ids": [
+      "q108",
+      "q241",
+      "q22"
+    ],
+    "questions": [
+      {
+        "id": "q108",
+        "prompt": "How long would it take to stay one night in every hotel room in Las Vegas?",
+        "answer": 411,
+        "unit": "years"
+      },
+      {
+        "id": "q241",
+        "prompt": "Maria is the most common female name in the world. How many Marias are there?",
+        "answer": 61130000,
+        "unit": "people"
+      },
+      {
+        "id": "q22",
+        "prompt": "How long would it take to watch every episode of The Simpsons?",
+        "answer": 296,
+        "unit": "hours"
+      }
+    ]
+  },
+  {
+    "puzzle_no": 13,
+    "date": "2026-08-08",
+    "date_str": "Saturday, August 8 2026",
+    "question_ids": [
+      "q105",
+      "q137",
+      "q90"
+    ],
+    "questions": [
+      {
+        "id": "q105",
+        "prompt": "How many cups of tea are drunk in the UK each day?",
+        "answer": 100000000,
+        "unit": "cups"
+      },
+      {
+        "id": "q137",
+        "prompt": "How many saunas are there in Sweden?",
+        "answer": 300000,
+        "unit": "saunas"
+      },
+      {
+        "id": "q90",
+        "prompt": "How many people have ever been to space?",
+        "answer": 690,
+        "unit": "people"
+      }
+    ]
+  },
+  {
+    "puzzle_no": 14,
+    "date": "2026-08-09",
+    "date_str": "Sunday, August 9 2026",
+    "question_ids": [
+      "q98",
+      "q119",
+      "q48"
+    ],
+    "questions": [
+      {
+        "id": "q98",
+        "prompt": "How many active certified scuba divers are there worldwide?",
+        "answer": 6000000,
+        "unit": "divers"
+      },
+      {
+        "id": "q119",
+        "prompt": "How long would it take a goldfish to escape Alcatraz and swim to the shore of San Francisco?",
+        "answer": 75,
+        "unit": "minutes"
+      },
+      {
+        "id": "q48",
+        "prompt": "How many stone blocks were used to build the Great Pyramid of Giza?",
+        "answer": 2300000,
+        "unit": "blocks"
+      }
+    ]
+  },
+  {
+    "puzzle_no": 15,
+    "date": "2026-08-10",
+    "date_str": "Monday, August 10 2026",
+    "question_ids": [
+      "q238",
+      "q52",
+      "q15"
+    ],
+    "questions": [
+      {
+        "id": "q238",
+        "prompt": "How many BIC pens would you use up drawing a line all the way around the Earth?",
+        "answer": 20000,
+        "unit": "pens"
+      },
+      {
+        "id": "q52",
+        "prompt": "How many vehicles has Ford sold since 1903?",
+        "answer": 420000000,
+        "unit": "vehicles"
+      },
+      {
+        "id": "q15",
+        "prompt": "How many tennis rackets would it take to cover a tennis court?",
+        "answer": 1360,
+        "unit": "rackets"
+      }
+    ]
+  },
+  {
+    "puzzle_no": 16,
+    "date": "2026-08-11",
+    "date_str": "Tuesday, August 11 2026",
+    "question_ids": [
+      "q274",
+      "q115",
+      "q91"
+    ],
+    "questions": [
+      {
+        "id": "q274",
+        "prompt": "How many people are watching Netflix at any given moment?",
+        "answer": 22000000,
+        "unit": "people"
+      },
+      {
+        "id": "q115",
+        "prompt": "How many passes were thrown in the 2025 NFL regular season?",
+        "answer": 17439,
+        "unit": "passes"
+      },
+      {
+        "id": "q91",
+        "prompt": "How many songs has Taylor Swift released?",
+        "answer": 310,
+        "unit": "songs"
+      }
+    ]
+  },
+  {
+    "puzzle_no": 17,
+    "date": "2026-08-12",
+    "date_str": "Wednesday, August 12 2026",
+    "question_ids": [
+      "q249",
+      "q239",
+      "q265"
+    ],
+    "questions": [
+      {
+        "id": "q249",
+        "prompt": "How many rubber duckies could fit in a 40-foot (12 meter) shipping container?",
+        "answer": 124000,
+        "unit": "rubber duckies"
+      },
+      {
+        "id": "q239",
+        "prompt": "How many pips are on a full set of double-six dominoes?",
+        "answer": 168,
+        "unit": "pips"
+      },
+      {
+        "id": "q265",
+        "prompt": "How long would it take a Formula 1 car to drive all the way around the Earth's equator?",
+        "answer": 108,
+        "unit": "hours"
+      }
+    ]
+  },
+  {
+    "puzzle_no": 18,
+    "date": "2026-08-13",
+    "date_str": "Thursday, August 13 2026",
+    "question_ids": [
+      "q271",
+      "q247",
+      "q272"
+    ],
+    "questions": [
+      {
+        "id": "q271",
+        "prompt": "How many tires does the LEGO Group produce in a single day?",
+        "answer": 840000,
+        "unit": "tires"
+      },
+      {
+        "id": "q247",
+        "prompt": "How many countries have the color red in their flag?",
+        "answer": 148,
+        "unit": "countries"
+      },
+      {
+        "id": "q272",
+        "prompt": "How many people worldwide need a wheelchair to get around?",
+        "answer": 80000000,
+        "unit": "people"
+      }
+    ]
+  },
+  {
+    "puzzle_no": 19,
+    "date": "2026-08-14",
+    "date_str": "Friday, August 14 2026",
+    "question_ids": [
+      "q236",
+      "q264",
+      "q227"
+    ],
+    "questions": [
+      {
+        "id": "q236",
+        "prompt": "How many fast food ketchup packets does it take to fill a classic glass Heinz bottle?",
+        "answer": 44,
+        "unit": "packets"
+      },
+      {
+        "id": "q264",
+        "prompt": "Roughly how many kangaroos are there in Australia?",
+        "answer": 42000000,
+        "unit": "kangaroos"
+      },
+      {
+        "id": "q227",
+        "prompt": "How much revenue in US dollars did Costco's $4.99 rotisserie chickens generate in fiscal 2025?",
+        "answer": 785400000,
+        "unit": "US dollars"
+      }
+    ]
+  },
+  {
+    "puzzle_no": 20,
+    "date": "2026-08-15",
+    "date_str": "Saturday, August 15 2026",
+    "question_ids": [
+      "q254",
+      "q201",
+      "q6"
+    ],
+    "questions": [
+      {
+        "id": "q254",
+        "prompt": "How much water does the average person drink in a lifetime?",
+        "answer": 60000,
+        "unit": "liters"
+      },
+      {
+        "id": "q201",
+        "prompt": "How many people worldwide are 80 years or older?",
+        "answer": 180000000,
+        "unit": "people"
+      },
+      {
+        "id": "q6",
+        "prompt": "How many heartbeats are there in the average lifetime of a Timbuktu resident?",
+        "answer": 2300000000,
+        "unit": "heartbeats"
+      }
+    ]
+  },
+  {
+    "puzzle_no": 21,
+    "date": "2026-08-16",
+    "date_str": "Sunday, August 16 2026",
+    "question_ids": [
+      "q14",
+      "q235",
+      "q65"
+    ],
+    "questions": [
+      {
+        "id": "q14",
+        "prompt": "How many Oreos would it take to cover a queen-size bed?",
+        "answer": 1820,
+        "unit": "Oreos"
+      },
+      {
+        "id": "q235",
+        "prompt": "How many shots of vodka are sold in Russia every day?",
+        "answer": 41000000,
+        "unit": "shots"
+      },
+      {
+        "id": "q65",
+        "prompt": "How many goals has Lionel Messi scored in his professional career?",
+        "answer": 905,
+        "unit": "goals"
+      }
+    ]
+  },
+  {
+    "puzzle_no": 22,
+    "date": "2026-08-17",
+    "date_str": "Monday, August 17 2026",
+    "question_ids": [
+      "q28",
+      "q255",
+      "q124"
+    ],
+    "questions": [
+      {
+        "id": "q28",
+        "prompt": "How many M&M's would it take to fill a basketball?",
+        "answer": 7700,
+        "unit": "M&Ms"
+      },
+      {
+        "id": "q255",
+        "prompt": "How many people have played at least one game in NBA history?",
+        "answer": 5106,
+        "unit": "players"
+      },
+      {
+        "id": "q124",
+        "prompt": "How long would it take Siri to count from one to a million out loud?",
+        "answer": 37,
+        "unit": "days"
+      }
+    ]
+  }
+]
