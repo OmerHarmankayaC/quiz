@@ -16,7 +16,7 @@ Arayüzü Posh (Mobbin referansı) diline yaklaştırmak ve genel tonu matlaşt�
 | Kart anatomisi | Portre oran, rozet + pill, başlık kart dibinde | Posh'un iskeleti; kart yüzü görsel üretmeden tipografiyle taşınır |
 | Renk | `data/` değil, kodda türetilen mat palet | `packs.json` paralel oturumun dosyası; iki oturum aynı dosyaya yazmamalı |
 | Günlük blok | Yerinde kalır, Posh diliyle giyinir | Günlük alışkanlık oyunun çekirdeği; kaydırma insafına bırakılmaz |
-| Peçete hesabı | `napkin` yoksa `math` gösterilir | 20 soruda yalnızca `math` var, şu an hiçbir şey görünmüyor |
+| Peçete hesabı | `napkin` yoksa `math` gösterilir | Boşluk veride kapandı; kural ileriye dönük sigorta olarak kalıyor |
 
 ## Mat palet
 
@@ -67,7 +67,9 @@ Günlük blok: daha sessiz zemin, ince kenar, pill biçimli "Oyna" düğmesi, k�
 
 Bugünkü davranış: `napkin` varsa peçete bölümü gösteriliyor, yoksa hiçbir şey.
 
-Veri gerçeği (2026-08-17, commit `ce05c30` sonrası): 224 fermi sorusunun 204'ünde `napkin`, 179'unda `math`, 159'unda ikisi de var. **20 soruda yalnızca `math` var** ve o sorularda ekran şu an boş kalıyor.
+Veri gerçeği bu tur yazılırken iki kez değişti. `ce05c30` sonrası 224 fermi sorusunun 204'ünde `napkin` vardı ve **20 soruda yalnızca `math`** kalıyordu — o sorularda ekran boştu. Bu boşluk banka hattına bildirildi ve veri tarafında kapatıldı: `80dd66a` sonrası **`napkin` 224/224 dolu**, 179'unda ayrıca `math` var.
+
+Dolayısıyla aşağıdaki yedek yol bugün hiçbir soruda devreye girmiyor. Yine de uygulanıyor: banka büyüdükçe `napkin`'i eksik bir soru girebilir ve boş bir bölüm göstermektense mevcut hesabı göstermek doğrudur. Kural saf bir fonksiyonda ve testleri gerçek veriye bağlı değil, yani veri yine değişse de sağlam kalır.
 
 Yeni davranış:
 1. `napkin` varsa o gösterilir — oyuncunun sıfırdan nasıl akıl yürüteceğini anlatan asıl öğretici içerik odur.
