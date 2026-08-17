@@ -3548,5 +3548,436 @@
     "source": "Vikipedi: Lee Kuan Yew",
     "kaynak_id": "1360923#31",
     "kaynak_baslik": "Lee Kuan Yew"
+  },
+  {
+    "id": "m0165",
+    "mode": "mcq",
+    "prompt": "Mars yüzeyine ilk başarılı inişleri hangi araçlar gerçekleştirmiştir?",
+    "choices": [
+      "Mars-2 ve Mars-3",
+      "Viking-1 ve Viking-2",
+      "Mariner-4",
+      "Pathfinder"
+    ],
+    "correct_index": 0,
+    "explanation": "SSCB'nin 1971'de fırlattığı Mars-2 ve Mars-3 indi, ancak irtibat kısa sürede kesildi; Viking'ler 1976'da inip yıllarca çalıştı.",
+    "topics": [
+      "uzay"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Mars",
+    "kaynak_id": "1562#48",
+    "kaynak_baslik": "Mars"
+  },
+  {
+    "id": "m0166",
+    "mode": "mcq",
+    "prompt": "2000'lerin başında Hamas'ın bütçesinin yarısının kaynağı hangi ülkeydi?",
+    "choices": [
+      "Suriye",
+      "İran",
+      "Katar",
+      "Suudi Arabistan"
+    ],
+    "correct_index": 3,
+    "explanation": "ABD baskısıyla Suudi Arabistan 2004'ten itibaren bu akışı kıstı; boşluğu 2006 seçim zaferinden sonra İran ve Suriye doldurdu.",
+    "topics": [
+      "siyaset",
+      "ekonomi"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Hamas",
+    "kaynak_id": "142238#18",
+    "kaynak_baslik": "Hamas"
+  },
+  {
+    "id": "m0167",
+    "mode": "mcq",
+    "prompt": "LeBron James, 2005-06 sezonunda En Değerli Oyuncu oylamasını kimin ardından ikinci sırada tamamlamıştır?",
+    "choices": [
+      "Dirk Nowitzki",
+      "Kobe Bryant",
+      "Dwyane Wade",
+      "Steve Nash"
+    ],
+    "correct_index": 3,
+    "explanation": "James o sezon 31,4 sayı ortalamasıyla oynadı ve 21 yaşında All-Star MVP'si oldu, ama sezon MVP'sini Nash kazandı.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: LeBron James",
+    "kaynak_id": "114110#12",
+    "kaynak_baslik": "LeBron James"
+  },
+  {
+    "id": "m0168",
+    "mode": "mcq",
+    "prompt": "Gençlerbirliği, 1941 Türkiye Futbol Şampiyonası finalinde Beşiktaş'ı kaç kaç yenerek ilk ulusal şampiyonluğunu kazandı?",
+    "choices": [
+      "2-0",
+      "3-2",
+      "4-1",
+      "1-0"
+    ],
+    "correct_index": 2,
+    "explanation": "Kulüp 1923'te okul takımına alınmayan öğrencilerce kuruldu ve 1946'da ikinci kez Türkiye şampiyonu oldu.",
+    "topics": [
+      "spor",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Gençlerbirliği SK",
+    "kaynak_id": "1018#21",
+    "kaynak_baslik": "Gençlerbirliği SK"
+  },
+  {
+    "id": "m0169",
+    "mode": "mcq",
+    "prompt": "Çin ile Sovyetler Birliği arasındaki ideolojik ayrılık hangi yıl zirveye ulaşmıştır?",
+    "choices": [
+      "1960",
+      "1989",
+      "1953",
+      "1969"
+    ],
+    "correct_index": 3,
+    "explanation": "Ayrılık Stalin'in 1953'teki ölümünden sonra başlayan destalinizasyonla filizlendi, 1969'da zirveye çıktı ve 1980'lerin sonuna kadar sürdü.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Çin-Sovyet ayrılığı",
+    "kaynak_id": "205428#0",
+    "kaynak_baslik": "Çin-Sovyet ayrılığı"
+  },
+  {
+    "id": "m0170",
+    "mode": "mcq",
+    "prompt": "Yenilmezler: Ultron Çağı çekimlerinde yakın çekim, kostüm, dublör ve görsel efekt karışımıyla gizlenen şey neydi?",
+    "choices": [
+      "Kostümdeki teknik arıza",
+      "Setteki bir yangın hasarı",
+      "Scarlett Johansson'ın hamileliği",
+      "Bir oyuncunun sakatlığı"
+    ],
+    "correct_index": 2,
+    "explanation": "Film 1,1 milyar doların üzerinde hasılat yaptı; Johansson bu filmde ve Kahramanların Savaşı'nda Black Widow'u canlandırdı.",
+    "topics": [
+      "film"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Scarlett Johansson",
+    "kaynak_id": "147418#28",
+    "kaynak_baslik": "Scarlett Johansson"
+  },
+  {
+    "id": "m0171",
+    "mode": "mcq",
+    "prompt": "Hinduizm ilk kez Hindistan dışında evrensel bir din olarak hangi etkinlikte takdim edilmiştir?",
+    "choices": [
+      "1893 Chicago Dünya Dinler Parlamentosu",
+      "1911 Londra Din Kongresi",
+      "1897 Ramakrishna Misyonu açılışı",
+      "1900 Paris Dünya Sergisi"
+    ],
+    "correct_index": 0,
+    "explanation": "Swami Vivekananda'nın 1893'teki konuşmasından dört yıl sonra, 1897'de Ramakrishna Misyonu'nu kurdu.",
+    "topics": [
+      "din",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Hinduizm",
+    "kaynak_id": "14813#39",
+    "kaynak_baslik": "Hinduizm"
+  },
+  {
+    "id": "m0172",
+    "mode": "mcq",
+    "prompt": "Delhi Sultanlığı'nı kuran hanedan hangisidir?",
+    "choices": [
+      "Halaci Hanedanı",
+      "Ludî Hanedanı",
+      "Kölemen Hanedanı",
+      "Tuğluk Hanedanı"
+    ],
+    "correct_index": 2,
+    "explanation": "Türk kökenli Kölemen (Hint Memlûk) Hanedanı 1206-90 arasında hüküm sürdü; Ludî Hanedanı 1526'da Babürlere yenildi.",
+    "topics": [
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Delhi Sultanlığı",
+    "kaynak_id": "206768#2",
+    "kaynak_baslik": "Delhi Sultanlığı"
+  },
+  {
+    "id": "m0173",
+    "mode": "mcq",
+    "prompt": "Alex Ferguson, Manchester United'ın başında ilk galibiyetini hangi takıma karşı almıştır?",
+    "choices": [
+      "Newcastle United",
+      "Oxford United",
+      "Norwich City",
+      "Queens Park Rangers"
+    ],
+    "correct_index": 3,
+    "explanation": "6 Kasım 1986'da göreve başladı; ilk maçını Oxford United'a kaybetti, ilk galibiyeti 22 Kasım'da QPR karşısında 1-0 geldi.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Alex Ferguson",
+    "kaynak_id": "178500#17",
+    "kaynak_baslik": "Alex Ferguson"
+  },
+  {
+    "id": "m0174",
+    "mode": "mcq",
+    "prompt": "Gregor Mendel'in kalıtım üzerine çalışmaları hangi yıl yeniden keşfedilmiştir?",
+    "choices": [
+      "1859",
+      "1930",
+      "1900",
+      "1937"
+    ],
+    "correct_index": 2,
+    "explanation": "Darwin'le çağdaş olan çalışmalar 1900'de yeniden keşfedildi; modern sentez böylece doğal seçilimin kabulünü sağladı.",
+    "topics": [
+      "bilim",
+      "doğa"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Doğal seçilim",
+    "kaynak_id": "145758#19",
+    "kaynak_baslik": "Doğal seçilim"
+  },
+  {
+    "id": "m0175",
+    "mode": "mcq",
+    "prompt": "Kimi Räikkönen, 2012'de Formula 1'e hangi takımla dönmüştür?",
+    "choices": [
+      "Ferrari",
+      "Renault",
+      "Lotus",
+      "Williams"
+    ],
+    "correct_index": 2,
+    "explanation": "Williams'a döneceği iddiaları dolaşsa da, 29 Kasım 2011'de Lotus ile iki yıllık sözleşme imzaladığı açıklandı.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Kimi Räikkönen",
+    "kaynak_id": "123307#31",
+    "kaynak_baslik": "Kimi Räikkönen"
+  },
+  {
+    "id": "m0176",
+    "mode": "mcq",
+    "prompt": "Dünyanın ilk bilgisayar bilimleri lisans programı hangi üniversitede başlamıştır?",
+    "choices": [
+      "Purdue",
+      "MIT",
+      "Stanford",
+      "Cambridge"
+    ],
+    "correct_index": 3,
+    "explanation": "Cambridge Bilgisayar Laboratuvarı 1953'te başladı; ABD'deki ilk program 1962'de Purdue'da kuruldu.",
+    "topics": [
+      "teknoloji",
+      "eğitim"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Bilgisayar bilimi",
+    "kaynak_id": "1613#9",
+    "kaynak_baslik": "Bilgisayar bilimi"
+  },
+  {
+    "id": "m0177",
+    "mode": "mcq",
+    "prompt": "1638'den itibaren Japonya'nın Dejima limanında ticaret yapmasına izin verilen tek Avrupa ülkesi hangisiydi?",
+    "choices": [
+      "İspanya",
+      "Hollanda",
+      "Portekiz",
+      "İngiltere"
+    ],
+    "correct_index": 1,
+    "explanation": "Hollanda, korsanlık ve deniz savaşlarıyla İspanya ile Portekiz'in Pasifik'teki ticari gücünü kırarak bu ayrıcalığı elde etti.",
+    "topics": [
+      "tarih",
+      "ekonomi"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Japonya'nın ekonomik tarihi",
+    "kaynak_id": "125519#5",
+    "kaynak_baslik": "Japonya'nın ekonomik tarihi"
+  },
+  {
+    "id": "m0178",
+    "mode": "mcq",
+    "prompt": "İsmet İnönü, 1972'deki 5. Olağanüstü Kurultay'da hangi sözlerle istifa edeceğini açıklamıştır?",
+    "choices": [
+      "\"Yeter, söz milletindir!\"",
+      "\"Ortanın solundayım.\"",
+      "\"Ya ben, ya Bülent!\"",
+      "\"Toprak reformu olmadan olmaz.\""
+    ],
+    "correct_index": 2,
+    "explanation": "Güven oylamasında Ecevit yanlıları 709'a 507 üstünlük sağlayınca İnönü 8 Mayıs 1972'de istifa etti.",
+    "topics": [
+      "siyaset",
+      "tarih"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Bülent Ecevit",
+    "kaynak_id": "125602#12",
+    "kaynak_baslik": "Bülent Ecevit"
+  },
+  {
+    "id": "m0179",
+    "mode": "mcq",
+    "prompt": "Şili'de Salvador Allende'nin hükûmeti hangi tarihte darbeyle devrilmiştir?",
+    "choices": [
+      "11 Eylül 1973",
+      "5 Ekim 1988",
+      "1 Ocak 1970",
+      "11 Eylül 2001"
+    ],
+    "correct_index": 0,
+    "explanation": "Darbeyi Pinochet liderliğinde 16,5 yıl süren askerî diktatörlük izledi; rejim 1988 referandumunun ardından 1990'da sona erdi.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Şili",
+    "kaynak_id": "21056#2",
+    "kaynak_baslik": "Şili"
+  },
+  {
+    "id": "m0180",
+    "mode": "mcq",
+    "prompt": "Sasani hükümdarı I. Şâpûr, Edessa savaşından sonra hangi Roma imparatorunu esir almıştır?",
+    "choices": [
+      "Arap Philip",
+      "III. Gordian",
+      "Valerianus",
+      "Odanathus"
+    ],
+    "correct_index": 2,
+    "explanation": "259'daki bu esaret Romalılar için uzun süre utanç kaynağı oldu; Şâpûr zaferini Nakş-ı Rüstem kabartmalarıyla kutladı.",
+    "topics": [
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Sasani İmparatorluğu",
+    "kaynak_id": "163975#11",
+    "kaynak_baslik": "Sasani İmparatorluğu"
+  },
+  {
+    "id": "m0181",
+    "mode": "mcq",
+    "prompt": "Pekin Maratonu hangi yıldan beri her yıl düzenlenmektedir?",
+    "choices": [
+      "2008",
+      "1981",
+      "1990",
+      "2004"
+    ],
+    "correct_index": 1,
+    "explanation": "1990 Asya Oyunları, 2004 Çin Açık Tenis ve 2008 Olimpiyatları şehrin diğer büyük organizasyonlarıdır.",
+    "topics": [
+      "spor",
+      "coğrafya"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Pekin",
+    "kaynak_id": "11228#30",
+    "kaynak_baslik": "Pekin"
+  },
+  {
+    "id": "m0182",
+    "mode": "mcq",
+    "prompt": "İkinci yüzyılda Galen, sarımsağı hangi ifadeyle övmüştür?",
+    "choices": [
+      "Tanrıların otu",
+      "Köylülerin tiryakı",
+      "Askerin gücü",
+      "Yoksulun altını"
+    ],
+    "correct_index": 1,
+    "explanation": "İbn-i Sina da El-Kanun fi't-Tıb'da sarımsağı antibiyotik etkisi nedeniyle pek çok rahatsızlık için önermişti.",
+    "topics": [
+      "sağlık",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Sarımsak",
+    "kaynak_id": "13422#19",
+    "kaynak_baslik": "Sarımsak"
+  },
+  {
+    "id": "m0183",
+    "mode": "mcq",
+    "prompt": "NASA'nın Mars görevlerinden Viking-1, gezegende ne kadar süre çalışmıştır?",
+    "choices": [
+      "Altı yıl",
+      "Üç yıl",
+      "Bir yıl",
+      "On yıl"
+    ],
+    "correct_index": 0,
+    "explanation": "Viking-1 altı, Viking-2 üç yıl kaldı; gönderdikleri fotoğraflara Mars haritalamasında bugün bile başvuruluyor.",
+    "topics": [
+      "uzay"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Mars",
+    "kaynak_id": "1562#48",
+    "kaynak_baslik": "Mars"
+  },
+  {
+    "id": "m0184",
+    "mode": "mcq",
+    "prompt": "Swami Vivekananda, Vedanta öğretisini bir din olarak yaymak amacıyla Ramakrishna Misyonu'nu hangi yıl kurmuştur?",
+    "choices": [
+      "1902",
+      "1885",
+      "1893",
+      "1897"
+    ],
+    "correct_index": 3,
+    "explanation": "Misyona göre dünyadaki tüm dinler aynı gerçeği müjdeler; farklılık yalnızca görünüştedir (Maya).",
+    "topics": [
+      "din"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Hinduizm",
+    "kaynak_id": "14813#39",
+    "kaynak_baslik": "Hinduizm"
   }
 ]
