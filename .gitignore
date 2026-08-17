@@ -12,3 +12,9 @@ data/raw/.bundle.mjs
 
 .DS_Store
 node_modules/
+
+.next/
+out/
+next-env.d.ts
+
+.claude/worktrees/
