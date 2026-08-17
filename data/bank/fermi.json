@@ -2155,42 +2155,41 @@
     "answer": 260,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
         "SpaceX (Falcon 9, Starship)",
         "≈ 145"
       ],
       [
-        "China (CASC, CASIC, commercial)",
+        "Çin (CASC, CASIC, ticari)",
         "+ 70"
       ],
       [
-        "Russia, ULA, India, others",
+        "Rusya, ULA, Hindistan, diğerleri",
         "+ 45"
       ],
       [
-        "Total 2025 launches",
+        "2025 toplam fırlatma",
         "≈ 260"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "No population to lean on here, so use the calendar. How often does a rocket go up these days? Feels like every day or two, so call it 5 a week. Times 52 weeks.",
+      "lead": "Dayanacak bir nüfus yok, takvimi kullan. Bugünlerde ne sıklıkla roket kalkıyor? Neredeyse gün aşırı — haftada 5 de. 52 hafta ile çarp.",
       "rows": [
         [
-          "Weeks in a year",
+          "Yıldaki hafta",
           "52"
         ],
         [
-          "Launches per week",
+          "Haftada fırlatma",
           "~5"
         ],
         [
           "52 × 5",
           "≈ 260"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -2208,38 +2207,37 @@
     "answer": 3900000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Japan population",
-        "≈ 124 M"
+        "Japonya nüfusu",
+        "≈ 124 milyon"
       ],
       [
-        "Density",
-        "≈ 1 per 32 people"
+        "Yoğunluk",
+        "≈ 32 kişiye 1"
       ],
       [
-        "124,000,000 ÷ 32",
-        "≈ 3.9 million"
+        "124.000.000 ÷ 32",
+        "≈ 3,9 milyon"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Start with Japan's population, about 125 million. Japan is famous for machines on every block. How many people share one? Maybe 1 for every 30.",
+      "lead": "Japonya'nın nüfusundan başla: 125 milyon. Ülke her sokakta otomat olmasıyla ünlü. Kaç kişiye bir tane düşer? 30 kişiye bir de.",
       "rows": [
         [
-          "Japan population",
-          "125,000,000"
+          "Japonya nüfusu",
+          "125.000.000"
         ],
         [
-          "People per machine",
+          "Makine başına kişi",
           "~30"
         ],
         [
-          "125M ÷ 30",
-          "≈ 4 million"
+          "125 milyon ÷ 30",
+          "≈ 4 milyon"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -2256,38 +2254,37 @@
     "answer": 2900000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Peak (2017)",
-        "~3.28 M"
+        "Zirve (2017)",
+        "~3,28 milyon"
       ],
       [
-        "Declining ~2% / yr",
+        "Yılda ~%2 azalma",
         ""
       ],
       [
-        "2023 global total",
-        "≈ 2.9 million"
+        "2023 dünya toplamı",
+        "≈ 2,9 milyon"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "The easiest place to start is the world's population, about 8 billion. How many people does one ATM serve? Quite a few, call it 1 for every 3,000.",
+      "lead": "En kolay başlangıç dünya nüfusu: 8 milyar. Bir ATM kaç kişiye hizmet eder? Epey — 3.000 kişiye bir de.",
       "rows": [
         [
-          "World population",
-          "8,000,000,000"
+          "Dünya nüfusu",
+          "8.000.000.000"
         ],
         [
-          "People per ATM",
-          "~3,000"
+          "ATM başına kişi",
+          "~3.000"
         ],
         [
-          "8B ÷ 3,000",
-          "≈ 2.7 million"
+          "8 milyar ÷ 3.000",
+          "≈ 2,7 milyon"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -2305,22 +2302,22 @@
     "answer": 14000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Oct 2025 active total",
-        "~13,000"
+        "Ekim 2025 aktif toplam",
+        "~13.000"
       ],
       [
-        "+ ~6 months of launches",
-        "+ ~1,000"
+        "+ ~6 aylık fırlatmalar",
+        "+ ~1.000"
       ],
       [
-        "Starlink alone",
-        "~10,000"
+        "Yalnızca Starlink",
+        "~10.000"
       ],
       [
-        "Mid-2026 estimate",
-        "≈ 14,000"
+        "2026 ortası tahmini",
+        "≈ 14.000"
       ]
     ]
   },
@@ -2338,22 +2335,22 @@
     "answer": 33000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Total titles",
-        "~133 (films, series, specials)"
+        "Toplam yapım",
+        "~133 (film, dizi, özel bölüm)"
       ],
       [
-        "Total runtime",
-        "~554.6 hours"
+        "Toplam süre",
+        "~554,6 saat"
       ],
       [
-        "Convert to minutes",
+        "Dakikaya çevir",
         "× 60"
       ],
       [
-        "Total",
-        "≈ 33,000"
+        "Toplam",
+        "≈ 33.000"
       ]
     ]
   },
@@ -2371,38 +2368,37 @@
     "answer": 905,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Club goals (Barça + PSG + Miami)",
+        "Kulüp golleri (Barcelona + PSG + Miami)",
         "789"
       ],
       [
-        "Argentina national team",
+        "Arjantin millî takımı",
         "+ 116"
       ],
       [
-        "Career total",
+        "Kariyer toplamı",
         "≈ 905"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Messi turned pro around 2004, so call it a 20-year career. How many goals does the best player alive score in a year? A lot, maybe 45.",
+      "lead": "Messi 2004 civarında profesyonel oldu, yani 20 yıllık bir kariyer. Dünyanın en iyi oyuncusu bir yılda kaç gol atar? Çok — 45 kadar.",
       "rows": [
         [
-          "Years as a pro",
+          "Profesyonellikte yıl",
           "~20"
         ],
         [
-          "Goals per year",
+          "Yılda gol",
           "~45"
         ],
         [
           "20 × 45",
           "≈ 900"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -2420,42 +2416,41 @@
     "answer": 43500,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "U.S. locations",
-        "~13,600"
+        "ABD'deki şube",
+        "~13.600"
       ],
       [
-        "Top 4 intl. (China, Japan, France, Canada)",
-        "~14,000"
+        "İlk 4 ülke (Çin, Japonya, Fransa, Kanada)",
+        "~14.000"
       ],
       [
-        "Rest of world (110+ countries)",
-        "~15,900"
+        "Dünyanın geri kalanı (110+ ülke)",
+        "~15.900"
       ],
       [
-        "Year-end 2024 total",
-        "≈ 43,500"
+        "2024 sonu toplam",
+        "≈ 43.500"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Start with the US, about 330 million people. How many people per McDonald's? Feels like one for every 25,000. And the US is only about a third of them, so triple it.",
+      "lead": "ABD'den başla: 330 milyon kişi. Kaç kişiye bir McDonald's düşer? 25 bin kişiye bir gibi. ABD dünyanın ancak üçte biri, o yüzden üçle çarp.",
       "rows": [
         [
-          "US population",
-          "330,000,000"
+          "ABD nüfusu",
+          "330.000.000"
         ],
         [
-          "1 per ~25,000 people",
-          "≈ 13,000 US"
+          "25.000 kişiye 1",
+          "≈ 13.000 ABD"
         ],
         [
-          "US ~1/3 of world (× 3)",
-          "≈ 40,000"
+          "ABD dünyanın ~1/3'ü (× 3)",
+          "≈ 40.000"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -2472,38 +2467,37 @@
     "answer": 255,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Annual global births",
-        "~134 M"
+        "Yıllık küresel doğum",
+        "~134 milyon"
       ],
       [
-        "Minutes in a year",
-        "~525,600"
+        "Yıldaki dakika",
+        "~525.600"
       ],
       [
-        "134,000,000 ÷ 525,600",
+        "134.000.000 ÷ 525.600",
         "≈ 255"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Start with the world's 8 billion people. Everyone is born once, over a life of maybe 75 years, so around 100 million births a year. How many minutes in a year? About half a million, so spread the births across those.",
+      "lead": "Dünyanın 8 milyar insanından başla. Herkes bir kez doğuyor ve ömür 75 yıl kadar, yani yılda 100 milyon civarı doğum. Yılda kaç dakika var? Yarım milyon — doğumları bunlara yay.",
       "rows": [
         [
-          "World population",
-          "8,000,000,000"
+          "Dünya nüfusu",
+          "8.000.000.000"
         ],
         [
-          "÷ 75-year life",
-          "≈ 100M born/yr"
+          "÷ 75 yıllık ömür",
+          "≈ yılda 100 milyon"
         ],
         [
-          "÷ 525,600 minutes",
+          "÷ 525.600 dakika",
           "≈ 200"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -2521,18 +2515,18 @@
     "answer": 45,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Active thunderstorms at any moment",
-        "~2,000"
+        "Herhangi bir anda etkin fırtına",
+        "~2.000"
       ],
       [
-        "NASA flash rate (avg)",
-        "40–50 / sec"
+        "NASA çakma oranı (ortalama)",
+        "saniyede 40-50"
       ],
       [
-        "Annual total",
-        "~1.4 billion"
+        "Yıllık toplam",
+        "~1,4 milyar"
       ]
     ]
   },
@@ -2550,38 +2544,37 @@
     "answer": 20000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Tracked daily by Flightradar24",
-        "~300,000"
+        "Flightradar24'ün günlük takibi",
+        "~300.000"
       ],
       [
-        "Avg flight duration",
-        "~2 hours"
+        "Ortalama uçuş süresi",
+        "~2 saat"
       ],
       [
-        "Concurrent in air (typical peak)",
-        "≈ 20,000"
+        "Aynı anda havada (tipik zirve)",
+        "≈ 20.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "There are roughly 25,000 airliners in the world. How many are actually up in the air right now? Feels like most of them, call it two-thirds.",
+      "lead": "Dünyada 25 bin kadar yolcu uçağı var. Şu anda kaçı gerçekten havada? Çoğu gibi hissettiriyor — üçte ikisi de.",
       "rows": [
         [
-          "Airliners in the world",
-          "~25,000"
+          "Dünyadaki yolcu uçağı",
+          "~25.000"
         ],
         [
-          "Share up in the air",
+          "Havada olan pay",
           "× 2/3"
         ],
         [
-          "25,000 × 2/3",
-          "≈ 17,000"
+          "25.000 × 2/3",
+          "≈ 17.000"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -2599,57 +2592,37 @@
     "answer": 18000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Park area",
-        "843 acres"
+        "Park alanı",
+        "341 hektar"
       ],
       [
-        "Tree species",
+        "Ağaç türü",
         "~170"
       ],
       [
-        "Conservancy-maintained inventory",
-        "≈ 18,000"
+        "Conservancy envanteri",
+        "≈ 18.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Central Park is about 2.5 miles long and half a mile wide, a bit over 800 acres. How many trees per acre? It's mostly lawns and paths, so not dense, maybe 20.",
+      "lead": "Central Park 4 kilometre uzunluğunda, 800 metre eninde — 340 hektar kadar. Hektara kaç ağaç düşer? Çoğu çimen ve patika, yoğun değil: 50 de.",
       "rows": [
         [
-          "Park size",
-          "~800 acres"
+          "Park büyüklüğü",
+          "~340 hektar"
         ],
         [
-          "Trees per acre",
-          "× 20"
+          "Hektara ağaç",
+          "× 50"
         ],
         [
-          "800 × 20",
-          "≈ 16,000"
+          "340 × 50",
+          "≈ 17.000"
         ]
-      ],
-      "startRow": 0,
-      "system": "imperial",
-      "alt": {
-        "lead": "Central Park is about 4 kilometers long and 800 meters wide, roughly 340 hectares. How many trees per hectare? It's mostly lawns and paths, so not dense, maybe 50.",
-        "rows": [
-          [
-            "Park size",
-            "~340 hectares"
-          ],
-          [
-            "Trees per hectare",
-            "× 50"
-          ],
-          [
-            "340 × 50",
-            "≈ 17,000"
-          ]
-        ],
-        "startRow": 0
-      }
+      ]
     }
   },
   {
@@ -2667,42 +2640,41 @@
     "answer": 3200,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "First ceremony",
+        "İlk tören",
         "1929"
       ],
       [
-        "Ceremonies through 2026",
+        "2026'ya kadar tören sayısı",
         "98"
       ],
       [
-        "Avg statuettes / year",
+        "Yılda ortalama heykelcik",
         "~32"
       ],
       [
-        "Cumulative total",
-        "≈ 3,200"
+        "Kümülatif toplam",
+        "≈ 3.200"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "The Oscars started in 1929, nearly 100 years of ceremonies. How many awards go out each year? Across all the categories, maybe 30.",
+      "lead": "Oscar'lar 1929'da başladı, neredeyse 100 yıllık tören var. Her yıl kaç ödül veriliyor? Bütün dallar toplandığında 30 kadar.",
       "rows": [
         [
-          "Years of Oscars",
+          "Oscar yılı",
           "~97"
         ],
         [
-          "Awards per year",
+          "Yılda ödül",
           "× 30"
         ],
         [
           "97 × 30",
-          "≈ 2,900"
+          "≈ 2.900"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -2720,38 +2692,37 @@
     "answer": 7563,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "First ascent",
-        "1953 (Hillary & Norgay)"
+        "İlk tırmanış",
+        "1953 (Hillary ve Norgay)"
       ],
       [
-        "Total summit ascents",
-        "~13,700"
+        "Toplam zirve çıkışı",
+        "~13.700"
       ],
       [
-        "Unique individuals (multi-summits removed)",
-        "7,563"
+        "Farklı kişi (tekrarlar çıkarılmış)",
+        "7.563"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "The first summit was back in 1953, about 70 years ago. Hardly anyone made it in the early decades, but lately it's hundreds a year. Average across all of it, maybe 100 a year.",
+      "lead": "İlk zirve 1953'te, yani 70 yıl önce. İlk on yıllarda neredeyse kimse çıkamadı, ama son yıllarda yılda yüzlerce kişi çıkıyor. Hepsine yayarsan yılda 100 kişi.",
       "rows": [
         [
-          "Years since 1953",
+          "1953'ten beri yıl",
           "~70"
         ],
         [
-          "Summited per year",
+          "Yılda zirveye çıkan",
           "× 100"
         ],
         [
           "70 × 100",
-          "≈ 7,000"
+          "≈ 7.000"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -2769,39 +2740,39 @@
     "answer": 1028,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Gen I (Red/Blue/Yellow)",
+        "1. nesil (Red/Blue/Yellow)",
         "151"
       ],
       [
-        "Gens II–IX added",
+        "2-9. nesillerin eklediği",
         "+ 874"
       ],
       [
-        "Gen X (so far)",
+        "10. nesil (şimdilik)",
         "+ 3"
       ],
       [
-        "National Pokédex total",
-        "1,028"
+        "Ulusal Pokédex toplamı",
+        "1.028"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "The original games had the famous 151. How many generations since? About 8 more, each adding roughly another 100.",
+      "lead": "İlk oyunlarda meşhur 151 vardı. O günden beri kaç nesil geçti? 8 kadar, her biri 100 civarı ekliyor.",
       "rows": [
         [
-          "First generation",
+          "İlk nesil",
           "151"
         ],
         [
-          "~8 more gens after",
+          "Sonraki ~8 nesil",
           "× ~110"
         ],
         [
           "151 + 880",
-          "≈ 1,030"
+          "≈ 1.030"
         ]
       ]
     }
@@ -2821,39 +2792,39 @@
     "answer": 55000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Global merchant fleet (>100 GT)",
-        "~110,000"
+        "Dünya ticaret filosu (>100 GT)",
+        "~110.000"
       ],
       [
-        "Cargo carriers (bulk, container, tanker, general)",
-        "~65%"
+        "Yük taşıyanlar (dökme, konteyner, tanker, genel)",
+        "~%65"
       ],
       [
-        "Share underway at any moment",
-        "~75%"
+        "Herhangi bir anda seyirde olan",
+        "~%75"
       ],
       [
-        "110,000 × 0.65 × 0.75",
-        "≈ 55,000"
+        "110.000 × 0,65 × 0,75",
+        "≈ 55.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "chain",
-      "lead": "Think about how many ships leave port each day worldwide, maybe 2,000 departures. How long does an average voyage take before reaching the next port? Call it a month, 30 days. That's 30 days worth of departures all still out at sea at once.",
+      "lead": "Dünyada günde kaç gemi limandan ayrılıyor? Belki 2.000. Ortalama bir sefer bir sonraki limana varana dek ne kadar sürer? Bir ay de. Yani 30 günlük kalkışın tamamı aynı anda denizde.",
       "rows": [
         [
-          "Ships departing ports worldwide per day",
-          "~2,000"
+          "Günlük liman çıkışı",
+          "~2.000"
         ],
         [
-          "Average days at sea per voyage",
+          "Sefer başına denizde gün",
           "~30"
         ],
         [
-          "2,000 × 30",
-          "≈ 60,000"
+          "2.000 × 30",
+          "≈ 60.000"
         ]
       ]
     }
@@ -2873,38 +2844,37 @@
     "answer": 81001,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Active elevators on the NYC Buildings roll",
-        "81,001"
+        "NYC Yapı İşleri kayıtlarındaki etkin asansör",
+        "81.001"
       ],
       [
-        "Manhattan's share of those",
-        "42,470"
+        "Manhattan'ın payı",
+        "42.470"
       ],
       [
-        "All conveying devices (adds escalators, dumbwaiters, lifts)",
-        "93,225"
+        "Tüm taşıma cihazları (yürüyen merdiven, servis asansörü dahil)",
+        "93.225"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Start with New York's 8.5 million people. How many does a single elevator serve? Between residents and workers in the tall buildings, maybe 100.",
+      "lead": "New York'un 8,5 milyon kişisinden başla. Tek bir asansör kaç kişiye hizmet eder? Yüksek binalardaki sakinler ve çalışanlar düşünülünce 100 kadar.",
       "rows": [
         [
-          "NYC people",
-          "8,500,000"
+          "NYC nüfusu",
+          "8.500.000"
         ],
         [
-          "People per elevator",
+          "Asansör başına kişi",
           "÷ 100"
         ],
         [
-          "8.5M ÷ 100",
-          "≈ 85,000"
+          "8,5 milyon ÷ 100",
+          "≈ 85.000"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -2922,42 +2892,41 @@
     "answer": 33000000000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Annual chickens slaughtered",
-        "~75 billion"
+        "Yıllık kesilen tavuk",
+        "~75 milyar"
       ],
       [
-        "Average lifespan in production",
-        "~45 days = 1/8 of a year"
+        "Üretimde ortalama yaşam",
+        "~45 gün = yılın 1/8'i"
       ],
       [
-        "Live population at any moment",
-        "75B × 1/8 + layer flocks"
+        "Herhangi bir anda canlı nüfus",
+        "75 milyar × 1/8 + yumurtacı sürüler"
       ],
       [
-        "FAO standing population",
-        "≈ 33 billion"
+        "FAO mevcut popülasyon",
+        "≈ 33 milyar"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Start with 8 billion people. We eat an enormous amount of chicken, and a meat bird only lives a couple of months. How many are alive per person at any moment? Maybe 4.",
+      "lead": "8 milyar insandan başla. Muazzam miktarda tavuk yiyoruz ve etlik bir tavuk ancak birkaç ay yaşıyor. Kişi başına aynı anda kaç tavuk canlı? 4 de.",
       "rows": [
         [
-          "World population",
-          "8,000,000,000"
+          "Dünya nüfusu",
+          "8.000.000.000"
         ],
         [
-          "Chickens alive per person",
+          "Kişi başına canlı tavuk",
           "× 4"
         ],
         [
-          "8B × 4",
-          "≈ 32 billion"
+          "8 milyar × 4",
+          "≈ 32 milyar"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -2974,38 +2943,37 @@
     "answer": 275000000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "On sale since 1935",
-        "~90 years"
+        "1935'ten beri satışta",
+        "~90 yıl"
       ],
       [
-        "Sets sold per year",
-        "~3 million"
+        "Yılda satılan kutu",
+        "~3 milyon"
       ],
       [
-        "Lifetime sales reported by Hasbro",
-        "≈ 275 million"
+        "Hasbro'nun bildirdiği toplam satış",
+        "≈ 275 milyon"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Monopoly has been around since 1935, so about 90 years. How many sets sell a year? It's one of the best-selling board games ever, maybe 3 million.",
+      "lead": "Monopoly 1935'ten beri var, yani 90 yıl. Yılda kaç kutu satılıyor? Tarihin en çok satan kutu oyunlarından biri — 3 milyon de.",
       "rows": [
         [
-          "Years on sale",
+          "Satışta olduğu yıl",
           "~90"
         ],
         [
-          "Sets sold per year",
-          "× 3 million"
+          "Yılda satılan kutu",
+          "× 3 milyon"
         ],
         [
-          "90 × 3M",
-          "≈ 270 million"
+          "90 × 3 milyon",
+          "≈ 270 milyon"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -3023,42 +2991,41 @@
     "answer": 41100,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Stores in the Americas",
-        "≈ 18,000"
+        "Amerika kıtasındaki mağaza",
+        "≈ 18.000"
       ],
       [
-        "Stores in China",
-        "≈ 7,800"
+        "Çin",
+        "≈ 7.800"
       ],
       [
-        "Rest of world",
-        "≈ 14,000"
+        "Dünyanın geri kalanı",
+        "≈ 14.000"
       ],
       [
-        "Total at end of FY2024",
-        "≈ 40,200"
+        "2024 mali yılı sonu toplam",
+        "≈ 40.200"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Start with the US, about 330 million people. How many people per Starbucks? It's everywhere, maybe one for every 20,000. And the US is only about 40% of the total, so a bit more than double it.",
+      "lead": "ABD'den başla: 330 milyon kişi. Kaç kişiye bir Starbucks düşer? Her yerde — 20 bin kişiye bir de. ABD toplamın %40'ı kadar, o yüzden iki buçukla çarp.",
       "rows": [
         [
-          "US population",
-          "330,000,000"
+          "ABD nüfusu",
+          "330.000.000"
         ],
         [
-          "1 per ~20,000 people",
-          "≈ 16,000 US"
+          "20.000 kişiye 1",
+          "≈ 16.000 ABD"
         ],
         [
-          "US ~40% of world (× 2.5)",
-          "≈ 40,000"
+          "ABD dünyanın ~%40'ı (× 2,5)",
+          "≈ 40.000"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -3075,42 +3042,41 @@
     "answer": 385000,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Global crude birth rate",
-        "~17 per 1,000 / year"
+        "Küresel kaba doğum hızı",
+        "yılda binde ~17"
       ],
       [
-        "World population",
-        "~8.1 billion"
+        "Dünya nüfusu",
+        "~8,1 milyar"
       ],
       [
-        "Annual births",
-        "≈ 140 million"
+        "Yıllık doğum",
+        "≈ 140 milyon"
       ],
       [
-        "÷ 365 days",
-        "≈ 385,000"
+        "÷ 365 gün",
+        "≈ 385.000"
       ]
     ],
-    "_napkin_en": {
+    "napkin": {
       "type": "anchor",
-      "lead": "Start with the world's population, about 8 billion. Everyone is born once, over a life of maybe 70 years. So births per year is 8 billion ÷ 70, then split across 365 days.",
+      "lead": "Dünya nüfusundan başla: 8 milyar. Herkes bir kez doğuyor, ömür 70 yıl kadar. Yıllık doğum 8 milyar ÷ 70, sonra 365 güne böl.",
       "rows": [
         [
-          "World population",
-          "8,000,000,000"
+          "Dünya nüfusu",
+          "8.000.000.000"
         ],
         [
-          "÷ ~70 yr life",
-          "≈ 115M/yr"
+          "÷ ~70 yıllık ömür",
+          "≈ yılda 115 milyon"
         ],
         [
-          "÷ 365 days",
-          "≈ 315,000"
+          "÷ 365 gün",
+          "≈ 315.000"
         ]
-      ],
-      "startRow": 0
+      ]
     }
   },
   {
@@ -3128,17 +3094,17 @@
     "answer": 35,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Road and rail bridges in Greater London",
+        "Büyük Londra'daki karayolu ve demiryolu köprüsü",
         "≈ 33"
       ],
       [
-        "Pedestrian-only bridges (Millennium, Golden Jubilee)",
+        "Yalnızca yaya köprüleri (Millennium, Golden Jubilee)",
         "+ 2"
       ],
       [
-        "Total Thames crossings within Greater London",
+        "Büyük Londra sınırlarındaki toplam geçiş",
         "≈ 35"
       ]
     ]
@@ -3158,18 +3124,18 @@
     "answer": 1350,
     "origin": "translated",
     "verified_at": "2026-08",
-    "_math_en": [
+    "math": [
       [
-        "Volcanoes erupted in the last 10,000 yrs (Holocene)",
-        "≈ 1,350"
+        "Son 10.000 yılda püsküren (Holosen)",
+        "≈ 1.350"
       ],
       [
-        "Erupting in any given year",
-        "~50–70"
+        "Herhangi bir yılda püsküren",
+        "~50-70"
       ],
       [
-        "Smithsonian \"active\" definition",
-        "≈ 1,350"
+        "Smithsonian \"aktif\" tanımı",
+        "≈ 1.350"
       ]
     ]
   },
