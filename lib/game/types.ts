@@ -45,6 +45,7 @@ export type Soru = FermiSoru | McqSoru;
 export interface Paket {
 	slug: string;
 	baslik: string;
+	aciklama?: string;
 	renk: string;
 	metin_rengi: string;
 	soru_ids: string[];

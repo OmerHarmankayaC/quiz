@@ -10,9 +10,7 @@
     "dev": "next dev",
     "build": "next build",
     "test": "vitest run",
-    "test:watch": "vitest",
-    "bank:validate": "node scripts/validate-bank.mjs",
-    "bank:calendar": "node scripts/build-calendar.mjs"
+    "test:watch": "vitest"
   },
   "keywords": [],
   "author": "",
