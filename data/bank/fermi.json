@@ -1448,7 +1448,29 @@
         "Toplam geçiş",
         "= 56"
       ]
-    ]
+    ],
+    "napkin": {
+      "type": "chain",
+      "lead": "Şarkıyı hatırlamaya çalışma, yapısını düşün. Pop parçasında dört kadar nakarat var ve bu kelime nakaratta üst üste tekrarlanıyor — dokuz kez de. Kıtalarda ve çıkışta da birkaç kez geçiyor.",
+      "rows": [
+        [
+          "Nakarat sayısı",
+          "~4"
+        ],
+        [
+          "Nakarat başına tekrar",
+          "× 9"
+        ],
+        [
+          "Kıta ve çıkışta ek",
+          "+ ~20"
+        ],
+        [
+          "4 × 9 + 20",
+          "≈ 56"
+        ]
+      ]
+    }
   },
   {
     "id": "f0030",
@@ -1718,7 +1740,25 @@
         "Standart (Titleist Pro V1 vb.)",
         "= 336"
       ]
-    ]
+    ],
+    "napkin": {
+      "type": "chain",
+      "lead": "Topu gözünde canlandır: çapı 4,3 santim, yüzeyi baştan başa çukurcuk dolu. Kürenin yüzey alanı 4πr², yani 57 santimetrekare kadar. Bir çukurcuk ne kadar yer kaplıyor? İki milimetrelik bir daire.",
+      "rows": [
+        [
+          "Top yüzey alanı",
+          "~57 cm²"
+        ],
+        [
+          "Çukurcuk başına alan",
+          "÷ 0,17 cm²"
+        ],
+        [
+          "Sonuç",
+          "≈ 335"
+        ]
+      ]
+    }
   },
   {
     "id": "f0036",
@@ -1792,7 +1832,29 @@
         "C(50,5)",
         "= 2.118.760"
       ]
-    ]
+    ],
+    "napkin": {
+      "type": "chain",
+      "lead": "Sırayla seç: ilk kişi için 50 seçenek, sonra 49, 48, 47, 46 — beş kişilik sıralı dizilim 254 milyon eder. Ama takımda sıra önemli değil; aynı beşli 120 farklı sırayla seçilebilir.",
+      "rows": [
+        [
+          "Sıralı seçim",
+          "50 × 49 × 48 × 47 × 46"
+        ],
+        [
+          "",
+          "≈ 254 milyon"
+        ],
+        [
+          "Beş kişinin sıralanma sayısı",
+          "÷ 120"
+        ],
+        [
+          "Sonuç",
+          "≈ 2,1 milyon"
+        ]
+      ]
+    }
   },
   {
     "id": "f0038",
@@ -2319,7 +2381,25 @@
         "2026 ortası tahmini",
         "≈ 14.000"
       ]
-    ]
+    ],
+    "napkin": {
+      "type": "anchor",
+      "lead": "Starlink tek başına bu işin çoğunu yapıyor: 10 bin kadar uydusu var ve sayı hızla artıyor. Geri kalan bütün ülkeler, şirketler ve bilim görevleri birlikte belki 4 bin daha ekliyor.",
+      "rows": [
+        [
+          "Starlink",
+          "~10.000"
+        ],
+        [
+          "Diğer herkes",
+          "+ ~4.000"
+        ],
+        [
+          "Sonuç",
+          "≈ 14.000"
+        ]
+      ]
+    }
   },
   {
     "id": "f0049",
@@ -2352,7 +2432,25 @@
         "Toplam",
         "≈ 33.000"
       ]
-    ]
+    ],
+    "napkin": {
+      "type": "chain",
+      "lead": "Filmler aslında küçük kısım. 35 kadar film × 135 dakika 4.700 dakika eder. Asıl hacim dizilerde: Agents of SHIELD, Daredevil ve diğerleri toplamda 600 bölümü aşıyor.",
+      "rows": [
+        [
+          "Film",
+          "~35 × 135 dk ≈ 4.700 dk"
+        ],
+        [
+          "Dizi bölümü",
+          "~630 × 45 dk ≈ 28.000 dk"
+        ],
+        [
+          "Toplam",
+          "≈ 33.000 dk"
+        ]
+      ]
+    }
   },
   {
     "id": "f0050",
@@ -2528,7 +2626,25 @@
         "Yıllık toplam",
         "~1,4 milyar"
       ]
-    ]
+    ],
+    "napkin": {
+      "type": "chain",
+      "lead": "Dünyada her an 2.000 kadar gök gürültülü fırtına var. Bir fırtına ne sıklıkla şimşek çakıyor? Dakikada bir iki kez de — yani saniyede 0,02.",
+      "rows": [
+        [
+          "Aynı anda etkin fırtına",
+          "~2.000"
+        ],
+        [
+          "Fırtına başına saniyede çakma",
+          "× 0,02"
+        ],
+        [
+          "Sonuç",
+          "≈ 40"
+        ]
+      ]
+    }
   },
   {
     "id": "f0054",
@@ -3107,7 +3223,25 @@
         "Büyük Londra sınırlarındaki toplam geçiş",
         "≈ 35"
       ]
-    ]
+    ],
+    "napkin": {
+      "type": "chain",
+      "lead": "Thames, Büyük Londra içinde 50 kilometre kadar akıyor. Yoğun bir şehirde köprüler ne sıklıkla geliyor? Bir buçuk kilometrede bir de.",
+      "rows": [
+        [
+          "Londra içinde nehir uzunluğu",
+          "~50 km"
+        ],
+        [
+          "Köprüler arası mesafe",
+          "÷ 1,5 km"
+        ],
+        [
+          "Sonuç",
+          "≈ 33"
+        ]
+      ]
+    }
   },
   {
     "id": "f0066",
@@ -3137,7 +3271,25 @@
         "Smithsonian \"aktif\" tanımı",
         "≈ 1.350"
       ]
-    ]
+    ],
+    "napkin": {
+      "type": "chain",
+      "lead": "Yanardağlar levha sınırlarında toplanıyor; Pasifik Ateş Çemberi tek başına büyük pay. Endonezya'da 130, Japonya'da 110, ABD'de 160 kadar var. Bu üçü toplamın üçte biri kadar.",
+      "rows": [
+        [
+          "Endonezya + Japonya + ABD",
+          "~400"
+        ],
+        [
+          "Bu üçü toplamın ~1/3'ü",
+          "× 3"
+        ],
+        [
+          "Sonuç",
+          "≈ 1.200"
+        ]
+      ]
+    }
   },
   {
     "id": "f0067",
@@ -3614,7 +3766,29 @@
         "iOS 17 emoji seçicisindeki toplam",
         "≈ 3.790"
       ]
-    ]
+    ],
+    "napkin": {
+      "type": "chain",
+      "lead": "Klavyeyi aç ve kategorileri say: suratlar, insanlar, hayvanlar, yiyecek, etkinlik, seyahat, nesne, sembol, bayrak — dokuz kategori. Her birinde birkaç yüz emoji var. Ama insan emojilerinin ten rengi ve cinsiyet varyantları sayıyı katlıyor.",
+      "rows": [
+        [
+          "Kategori",
+          "~9"
+        ],
+        [
+          "Kategori başına emoji",
+          "× ~150"
+        ],
+        [
+          "Ten rengi ve cinsiyet varyantları",
+          "× ~2,8"
+        ],
+        [
+          "Sonuç",
+          "≈ 3.800"
+        ]
+      ]
+    }
   },
   {
     "id": "f0077",
@@ -3643,7 +3817,25 @@
         "En üst kademe (1 milyon+)",
         "≈ 55.000"
       ]
-    ]
+    ],
+    "napkin": {
+      "type": "anchor",
+      "lead": "Bir milyon abone nadir bir eşik. YouTube'da 115 milyon kanal var ama çoğu boş ya da birkaç videoluk. İki binde bir kanal bu eşiği geçiyor de.",
+      "rows": [
+        [
+          "YouTube'daki kanal",
+          "~115 milyon"
+        ],
+        [
+          "1 milyon aboneyi geçen pay",
+          "~2.000'de 1"
+        ],
+        [
+          "Sonuç",
+          "≈ 57.000"
+        ]
+      ]
+    }
   },
   {
     "id": "f0078",
@@ -3934,7 +4126,29 @@
         "Kadınlarla birlikte (~0)",
         "≈ %0,1"
       ]
-    ]
+    ],
+    "napkin": {
+      "type": "chain",
+      "lead": "Çevrende kaç kişi 198 santimden uzun? Muhtemelen hiç — basketbolcular dışında. Boy dağılımı uçlara doğru çok hızlı inceliyor; ortalamanın dört standart sapma üstü, binde bir bölgesi demek.",
+      "rows": [
+        [
+          "Ortalama erkek boyu",
+          "~171 cm"
+        ],
+        [
+          "198 cm ne kadar üstünde",
+          "+27 cm ≈ 4 standart sapma"
+        ],
+        [
+          "Bu kadar uçta kalan pay",
+          "≈ binde 1"
+        ],
+        [
+          "Sonuç",
+          "≈ %0,1"
+        ]
+      ]
+    }
   },
   {
     "id": "f0084",
@@ -4299,7 +4513,29 @@
         "Ufuk pusu düşülünce",
         "≈ 2.500"
       ]
-    ]
+    ],
+    "napkin": {
+      "type": "chain",
+      "lead": "Gökyüzünün yarısı her an ufkun altında. Gözün ayırt edebildiği yıldız sayısı sandığından az — tüm küre için birkaç bin. Ufka yakın olanlar da atmosferde kayboluyor.",
+      "rows": [
+        [
+          "Tüm gökyüzünde çıplak gözle görülür yıldız",
+          "~9.000"
+        ],
+        [
+          "Aynı anda yalnızca yarısı ufkun üstünde",
+          "÷ 2"
+        ],
+        [
+          "Ufuk pusunda kaybolanlar",
+          "− ~2.000"
+        ],
+        [
+          "Sonuç",
+          "≈ 2.500"
+        ]
+      ]
+    }
   },
   {
     "id": "f0092",
@@ -4620,7 +4856,25 @@
         "AAD renkler arası ortalama",
         "≈ 100.000"
       ]
-    ]
+    ],
+    "napkin": {
+      "type": "chain",
+      "lead": "Kafa derisinin alanını düşün: kabaca 20 × 20 santim, yani 400 santimetrekare. Santimetrekareye kaç tel düşüyor? Parmağınla bastırdığında epey yoğun geliyor — 250 de.",
+      "rows": [
+        [
+          "Kafa derisi alanı",
+          "~400 cm²"
+        ],
+        [
+          "Santimetrekareye saç teli",
+          "× 250"
+        ],
+        [
+          "Sonuç",
+          "≈ 100.000"
+        ]
+      ]
+    }
   },
   {
     "id": "f0099",
@@ -5045,7 +5299,25 @@
         "Yaygın sektör ve basın tahmini",
         "≈ yılda 365.000 ton"
       ]
-    ]
+    ],
+    "napkin": {
+      "type": "anchor",
+      "lead": "Nutella'nın çokça tekrarlanan bir iddiası var: dünyada her gün bin ton üretiliyor. Doğruluğundan emin olmasan da büyüklük sezgisi için iyi bir başlangıç. Yılın günleriyle çarp.",
+      "rows": [
+        [
+          "Günlük üretim",
+          "~1.000 ton"
+        ],
+        [
+          "Yıldaki gün",
+          "× 365"
+        ],
+        [
+          "Sonuç",
+          "≈ 365.000 ton"
+        ]
+      ]
+    }
   },
   {
     "id": "f0108",
@@ -5445,7 +5717,25 @@
         "Sonuç (sivil + askerî toplam)",
         "≈ 44.000"
       ]
-    ]
+    ],
+    "napkin": {
+      "type": "anchor",
+      "lead": "Dünyada 25 bin kadar ticari yolcu uçağı var. Helikopterler daha küçük ve ucuz; ambulans, polis, petrol platformu, turizm, tarım — her yerdeler. Uçağın iki katına yakın olsun de.",
+      "rows": [
+        [
+          "Dünyadaki yolcu uçağı",
+          "~25.000"
+        ],
+        [
+          "Helikopter, uçağın kaç katı",
+          "× ~1,8"
+        ],
+        [
+          "Sonuç",
+          "≈ 45.000"
+        ]
+      ]
+    }
   },
   {
     "id": "f0117",
@@ -5721,7 +6011,25 @@
         "Sonuç",
         "1.200.000"
       ]
-    ]
+    ],
+    "napkin": {
+      "type": "chain",
+      "lead": "Rolex lüks ama seri üretim yapıyor. Yıllık toptan cirosu 10 milyar dolar civarı ve fabrika çıkışı ortalama bir Rolex 8 bin dolar kadar. İkisini böl.",
+      "rows": [
+        [
+          "Yıllık toptan ciro",
+          "~10 milyar dolar"
+        ],
+        [
+          "Saat başına toptan fiyat",
+          "÷ ~8.000 dolar"
+        ],
+        [
+          "Sonuç",
+          "≈ 1,25 milyon"
+        ]
+      ]
+    }
   },
   {
     "id": "f0123",
@@ -7454,7 +7762,25 @@
         "White House Historical Association, Yürütme Konutu'ndaki toplam oda",
         "132 (35 banyo, 8 merdiven, 3 asansör, 6 kat)"
       ]
-    ]
+    ],
+    "napkin": {
+      "type": "chain",
+      "lead": "Beyaz Saray dışarıdan büyük bir konak gibi görünüyor: 6 kat. Ama içinde yatak odalarının yanı sıra ofisler, mutfaklar, hizmet odaları ve 35 banyo var — göründüğünden derin.",
+      "rows": [
+        [
+          "Kat",
+          "6"
+        ],
+        [
+          "Kat başına oda (banyolar dahil)",
+          "× ~22"
+        ],
+        [
+          "Sonuç",
+          "≈ 130"
+        ]
+      ]
+    }
   },
   {
     "id": "f0159",
@@ -7674,7 +8000,25 @@
         "Global Tiger Forum / WWF 2024 tahmini",
         "5.574"
       ]
-    ]
+    ],
+    "napkin": {
+      "type": "chain",
+      "lead": "Kaplan nesli tehlike altında ve bu yüzden düzenli sayılıyor. 13 ülkede yaşıyorlar; Hindistan tek başına üçte ikisini barındırıyor.",
+      "rows": [
+        [
+          "Hindistan",
+          "~3.500"
+        ],
+        [
+          "Diğer 12 ülke",
+          "+ ~2.000"
+        ],
+        [
+          "Sonuç",
+          "≈ 5.500"
+        ]
+      ]
+    }
   },
   {
     "id": "f0164",
@@ -7709,7 +8053,29 @@
         "× 86.400 saniye/gün",
         "≈ günde 248 milyar litre"
       ]
-    ]
+    ],
+    "napkin": {
+      "type": "chain",
+      "lead": "Şelalenin genişliği 950 metre, dökülen su perdesi bir metre kalınlığında ve saniyede 3 metre hızla akıyor. Bu üçünü çarpınca saniyedeki debi çıkıyor.",
+      "rows": [
+        [
+          "Genişlik × kalınlık × hız",
+          "950 × 1 × 3 ≈ 2.850 m³/s"
+        ],
+        [
+          "Litreye çevir",
+          "× 1.000"
+        ],
+        [
+          "Günün saniyesi",
+          "× 86.400"
+        ],
+        [
+          "Sonuç",
+          "≈ 250 milyar litre"
+        ]
+      ]
+    }
   },
   {
     "id": "f0165",
@@ -7938,7 +8304,25 @@
         "Resim bölümü",
         "≈ 17.000"
       ]
-    ]
+    ],
+    "napkin": {
+      "type": "anchor",
+      "lead": "Dünyanın en büyük tablo koleksiyonu Ermitaj'da. Müzenin 3 milyon eseri var ama bunun çoğu sikke, mücevher, arkeolojik parça. Tablolar küçük bir kesir.",
+      "rows": [
+        [
+          "Müzedeki toplam eser",
+          "~3.000.000"
+        ],
+        [
+          "Tabloların payı",
+          "× ~%0,6"
+        ],
+        [
+          "Sonuç",
+          "≈ 17.000"
+        ]
+      ]
+    }
   },
   {
     "id": "f0170",
