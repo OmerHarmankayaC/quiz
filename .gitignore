@@ -1,0 +1,22 @@
+# Kaynak veri setleri - gigabaytlarca, repoya girmez.
+# embed_data_copy: TR Wikipedia dump'indan uretilmis retrieval korpusu (~2.8GB).
+# Yerelde durur, scriptler oradan okur.
+data/embed_data_copy/
+
+# Ara dosyalar: aday paketleri, gecici cikti, hesaplama artiklari.
+data/work/
+
+# fermi.gg bundle cache'i - fetch-fermi.mjs istedigi zaman yeniden indirir.
+data/raw/.bundle-raw.js
+data/raw/.bundle.mjs
+
+.DS_Store
+node_modules/
+
+# Next.js derleme ciktisi ve uretilen tip dosyasi.
+.next/
+out/
+next-env.d.ts
+
+# Diger oturumlarin actigi worktree kopyalari - ayri git depolari.
+.claude/worktrees/

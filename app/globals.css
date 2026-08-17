@@ -1,0 +1,15 @@
+@import 'tailwindcss';
+
+:root {
+	--zemin: #0b0b0b;
+	--yuzey: #1a1a18;
+	--kenar: #2c2c2a;
+	--metin: #f1efe8;
+	--metin-ikincil: #b4b2a9;
+	--metin-soluk: #888780;
+}
+
+body {
+	background: var(--zemin);
+	color: var(--metin);
+}
