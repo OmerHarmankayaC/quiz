@@ -1,5 +1,6 @@
 'use client';
 
+import Link from 'next/link';
 import { useEffect, useState } from 'react';
 import { SORU_DIZINI } from '@/lib/game/bank';
 import { toplamPuan } from '@/lib/game/scoring';
@@ -19,9 +20,9 @@ export default function SonucSayfa() {
 		return (
 			<main className="mx-auto max-w-xl p-5">
 				<p>Gösterilecek sonuç yok.</p>
-				<a href="/" className="mt-4 inline-block underline">
+				<Link href="/" className="mt-4 inline-block underline">
 					Ana ekrana dön
-				</a>
+				</Link>
 			</main>
 		);
 	}
@@ -98,7 +99,7 @@ export default function SonucSayfa() {
 			)}
 
 			<nav className="mt-6 text-sm text-[var(--metin-soluk)]">
-				<a href="/">Ana ekran</a>
+				<Link href="/">Ana ekran</Link>
 			</nav>
 		</main>
 	);

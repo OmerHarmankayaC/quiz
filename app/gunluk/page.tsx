@@ -1,5 +1,6 @@
 'use client';
 
+import Link from 'next/link';
 import { useRouter } from 'next/navigation';
 import { useEffect, useState } from 'react';
 import { TAKVIM, sorulariGetir } from '@/lib/game/bank';
@@ -37,9 +38,9 @@ export default function GunlukSayfa() {
 		return (
 			<main className="mx-auto max-w-xl p-5">
 				<p>Bugün için bulmaca yok.</p>
-				<a href="/" className="mt-4 inline-block underline">
+				<Link href="/" className="mt-4 inline-block underline">
 					Ana ekrana dön
-				</a>
+				</Link>
 			</main>
 		);
 	}

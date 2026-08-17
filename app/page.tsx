@@ -1,5 +1,6 @@
 'use client';
 
+import Link from 'next/link';
 import { useEffect, useState } from 'react';
 import { PAKETLER, TAKVIM } from '@/lib/game/bank';
 import { bugununTarihi, gunuBul } from '@/lib/game/daily';
@@ -10,10 +11,12 @@ import { GunlukKapak } from '@/components/GunlukKapak';
 export default function AnaSayfa() {
 	const [kayit, setKayit] = useState<OyunKaydi>(BOS_KAYIT);
 	const [tarih, setTarih] = useState('');
+	const [yuklendi, setYuklendi] = useState(false);
 
 	useEffect(() => {
 		setKayit(kaydiOku());
 		setTarih(bugununTarihi());
+		setYuklendi(true);
 	}, []);
 
 	const gun = tarih ? gunuBul(TAKVIM, tarih) : null;
@@ -42,16 +45,22 @@ export default function AnaSayfa() {
 				tarihMetni={tarihMetni}
 				streak={streak}
 				oynandi={tarih in kayit.gunluk}
+				yuklendi={yuklendi}
 			/>
 
 			<div className="mt-6 grid grid-cols-2 gap-3 sm:grid-cols-3">
 				{PAKETLER.map((p) => (
-					<PaketKarti key={p.slug} paket={p} enIyi={kayit.paketler[p.slug]?.enIyi ?? null} />
+					<PaketKarti
+						key={p.slug}
+						paket={p}
+						enIyi={kayit.paketler[p.slug]?.enIyi ?? null}
+						yuklendi={yuklendi}
+					/>
 				))}
 			</div>
 
 			<nav className="mt-8 text-sm text-[var(--metin-soluk)]">
-				<a href="/arsiv">Arşiv</a>
+				<Link href="/arsiv">Arşiv</Link>
 			</nav>
 		</main>
 	);
