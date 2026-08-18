@@ -22,7 +22,7 @@ export function GunlukKapak({ no, tarihMetni, streak, oynandi, yuklendi }: Props
 					<p className="mt-2 text-2xl font-medium opacity-40">—</p>
 					<p className="mt-1 text-sm">{' '}</p>
 				</div>
-				<span className="whitespace-nowrap rounded-full border border-[var(--kenar)] px-5 py-2.5 font-medium text-transparent">
+				<span className="whitespace-nowrap rounded-full bg-[var(--kenar)] px-5 py-2.5 text-sm font-medium text-transparent">
 					Oyna
 				</span>
 			</div>

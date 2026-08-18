@@ -37,7 +37,7 @@ export default function AnaSayfa() {
 		() =>
 			!yuklendi || suzgec === 'tumu'
 				? PAKETLER
-				: PAKETLER.filter((p) => kayit.paketler[p.slug] === undefined),
+				: PAKETLER.filter((p) => !Object.hasOwn(kayit.paketler, p.slug)),
 		[yuklendi, suzgec, kayit]
 	);
 
