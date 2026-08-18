@@ -13182,5 +13182,416 @@
     "source": "Vikipedi: Freiburg im Breisgau",
     "kaynak_id": "16639#5",
     "kaynak_baslik": "Freiburg im Breisgau"
+  },
+  {
+    "id": "m0610",
+    "mode": "mcq",
+    "prompt": "Bahreyn, 1521-1602 arasında hangi imparatorluk tarafından yönetilmiştir?",
+    "choices": [
+      "Portekiz",
+      "İngiliz",
+      "Osmanlı",
+      "Safevi"
+    ],
+    "correct_index": 0,
+    "explanation": "Portekizliler Safevi İran'ının şahı Büyük Abbas tarafından 1602'de kovuldu; Al Khalifa ailesi 1783'ten beri bölgeyi yönetiyor.",
+    "topics": [
+      "tarih",
+      "coğrafya"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Bahreyn",
+    "kaynak_id": "16739#2",
+    "kaynak_baslik": "Bahreyn"
+  },
+  {
+    "id": "m0611",
+    "mode": "mcq",
+    "prompt": "Galata Mevlevihanesi'nin faaliyetlerine 25 Ekim 1925'te hangi kanunla son verilmiştir?",
+    "choices": [
+      "Tevhid-i Tedrisat Kanunu",
+      "Halifeliğin kaldırılması kanunu",
+      "Tekke, zaviye ve türbelerin kapatılması kanunu",
+      "Kılık Kıyafet Kanunu"
+    ],
+    "correct_index": 2,
+    "explanation": "Bina bir süre halkevi olarak kullanıldı; 1941'de Hasan Âli Yücel'in müze yapılması teklifiyle restorasyon çalışmaları başladı.",
+    "topics": [
+      "tarih",
+      "din"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Galata Mevlevihanesi",
+    "kaynak_id": "16836#3",
+    "kaynak_baslik": "Galata Mevlevihanesi"
+  },
+  {
+    "id": "m0612",
+    "mode": "mcq",
+    "prompt": "Birleşmiş Milletler'in ilk genel sekreteri kimdir?",
+    "choices": [
+      "Dag Hammarskjöld",
+      "Trygve Lie",
+      "Gladwyn Jebb",
+      "U Thant"
+    ],
+    "correct_index": 1,
+    "explanation": "Norveçli Lie seçilmeden önce İngiliz diplomat Gladwyn Jebb geçici genel sekreter olarak görev yapmıştı.",
+    "topics": [
+      "siyaset",
+      "tarih"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Birleşmiş Milletler",
+    "kaynak_id": "12171#10",
+    "kaynak_baslik": "Birleşmiş Milletler"
+  },
+  {
+    "id": "m0613",
+    "mode": "mcq",
+    "prompt": "İshak Paşa Sarayı'nın yapımı toplam kaç yıl sürmüştür?",
+    "choices": [
+      "25 yıl",
+      "99 yıl",
+      "50 yıl",
+      "150 yıl"
+    ],
+    "correct_index": 1,
+    "explanation": "İnşaata 1685'te Çolak Abdi Paşa başlamış, 1784'te Küçük İshak Paşa zamanında tamamlanmıştı.",
+    "topics": [
+      "tarih",
+      "mimari"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: İshak Paşa Sarayı",
+    "kaynak_id": "17152#1",
+    "kaynak_baslik": "İshak Paşa Sarayı"
+  },
+  {
+    "id": "m0614",
+    "mode": "mcq",
+    "prompt": "Arkansas, 25. eyalet olarak Birliğe hangi tarihte kabul edilmiştir?",
+    "choices": [
+      "1868",
+      "1803",
+      "1861",
+      "15 Haziran 1836"
+    ],
+    "correct_index": 3,
+    "explanation": "1861'de Konfederasyon'a katılan eyalet 1868'de Birliğe geri döndü, ancak ekonomik olarak pamuğa aşırı bağımlı kaldı.",
+    "topics": [
+      "tarih",
+      "coğrafya"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Arkansas",
+    "kaynak_id": "17180#2",
+    "kaynak_baslik": "Arkansas"
+  },
+  {
+    "id": "m0615",
+    "mode": "mcq",
+    "prompt": "1990'ların sonlarında Türk müziğinde alternatif rock akımının öncülerinden sayılan grup hangisidir?",
+    "choices": [
+      "Yüzyüzeyken Konuşuruz",
+      "Mor ve Ötesi",
+      "Son Feci Bisiklet",
+      "Adamlar"
+    ],
+    "correct_index": 1,
+    "explanation": "Şebnem Ferah ve Duman da bu dönemin öne çıkan rock isimleriydi; hip-hop tarafında Ceza ve Sagopa Kajmer öne çıktı.",
+    "topics": [
+      "müzik",
+      "kültür"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Türk müziği",
+    "kaynak_id": "12435#3",
+    "kaynak_baslik": "Türk müziği"
+  },
+  {
+    "id": "m0616",
+    "mode": "mcq",
+    "prompt": "Michelle Pfeiffer, 1992'de Batman Dönüyor filminde hangi karakteri canlandırmıştır?",
+    "choices": [
+      "Kedi Kadın",
+      "Poison Ivy",
+      "Harley Quinn",
+      "Talia al Ghul"
+    ],
+    "correct_index": 0,
+    "explanation": "Pfeiffer aynı yıl Love Field filmiyle üçüncü Akademi Ödülü adaylığını aldı.",
+    "topics": [
+      "film"
+    ],
+    "difficulty": 1,
+    "origin": "wiki",
+    "source": "Vikipedi: Michelle Pfeiffer",
+    "kaynak_id": "17391#2",
+    "kaynak_baslik": "Michelle Pfeiffer"
+  },
+  {
+    "id": "m0617",
+    "mode": "mcq",
+    "prompt": "Süleyman Şah, Moğol istilası üzerine Türkistan'dan kaç kişiyle batıya göç etmeye karar vermiştir?",
+    "choices": [
+      "5.000",
+      "50.000",
+      "10.000",
+      "100.000"
+    ],
+    "correct_index": 1,
+    "explanation": "1214'te Erzincan ve Ahlat taraflarına yerleşti; Oğuzların Kayı Boyu'na mensuptu.",
+    "topics": [
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Süleyman Şah",
+    "kaynak_id": "17821#2",
+    "kaynak_baslik": "Süleyman Şah"
+  },
+  {
+    "id": "m0618",
+    "mode": "mcq",
+    "prompt": "Şadan Gökovalı, gazetecilik kariyerine hangi gazetede başlamıştır?",
+    "choices": [
+      "Hürriyet",
+      "Ege Ekspres",
+      "Milliyet",
+      "Yeni Asır"
+    ],
+    "correct_index": 1,
+    "explanation": "\"Gençlerle Başbaşa\" sayfası birçok şair ve öykücünün tanınmasını sağladı; bu görev sırasında Halikarnas Balıkçısı ile tanıştı.",
+    "topics": [
+      "kültür"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Şadan Gökovalı",
+    "kaynak_id": "17851#2",
+    "kaynak_baslik": "Şadan Gökovalı"
+  },
+  {
+    "id": "m0619",
+    "mode": "mcq",
+    "prompt": "Bir çalışmaya göre gecede altı saat veya daha az uyuyanların soğuk algınlığına yakalanma olasılığı, yedi saat ve üzeri uyuyanlara göre kaç kat fazladır?",
+    "choices": [
+      "Sekiz kat",
+      "İki kat",
+      "Bir buçuk kat",
+      "Dört kat"
+    ],
+    "correct_index": 3,
+    "explanation": "Uykunun metabolizmayı düzenlemede de rolü vardır; uykusuzluk kilo kaybına yol açabilir ya da kilo vermeyi zorlaştırabilir.",
+    "topics": [
+      "sağlık"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Sağlık",
+    "kaynak_id": "1051#31",
+    "kaynak_baslik": "Sağlık"
+  },
+  {
+    "id": "m0620",
+    "mode": "mcq",
+    "prompt": "Leopold von Sacher-Masoch, 1857'de hangi konudaki çalışmasıyla yakın tarih profesörlüğü unvanı almıştır?",
+    "choices": [
+      "Otuz Yıl Savaşları",
+      "Avusturya Devlet Arşivleri tarihi",
+      "Maria Karolina ve Macaristan'ın Çöküşü",
+      "İmparator Karl V. döneminde Gent ayaklanmaları"
+    ],
+    "correct_index": 3,
+    "explanation": "1856'da doktor unvanı almıştı; sonraki araştırması \"Maria Karolina ve Macaristan'ın Çöküşü\" başlığını taşıyordu.",
+    "topics": [
+      "kitap",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Leopold von Sacher-Masoch",
+    "kaynak_id": "18446#3",
+    "kaynak_baslik": "Leopold von Sacher-Masoch"
+  },
+  {
+    "id": "m0621",
+    "mode": "mcq",
+    "prompt": "ABD Senatosu'na yaş şartını karşılamadığı hâlde kabul edilen dört senatörden biri olan ve 1806'da 29 yaşında Senatoya giren isim kimdir?",
+    "choices": [
+      "Armistead Thomson Mason",
+      "John Jordan Crittenden",
+      "Henry Clay",
+      "John Eaton"
+    ],
+    "correct_index": 2,
+    "explanation": "Bu tür bir durum o tarihten sonra bir daha yaşanmadı; Senato üyelerinin niteliklerini ilk yıllarında yakından incelemiyordu.",
+    "topics": [
+      "siyaset",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Amerika Birleşik Devletleri Senatosu",
+    "kaynak_id": "193512#13",
+    "kaynak_baslik": "Amerika Birleşik Devletleri Senatosu"
+  },
+  {
+    "id": "m0622",
+    "mode": "mcq",
+    "prompt": "Alanyaspor, 2019-20 sezonunda Ziraat Türkiye Kupası finalinde hangi takıma yenilerek kupayı ikinci sırada bitirmiştir?",
+    "choices": [
+      "Beşiktaş",
+      "Fenerbahçe",
+      "Trabzonspor",
+      "Başakşehir"
+    ],
+    "correct_index": 2,
+    "explanation": "Kulüp 2016-17 sezonunda Süper Lig'e yükselmişti; maçlarını 9.727 kişilik Alanya Oba Stadyumu'nda oynuyor.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Alanyaspor",
+    "kaynak_id": "135665#1",
+    "kaynak_baslik": "Alanyaspor"
+  },
+  {
+    "id": "m0623",
+    "mode": "mcq",
+    "prompt": "Pinhâni'nin solisti Akın Eldes, Sivas Katliamı'nda yaşamını yitirenlere hangi şarkısını ithaf etmiştir?",
+    "choices": [
+      "Kaybolan Yıllar",
+      "Sessiz Çığlık",
+      "Madımak",
+      "Kral Çıplak"
+    ],
+    "correct_index": 2,
+    "explanation": "Eldes 1986-2000 arasında Bulutsuzluk Özlemi'nde yer almıştı; Haluk Levent'in Kral Çıplak albümüne de eşlik etmişti.",
+    "topics": [
+      "müzik",
+      "kültür"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Pinhâni",
+    "kaynak_id": "193817#26",
+    "kaynak_baslik": "Pinhâni"
+  },
+  {
+    "id": "m0624",
+    "mode": "mcq",
+    "prompt": "Carlo Ancelotti, 2003'te Milan'ı Şampiyonlar Ligi şampiyonu yaparken finalde hangi takımı penaltılarla geçmiştir?",
+    "choices": [
+      "Barcelona",
+      "Juventus",
+      "Liverpool",
+      "Bayern Münih"
+    ],
+    "correct_index": 1,
+    "explanation": "İki yıl sonra Milan, Atatürk Olimpiyat Stadyumu'nda Liverpool ile oynadığı finali 3-3'ten sonra penaltılarla kaybetti.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Carlo Ancelotti",
+    "kaynak_id": "106781#11",
+    "kaynak_baslik": "Carlo Ancelotti"
+  },
+  {
+    "id": "m0625",
+    "mode": "mcq",
+    "prompt": "Kore Savaşı'na katılan 1. Türk Tugayı, İskenderun'dan hareket ederek Busan limanına hangi tarihte ulaşmıştır?",
+    "choices": [
+      "10 Kasım 1950",
+      "20 Ekim 1950",
+      "17 Eylül 1950",
+      "12 Ekim 1950"
+    ],
+    "correct_index": 3,
+    "explanation": "Tugay Tuğgeneral Tahsin Yazıcı komutasında 5.090 kişiden oluşuyordu; Taegu'da Amerikan teçhizatıyla donatılmıştı.",
+    "topics": [
+      "tarih",
+      "askeri"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Kore Savaşı",
+    "kaynak_id": "12655#15",
+    "kaynak_baslik": "Kore Savaşı"
+  },
+  {
+    "id": "m0626",
+    "mode": "mcq",
+    "prompt": "İtalyan faşizmine model olan hareketlerden Portekiz'deki diktatörlüğün lideri kimdir?",
+    "choices": [
+      "Adolf Hitler",
+      "António de Oliveira Salazar",
+      "Francisco Franco",
+      "Ion Antonescu"
+    ],
+    "correct_index": 1,
+    "explanation": "Salazar 1933'ten itibaren yönetimdeydi; İspanya'da Franco'nun falanjizmi ise 1939'dan itibaren etkiliydi.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Faşizm",
+    "kaynak_id": "102079#33",
+    "kaynak_baslik": "Faşizm"
+  },
+  {
+    "id": "m0627",
+    "mode": "mcq",
+    "prompt": "Moldova'da 1990 ilkbaharındaki seçimlerde Parlamento'da çoğunluğu sağlayan siyasi hareket hangisidir?",
+    "choices": [
+      "Demokrat Blok",
+      "Komünist Parti",
+      "Sosyalist Parti",
+      "Moldova Halk Cephesi"
+    ],
+    "correct_index": 3,
+    "explanation": "Hareket Anayasa'da bir dizi değişiklik yaptı; bağımsızlık ise Moskova'daki başarısız darbe girişiminin ardından geldi.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Moldova",
+    "kaynak_id": "14604#9",
+    "kaynak_baslik": "Moldova"
+  },
+  {
+    "id": "m0628",
+    "mode": "mcq",
+    "prompt": "Kayseri Erciyesspor, 2015-16 sezonunda hangi takımla berabere kalarak 1990-91'den beri görmediği 2. Lig'e düşmüştür?",
+    "choices": [
+      "Boluspor",
+      "Adana Demirspor",
+      "İstanbul Başakşehir",
+      "Balıkesirspor"
+    ],
+    "correct_index": 1,
+    "explanation": "Kulüp bir önceki sezon Süper Lig'den düşmüş, 2016-17'de 3. Lig'e, 2017-18'de ise Bölgesel Amatör Lig'e gerilemişti.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Kayseri Erciyesspor",
+    "kaynak_id": "19940#4",
+    "kaynak_baslik": "Kayseri Erciyesspor"
   }
 ]
