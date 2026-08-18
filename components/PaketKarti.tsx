@@ -18,7 +18,7 @@ export function PaketKarti({ paket, enIyi, yuklendi }: Props) {
 	return (
 		<Link href={`/paket/${paket.slug}`} className="block">
 			<div
-				className="flex aspect-[4/5] flex-col justify-between overflow-hidden rounded-xl p-3"
+				className="flex aspect-[4/5] flex-col justify-between rounded-xl p-3"
 				style={{ background: zemin, color: metin }}
 			>
 				<div className="flex items-start justify-between">
