@@ -10,13 +10,17 @@ interface Props {
 
 export function PaketKarti({ paket, enIyi, yuklendi }: Props) {
 	const maksimum = paket.soru_ids.length * 100;
-	const { zemin, metin } = paketRenkleri(paket);
+	const { zemin, metin, aciklama } = paketRenkleri(paket);
 	const kaplama = kaplamaRengi(zemin);
 	// Astral karakterle (ör. emoji) baslayan basliklarda charAt(0) surrogate cifti bolerdi.
 	const monogram = ([...paket.baslik.trim()][0] ?? '').toLocaleUpperCase('tr');
 
 	return (
-		<Link href={`/paket/${paket.slug}`} className="block">
+		<Link
+			href={`/paket/${paket.slug}`}
+			className="block"
+			aria-label={`${paket.baslik}, ${paket.soru_ids.length} soru`}
+		>
 			<div
 				className="flex aspect-[4/5] flex-col justify-between rounded-xl p-3"
 				style={{ background: zemin, color: metin }}
@@ -36,6 +40,11 @@ export function PaketKarti({ paket, enIyi, yuklendi }: Props) {
 						{paket.soru_ids.length} soru
 					</span>
 				</div>
+				{paket.aciklama && (
+					<span className="break-words text-[11px] leading-snug" style={{ color: aciklama }}>
+						{paket.aciklama}
+					</span>
+				)}
 				<span className="break-words text-lg font-medium leading-tight">{paket.baslik}</span>
 			</div>
 			{/* Kayit okunmadan once "oynanmadı" demek yanlis olabilir; satir yer tutar. */}
