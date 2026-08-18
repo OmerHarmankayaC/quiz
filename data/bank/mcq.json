@@ -8832,5 +8832,350 @@
     "source": "Vikipedi: Oracle Solaris",
     "kaynak_id": "11801#13",
     "kaynak_baslik": "Oracle Solaris"
+  },
+  {
+    "id": "m0409",
+    "mode": "mcq",
+    "prompt": "1994 tarihli IFRI RAMSES raporuna göre, Orta Afrika Cumhuriyeti'nde 1965-1979 arasında otokratik yönetim kuran lider kimdir?",
+    "choices": [
+      "Bokassa",
+      "Macias Nguema",
+      "Idi Amin",
+      "Mobutu Sese Seko"
+    ],
+    "correct_index": 0,
+    "explanation": "Rapor aynı dönemde Uganda'da Idi Amin ve Ekvator Ginesi'nde Macias Nguema'nın da otokratik yönetimlerinden bahseder.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Otokrasi",
+    "kaynak_id": "123325#17",
+    "kaynak_baslik": "Otokrasi"
+  },
+  {
+    "id": "m0410",
+    "mode": "mcq",
+    "prompt": "Jim Jones, 1967'de cemaatine dünyanın nükleer savaşla yok olacağını söyleyerek Tapınağı hangi bölgeye taşımaya karar vermiştir?",
+    "choices": [
+      "Oregon",
+      "Kuzey Kaliforniya",
+      "Guyana",
+      "Nevada Çölü"
+    ],
+    "correct_index": 1,
+    "explanation": "Tapınak faaliyetlerini Ukiah yakınlarındaki Redwood Vadisi'ne taşıdı; Jones'un asıl inancının komünizm olduğu sonradan ortaya çıktı.",
+    "topics": [
+      "din",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Jim Jones",
+    "kaynak_id": "120796#15",
+    "kaynak_baslik": "Jim Jones"
+  },
+  {
+    "id": "m0411",
+    "mode": "mcq",
+    "prompt": "ECA International'ın 2011 anketine göre Oslo, Tokyo'dan sonra dünyanın en pahalı kaçıncı şehridir?",
+    "choices": [
+      "Birinci",
+      "İkinci",
+      "Onuncu",
+      "Dördüncü"
+    ],
+    "correct_index": 1,
+    "explanation": "Oslo ayrıca 2012'de Avrupa'nın yaşam kalitesi en yüksek şehri, Monocle'a göre ise dünyanın en yaşanabilir 24. şehri seçildi.",
+    "topics": [
+      "coğrafya",
+      "ekonomi"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Oslo",
+    "kaynak_id": "10052#4",
+    "kaynak_baslik": "Oslo"
+  },
+  {
+    "id": "m0412",
+    "mode": "mcq",
+    "prompt": "Mihail Tal, 1957'de Botvinnik, Petrosian ve Keres gibi isimlerin önünde hangi turnuvayı kazanarak Büyükusta unvanını almıştır?",
+    "choices": [
+      "Bled Adaylar Turnuvası",
+      "24. Rusya Birinciliği",
+      "Letonya Şampiyonası",
+      "Dünya Şampiyonluğu Maçı"
+    ],
+    "correct_index": 1,
+    "explanation": "Tal bu başarıyı bir yıl sonra tekrarladı ve 1959'da Bled'de birinci olarak Botvinnik'e karşı dünya şampiyonluğu maçı hakkı kazandı.",
+    "topics": [
+      "oyun"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Mihail Tal",
+    "kaynak_id": "10291#4",
+    "kaynak_baslik": "Mihail Tal"
+  },
+  {
+    "id": "m0413",
+    "mode": "mcq",
+    "prompt": "Refik Erduran, 1950'lerde Ertem Eğilmez ile birlikte hangi yayınevini kurmuştur?",
+    "choices": [
+      "Çağlayan Yayınevi",
+      "Varlık Yayınları",
+      "Altın Kitaplar",
+      "Remzi Kitabevi"
+    ],
+    "correct_index": 0,
+    "explanation": "Erduran ayrıca 1965-1981 arasında Milliyet gazetesinde köşe yazarlığı yaptı ve otuzdan fazla tiyatro oyunu yazdı.",
+    "topics": [
+      "kitap",
+      "kültür"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Refik Erduran",
+    "kaynak_id": "10631#1",
+    "kaynak_baslik": "Refik Erduran"
+  },
+  {
+    "id": "m0414",
+    "mode": "mcq",
+    "prompt": "Intel 4004 ile birlikte ilk mikroişlemci sayılan tasarımlardan biri olan ve F-14 Tomcat'in uçuş kontrol bilgisayarında kullanılan tasarımı geliştiren şirket hangisidir?",
+    "choices": [
+      "Motorola",
+      "Garrett AiResearch",
+      "Fairchild Semiconductor",
+      "Texas Instruments"
+    ],
+    "correct_index": 1,
+    "explanation": "Ordu, tasarımın gelişmişliği nedeniyle 1997'ye kadar yayımlanmasını reddetmişti; diğer öncü tasarım Texas Instruments'ın TMS 1000'iydi.",
+    "topics": [
+      "teknoloji",
+      "askeri"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Mikroişlemci",
+    "kaynak_id": "186274#6",
+    "kaynak_baslik": "Mikroişlemci"
+  },
+  {
+    "id": "m0415",
+    "mode": "mcq",
+    "prompt": "Sovyet general Vasili Çuykov, Stalingrad'daki 62. Ordu'ya komuta ederken hangi sözü söylemiştir?",
+    "choices": [
+      "\"Moskova'yı savunacağız, geri adım yok.\"",
+      "\"Her sokak bizim kalemiz olacak.\"",
+      "\"Berlin'e kadar gideceğiz.\"",
+      "\"Bizim için Volga'nın ötesinde bir ülke yok.\""
+    ],
+    "correct_index": 3,
+    "explanation": "Çuykov komuta barakasını cephe hattından 400 km uzaktaki Mamayev Tepesi'ne kurdurmuş ve savaş boyunca terk etmemişti.",
+    "topics": [
+      "tarih",
+      "askeri"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Vasili Çuykov",
+    "kaynak_id": "11681#3",
+    "kaynak_baslik": "Vasili Çuykov"
+  },
+  {
+    "id": "m0416",
+    "mode": "mcq",
+    "prompt": "Osmanlı topraklarındaki ilk misyoner matbaası 1822'de hangi şehirde faaliyete geçmiştir?",
+    "choices": [
+      "Beyrut",
+      "İzmir",
+      "İstanbul",
+      "Malta"
+    ],
+    "correct_index": 3,
+    "explanation": "Matbaa 1833'te İzmir'e taşındı ve 1953'e kadar orada faaliyet gösterdi; Osmanlı'nın sürekli müdahalesi taşınmanın nedeniydi.",
+    "topics": [
+      "tarih",
+      "din"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Osmanlı İmparatorluğu'nda misyonerlik",
+    "kaynak_id": "157558#2",
+    "kaynak_baslik": "Osmanlı İmparatorluğu'nda misyonerlik"
+  },
+  {
+    "id": "m0417",
+    "mode": "mcq",
+    "prompt": "Magnus Carlsen, Ocak 2010'da kaç yaşında dünyanın en genç resmi 1 numaralı satranç oyuncusu olmuştur?",
+    "choices": [
+      "19",
+      "25",
+      "22",
+      "16"
+    ],
+    "correct_index": 0,
+    "explanation": "Carlsen ELO'sunu 2810'a taşıyarak bu unvanı aldı ve 1971'de Bobby Fischer'in \"Batı'dan gelen 1.\" unvanına da sahip oldu.",
+    "topics": [
+      "oyun"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Magnus Carlsen",
+    "kaynak_id": "11943#17",
+    "kaynak_baslik": "Magnus Carlsen"
+  },
+  {
+    "id": "m0418",
+    "mode": "mcq",
+    "prompt": "Cüneyt Arkın, dublör kullanmadığı tehlikeli sahneler yüzünden hangi tür yaralanmalar geçirmiştir?",
+    "choices": [
+      "İşitme kaybı",
+      "Kemik kırıkları ve omurilik zedelenmesi",
+      "Kalıcı görme bozukluğu",
+      "Yalnızca yüzeysel kesikler"
+    ],
+    "correct_index": 1,
+    "explanation": "Cemal Süreya onu \"İpekyolu'nun Superman'i\" olarak tanımlamıştı; 1969'da İnsanlar Yaşadıkça filmiyle Altın Portakal'da En İyi Erkek Oyuncu oldu.",
+    "topics": [
+      "film"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Cüneyt Arkın",
+    "kaynak_id": "12107#2",
+    "kaynak_baslik": "Cüneyt Arkın"
+  },
+  {
+    "id": "m0419",
+    "mode": "mcq",
+    "prompt": "Alp Arslan, 1071'deki Malazgirt Muharebesi'nde hangi Bizans imparatorunu yenmiştir?",
+    "choices": [
+      "Romen Diyojen",
+      "Aleksios Komnenos",
+      "VII. Mihail",
+      "I. Justinianus"
+    ],
+    "correct_index": 0,
+    "explanation": "Alp Arslan, Büyük Selçuklu İmparatorluğu'nun ikinci sultanıydı ve Türklerin Anadolu'ya girişini yönetti.",
+    "topics": [
+      "tarih"
+    ],
+    "difficulty": 1,
+    "origin": "wiki",
+    "source": "Vikipedi: Alp Arslan",
+    "kaynak_id": "12305#1",
+    "kaynak_baslik": "Alp Arslan"
+  },
+  {
+    "id": "m0420",
+    "mode": "mcq",
+    "prompt": "Kadı Burhaneddin Ahmed, 1395'teki Pulu savaşında kimi yenmiştir?",
+    "choices": [
+      "Şeybânî Han",
+      "II. Mehmed Bey",
+      "Akkoyunlu Kara Yülük Osman Bey",
+      "Erzincan emiri Mutahharten"
+    ],
+    "correct_index": 3,
+    "explanation": "Burhaneddin, II. Mehmed Bey'i bertaraf ederek 1381'de Sivas'ta hükümdarlığını ilan etmişti.",
+    "topics": [
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Kemah",
+    "kaynak_id": "187307#17",
+    "kaynak_baslik": "Kemah"
+  },
+  {
+    "id": "m0421",
+    "mode": "mcq",
+    "prompt": "Memduh Şevket Esendal, Kabil büyükelçiliğine atanması nedeniyle hangi görevinden istifa etmiştir?",
+    "choices": [
+      "Tahran büyükelçiliği",
+      "Elazığ milletvekilliği",
+      "Türk Dil Kurultayı delegeliği",
+      "CHP Merkez İdare Heyeti üyeliği"
+    ],
+    "correct_index": 1,
+    "explanation": "1931-1933 arasında Elazığ milletvekili olarak TBMM'de yer almıştı ve 1932'de ilk Türk Dil Kurultayı'na katılmıştı.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Memduh Şevket Esendal",
+    "kaynak_id": "12455#6",
+    "kaynak_baslik": "Memduh Şevket Esendal"
+  },
+  {
+    "id": "m0422",
+    "mode": "mcq",
+    "prompt": "Şah İsmail, 1510'da Merv yakınında hangi hanlığı yenerek Şeybânî Han'ın ölümüne yol açmıştır?",
+    "choices": [
+      "Şeybânî Hanlığı",
+      "Altın Orda",
+      "Buhara Hanlığı",
+      "Kırım Hanlığı"
+    ],
+    "correct_index": 0,
+    "explanation": "Şeybânî Han'ın cesedi bulunmuş, Kızılbaşlar başını kesip Şah İsmail'e getirmişti; İsmail 1508'de Bağdat'a girmişti.",
+    "topics": [
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: I. İsmail",
+    "kaynak_id": "187914#11",
+    "kaynak_baslik": "I. İsmail"
+  },
+  {
+    "id": "m0423",
+    "mode": "mcq",
+    "prompt": "Thomas More'un Ütopya adlı eserinin Türkçeye ilk çevirisi hangi yıl yapılmıştır?",
+    "choices": [
+      "1980",
+      "1950",
+      "2009",
+      "1964"
+    ],
+    "correct_index": 3,
+    "explanation": "Çeviri Sabahattin Eyüboğlu, Vedat Günyol ve Mina Urgan tarafından İngilizceden yapıldı; Latince aslından çeviri ise 2009'da yayımlandı.",
+    "topics": [
+      "kitap"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Ütopya (roman)",
+    "kaynak_id": "13038#5",
+    "kaynak_baslik": "Ütopya (roman)"
+  },
+  {
+    "id": "m0424",
+    "mode": "mcq",
+    "prompt": "Aladağlar'da kaydedilen ilk tırmanış, 1901'de kim tarafından gerçekleştirilmiştir?",
+    "choices": [
+      "Marianne Martin",
+      "Franz Schaffer",
+      "Georg Künne",
+      "Wilhelm Martin"
+    ],
+    "correct_index": 1,
+    "explanation": "Schaffer'ın Alacabaşı çıkışını, 1927'de Künne ve Martin çiftinin Demirkazık dahil beş zirveye yaptığı ilk çıkışlar izledi.",
+    "topics": [
+      "spor",
+      "coğrafya"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Aladağlar",
+    "kaynak_id": "13321#7",
+    "kaynak_baslik": "Aladağlar"
   }
 ]
