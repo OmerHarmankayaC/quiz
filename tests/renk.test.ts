@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { doygunluguDusur, karistir, paketRenkleri } from '@/lib/game/renk';
+import { doygunluguDusur, karistir, kaplamaRengi, kontrastOrani, paketRenkleri } from '@/lib/game/renk';
 import type { Paket } from '@/lib/game/types';
 
 describe('doygunluguDusur', () => {
@@ -63,5 +63,41 @@ describe('paketRenkleri', () => {
 			zemin: '#1f2934',
 			metin: '#adb8c3'
 		});
+	});
+});
+
+describe('kontrastOrani', () => {
+	it('siyah-beyaz arasi 21:1 verir', () => {
+		expect(kontrastOrani('#000000', '#ffffff')).toBeCloseTo(21, 1);
+	});
+});
+
+describe('kontrast tabani', () => {
+	const paket = (renk: string, metin: string): Paket => ({
+		slug: 's',
+		baslik: 'B',
+		renk,
+		metin_rengi: metin,
+		soru_ids: []
+	});
+
+	it('orta tonlu bir zeminde metin en az 4.5:1 kontrast verir', () => {
+		const { zemin, metin } = paketRenkleri(paket('#6E6A5F', '#EEEDFE'));
+		expect(kontrastOrani(metin, zemin)).toBeGreaterThanOrEqual(4.5);
+	});
+
+	it('neredeyse beyaz bir zeminde metin en az 4.5:1 kontrast verir', () => {
+		const { zemin, metin } = paketRenkleri(paket('#F2E9D8', '#EEEDFE'));
+		expect(kontrastOrani(metin, zemin)).toBeGreaterThanOrEqual(4.5);
+	});
+});
+
+describe('kaplamaRengi', () => {
+	it('koyu zeminde beyaz tabanli rgba verir', () => {
+		expect(kaplamaRengi('#111111')).toBe('rgba(255, 255, 255, 0.1)');
+	});
+
+	it('acik zeminde siyah tabanli rgba verir', () => {
+		expect(kaplamaRengi('#f5f5f5')).toBe('rgba(0, 0, 0, 0.1)');
 	});
 });
