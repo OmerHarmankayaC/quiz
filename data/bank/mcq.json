@@ -9952,5 +9952,421 @@
     "source": "Vikipedi: I. Melikşah",
     "kaynak_id": "110864#30",
     "kaynak_baslik": "I. Melikşah"
+  },
+  {
+    "id": "m0461",
+    "mode": "mcq",
+    "prompt": "Salvador Dalí, 1926'da Paris'te büyük saygı duyduğu hangi sanatçıyla tanışmıştır?",
+    "choices": [
+      "Max Ernst",
+      "André Breton",
+      "Joan Miró",
+      "Pablo Picasso"
+    ],
+    "correct_index": 3,
+    "explanation": "Sonraki yıllarda Dalí'nin eserlerinde Picasso etkisi ağır bastı; 1928'de \"Sanat Karşıtı Katalan Manifesto\"yu yazdı.",
+    "topics": [
+      "sanat"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Salvador Dalí",
+    "kaynak_id": "18275#8",
+    "kaynak_baslik": "Salvador Dalí"
+  },
+  {
+    "id": "m0462",
+    "mode": "mcq",
+    "prompt": "Leipzig'de, Avrupa'da Komünizmin çöküşünü hızlandıran 1989 gösterileri hangi kiliseden başlamıştır?",
+    "choices": [
+      "Katharinenkirche",
+      "Thomaskirche",
+      "Aziz Nikola Kilisesi",
+      "Frauenkirche"
+    ],
+    "correct_index": 2,
+    "explanation": "Leipzig Ticaret Fuarı 1190'a uzanır; şehir 1764-1945 arasında önemli bir yayıncılık merkeziydi.",
+    "topics": [
+      "tarih",
+      "coğrafya"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Leipzig",
+    "kaynak_id": "111711#1",
+    "kaynak_baslik": "Leipzig"
+  },
+  {
+    "id": "m0463",
+    "mode": "mcq",
+    "prompt": "II. Nikolay, hangi tarihler arasında Rusya İmparatoru olarak hüküm sürmüştür?",
+    "choices": [
+      "1 Kasım 1894 - 15 Mart 1917",
+      "1905-1917",
+      "1881-1917",
+      "1868-1918"
+    ],
+    "correct_index": 0,
+    "explanation": "Saltanatı sırasında Rus İmparatorluğu büyük güçlerden biriydi ama ekonomik ve askeri çöküşe girdi; 17 Temmuz 1918'de öldürüldü.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: II. Nikolay",
+    "kaynak_id": "199262#0",
+    "kaynak_baslik": "II. Nikolay"
+  },
+  {
+    "id": "m0464",
+    "mode": "mcq",
+    "prompt": "Sylvester Stallone hakkındaki cinsel taciz iddiasıyla ilgili soruşturma, Ekim 2018'de hangi sonuçla kapanmıştır?",
+    "choices": [
+      "İddia sahibi şikâyetini geri çekmiştir",
+      "Stallone suçlu bulunmuştur",
+      "Dava mahkemeye taşınmıştır",
+      "Los Angeles Bölge Savcılığı iddiaları onaylamayarak suçlama getirmemiştir"
+    ],
+    "correct_index": 3,
+    "explanation": "Stallone iddiayı reddetmiş, avukatları iki tanığın da iddiaları çürüttüğünü belirtmişti.",
+    "topics": [
+      "film",
+      "toplum"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Sylvester Stallone",
+    "kaynak_id": "199845#23",
+    "kaynak_baslik": "Sylvester Stallone"
+  },
+  {
+    "id": "m0465",
+    "mode": "mcq",
+    "prompt": "İsrail, Güney Lübnan'daki 18 yıllık işgalinin ardından güçlerini hangi yıl geri çekmiştir?",
+    "choices": [
+      "1996",
+      "1982",
+      "2006",
+      "2000"
+    ],
+    "correct_index": 3,
+    "explanation": "Bu geri çekiliş Hizbullah'ın bölgedeki popülaritesini büyük ölçüde artırdı; 2006 Lübnan Savaşı ise altı yıl sonra yaşandı.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Hasan Nasrallah",
+    "kaynak_id": "113078#2",
+    "kaynak_baslik": "Hasan Nasrallah"
+  },
+  {
+    "id": "m0466",
+    "mode": "mcq",
+    "prompt": "Tony Blair, başbakanlıktan ve İşçi Partisi başkanlığından ayrılacağını hangi tarihte duyurmuştur?",
+    "choices": [
+      "1997",
+      "27 Haziran 2007",
+      "2003",
+      "10 Mayıs 2007"
+    ],
+    "correct_index": 3,
+    "explanation": "Görevi 27 Haziran 2007'de Gordon Brown'a devretti; başbakanlığı tam 10 yıl 1 hafta sürmüştü.",
+    "topics": [
+      "siyaset",
+      "tarih"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Tony Blair",
+    "kaynak_id": "1011#1",
+    "kaynak_baslik": "Tony Blair"
+  },
+  {
+    "id": "m0467",
+    "mode": "mcq",
+    "prompt": "İlhan Usmanbaş, 1942'de hangi kurumun Kompozisyon Bölümü'ne geçerek Hasan Ferit Alnar ve Ahmet Adnan Saygun ile çalışmıştır?",
+    "choices": [
+      "Ankara Devlet Konservatuvarı",
+      "İstanbul Edebiyat Fakültesi",
+      "İstanbul Belediye Konservatuvarı",
+      "Galatasaray Lisesi Müzik Bölümü"
+    ],
+    "correct_index": 0,
+    "explanation": "Usmanbaş 1948'de buradan mezun oldu; on iki yaşında kendi kendine viyolonsel çalmaya başlamıştı.",
+    "topics": [
+      "müzik",
+      "eğitim"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: İlhan Usmanbaş",
+    "kaynak_id": "1229#3",
+    "kaynak_baslik": "İlhan Usmanbaş"
+  },
+  {
+    "id": "m0468",
+    "mode": "mcq",
+    "prompt": "Ford, 2023 yılında dünya genelinde yaklaşık kaç araç üretmiştir?",
+    "choices": [
+      "1 milyon",
+      "4,4 milyon",
+      "8,7 milyon",
+      "10 milyon"
+    ],
+    "correct_index": 1,
+    "explanation": "Şirket aynı yıl yaklaşık 177.000 kişi istihdam etti ve Çinli Jiangling Motors'un %32 hissesine sahipti.",
+    "topics": [
+      "ekonomi",
+      "ulaşım"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Ford Motor Company",
+    "kaynak_id": "1256#2",
+    "kaynak_baslik": "Ford Motor Company"
+  },
+  {
+    "id": "m0469",
+    "mode": "mcq",
+    "prompt": "1929'da Bitlis ilçe hâline getirilip Muş'a bağlandığında, Ahlat hangi ile bağlanmıştır?",
+    "choices": [
+      "Muş",
+      "Bitlis",
+      "Diyarbakır",
+      "Van"
+    ],
+    "correct_index": 3,
+    "explanation": "Bitlis ili 1935'te 2885 sayılı kanunla, Ahlat ve diğer ilçelerin birleşmesiyle yeniden tesis edildi.",
+    "topics": [
+      "coğrafya",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Ahlat",
+    "kaynak_id": "1394#4",
+    "kaynak_baslik": "Ahlat"
+  },
+  {
+    "id": "m0470",
+    "mode": "mcq",
+    "prompt": "St. Faith's okulu müdürü Ralph Goodchild, 1896'da John Maynard Keynes hakkında ne yazmıştır?",
+    "choices": [
+      "\"Eton'a gitmeye uygun değil\"",
+      "\"Okuldaki tüm çocuklardan fersah fersah ileride\"",
+      "\"Disiplinsiz ama yetenekli\"",
+      "\"Matematikte ortalama bir öğrenci\""
+    ],
+    "correct_index": 1,
+    "explanation": "Keynes 1894'te sınıf birincisiydi; Goodchild onun Eton'dan burs kazanabileceğinden emindi.",
+    "topics": [
+      "ekonomi",
+      "eğitim"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: John Maynard Keynes",
+    "kaynak_id": "1860#9",
+    "kaynak_baslik": "John Maynard Keynes"
+  },
+  {
+    "id": "m0471",
+    "mode": "mcq",
+    "prompt": "III. Napolyon, Fransa'nın doğrudan halkoyuyla seçilen ilk devlet başkanı olmasının yanı sıra hangi özelliği de taşır?",
+    "choices": [
+      "İki dönem üst üste seçilen tek başkan olması",
+      "En genç yaşta cumhurbaşkanı seçilmesi",
+      "Anayasayı ilk kaleme alan kişi olması",
+      "Fransa'nın son hükümdarı olması"
+    ],
+    "correct_index": 3,
+    "explanation": "1852'de darbeyle cumhuriyeti yıkıp imparatorluğunu ilan etti; 1870'te devrilişi Üçüncü Cumhuriyet'in kurulmasına yol açtı.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: III. Napolyon",
+    "kaynak_id": "177199#1",
+    "kaynak_baslik": "III. Napolyon"
+  },
+  {
+    "id": "m0472",
+    "mode": "mcq",
+    "prompt": "Yaser Arafat, Filistin Kurtuluş Örgütü'nün başkanlığına hangi yıl, kimin yerine geçerek gelmiştir?",
+    "choices": [
+      "1969, Yahya Hammuda",
+      "1967, Ahmed Şukeyri",
+      "1965, Ebu Cihad",
+      "1974, Halid el-Hasan"
+    ],
+    "correct_index": 0,
+    "explanation": "El-Fetih, 1967'deki Altı Gün Savaşı sonrası PLO'ya katılmış ve icra komitesinde 105 sandalyenin 33'ünü almıştı.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Fetih (siyasi parti)",
+    "kaynak_id": "119860#5",
+    "kaynak_baslik": "Fetih (siyasi parti)"
+  },
+  {
+    "id": "m0473",
+    "mode": "mcq",
+    "prompt": "Rainer Maria Rilke'nin Orfeus mitini temel alan 1922 tarihli eseri hangisidir?",
+    "choices": [
+      "Orfeus'a Soneler",
+      "Evridiki",
+      "Orfeus ve Evridiki Döngüsü",
+      "Keçinin Şarkısı"
+    ],
+    "correct_index": 0,
+    "explanation": "\"Keçinin Şarkısı\" Poul Anderson'ın bilim kurgu uyarlamasıdır; Margaret Atwood'un döngüsü ise 1976-1986 arasında yazıldı.",
+    "topics": [
+      "kitap",
+      "sanat"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Orfeus",
+    "kaynak_id": "178738#26",
+    "kaynak_baslik": "Orfeus"
+  },
+  {
+    "id": "m0474",
+    "mode": "mcq",
+    "prompt": "Üçüncü Gazze Muharebesi'nde İngiliz kuvvetleri, Birüssebi'nin ele geçirilmesinden sonra 10 gün içinde ne kadar ilerlemiştir?",
+    "choices": [
+      "300 mil",
+      "10 mil",
+      "Yaklaşık 50 mil",
+      "170 mil"
+    ],
+    "correct_index": 2,
+    "explanation": "Süvarilerin büyük kısmı 170 mil ilerlerken, Türk kuvvetleri 10.000 esir ve 100 top kaybetti.",
+    "topics": [
+      "tarih",
+      "askeri"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Üçüncü Gazze Muharebesi",
+    "kaynak_id": "100186#92",
+    "kaynak_baslik": "Üçüncü Gazze Muharebesi"
+  },
+  {
+    "id": "m0475",
+    "mode": "mcq",
+    "prompt": "Martin Luther, Protestan Reformu'nu başlatan 95 Tez'i hangi yıl yayımlamıştır?",
+    "choices": [
+      "1517",
+      "1543",
+      "1520",
+      "1453"
+    ],
+    "correct_index": 0,
+    "explanation": "1453'te Osmanlılar Konstantinopolis'i ele geçirmiş, Doğu Ortodoks Kilisesi Osmanlı himayesine girmişti.",
+    "topics": [
+      "din",
+      "tarih"
+    ],
+    "difficulty": 1,
+    "origin": "wiki",
+    "source": "Vikipedi: Hristiyanlık",
+    "kaynak_id": "16134#20",
+    "kaynak_baslik": "Hristiyanlık"
+  },
+  {
+    "id": "m0476",
+    "mode": "mcq",
+    "prompt": "El-Kanun fi't-Tıb adlı eserinde klinik denemeler ve klinik farmakoloji kavramlarını ileri süren bilim insanı kimdir?",
+    "choices": [
+      "Ebubekir Razi",
+      "İbn-i Sina",
+      "Abdullâtif el-Bağdadi",
+      "İbn Zühr"
+    ],
+    "correct_index": 1,
+    "explanation": "Eser 17. yüzyıla kadar Avrupa tıp eğitiminde kullanıldı; İbn Zühr ise deneysel diseksiyon ve otopsinin öncülerindendi.",
+    "topics": [
+      "bilim",
+      "sağlık"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Biyoloji tarihi",
+    "kaynak_id": "1151328#17",
+    "kaynak_baslik": "Biyoloji tarihi"
+  },
+  {
+    "id": "m0477",
+    "mode": "mcq",
+    "prompt": "2011 Mısır Devrimi sonucunda Devlet Başkanı Hüsnü Mübarek hangi tarihte istifa etmiştir?",
+    "choices": [
+      "25 Ocak 2011",
+      "Ocak 2012",
+      "Mart 2011",
+      "11 Şubat 2011"
+    ],
+    "correct_index": 3,
+    "explanation": "Gösteriler 25 Ocak 2011'de başlamış, polis şiddeti, işsizlik ve yolsuzluklar gibi nedenlere dayandırılmıştı.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: 2011 Mısır Devrimi",
+    "kaynak_id": "1199333#1",
+    "kaynak_baslik": "2011 Mısır Devrimi"
+  },
+  {
+    "id": "m0478",
+    "mode": "mcq",
+    "prompt": "İngiltere Kralı I. Henry'nin kızı Matilda, 1128'de kiminle evlenmiştir?",
+    "choices": [
+      "Anjoulu Fulk",
+      "İskoçya Kralı David",
+      "Normandiya Dükü Robert",
+      "Anjoulu Geoffrey"
+    ],
+    "correct_index": 3,
+    "explanation": "Çift 1127'de nişanlanmıştı; Fulk 1129'da Kudüs'e giderken Geoffrey'i Anjou ve Maine Kontu ilan etmişti.",
+    "topics": [
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: I. Henry",
+    "kaynak_id": "1481443#57",
+    "kaynak_baslik": "I. Henry"
+  },
+  {
+    "id": "m0479",
+    "mode": "mcq",
+    "prompt": "Pol Pot, Kasım 1965'ten Şubat 1966'ya kadar hangi ülkede siyasi ve askeri eğitim almıştır?",
+    "choices": [
+      "Kuzey Vietnam",
+      "Sovyetler Birliği",
+      "Kuzey Kore",
+      "Çin Halk Cumhuriyeti"
+    ],
+    "correct_index": 3,
+    "explanation": "Çen Boda ve Zhang Chunqiao gibi üst düzey ÇKP yetkilileri onu komünist devrim ve sınıf çatışmaları konusunda eğitti.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Kamboçya Soykırımı",
+    "kaynak_id": "1923611#11",
+    "kaynak_baslik": "Kamboçya Soykırımı"
   }
 ]
