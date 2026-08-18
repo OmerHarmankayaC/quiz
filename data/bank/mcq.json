@@ -10752,5 +10752,416 @@
     "source": "Vikipedi: Semih Erden",
     "kaynak_id": "130023#0",
     "kaynak_baslik": "Semih Erden"
+  },
+  {
+    "id": "m0498",
+    "mode": "mcq",
+    "prompt": "Fuzûlî'nin ünlü \"Leylâ vu Mecnûn\" mesnevisi hangi yıl yazılmıştır?",
+    "choices": [
+      "1454",
+      "1556",
+      "1181",
+      "1535"
+    ],
+    "correct_index": 3,
+    "explanation": "Konuyu daha önce Nizami Gencevi 1181'de, Hatifi ise 15. yüzyılda Farsça olarak işlemişti.",
+    "topics": [
+      "kitap",
+      "kültür"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Leylâ ile Mecnun",
+    "kaynak_id": "13531#9",
+    "kaynak_baslik": "Leylâ ile Mecnun"
+  },
+  {
+    "id": "m0499",
+    "mode": "mcq",
+    "prompt": "Zağanos Paşa, İstanbul'un Fethi sırasında hangi rakibini saf dışı bırakmıştır?",
+    "choices": [
+      "Karaca Paşa",
+      "Sadrazam Mahmud Paşa",
+      "Çandarlı Halil Paşa",
+      "Turahan Bey"
+    ],
+    "correct_index": 2,
+    "explanation": "Zağanos Paşa 1453'te sadrazam oldu, ancak Belgrad Kuşatması'ndaki başarısızlığı nedeniyle 1456'da görevden alındı.",
+    "topics": [
+      "tarih"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Zağanos Paşa",
+    "kaynak_id": "13621#1",
+    "kaynak_baslik": "Zağanos Paşa"
+  },
+  {
+    "id": "m0500",
+    "mode": "mcq",
+    "prompt": "Mickaël Landreau, 1 Aralık 2013'te Ligue 1'de kaçıncı maçına çıkarak bir rekoru egale etmiştir?",
+    "choices": [
+      "500.",
+      "602.",
+      "700.",
+      "450."
+    ],
+    "correct_index": 1,
+    "explanation": "Bu, Jean-Luc Ettori'nin \"ligde en çok maça çıkan futbolcu\" rekoruydu; Landreau rekoru birkaç gün sonra kırdı.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Mickaël Landreau",
+    "kaynak_id": "189636#15",
+    "kaynak_baslik": "Mickaël Landreau"
+  },
+  {
+    "id": "m0501",
+    "mode": "mcq",
+    "prompt": "Anarko-sendikalizm, İspanya İç Savaşı'nda Franco faşizmine karşı hangi yapılar kurarak mücadele etmiştir?",
+    "choices": [
+      "Gizli silahlı hücreler",
+      "Komünler ve kooperatifler",
+      "Uluslararası tugaylar",
+      "Paralel parlamentolar"
+    ],
+    "correct_index": 1,
+    "explanation": "1936 sonrası birçok anarko-sendikalist İspanyol militan Fransa'ya geçerek CNT'yi kurdu.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Anarko-sendikalizm",
+    "kaynak_id": "14925#3",
+    "kaynak_baslik": "Anarko-sendikalizm"
+  },
+  {
+    "id": "m0502",
+    "mode": "mcq",
+    "prompt": "Handel, ilk operası Almira'yı henüz kaç yaşındayken yazmıştır?",
+    "choices": [
+      "16",
+      "22",
+      "25",
+      "19"
+    ],
+    "correct_index": 3,
+    "explanation": "1705'te sahnelenen bu eserden önce Handel 1703'ten itibaren Hamburg Alman Operası'nda kemancı-besteci olarak çalışıyordu.",
+    "topics": [
+      "müzik"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: George Frideric Handel",
+    "kaynak_id": "15059#4",
+    "kaynak_baslik": "George Frideric Handel"
+  },
+  {
+    "id": "m0503",
+    "mode": "mcq",
+    "prompt": "Portekiz'de ilk \"auto da-fe\" hangi yılda ve hangi şehirde uygulanmıştır?",
+    "choices": [
+      "1532, Lizbon",
+      "1540, Lizbon",
+      "1536, Porto",
+      "1547, Coimbra"
+    ],
+    "correct_index": 1,
+    "explanation": "Engizisyon 1536'da papalık fermanıyla kuruldu, 1547'de Portekiz'deki kuruluşu tamamlandı.",
+    "topics": [
+      "tarih",
+      "din"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Engizisyon",
+    "kaynak_id": "15166#8",
+    "kaynak_baslik": "Engizisyon"
+  },
+  {
+    "id": "m0504",
+    "mode": "mcq",
+    "prompt": "Douglas Hofstadter'ın 1979'da yayımlanan ve 1980'de kurgu dışı alanda Pulitzer Ödülü kazanan kitabı hangisidir?",
+    "choices": [
+      "Gödel, Escher, Bach: An Eternal Golden Braid",
+      "Le Ton beau de Marot",
+      "Metamagical Themas",
+      "I Am a Strange Loop"
+    ],
+    "correct_index": 0,
+    "explanation": "Kitap Türkiye'de 2001'de \"Bir Ebedi Gökçe Belik\" adıyla yayımlandı ve birçok öğrenciyi bilgisayar bilimlerine yönlendirdi.",
+    "topics": [
+      "bilim",
+      "kitap"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Douglas Hofstadter",
+    "kaynak_id": "15252#1",
+    "kaynak_baslik": "Douglas Hofstadter"
+  },
+  {
+    "id": "m0505",
+    "mode": "mcq",
+    "prompt": "Gustave Flaubert, henüz 15 yaşındayken Trouville sahilinde âşık olduğu ve sonradan \"Duygusal Eğitim\" adlı eserine ilham veren kadın kimdir?",
+    "choices": [
+      "Juliet Herbert",
+      "George Sand",
+      "Elisa Schlésinger",
+      "Louise Colet"
+    ],
+    "correct_index": 2,
+    "explanation": "Kendisinden on yaş büyük ve evli olan Elisa, romanda Marie Arnoux karakterinin temel kaynağı oldu.",
+    "topics": [
+      "kitap"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Gustave Flaubert",
+    "kaynak_id": "15310#2",
+    "kaynak_baslik": "Gustave Flaubert"
+  },
+  {
+    "id": "m0506",
+    "mode": "mcq",
+    "prompt": "Şair Edip Cansever, 1975'e kadar İstanbul'da hangi işi yürütmüştür?",
+    "choices": [
+      "Yayınevi editörlüğü",
+      "Gazetecilik",
+      "Öğretmenlik",
+      "Kapalıçarşı'da antikacılık"
+    ],
+    "correct_index": 3,
+    "explanation": "1954 Kapalıçarşı yangınında dükkânı yanınca ortak olup asma katlı bir dükkâna geçmiş, orada şiir yazmayı sürdürmüştü.",
+    "topics": [
+      "kitap",
+      "kültür"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Edip Cansever",
+    "kaynak_id": "15387#4",
+    "kaynak_baslik": "Edip Cansever"
+  },
+  {
+    "id": "m0507",
+    "mode": "mcq",
+    "prompt": "Linus Torvalds, bilgisayarla ilk kez 1981'de büyükbabasına ait hangi bilgisayarla tanışmıştır?",
+    "choices": [
+      "Commodore VIC-20",
+      "Apple II",
+      "ZX Spectrum",
+      "Commodore 64"
+    ],
+    "correct_index": 0,
+    "explanation": "Torvalds 1988'de Helsinki Üniversitesi Bilgisayar Bilimleri bölümüne başladı; askerliğini balistik hesaplama ofisinde yaptı.",
+    "topics": [
+      "teknoloji"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Linus Torvalds",
+    "kaynak_id": "10365#3",
+    "kaynak_baslik": "Linus Torvalds"
+  },
+  {
+    "id": "m0508",
+    "mode": "mcq",
+    "prompt": "G8 grubuna, o dönem G6 olan yapıya Kanada 1976'da katıldıktan sonra hangi ülke 1997'de dahil olmuştur?",
+    "choices": [
+      "Çin",
+      "Brezilya",
+      "Hindistan",
+      "Rusya"
+    ],
+    "correct_index": 3,
+    "explanation": "G8 üyeleri dünya ekonomisinin yaklaşık %65'ini temsil eder; grup 1975'ten beri yıllık ekonomi zirveleri düzenler.",
+    "topics": [
+      "ekonomi",
+      "siyaset"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: G8",
+    "kaynak_id": "15630#1",
+    "kaynak_baslik": "G8"
+  },
+  {
+    "id": "m0509",
+    "mode": "mcq",
+    "prompt": "2002 Türkiye genel seçimlerinin 3 Kasım'a alınması kararı, TBMM Genel Kurulu'nda kaç milletvekilinin kabul oyuyla onaylanmıştır?",
+    "choices": [
+      "276",
+      "449",
+      "330",
+      "514"
+    ],
+    "correct_index": 1,
+    "explanation": "Erken seçim çağrısını MHP lideri Devlet Bahçeli 7 Temmuz 2002'de yapmış, üç parti liderleri 16 Temmuz'da anlaşmıştı.",
+    "topics": [
+      "siyaset",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: 2002 Türkiye genel seçimleri",
+    "kaynak_id": "161292#3",
+    "kaynak_baslik": "2002 Türkiye genel seçimleri"
+  },
+  {
+    "id": "m0510",
+    "mode": "mcq",
+    "prompt": "Arthur Miller, Marilyn Monroe ile hangi yıl evlenmiştir?",
+    "choices": [
+      "1956",
+      "1962",
+      "1938",
+      "1951"
+    ],
+    "correct_index": 0,
+    "explanation": "Miller aynı yılın haziran ayında ilk eşi Mary Slattery'den boşanmıştı; evlilik Monroe'nun 1962'deki ölümüyle sona erdi.",
+    "topics": [
+      "tiyatro",
+      "film"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Arthur Miller",
+    "kaynak_id": "16143#2",
+    "kaynak_baslik": "Arthur Miller"
+  },
+  {
+    "id": "m0511",
+    "mode": "mcq",
+    "prompt": "27 Mayıs Darbesi sonrası Yassıada'da (bugünkü Demokrasi ve Özgürlükler Adası) kurulan mahkemede idam cezası infaz edilmeyen isim hangisidir?",
+    "choices": [
+      "Adnan Menderes",
+      "Celal Bayar",
+      "Fatin Rüştü Zorlu",
+      "Hasan Polatkan"
+    ],
+    "correct_index": 1,
+    "explanation": "15 sanık idama mahkûm edilmiş, bunlardan Menderes, Polatkan ve Zorlu'nun cezaları İmralı'da infaz edilmişti.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Demokrasi ve Özgürlükler Adası",
+    "kaynak_id": "16288#6",
+    "kaynak_baslik": "Demokrasi ve Özgürlükler Adası"
+  },
+  {
+    "id": "m0512",
+    "mode": "mcq",
+    "prompt": "Gdańsk'tan bir Polonya devleti parçası olarak ilk kez hangi yılda söz edilmiştir?",
+    "choices": [
+      "1190",
+      "1793",
+      "1871",
+      "997"
+    ],
+    "correct_index": 3,
+    "explanation": "Şehir 1 Eylül 1939'da Westerplatte'de II. Dünya Savaşı'nın ilk çatışmalarından birine sahne oldu.",
+    "topics": [
+      "tarih",
+      "coğrafya"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Gdańsk",
+    "kaynak_id": "16294#2",
+    "kaynak_baslik": "Gdańsk"
+  },
+  {
+    "id": "m0513",
+    "mode": "mcq",
+    "prompt": "Kemal Sunal'ın Postacı filminde başrolü hangi oyuncuyla paylaşmıştır?",
+    "choices": [
+      "Fatma Girik",
+      "Nevra Serezli",
+      "Perihan Savaş",
+      "Türkan Şoray"
+    ],
+    "correct_index": 0,
+    "explanation": "Film 1984'te Memduh Ün tarafından çekilmişti; aynı yıl Şabaniye ve Atla Gel Şaban filmlerinde de rol aldı.",
+    "topics": [
+      "film"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Kemal Sunal",
+    "kaynak_id": "16408#8",
+    "kaynak_baslik": "Kemal Sunal"
+  },
+  {
+    "id": "m0514",
+    "mode": "mcq",
+    "prompt": "Karl Weierstrass, babasının isteğiyle hukuk okumak üzere hangi üniversiteye gönderilmiştir?",
+    "choices": [
+      "Königsberg Üniversitesi",
+      "Bonn Üniversitesi",
+      "Münster Akademisi",
+      "Berlin Üniversitesi"
+    ],
+    "correct_index": 1,
+    "explanation": "Weierstrass burada diploma almadan döndü, ancak düello ve içki âlemleri arasında matematikle ilgilenmeye başladı.",
+    "topics": [
+      "bilim",
+      "matematik"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Karl Weierstrass",
+    "kaynak_id": "16545#5",
+    "kaynak_baslik": "Karl Weierstrass"
+  },
+  {
+    "id": "m0515",
+    "mode": "mcq",
+    "prompt": "Charles Baudelaire, hukuk öğrenimine karşı çıkarak hangi mahallede bohem bir hayat sürmüştür?",
+    "choices": [
+      "Quartier Latin",
+      "Saint-Germain",
+      "Montmartre",
+      "Le Marais"
+    ],
+    "correct_index": 0,
+    "explanation": "Burada frengiye yakalandı; 20 yaşında Hindistan'a gitmek üzere yola çıktı ama 1842'de Fransa'ya döndü.",
+    "topics": [
+      "kitap"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Charles Baudelaire",
+    "kaynak_id": "16584#2",
+    "kaynak_baslik": "Charles Baudelaire"
+  },
+  {
+    "id": "m0516",
+    "mode": "mcq",
+    "prompt": "Gaziosmanpaşa ilçesinin merkezi olan ve daha önce Taşlıtarla adıyla bilinen bölge hangi ilçenin Rami Bucağı'na bağlıydı?",
+    "choices": [
+      "Eyüp",
+      "Kağıthane",
+      "Şişli",
+      "Bakırköy"
+    ],
+    "correct_index": 0,
+    "explanation": "1962 araştırmasına göre bölgedeki 18 bin gecekonduda 90 bin kişi yaşıyordu; ilçe 1963'te kurulmuştu.",
+    "topics": [
+      "coğrafya",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Gaziosmanpaşa",
+    "kaynak_id": "16668#9",
+    "kaynak_baslik": "Gaziosmanpaşa"
   }
 ]
