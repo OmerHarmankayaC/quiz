@@ -16139,5 +16139,371 @@
     "source": "Vikipedi: Akbaba (dergi)",
     "kaynak_id": "109356#4",
     "kaynak_baslik": "Akbaba (dergi)"
+  },
+  {
+    "id": "m0747",
+    "mode": "mcq",
+    "prompt": "Martina Hingis, 2010 yılı başında hangi eski dünya 1 numarasını mağlup ederek tenise dönüş ihtimalini gündeme getirmiştir?",
+    "choices": [
+      "Venus Williams",
+      "Lindsay Davenport",
+      "Steffi Graf",
+      "Anna Kournikova"
+    ],
+    "correct_index": 1,
+    "explanation": "Mayıs 2010'da ise çiftlerde Anna Kournikova ile Wimbledon Invitational Ladies Doubles'ta bir araya gelmesi açıklanmıştı.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Martina Hingis",
+    "kaynak_id": "104761#14",
+    "kaynak_baslik": "Martina Hingis"
+  },
+  {
+    "id": "m0748",
+    "mode": "mcq",
+    "prompt": "Üsküdar Amerikan Lisesi'nin öncülü olan American School for Girls, 15 Eylül 1921'de kimin müdürlüğünde açılmıştır?",
+    "choices": [
+      "Elizabeth Webb",
+      "Mary Mills Patrick",
+      "Caroline Borden",
+      "Mary Kinney"
+    ],
+    "correct_index": 3,
+    "explanation": "Okul 1928-29'da öğrencilerinin yaklaşık yarısının Müslüman Türklerden oluştuğunu, 1939-40'ta bu oranın dörtte üçe yükseldiğini kaydetmişti.",
+    "topics": [
+      "eğitim",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Üsküdar Amerikan Lisesi",
+    "kaynak_id": "110600#9",
+    "kaynak_baslik": "Üsküdar Amerikan Lisesi"
+  },
+  {
+    "id": "m0749",
+    "mode": "mcq",
+    "prompt": "Ekonomist Daron Acemoğlu, 2024 yılında hangi ödülü kazanmıştır?",
+    "choices": [
+      "John Bates Clark Madalyası",
+      "Nobel Ekonomi Ödülü",
+      "Turing Ödülü",
+      "Fields Madalyası"
+    ],
+    "correct_index": 1,
+    "explanation": "Acemoğlu 2005'te John Bates Clark Madalyası'nı almış, 1993'ten beri MIT'de ekonomi dersleri vermektedir.",
+    "topics": [
+      "ekonomi",
+      "bilim"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Daron Acemoğlu",
+    "kaynak_id": "110632#1",
+    "kaynak_baslik": "Daron Acemoğlu"
+  },
+  {
+    "id": "m0750",
+    "mode": "mcq",
+    "prompt": "Joker karakteri, DC çizgi romanlarına Kasım 1973'te hangi sayı ile geri dönüş yapmıştır?",
+    "choices": [
+      "251. bölüm",
+      "300. bölüm",
+      "168. bölüm",
+      "1. bölüm"
+    ],
+    "correct_index": 0,
+    "explanation": "Yenilenme, Dennis O'Neil ve Neal Adams'ın Batman'i daha modern bir versiyona kavuşturma görevinin bir parçasıydı.",
+    "topics": [
+      "kültür"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Joker (karakter)",
+    "kaynak_id": "11666#3",
+    "kaynak_baslik": "Joker (karakter)"
+  },
+  {
+    "id": "m0751",
+    "mode": "mcq",
+    "prompt": "2010 yılında İspanya'da rüzgar türbinleri, ülkede üretilen toplam elektriğin yaklaşık yüzde kaçını oluşturmuştur?",
+    "choices": [
+      "%5",
+      "%50",
+      "%30",
+      "%16,4"
+    ],
+    "correct_index": 3,
+    "explanation": "Aynı dönemde Alman şirketleri İspanya'ya 4,8 milyar Euro yatırım yaparak ülkeyi ABD'nin ardından Almanya'nın en büyük ikinci yatırım hedefi hâline getirmişti.",
+    "topics": [
+      "ekonomi",
+      "coğrafya"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: İspanya",
+    "kaynak_id": "1405#17",
+    "kaynak_baslik": "İspanya"
+  },
+  {
+    "id": "m0752",
+    "mode": "mcq",
+    "prompt": "Skolastik felsefe, hangi dönemin felsefesinin genel olarak anıldığı isimdir?",
+    "choices": [
+      "Antik Yunan",
+      "Orta Çağ",
+      "Aydınlanma",
+      "Rönesans"
+    ],
+    "correct_index": 1,
+    "explanation": "Skolastik felsefe, Patristik felsefenin sürdürülmesi ve Hristiyan inancının felsefi olarak sistematize edilmesi çabalarından doğmuştur.",
+    "topics": [
+      "felsefe"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Skolastik felsefe",
+    "kaynak_id": "169891#1",
+    "kaynak_baslik": "Skolastik felsefe"
+  },
+  {
+    "id": "m0753",
+    "mode": "mcq",
+    "prompt": "Northrop F-5'in özgün tasarımı olan Freedom Fighter varyantlarının kodları nelerdir?",
+    "choices": [
+      "F-5E ve F-5F",
+      "F-5A ve F-5B",
+      "F-5G ve F-5H",
+      "F-5C ve F-5D"
+    ],
+    "correct_index": 1,
+    "explanation": "Bunların kapsamlı geliştirilmiş versiyonları olan F-5E ve F-5F ise Tiger II adını almıştı.",
+    "topics": [
+      "askeri",
+      "teknoloji"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Northrop F-5",
+    "kaynak_id": "111856#0",
+    "kaynak_baslik": "Northrop F-5"
+  },
+  {
+    "id": "m0754",
+    "mode": "mcq",
+    "prompt": "Natalie Portman, Yıldız Savaşları: Bölüm I - Gizli Tehlike filminde hangi karakteri canlandırmıştır?",
+    "choices": [
+      "Leia Organa",
+      "Rey",
+      "Mon Mothma",
+      "Padmé Amidala"
+    ],
+    "correct_index": 3,
+    "explanation": "Portman oyunculuğa on iki yaşında Leon: Sevginin Gücü filmiyle başlamış, 1999-2003 arasında Harvard'da psikoloji okumuştu.",
+    "topics": [
+      "film"
+    ],
+    "difficulty": 1,
+    "origin": "wiki",
+    "source": "Vikipedi: Natalie Portman",
+    "kaynak_id": "141297#1",
+    "kaynak_baslik": "Natalie Portman"
+  },
+  {
+    "id": "m0755",
+    "mode": "mcq",
+    "prompt": "Buhara Hanlığı'nda Köçküncü'nün 1530'daki ölümünün ardından kaç yıl sonra oğlu Ebû Said Han da vefat etmiştir?",
+    "choices": [
+      "1 yıl",
+      "10 yıl",
+      "3 yıl",
+      "20 yıl"
+    ],
+    "correct_index": 2,
+    "explanation": "Ardından Şeybânî Han'ın yeğeni Ubeydullah Han tahta oturmuş ve Safevîlerle mücadelesini sürdürmüştü.",
+    "topics": [
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Buhara Hanlığı",
+    "kaynak_id": "165347#9",
+    "kaynak_baslik": "Buhara Hanlığı"
+  },
+  {
+    "id": "m0756",
+    "mode": "mcq",
+    "prompt": "Rio de Janeiro'daki Kurtarıcı İsa heykelinin dış katmanları, kalıcı nitelikleri nedeniyle hangi malzemeden yapılmıştır?",
+    "choices": [
+      "Sabuntaşı",
+      "Granit",
+      "Bronz",
+      "Mermer"
+    ],
+    "correct_index": 0,
+    "explanation": "Heykelin betonarme taşıyıcı yapısı Albert Caquot tarafından tasarlanmış, tabanın betonu İsveç'in Limhamn kentinden getirilmişti.",
+    "topics": [
+      "mimari",
+      "sanat"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Kurtarıcı İsa",
+    "kaynak_id": "141578#7",
+    "kaynak_baslik": "Kurtarıcı İsa"
+  },
+  {
+    "id": "m0757",
+    "mode": "mcq",
+    "prompt": "Yalvaç yakınlarındaki Pisidia Antiokheia'yı ilk tanımlayan kişi, 1828'de Anadolu'nun Yedi Kilisesi'ne dair notlarını yayımlayan hangi İngiliz din adamıdır?",
+    "choices": [
+      "Texier",
+      "Fellows",
+      "Arundel",
+      "Ramsay"
+    ],
+    "correct_index": 2,
+    "explanation": "Alandaki ilk kazılar 1911'de araştırma kampı olarak başlamış, 1912'de Princeton Üniversitesi desteğiyle Ramsay tarafından yürütülmüştü.",
+    "topics": [
+      "tarih",
+      "coğrafya"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Yalvaç",
+    "kaynak_id": "20363#8",
+    "kaynak_baslik": "Yalvaç"
+  },
+  {
+    "id": "m0758",
+    "mode": "mcq",
+    "prompt": "Paolo Maldini'nin Milan'la kazandığı ilk kupa olan 1987-88 sezonu Scudetto'sunda takımın teknik direktörü kimdi?",
+    "choices": [
+      "Carlo Ancelotti",
+      "Fabio Capello",
+      "Nils Liedholm",
+      "Arrigo Sacchi"
+    ],
+    "correct_index": 3,
+    "explanation": "Sacchi'nin \"Ölümsüzler\" lakaplı Milan'ı, Hollandalı üçlü Rijkaard-Gullit-van Basten ile İtalyan orta sahaları birleştiriyordu.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Paolo Maldini",
+    "kaynak_id": "142362#4",
+    "kaynak_baslik": "Paolo Maldini"
+  },
+  {
+    "id": "m0759",
+    "mode": "mcq",
+    "prompt": "Edmond Halley, 1705'te yayımladığı Synopsis Astronomia Cometicae'de hangi tarihte bir kuyruklu yıldızın geri döneceğini öngörmüştür?",
+    "choices": [
+      "1531",
+      "1607",
+      "1801",
+      "1758"
+    ],
+    "correct_index": 3,
+    "explanation": "Halley 1456, 1531 ve 1607'de görülen kuyruklu yıldızların aynı gök cismi olduğunu öne sürmüş ve öngörüsü doğru çıkınca bu cisim onun adıyla anılmaya başlamıştı.",
+    "topics": [
+      "bilim",
+      "uzay"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Edmond Halley",
+    "kaynak_id": "142387#9",
+    "kaynak_baslik": "Edmond Halley"
+  },
+  {
+    "id": "m0760",
+    "mode": "mcq",
+    "prompt": "Kurtalan Ekspres grubuna 1975-1985 arasında damgasını vuran, didaktik ve duyarlı kalemiyle bilinen sanatçı kimdir?",
+    "choices": [
+      "Barış Manço",
+      "Erkin Koray",
+      "Cem Karaca",
+      "Fikret Kızılok"
+    ],
+    "correct_index": 0,
+    "explanation": "Grup 1976'dan itibaren Kılıç Danışman ve Ahmet Güvenç'in, 1978'den sonra ise Ömür Gidel ve Bahadır Akkuzu'nun katılımıyla genişlemişti.",
+    "topics": [
+      "müzik"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Kurtalan Ekspres",
+    "kaynak_id": "114551#1",
+    "kaynak_baslik": "Kurtalan Ekspres"
+  },
+  {
+    "id": "m0761",
+    "mode": "mcq",
+    "prompt": "AC/DC'nin solisti Bon Scott, 19 Şubat 1980'de ne sebeple hayatını kaybetmiştir?",
+    "choices": [
+      "Trafik kazası",
+      "Uçak kazası",
+      "Kalp krizi",
+      "Alkol zehirlenmesi"
+    ],
+    "correct_index": 3,
+    "explanation": "Grup kısa süre müziği bırakmayı düşünse de yerine Geordie grubundan Brian Johnson'ı alarak devam etti.",
+    "topics": [
+      "müzik"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: AC/DC",
+    "kaynak_id": "145239#1",
+    "kaynak_baslik": "AC/DC"
+  },
+  {
+    "id": "m0762",
+    "mode": "mcq",
+    "prompt": "Kavalalı İbrahim Paşa, 1824'te babası Mehmed Ali Paşa tarafından Yunan Devrimi'ni bastırmak için hangi bölgenin valisi olarak atanmıştır?",
+    "choices": [
+      "Hicaz",
+      "Girit",
+      "Suriye",
+      "Mora"
+    ],
+    "correct_index": 3,
+    "explanation": "Atama, II. Mahmud'un kendi kuvvetlerinin bastıramadığı Yunan Devrimi'ne karşı Mehmed Ali'den yardım istemesi üzerine gerçekleşmişti.",
+    "topics": [
+      "tarih",
+      "askeri"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Kavalalı İbrahim Paşa",
+    "kaynak_id": "175049#6",
+    "kaynak_baslik": "Kavalalı İbrahim Paşa"
+  },
+  {
+    "id": "m0763",
+    "mode": "mcq",
+    "prompt": "Napolyon, sürgünden dönüşünün ardından 18 Haziran 1815'te müttefik kuvvetlere karşı hangi savaşta ağır bir yenilgi almıştır?",
+    "choices": [
+      "Leipzig Muharebesi",
+      "Austerlitz Muharebesi",
+      "Waterloo Muharebesi",
+      "Borodino Muharebesi"
+    ],
+    "correct_index": 2,
+    "explanation": "Napolyon yaklaşık 200 bin, müttefikler ise 150 bin asker toplamıştı; savaş öncesi Bourbon Hanedanı'nı tahttan indirmişti.",
+    "topics": [
+      "tarih",
+      "askeri"
+    ],
+    "difficulty": 1,
+    "origin": "wiki",
+    "source": "Vikipedi: Napolyon Savaşları",
+    "kaynak_id": "146029#50",
+    "kaynak_baslik": "Napolyon Savaşları"
   }
 ]
