@@ -9177,5 +9177,395 @@
     "source": "Vikipedi: Aladağlar",
     "kaynak_id": "13321#7",
     "kaynak_baslik": "Aladağlar"
+  },
+  {
+    "id": "m0425",
+    "mode": "mcq",
+    "prompt": "Nemi ölçen higrometrenin bilinen ilk tasarımını 15. yüzyıl ortasında kim yapmıştır?",
+    "choices": [
+      "Anders Celsius",
+      "Evangelista Torricelli",
+      "Nicholas Cusa",
+      "Galileo Galilei"
+    ],
+    "correct_index": 2,
+    "explanation": "Galileo 1592 civarında ilkel bir termometre icat etti; Torricelli ise cıvalı barometreyi geliştirdi.",
+    "topics": [
+      "bilim",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Meteoroloji",
+    "kaynak_id": "13352#4",
+    "kaynak_baslik": "Meteoroloji"
+  },
+  {
+    "id": "m0426",
+    "mode": "mcq",
+    "prompt": "16 Eylül 2013'te sınır ihlali yapan Suriye'ye ait bir Mil Mi-17 helikopteri Türk jetleri hangi ilden havalanarak vurmuştur?",
+    "choices": [
+      "Şanlıurfa",
+      "Malatya",
+      "Gaziantep",
+      "Hatay"
+    ],
+    "correct_index": 1,
+    "explanation": "Bir yıl sonra, 23 Mart 2014'te Hatay sınırında da sınır ihlali yapan bir Suriye MİG-23'ü düşürülmüştü.",
+    "topics": [
+      "askeri",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Türk Silahlı Kuvvetleri",
+    "kaynak_id": "13920#18",
+    "kaynak_baslik": "Türk Silahlı Kuvvetleri"
+  },
+  {
+    "id": "m0427",
+    "mode": "mcq",
+    "prompt": "Cüce gezegen kategorisinin oluşturulmasına yol açan ve Ocak 2005'te keşfedilen, kütlesi Plüton'dan büyük değerlendirilen cisim hangisidir?",
+    "choices": [
+      "Eris",
+      "Haumea",
+      "Charon",
+      "Ceres"
+    ],
+    "correct_index": 0,
+    "explanation": "IAU'nun ilk taslağında Eris, Ceres ve Charon gezegen listesine alınmak istenmiş, bu öneri Ağustos 2006'da yoğun tartışmaya yol açmıştı.",
+    "topics": [
+      "uzay"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Cüce gezegen",
+    "kaynak_id": "125619#6",
+    "kaynak_baslik": "Cüce gezegen"
+  },
+  {
+    "id": "m0428",
+    "mode": "mcq",
+    "prompt": "Kadir Topbaş, İstanbul tarihinde hangi konuda bir ilki gerçekleştirmiştir?",
+    "choices": [
+      "Üst üste üç seçim kazanan ilk büyükşehir belediye başkanı olması",
+      "En genç yaşta seçilen başkan olması",
+      "İlk kez metro hattı açan başkan olması",
+      "İlk kadın belediye başkan yardımcısını ataması"
+    ],
+    "correct_index": 0,
+    "explanation": "Topbaş ayrıca Birleşmiş Kentler ve Yerel Yönetimler Teşkilatı'na başkan seçilen ilk Türk yerel yönetici oldu.",
+    "topics": [
+      "siyaset"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Kadir Topbaş",
+    "kaynak_id": "14436#1",
+    "kaynak_baslik": "Kadir Topbaş"
+  },
+  {
+    "id": "m0429",
+    "mode": "mcq",
+    "prompt": "Kuvarsın piezoelektrik özelliklerini 1880'de kimler keşfetmiştir?",
+    "choices": [
+      "Jacques ve Pierre Curie",
+      "Walter Guyton Cady",
+      "George Washington Pierce",
+      "Warren Marrison"
+    ],
+    "correct_index": 0,
+    "explanation": "Cady 1921'de ilk kuvars osilatörü geliştirdi; Marrison ise 1927'de bu çalışmalara dayanarak ilk kuvars saatini yarattı.",
+    "topics": [
+      "bilim",
+      "teknoloji"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Kuvars",
+    "kaynak_id": "14906#32",
+    "kaynak_baslik": "Kuvars"
+  },
+  {
+    "id": "m0430",
+    "mode": "mcq",
+    "prompt": "Bedri Rahmi Eyüboğlu'nun resim anlayışını değiştiren 1942'deki gezisi hangi ilçeye yapılmıştır?",
+    "choices": [
+      "Çorum",
+      "Yozgat",
+      "Amasya",
+      "İskilip"
+    ],
+    "correct_index": 3,
+    "explanation": "CHP'nin yurt içi gezileri programıyla önce Çorum'a, oradan İskilip'e gitti ve orada iki hafta kaldı.",
+    "topics": [
+      "sanat",
+      "kültür"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Bedri Rahmi Eyüboğlu",
+    "kaynak_id": "15149#10",
+    "kaynak_baslik": "Bedri Rahmi Eyüboğlu"
+  },
+  {
+    "id": "m0431",
+    "mode": "mcq",
+    "prompt": "Fransa'da College de France'da kurulan Dinler Tarihi kürsüsünün ilk sahibi kimdir?",
+    "choices": [
+      "Cornelis Tiele",
+      "Albert Reville",
+      "Ernest Renan",
+      "Max Müller"
+    ],
+    "correct_index": 1,
+    "explanation": "Ernest Renan da bu harekete katıldı; ekol dinin tarihî formlarından çok özü üzerine yoğunlaştı.",
+    "topics": [
+      "din",
+      "bilim"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Din bilimleri",
+    "kaynak_id": "15516#6",
+    "kaynak_baslik": "Din bilimleri"
+  },
+  {
+    "id": "m0432",
+    "mode": "mcq",
+    "prompt": "Teşkîlât-ı Mahsûsa'nın isim babası kimdir?",
+    "choices": [
+      "Bahaeddin Şakir",
+      "Enver Paşa",
+      "Mirliva Rasim Bey",
+      "Süleyman Askeri Bey"
+    ],
+    "correct_index": 2,
+    "explanation": "Örgüt 17 Kasım 1913'te resmen kuruldu ve 5 Ağustos 1914'te Harbiye Nezareti'ne bağlı resmî bir birime dönüştürüldü.",
+    "topics": [
+      "tarih",
+      "askeri"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Teşkîlât-ı Mahsûsa",
+    "kaynak_id": "103273#0",
+    "kaynak_baslik": "Teşkîlât-ı Mahsûsa"
+  },
+  {
+    "id": "m0433",
+    "mode": "mcq",
+    "prompt": "Roger Federer, ilk ATP World Tour Masters 1000 şampiyonluğunu 2002'de hangi şehirde, kimi yenerek kazanmıştır?",
+    "choices": [
+      "Roma, Pete Sampras",
+      "Miami, Andre Agassi",
+      "Madrid, Björn Borg",
+      "Hamburg, Marat Safin"
+    ],
+    "correct_index": 3,
+    "explanation": "Federer aynı yıl Miami finalinde Agassi'ye yenilmişti; Wimbledon'da ise Sampras'ın 31 maçlık galibiyet serisini bitirdi.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Roger Federer",
+    "kaynak_id": "15811#9",
+    "kaynak_baslik": "Roger Federer"
+  },
+  {
+    "id": "m0434",
+    "mode": "mcq",
+    "prompt": "Sinan Erdem Spor Salonu, Avrupa'nın büyüklük sıralamasında kaçıncı sıradadır?",
+    "choices": [
+      "Beşinci",
+      "Üçüncü",
+      "Onuncu",
+      "Birinci"
+    ],
+    "correct_index": 1,
+    "explanation": "Salon 2010 FIBA Dünya Basketbol Şampiyonası'na ev sahipliği yaptı ve hâlen Anadolu Efes'in EuroLeague maçlarını ağırlıyor.",
+    "topics": [
+      "spor",
+      "mimari"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Bakırköy",
+    "kaynak_id": "16076#17",
+    "kaynak_baslik": "Bakırköy"
+  },
+  {
+    "id": "m0435",
+    "mode": "mcq",
+    "prompt": "Fatih Altaylı, gazeteciliğe 1982'de hangi gazetede spor muhabiri olarak başlamıştır?",
+    "choices": [
+      "Cumhuriyet",
+      "Milliyet",
+      "Hürriyet",
+      "Güneş"
+    ],
+    "correct_index": 0,
+    "explanation": "1986'da Güneş gazetesine geçti; gazete 1992'de kapanınca bir süre işsiz kaldı.",
+    "topics": [
+      "kültür"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Fatih Altaylı",
+    "kaynak_id": "103776#4",
+    "kaynak_baslik": "Fatih Altaylı"
+  },
+  {
+    "id": "m0436",
+    "mode": "mcq",
+    "prompt": "Hollandalılar, J.P. Coen komutasında Prens Jayawikarta'yı yendikten sonra şehri yeniden adlandırarak ona hangi adı vermiştir?",
+    "choices": [
+      "Batavia",
+      "Jakarta",
+      "Buitenzorg",
+      "Sunda Kelapa"
+    ],
+    "correct_index": 0,
+    "explanation": "Hollanda kolonisi, Endonezyalı ve özellikle Çinli göçmenler için ticari bir fırsat merkezi hâline geldi.",
+    "topics": [
+      "tarih",
+      "coğrafya"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Cakarta",
+    "kaynak_id": "16719#8",
+    "kaynak_baslik": "Cakarta"
+  },
+  {
+    "id": "m0437",
+    "mode": "mcq",
+    "prompt": "Zübeyde Hanım, Millî Mücadele'yi başlatmak üzere Anadolu'ya geçen Mustafa Kemal'i hangi tarihte hangi evden uğurlamıştır?",
+    "choices": [
+      "16 Mayıs 1919, Şişli'deki ev",
+      "19 Mayıs 1919, Samsun'daki konak",
+      "28 Kasım 1918, Beyoğlu'ndaki ev",
+      "13 Kasım 1918, Dolmabahçe"
+    ],
+    "correct_index": 0,
+    "explanation": "Zübeyde Hanım 28 Kasım 1918'den itibaren Şişli'deki Halaskargazi Caddesi'ndeki evin üçüncü katında yaşıyordu.",
+    "topics": [
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Zübeyde Hanım",
+    "kaynak_id": "11741#17",
+    "kaynak_baslik": "Zübeyde Hanım"
+  },
+  {
+    "id": "m0438",
+    "mode": "mcq",
+    "prompt": "Alman Yeniden Birleşmesi'nden sonra Doğu Almanya'daki kaç eyalet Avrupa Konseyi'nde temsil edilmeye başlamıştır?",
+    "choices": [
+      "Sekiz",
+      "Beş",
+      "On",
+      "Üç"
+    ],
+    "correct_index": 1,
+    "explanation": "Doğu Almanya, Sovyet işgali altındayken hiçbir zaman Avrupa Konseyi'ne üye olmamıştı.",
+    "topics": [
+      "siyaset",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Avrupa Konseyi",
+    "kaynak_id": "16998#16",
+    "kaynak_baslik": "Avrupa Konseyi"
+  },
+  {
+    "id": "m0439",
+    "mode": "mcq",
+    "prompt": "1847'deki yönetsel bölünmede Samsun ve çevresi hangi eyaletten alınarak Trabzon eyaletine verilmiştir?",
+    "choices": [
+      "Diyarbakır eyaleti",
+      "Erzurum eyaleti",
+      "Sivas eyaleti",
+      "Kastamonu eyaleti"
+    ],
+    "correct_index": 2,
+    "explanation": "Trabzon eyaletinin o dönemki livaları arasında Canik, Batum, Gönye ve Karahisar-ı şarki bulunuyordu.",
+    "topics": [
+      "tarih",
+      "coğrafya"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Çarşamba, Samsun",
+    "kaynak_id": "12102#13",
+    "kaynak_baslik": "Çarşamba, Samsun"
+  },
+  {
+    "id": "m0440",
+    "mode": "mcq",
+    "prompt": "Gerardus Mercator'ın da metinleri kazıdığı ortak yerküre çalışması hangi yıl tamamlanmıştır?",
+    "choices": [
+      "1535",
+      "1529",
+      "1536",
+      "1541"
+    ],
+    "correct_index": 2,
+    "explanation": "Çalışma Gemma'nın içerik araştırması, Van der Heyden'in coğrafi kısmı ve Mercator'un kazımasıyla yapıldı; gökküre bir yıl sonra bitti.",
+    "topics": [
+      "bilim",
+      "coğrafya"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Gerardus Mercator",
+    "kaynak_id": "17205#18",
+    "kaynak_baslik": "Gerardus Mercator"
+  },
+  {
+    "id": "m0441",
+    "mode": "mcq",
+    "prompt": "Albertus Magnus, 1260'ta Papa IV. Alexander tarafından hangi göreve atanmıştır?",
+    "choices": [
+      "Dominikan tarikatı genel başkanı",
+      "Köln başpiskoposu",
+      "Papalık elçisi",
+      "Regensburg piskoposu"
+    ],
+    "correct_index": 3,
+    "explanation": "Üç yıl sonra istifa etti; at sürmeyi reddederek alçak gönüllülüğüyle tanındı ve Köln Üniversitesi'nin kurucusu sayılır.",
+    "topics": [
+      "din",
+      "eğitim"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Albertus Magnus",
+    "kaynak_id": "104876#8",
+    "kaynak_baslik": "Albertus Magnus"
+  },
+  {
+    "id": "m0442",
+    "mode": "mcq",
+    "prompt": "Osmanlı padişahı İbrahim, IV. Murad'ın emriyle boğdurulan kardeşlerinden Şehzade Kâsım'ın öldürülme yılı nedir?",
+    "choices": [
+      "1635",
+      "1617",
+      "1640",
+      "1638"
+    ],
+    "correct_index": 3,
+    "explanation": "Kâsım, Bağdat Seferi arefesinde boğduruldu; Şehzade Bayezid ise 1635'te Revan Seferi'ne çıkarken öldürülmüştü.",
+    "topics": [
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: İbrahim (Osmanlı padişahı)",
+    "kaynak_id": "17820#3",
+    "kaynak_baslik": "İbrahim (Osmanlı padişahı)"
   }
 ]
