@@ -14697,5 +14697,390 @@
     "source": "Vikipedi: Ender Konca",
     "kaynak_id": "123678#14",
     "kaynak_baslik": "Ender Konca"
+  },
+  {
+    "id": "m0680",
+    "mode": "mcq",
+    "prompt": "Beylikdüzü'nün eski adı olan Kavaklı, hangi yıl Beylikdüzü olarak değiştirilmiştir?",
+    "choices": [
+      "1998",
+      "2009",
+      "1993",
+      "2002"
+    ],
+    "correct_index": 3,
+    "explanation": "Değişiklik, Silivri'de aynı isimde bir yerleşim bulunmasının da etkisiyle yapıldı; belde 1993'te Büyükçekmece'ye bağlanmıştı.",
+    "topics": [
+      "coğrafya",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Beylikdüzü",
+    "kaynak_id": "125045#5",
+    "kaynak_baslik": "Beylikdüzü"
+  },
+  {
+    "id": "m0681",
+    "mode": "mcq",
+    "prompt": "Rage Against the Machine'in \"Killing in the Name\" şarkısını 2009 İngiltere Noel bir numarası yapan Facebook kampanyasını kim başlatmıştır?",
+    "choices": [
+      "The X Factor ekibi",
+      "Jon Morter",
+      "Rage Against the Machine",
+      "Simon Cowell"
+    ],
+    "correct_index": 1,
+    "explanation": "DJ Morter ve eşi, X Factor yarışmacılarının yıllardır bir numarayı almasından rahatsızdı; kampanyaya iki haftada 750 bin kişi destek verdi.",
+    "topics": [
+      "müzik"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Killing in the Name",
+    "kaynak_id": "154758#10",
+    "kaynak_baslik": "Killing in the Name"
+  },
+  {
+    "id": "m0682",
+    "mode": "mcq",
+    "prompt": "Lev Tolstoy'un Savaş ve Barış romanı ilk kez hangi yıl yayımlanmıştır?",
+    "choices": [
+      "1873",
+      "1880",
+      "1877",
+      "1869"
+    ],
+    "correct_index": 3,
+    "explanation": "Roman, Tolstoy'un diğer başyapıtı Anna Karenina (1873-1877) ile birlikte yazarın edebi zirvesi kabul edilir.",
+    "topics": [
+      "kitap"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Savaş ve Barış",
+    "kaynak_id": "162254#0",
+    "kaynak_baslik": "Savaş ve Barış"
+  },
+  {
+    "id": "m0683",
+    "mode": "mcq",
+    "prompt": "Georg Cantor, matematikten uzaklaştığı dönemde Shakespeare'in eserlerinin gerçekte kim tarafından yazıldığını kanıtlamaya çalışmıştır?",
+    "choices": [
+      "Ben Jonson",
+      "Christopher Marlowe",
+      "Francis Bacon",
+      "Kraliçe I. Elizabeth"
+    ],
+    "correct_index": 2,
+    "explanation": "Cantor bu saplantısıyla ilgili 1896 ve 1897'de iki kitap yayımladı; 1884'teki ilk ağır depresyon nöbetinden sonra edebiyata yönelmişti.",
+    "topics": [
+      "bilim",
+      "matematik"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Georg Cantor",
+    "kaynak_id": "16529#12",
+    "kaynak_baslik": "Georg Cantor"
+  },
+  {
+    "id": "m0684",
+    "mode": "mcq",
+    "prompt": "PHP'nin yaratıcısı Rasmus Lerdorf, Şubat 2012'de hangi şirkete katıldığını duyurmuştur?",
+    "choices": [
+      "Yahoo!",
+      "WePay",
+      "Jelastic",
+      "Etsy"
+    ],
+    "correct_index": 3,
+    "explanation": "Lerdorf daha önce Yahoo!'da altyapı mimarisi mühendisi olarak çalışmış, 2010'da WePay'e geçmişti.",
+    "topics": [
+      "teknoloji"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Rasmus Lerdorf",
+    "kaynak_id": "10493#4",
+    "kaynak_baslik": "Rasmus Lerdorf"
+  },
+  {
+    "id": "m0685",
+    "mode": "mcq",
+    "prompt": "Jerzy Kosiński, II. Dünya Savaşı sırasında hangi ülkede sahte bir kimlikle Katolik bir aileye sığınmıştır?",
+    "choices": [
+      "Macaristan",
+      "Çekoslovakya",
+      "Almanya",
+      "Polonya"
+    ],
+    "correct_index": 3,
+    "explanation": "Bir Katolik rahibi ona sahte vaftiz sertifikası çıkarmıştı; savaş sonrası ailesine kavuşan Kosiński 1957'de ABD'ye göç etti.",
+    "topics": [
+      "kitap",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Jerzy Kosiński",
+    "kaynak_id": "10649#0",
+    "kaynak_baslik": "Jerzy Kosiński"
+  },
+  {
+    "id": "m0686",
+    "mode": "mcq",
+    "prompt": "Gordon Moore, Intel'in İcra Kurulu Başkanı ve CEO'su hangi yıl olmuştur?",
+    "choices": [
+      "1979",
+      "1968",
+      "1997",
+      "1975"
+    ],
+    "correct_index": 3,
+    "explanation": "Moore 1968'de şirketin kuruluşuna ortak olmuş, 1979'da icra kurulu başkanlığına geçmişti.",
+    "topics": [
+      "teknoloji",
+      "ekonomi"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Gordon Earle Moore",
+    "kaynak_id": "11181#4",
+    "kaynak_baslik": "Gordon Earle Moore"
+  },
+  {
+    "id": "m0687",
+    "mode": "mcq",
+    "prompt": "Dostoyevski'nin Suç ve Ceza romanının baş karakteri olan ve kendi doğrusu adına cinayet işleyen genç kimdir?",
+    "choices": [
+      "Stavrogin",
+      "Prens Mişkin",
+      "Alyoşa Karamazov",
+      "Raskolnikov"
+    ],
+    "correct_index": 3,
+    "explanation": "Roman 1866'da tamamlandı; Dostoyevski aynı yıl Budala'yı, 1879'da ise Karamazov Kardeşler'i yayımladı.",
+    "topics": [
+      "kitap"
+    ],
+    "difficulty": 1,
+    "origin": "wiki",
+    "source": "Vikipedi: Fyodor Dostoyevski",
+    "kaynak_id": "11556#5",
+    "kaynak_baslik": "Fyodor Dostoyevski"
+  },
+  {
+    "id": "m0688",
+    "mode": "mcq",
+    "prompt": "Fazıl Say'ın 2015'te kurup genel müzik direktörlüğünü üstlendiği koro hangisidir?",
+    "choices": [
+      "Nazım Hikmet Korosu",
+      "Cumhurbaşkanlığı Korosu",
+      "Anadolu Korosu",
+      "İstanbul Devlet Korosu"
+    ],
+    "correct_index": 0,
+    "explanation": "Koro ilk konserini 29 Ağustos 2015'te Bilkent Odeon'da Nazım Hikmet Oratoryosu ile verdi.",
+    "topics": [
+      "müzik"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Fazıl Say",
+    "kaynak_id": "11690#6",
+    "kaynak_baslik": "Fazıl Say"
+  },
+  {
+    "id": "m0689",
+    "mode": "mcq",
+    "prompt": "Viswanathan Anand, çocukken hızlı oynama hızıyla hangi lakabı kazanmıştır?",
+    "choices": [
+      "Hindistan'ın Umudu",
+      "Hızlı El",
+      "Yıldırım Çocuk",
+      "Satranç Dehası"
+    ],
+    "correct_index": 2,
+    "explanation": "Anand 2003 ve 2017'de FIDE Dünya Hızlı Satranç Şampiyonası'nı, 2000'de ise Dünya Yıldırım Kupası'nı kazandı.",
+    "topics": [
+      "oyun"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Viswanathan Anand",
+    "kaynak_id": "11942#2",
+    "kaynak_baslik": "Viswanathan Anand"
+  },
+  {
+    "id": "m0690",
+    "mode": "mcq",
+    "prompt": "Hacıbektaş, Nevşehir'in il olmasıyla hangi tarihte Nevşehir'e bağlanmıştır?",
+    "choices": [
+      "24 Temmuz 1954",
+      "1541",
+      "1 Ocak 1948",
+      "1854"
+    ],
+    "correct_index": 0,
+    "explanation": "İlçe daha önce 1948'de Kırşehir'e bağlanmıştı; 1541'de Niğde'ye bağlı bucak, 1854'te ise kasaba olmuştu.",
+    "topics": [
+      "coğrafya",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Hacıbektaş",
+    "kaynak_id": "12056#3",
+    "kaynak_baslik": "Hacıbektaş"
+  },
+  {
+    "id": "m0691",
+    "mode": "mcq",
+    "prompt": "Portekizli teknik direktör Fernando Santos, sol bek olarak oyunculuk kariyerine hangi kulüpte başlamıştır?",
+    "choices": [
+      "Benfica",
+      "Estoril",
+      "Porto",
+      "Marítimo"
+    ],
+    "correct_index": 1,
+    "explanation": "1973'te katıldığı kulüpte sekiz sezonda 161 lig maçına çıktı; 1987'de aynı kulüpte antrenörlüğe başladı.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Fernando Santos (teknik direktör)",
+    "kaynak_id": "157660#0",
+    "kaynak_baslik": "Fernando Santos (teknik direktör)"
+  },
+  {
+    "id": "m0692",
+    "mode": "mcq",
+    "prompt": "Ganalı futbolcu Stephen Appiah, Fenerbahçe'de hangi özel sezonda şampiyon olan kadronun önemli oyuncularından biriydi?",
+    "choices": [
+      "Kulübün kuruluş sezonu",
+      "İlk Avrupa kupası sezonu",
+      "Kulübün 100. yılı",
+      "İlk Süper Lig şampiyonluğu"
+    ],
+    "correct_index": 2,
+    "explanation": "Appiah sonraki dönemde damarlarındaki sorun nedeniyle ameliyat oldu ve uzun süre sahalardan uzak kaldı.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Stephen Appiah",
+    "kaynak_id": "12233#4",
+    "kaynak_baslik": "Stephen Appiah"
+  },
+  {
+    "id": "m0693",
+    "mode": "mcq",
+    "prompt": "Disket sürücünün İngilizce adı nedir?",
+    "choices": [
+      "Hard Disk Drive",
+      "Solid State Drive",
+      "Floppy Disk Drive",
+      "Optical Disk Drive"
+    ],
+    "correct_index": 2,
+    "explanation": "Kapasite ve hız açısından eskimiş olmasına rağmen, sistem kurtarma diski gibi amaçlarla hâlâ bazı bilgisayarlarda bulunur.",
+    "topics": [
+      "teknoloji"
+    ],
+    "difficulty": 1,
+    "origin": "wiki",
+    "source": "Vikipedi: Disket sürücü",
+    "kaynak_id": "12235#1",
+    "kaynak_baslik": "Disket sürücü"
+  },
+  {
+    "id": "m0694",
+    "mode": "mcq",
+    "prompt": "Tuncay Şanlı, Bursaspor'daki ilk maçında hangi takıma karşı oynamıştır?",
+    "choices": [
+      "Beşiktaş",
+      "Kardemir Karabükspor",
+      "Bursaspor",
+      "Fenerbahçe"
+    ],
+    "correct_index": 1,
+    "explanation": "15 Eylül 2012'deki bu maçta 61. dakikada oyuna girdi; ilk golünü de yine aynı rakibe attı.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Tuncay Şanlı",
+    "kaynak_id": "12279#8",
+    "kaynak_baslik": "Tuncay Şanlı"
+  },
+  {
+    "id": "m0695",
+    "mode": "mcq",
+    "prompt": "Zwolle, 1370 Stralsund Antlaşması ile hangi bölgede ticaret kolonisi kurma imtiyazı kazanmıştır?",
+    "choices": [
+      "Norveç kıyıları",
+      "İsveç'in Scania bölgesi",
+      "Baltık limanları",
+      "Danimarka'nın Zealand adası"
+    ],
+    "correct_index": 1,
+    "explanation": "Antlaşma, Hansa Birliği ile Danimarka Kralı IV. Valdemar arasındaki savaşı sona erdirmişti.",
+    "topics": [
+      "tarih",
+      "coğrafya"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Zwolle",
+    "kaynak_id": "187319#17",
+    "kaynak_baslik": "Zwolle"
+  },
+  {
+    "id": "m0696",
+    "mode": "mcq",
+    "prompt": "Marilyn Monroe, 1954'ün sonunda kurduğu kendi film yapım şirketine ne ad vermiştir?",
+    "choices": [
+      "Marilyn Monroe Productions",
+      "Blonde Bombshell Productions",
+      "MM Films",
+      "Monroe Pictures"
+    ],
+    "correct_index": 0,
+    "explanation": "Şirketin ilk bağımsız yapımı Prens ve Şovkızı (1957) oldu; Monroe Bazıları Sıcak Sever ile Altın Küre kazandı.",
+    "topics": [
+      "film"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Marilyn Monroe",
+    "kaynak_id": "100133#3",
+    "kaynak_baslik": "Marilyn Monroe"
+  },
+  {
+    "id": "m0697",
+    "mode": "mcq",
+    "prompt": "Gazeteci Örsan Öymen, uzun yıllar hangi Alman radyo-televizyon kurumunda çalışmıştır?",
+    "choices": [
+      "ARD",
+      "WDR",
+      "Deutsche Welle",
+      "ZDF"
+    ],
+    "correct_index": 1,
+    "explanation": "1969'da Türkiye'ye dönen Öymen, TRT'nin yapılanmasında rol oynadı ve Milliyet'te Uğur Mumcu ile ortak araştırmalar yaptı.",
+    "topics": [
+      "kültür",
+      "siyaset"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Örsan Öymen (1938 doğumlu)",
+    "kaynak_id": "12440#2",
+    "kaynak_baslik": "Örsan Öymen (1938 doğumlu)"
   }
 ]
