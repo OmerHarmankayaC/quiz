@@ -12809,5 +12809,378 @@
     "source": "Vikipedi: İstanbul Metrosu",
     "kaynak_id": "188438#38",
     "kaynak_baslik": "İstanbul Metrosu"
+  },
+  {
+    "id": "m0593",
+    "mode": "mcq",
+    "prompt": "Stephen King'in ilk romanı Carrie hangi yıl yayımlanmıştır?",
+    "choices": [
+      "1963",
+      "1970",
+      "1974",
+      "1966"
+    ],
+    "correct_index": 2,
+    "explanation": "King aynı yıl Shining romanını kaleme almaya başladı; ondan önce 1971'de Hamden Koleji'nde öğretmenlik yapıyordu.",
+    "topics": [
+      "kitap"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Stephen King",
+    "kaynak_id": "14206#1",
+    "kaynak_baslik": "Stephen King"
+  },
+  {
+    "id": "m0594",
+    "mode": "mcq",
+    "prompt": "Mehmet Ali Talat, KKTC Cumhurbaşkanlığı görevini 24 Nisan 2005'te kimden devralmıştır?",
+    "choices": [
+      "Serdar Denktaş",
+      "Rauf Denktaş",
+      "Derviş Eroğlu",
+      "Mustafa Akıncı"
+    ],
+    "correct_index": 1,
+    "explanation": "Talat 2010 seçimlerinde %43 oy alarak Derviş Eroğlu'na yenilmişti.",
+    "topics": [
+      "siyaset"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Mehmet Ali Talat",
+    "kaynak_id": "14427#6",
+    "kaynak_baslik": "Mehmet Ali Talat"
+  },
+  {
+    "id": "m0595",
+    "mode": "mcq",
+    "prompt": "Frankfurt, 1806'da kaybettiği egemenliğini hangi yıl geri kazanmıştır?",
+    "choices": [
+      "1945",
+      "1866",
+      "1815",
+      "1372"
+    ],
+    "correct_index": 2,
+    "explanation": "Şehir 1866'da Avusturya-Prusya Savaşı sonrası Prusya tarafından ilhak edilerek bu egemenliği yeniden kaybetti.",
+    "topics": [
+      "tarih",
+      "coğrafya"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Frankfurt",
+    "kaynak_id": "102186#3",
+    "kaynak_baslik": "Frankfurt"
+  },
+  {
+    "id": "m0596",
+    "mode": "mcq",
+    "prompt": "Kurtdereli Mehmet Pehlivan'ın madalyaları ilk kez hangi yıl bulunmuştur?",
+    "choices": [
+      "1910",
+      "1908",
+      "1901",
+      "2018"
+    ],
+    "correct_index": 3,
+    "explanation": "Madalyalar arasında II. Abdülhamid'in 1908'de verdiği Mecidi Nişanı ve V. Mehmed'in 1910'da verdiği Sanayi Madalyası bulunuyordu.",
+    "topics": [
+      "spor",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Kurtdereli Mehmet Pehlivan",
+    "kaynak_id": "131326#11",
+    "kaynak_baslik": "Kurtdereli Mehmet Pehlivan"
+  },
+  {
+    "id": "m0597",
+    "mode": "mcq",
+    "prompt": "Balkan Savaşı nedeniyle Edirne Bulgar işgalinde kaldığından, 1914 Kırkpınar güreşleri nerede yapılmıştır?",
+    "choices": [
+      "Tekirdağ sahilinde",
+      "Virantekke köyü ile Meriç Nehri arasındaki çayırlık",
+      "Bursa'da Merinos çayırı",
+      "İstanbul'da Yenikapı"
+    ],
+    "correct_index": 1,
+    "explanation": "Barış antlaşmasında Kırkpınar'ın yapıldığı yer Türkiye sınırları dışında kalmıştı; 93 Harbi nedeniyle 1878-1881 arası da güreşler yapılamamıştı.",
+    "topics": [
+      "spor",
+      "kültür",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Kırkpınar Yağlı Güreşleri",
+    "kaynak_id": "102419#11",
+    "kaynak_baslik": "Kırkpınar Yağlı Güreşleri"
+  },
+  {
+    "id": "m0598",
+    "mode": "mcq",
+    "prompt": "Bursa Askerî Lisesi'nin yerine kurulan Işıklar Askerî Lisesi hangi tarihte hizmete girmiştir?",
+    "choices": [
+      "1975",
+      "Eylül 1973",
+      "28 Haziran 1974",
+      "31 Temmuz 1961"
+    ],
+    "correct_index": 2,
+    "explanation": "Genelkurmay Başkanlığı Eylül 1973'te ikinci bir askerî lise açılmasına karar vermişti; okul açılışından 129 yıl sonra ikinci kez hizmete girdi.",
+    "topics": [
+      "eğitim",
+      "askeri"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Işıklar Jandarma Astsubay Meslek Yüksekokulu",
+    "kaynak_id": "14922#4",
+    "kaynak_baslik": "Işıklar Jandarma Astsubay Meslek Yüksekokulu"
+  },
+  {
+    "id": "m0599",
+    "mode": "mcq",
+    "prompt": "Bratislava, bugünkü adını hangi tarihte almıştır?",
+    "choices": [
+      "1945",
+      "1526",
+      "16 Mart 1919",
+      "1918"
+    ],
+    "correct_index": 2,
+    "explanation": "Öncesinde İngilizcede çoğunlukla \"Pressburg\" olarak biliniyordu; şehir 1526'dan sonra Habsburg hakimiyetindeydi.",
+    "topics": [
+      "coğrafya",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Bratislava",
+    "kaynak_id": "10055#5",
+    "kaynak_baslik": "Bratislava"
+  },
+  {
+    "id": "m0600",
+    "mode": "mcq",
+    "prompt": "Eyüpsultan ilçesi hangi yıl, hangi ilçelerin bir bölümüyle kurulmuştur?",
+    "choices": [
+      "1930, Kadıköy ve Üsküdar",
+      "1963, Gaziosmanpaşa",
+      "1957, Zeytinburnu",
+      "1936, Fatih, Beyoğlu ve Sarıyer"
+    ],
+    "correct_index": 3,
+    "explanation": "İlçe kurulduğunda bugünkü Sultangazi, Gaziosmanpaşa ve Bayrampaşa'nın çoğunu da kapsıyordu.",
+    "topics": [
+      "coğrafya",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Eyüpsultan",
+    "kaynak_id": "102932#1",
+    "kaynak_baslik": "Eyüpsultan"
+  },
+  {
+    "id": "m0601",
+    "mode": "mcq",
+    "prompt": "Johann Faust'un hayatını ele alan ilk kapsamlı eser olan Historia von D. Johann Fausten hangi yıl yayımlanmıştır?",
+    "choices": [
+      "1587",
+      "1611",
+      "1550",
+      "1600"
+    ],
+    "correct_index": 0,
+    "explanation": "Matbaacı Johann Spies tarafından yayımlanan eser 1588-1611 arasında İngilizce, Hollandaca, Fransızca ve Çekçeye çevrildi.",
+    "topics": [
+      "kitap",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Faust (Goethe)",
+    "kaynak_id": "11098#17",
+    "kaynak_baslik": "Faust (Goethe)"
+  },
+  {
+    "id": "m0602",
+    "mode": "mcq",
+    "prompt": "Suat Derviş'in, daha önce Berlin'de \"Saraylılar\" adıyla tefrika ettiği romanı Son Posta'da hangi adla yeniden tefrika edilmiştir?",
+    "choices": [
+      "Bir Haremağasının Hatıraları",
+      "Onu Bekliyorum",
+      "Baba Oğul",
+      "Onları Ben Öldürdüm"
+    ],
+    "correct_index": 0,
+    "explanation": "Roman Son Posta'da 21 Eylül 1933 - 3 Ocak 1934 arasında tefrika edildi; yazar 1932'de Berlin'den yurda dönmüştü.",
+    "topics": [
+      "kitap"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Suat Derviş",
+    "kaynak_id": "16005#8",
+    "kaynak_baslik": "Suat Derviş"
+  },
+  {
+    "id": "m0603",
+    "mode": "mcq",
+    "prompt": "Ali Nesin, 1996'dan 2022'ye kadar hangi üniversitede Matematik Bölümü Başkanlığı yapmıştır?",
+    "choices": [
+      "İstanbul Üniversitesi",
+      "Boğaziçi Üniversitesi",
+      "İstanbul Bilgi Üniversitesi",
+      "İstinye Üniversitesi"
+    ],
+    "correct_index": 2,
+    "explanation": "2022'den itibaren İstinye Üniversitesi'ne geçti; ayrıca 2004'ten beri Nesin Yayınevi genel yönetmenliğini yürütüyor.",
+    "topics": [
+      "bilim",
+      "eğitim"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Ali Nesin",
+    "kaynak_id": "16087#3",
+    "kaynak_baslik": "Ali Nesin"
+  },
+  {
+    "id": "m0604",
+    "mode": "mcq",
+    "prompt": "Louis de Bernières'in Yunanistan'ın Kefalonya adasındaki katliamı anlatan romanı hangisidir?",
+    "choices": [
+      "The War of Don Emmanuel's Nether Parts",
+      "Senor Vivo and the Coca Lord",
+      "Yüzbaşı Corelli'nin Mandolini",
+      "Birds Without Wings"
+    ],
+    "correct_index": 2,
+    "explanation": "Bu roman 1995'te Commonwealth Writers Ödülü'nü kazandı; yazar 1993'te Granta'nın \"En İyi 20 Genç İngiliz Romancısı\" listesine girmişti.",
+    "topics": [
+      "kitap"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Louis de Bernières",
+    "kaynak_id": "16263#1",
+    "kaynak_baslik": "Louis de Bernières"
+  },
+  {
+    "id": "m0605",
+    "mode": "mcq",
+    "prompt": "Bursa Arkeoloji Müzesi'nin ilk kataloğunu hangi Fransız arkeolog hazırlamıştır?",
+    "choices": [
+      "Théodore Macridy",
+      "Ernest Mamboury",
+      "Gustav Mandel",
+      "Osman Hamdi Bey"
+    ],
+    "correct_index": 2,
+    "explanation": "1908'de basılan Fransızca katalog 189 sayfadan oluşuyordu; müze 1904'te Bursa İdadi-i Mülkîsi'nde açılmıştı.",
+    "topics": [
+      "arkeoloji",
+      "kültür"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Bursa Arkeoloji Müzesi",
+    "kaynak_id": "16491#3",
+    "kaynak_baslik": "Bursa Arkeoloji Müzesi"
+  },
+  {
+    "id": "m0606",
+    "mode": "mcq",
+    "prompt": "Marmara Adası'ndaki Çınarlı Köyü'ne 1927'de hangi bölgeden gelen aileler yerleştirilmiştir?",
+    "choices": [
+      "Girit",
+      "Karabiga",
+      "Yunanistan",
+      "Rize ve Çayeli"
+    ],
+    "correct_index": 3,
+    "explanation": "Topağaç Köyü'ne ise 1928'de Yunanistan'dan, 1930'da Karabiga'dan göçmenler yerleştirilmişti.",
+    "topics": [
+      "coğrafya",
+      "tarih",
+      "toplum"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Marmara Adası",
+    "kaynak_id": "11517#11",
+    "kaynak_baslik": "Marmara Adası"
+  },
+  {
+    "id": "m0607",
+    "mode": "mcq",
+    "prompt": "Rumeli Hisarı'ndaki açıkhava tiyatrosu, tiyatro sanatçısı Muhsin Ertuğrul'un talebiyle hangi şekle çevrilmiştir?",
+    "choices": [
+      "Konser çadırı",
+      "Kapalı salon",
+      "Opera binası",
+      "Amfitiyatro"
+    ],
+    "correct_index": 3,
+    "explanation": "1989'da başlayan Rumeli Hisarı Konserleri 2006'da durduruldu, 2008'de son kez düzenlendi.",
+    "topics": [
+      "kültür",
+      "tarih",
+      "mimari"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Rumeli Hisarı",
+    "kaynak_id": "16564#12",
+    "kaynak_baslik": "Rumeli Hisarı"
+  },
+  {
+    "id": "m0608",
+    "mode": "mcq",
+    "prompt": "Ankara Üniversitesi'nin temelini oluşturan ilk kurum hangisidir?",
+    "choices": [
+      "Siyasal Bilgiler Okulu (1936)",
+      "Yüksek Ziraat Enstitüsü (1933)",
+      "Dil ve Tarih-Coğrafya Fakültesi (1935)",
+      "Hukuk Mektebi (1925)"
+    ],
+    "correct_index": 3,
+    "explanation": "Bu kurumların birleşmesiyle Ankara Üniversitesi 1946'da resmen kuruldu.",
+    "topics": [
+      "eğitim",
+      "tarih"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Ankara Üniversitesi",
+    "kaynak_id": "16606#2",
+    "kaynak_baslik": "Ankara Üniversitesi"
+  },
+  {
+    "id": "m0609",
+    "mode": "mcq",
+    "prompt": "Freiburg im Breisgau, 1805'te hangi grandükalığa ilhak edilmiştir?",
+    "choices": [
+      "Baden",
+      "Hessen",
+      "Bavyera",
+      "Württemberg"
+    ],
+    "correct_index": 0,
+    "explanation": "1827'de bir başepiskoposun tahtı olan şehir bu devletin Katoliklerin merkezi hâline geldi.",
+    "topics": [
+      "tarih",
+      "coğrafya"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Freiburg im Breisgau",
+    "kaynak_id": "16639#5",
+    "kaynak_baslik": "Freiburg im Breisgau"
   }
 ]
