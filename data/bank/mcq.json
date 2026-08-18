@@ -11593,5 +11593,461 @@
     "source": "Vikipedi: Batı Almanya",
     "kaynak_id": "107757#10",
     "kaynak_baslik": "Batı Almanya"
+  },
+  {
+    "id": "m0537",
+    "mode": "mcq",
+    "prompt": "1084'te Kastamonu ve Sinop'u ele geçiren ve Eflani bölgesine de hakim olan bey kimdir?",
+    "choices": [
+      "Kara Tigin Bey",
+      "Emir Saltuk",
+      "Danişmend Gazi",
+      "Melik Ahmed Gazi"
+    ],
+    "correct_index": 0,
+    "explanation": "Eflani daha önce Bitinya Kralı II. Nikomedes'in oğlu Pylaimenes tarafından yönetilen Paflagonya bölgesindeydi.",
+    "topics": [
+      "tarih",
+      "coğrafya"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Eflani",
+    "kaynak_id": "20147#4",
+    "kaynak_baslik": "Eflani"
+  },
+  {
+    "id": "m0538",
+    "mode": "mcq",
+    "prompt": "İlk Volvo arabası hangi yıl İsveç'in Göteborg şehrindeki fabrikadan çıkmıştır?",
+    "choices": [
+      "1927",
+      "1945",
+      "1930",
+      "1928"
+    ],
+    "correct_index": 0,
+    "explanation": "O yıl yalnızca 297 araba üretildi; ilk kamyon Ocak 1928'de \"Serie 1\" adıyla piyasaya sürüldü.",
+    "topics": [
+      "ulaşım",
+      "ekonomi"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Volvo",
+    "kaynak_id": "20273#4",
+    "kaynak_baslik": "Volvo"
+  },
+  {
+    "id": "m0539",
+    "mode": "mcq",
+    "prompt": "ACF Fiorentina'nın renkleri 1928'de morlu beyazlıya çevrilmeden önce ne renkti?",
+    "choices": [
+      "Mavi-beyaz",
+      "Sarı-kırmızı",
+      "Kırmızı-beyaz",
+      "Yeşil-siyah"
+    ],
+    "correct_index": 2,
+    "explanation": "Bu değişimden sonra takım \"i Viola\" (Morlar) olarak anılmaya başladı.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: ACF Fiorentina",
+    "kaynak_id": "108324#1",
+    "kaynak_baslik": "ACF Fiorentina"
+  },
+  {
+    "id": "m0540",
+    "mode": "mcq",
+    "prompt": "Fatih Terim, Fiorentina'da göreve başladıktan sonra İtalya Kupası'nda finale yükselmesini hangi kulübü eleyerek sağlamıştır?",
+    "choices": [
+      "Inter",
+      "Juventus",
+      "Milan",
+      "Roma"
+    ],
+    "correct_index": 2,
+    "explanation": "Terim, Serie A'da 18 hafta boyunca başarılı sonuçlar aldıktan sonra başkan Cechi Gori ile anlaşamayarak istifa etmişti.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: ACF Fiorentina",
+    "kaynak_id": "108324#1",
+    "kaynak_baslik": "ACF Fiorentina"
+  },
+  {
+    "id": "m0541",
+    "mode": "mcq",
+    "prompt": "\"Kâtibim\" (Üsküdar'a Gider İken) türküsü hangi yüzyıla aittir?",
+    "choices": [
+      "18. yüzyıl",
+      "20. yüzyıl başı",
+      "17. yüzyıl",
+      "19. yüzyıl"
+    ],
+    "correct_index": 3,
+    "explanation": "Kurtlar Vadisi dizisindeki Polat Alemdar'ın oturduğu Salacak'taki bank da bu popülerlikle bağlantılı bir örnektir.",
+    "topics": [
+      "kültür",
+      "müzik"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Üsküdar",
+    "kaynak_id": "15916#44",
+    "kaynak_baslik": "Üsküdar"
+  },
+  {
+    "id": "m0542",
+    "mode": "mcq",
+    "prompt": "El Salvador bölgesi 1609'da İspanyollar tarafından hangi genel valiliğe bağlanmıştır?",
+    "choices": [
+      "Nueva Granada Genel Valiliği",
+      "Peru Genel Valiliği",
+      "Guatemala Genel Valiliği",
+      "Yeni İspanya Genel Valiliği"
+    ],
+    "correct_index": 2,
+    "explanation": "Bölge 1821'e kadar bu valiliğe bağlı kaldı; öncesinde Meksiko'dan yönetilen Yeni İspanya'nın parçasıydı.",
+    "topics": [
+      "tarih",
+      "coğrafya"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: El Salvador",
+    "kaynak_id": "21020#2",
+    "kaynak_baslik": "El Salvador"
+  },
+  {
+    "id": "m0543",
+    "mode": "mcq",
+    "prompt": "Nikaragua'da Ulusal Muhafızlar komutanı Anastasio Somoza Garcia, 1934'te kimi öldürterek iktidarını pekiştirmiştir?",
+    "choices": [
+      "Luis Somoza",
+      "FSLN lideri",
+      "Sacasa",
+      "Sandino"
+    ],
+    "correct_index": 3,
+    "explanation": "1936'da kendini başkan seçtirdi; ölümünden sonra oğlu Luis Somoza Debayle başkanlığa getirildi.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Nikaragua",
+    "kaynak_id": "21028#8",
+    "kaynak_baslik": "Nikaragua"
+  },
+  {
+    "id": "m0544",
+    "mode": "mcq",
+    "prompt": "Valencia CF'nin Mestalla adlı stadı hangi tarihte açılmıştır?",
+    "choices": [
+      "1929",
+      "18 Mart 1919",
+      "1935",
+      "20 Mayıs 1923"
+    ],
+    "correct_index": 3,
+    "explanation": "Takım 18 Mart 1919'da kurulmuş, kuruluşundan dört yıl sonra 17.000 kişilik bu ilk büyük stadını açmıştı.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Valencia CF",
+    "kaynak_id": "21171#5",
+    "kaynak_baslik": "Valencia CF"
+  },
+  {
+    "id": "m0545",
+    "mode": "mcq",
+    "prompt": "Thomas More, hangi başpiskoposun hizmetinde eğitimine başlamıştır?",
+    "choices": [
+      "William Warham",
+      "John Morton",
+      "Thomas Cranmer",
+      "Thomas Wolsey"
+    ],
+    "correct_index": 1,
+    "explanation": "Morton sayesinde Oxford'a girdi, ancak babasının ısrarıyla iki yıl sonra Londra'ya dönüp hukuk okumaya başladı.",
+    "topics": [
+      "tarih",
+      "felsefe"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Thomas More",
+    "kaynak_id": "16569#2",
+    "kaynak_baslik": "Thomas More"
+  },
+  {
+    "id": "m0546",
+    "mode": "mcq",
+    "prompt": "Beyoncé Knowles, 2006 yapımı Rüya Kızlar filminde hangi karakteri canlandırmıştır?",
+    "choices": [
+      "Michelle",
+      "Effie White",
+      "Deena Jones",
+      "Lorrell Robinson"
+    ],
+    "correct_index": 2,
+    "explanation": "Bu rol 1960'lardaki bir Motown grubunu canlandıran müzikalin uyarlamasıydı; performansı ona sonraki albümü B'Day için ilham verdi.",
+    "topics": [
+      "müzik",
+      "film"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Destiny's Child",
+    "kaynak_id": "140249#10",
+    "kaynak_baslik": "Destiny's Child"
+  },
+  {
+    "id": "m0547",
+    "mode": "mcq",
+    "prompt": "Almanya Hristiyan Demokrat Birliği (CDU), 1998'de partide yaşanan finansman skandalı sonrası hangi ismin liderliğine geçmiştir?",
+    "choices": [
+      "Gerhard Schröder",
+      "Wolfgang Schäuble",
+      "Angela Merkel",
+      "Helmut Kohl"
+    ],
+    "correct_index": 2,
+    "explanation": "Kohl 1998 seçim kaybına kadar başkanlıkta kalmıştı; ardından Schäuble geldi ama skandal nedeniyle istifa etti.",
+    "topics": [
+      "siyaset",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Almanya Hristiyan Demokrat Birliği",
+    "kaynak_id": "198527#10",
+    "kaynak_baslik": "Almanya Hristiyan Demokrat Birliği"
+  },
+  {
+    "id": "m0548",
+    "mode": "mcq",
+    "prompt": "Blaise Pascal'ın babası Étienne, 1631'de mevkisini ne kadara satmıştır?",
+    "choices": [
+      "10.000 livre",
+      "100.000 livre",
+      "65.665 livre",
+      "7.300 livre"
+    ],
+    "correct_index": 2,
+    "explanation": "Bu para devlet tahviline yatırıldı; ancak 1638'de Richelieu'nün temerrüdü yüzünden değeri 7.300 livrenin altına düştü.",
+    "topics": [
+      "bilim",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Blaise Pascal",
+    "kaynak_id": "104826#6",
+    "kaynak_baslik": "Blaise Pascal"
+  },
+  {
+    "id": "m0549",
+    "mode": "mcq",
+    "prompt": "Bruce Dickinson'ın Iron Maiden'a döndükten sonra yazım aşamasına da katıldığı ilk albüm hangisidir?",
+    "choices": [
+      "Brave New World",
+      "A Matter of Life and Death",
+      "Dance of Death",
+      "The Book of Souls"
+    ],
+    "correct_index": 0,
+    "explanation": "2000 tarihli bu albümle birlikte gitarist Adrian Smith de gruba geri dönmüştü.",
+    "topics": [
+      "müzik"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Bruce Dickinson",
+    "kaynak_id": "112055#11",
+    "kaynak_baslik": "Bruce Dickinson"
+  },
+  {
+    "id": "m0550",
+    "mode": "mcq",
+    "prompt": "Yazar A. Thalasso'ya göre bazı Karagöz oyunları hangi Fransız yazarın eserlerinden uyarlanmıştır?",
+    "choices": [
+      "Voltaire",
+      "Racine",
+      "Corneille",
+      "Molière"
+    ],
+    "correct_index": 3,
+    "explanation": "Thalasso bu iddiayı 1877 ve 1888 tarihli eserlerinde ileri sürmüştü; Karagöz oyunları yazılı metne dayanmaz.",
+    "topics": [
+      "kültür",
+      "tiyatro"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Karagöz ve Hacivat",
+    "kaynak_id": "141455#12",
+    "kaynak_baslik": "Karagöz ve Hacivat"
+  },
+  {
+    "id": "m0551",
+    "mode": "mcq",
+    "prompt": "Yüz Yıl Savaşı'nın hanedan çatışmasının temelinde, Fransız baronlarının IV. Charles'ın ölümü sonrası tahta hangi ismi seçmesi yatar?",
+    "choices": [
+      "Isabelle de France",
+      "III. Edward",
+      "II. Philippe",
+      "VI. Philippe"
+    ],
+    "correct_index": 3,
+    "explanation": "İngiltere Kralı III. Edward'ın seçilmemesi gerginliği körükledi; savaş genel olarak 1337-1453 arasında sürdü kabul edilir.",
+    "topics": [
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Yüz Yıl Savaşı",
+    "kaynak_id": "112388#1",
+    "kaynak_baslik": "Yüz Yıl Savaşı"
+  },
+  {
+    "id": "m0552",
+    "mode": "mcq",
+    "prompt": "Bakü-Tiflis-Ceyhan Petrol Boru Hattı'nın inşasına hangi tarihte başlanmıştır?",
+    "choices": [
+      "17 Eylül 2002",
+      "10 Eylül 2003",
+      "10 Haziran 2003",
+      "2005"
+    ],
+    "correct_index": 1,
+    "explanation": "Temel atma töreni bir yıl önce Azerbaycan'ın Sangaçal yöresinde yapılmıştı.",
+    "topics": [
+      "ekonomi",
+      "coğrafya"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Bakü-Tiflis-Ceyhan Petrol Boru Hattı",
+    "kaynak_id": "20045#10",
+    "kaynak_baslik": "Bakü-Tiflis-Ceyhan Petrol Boru Hattı"
+  },
+  {
+    "id": "m0553",
+    "mode": "mcq",
+    "prompt": "Etiyopya'daki Aşölyen el baltaları, radyometrik tarihlendirmeyle yaklaşık kaç yıl öncesine tarihlenmiştir?",
+    "choices": [
+      "500 bin yıl",
+      "100 bin yıl",
+      "3 milyon yıl",
+      "1,5 milyon yıl"
+    ],
+    "correct_index": 3,
+    "explanation": "2003'te Kenya'nın Batı Turkana bölgesinden tanımlanan örnekler ise manyetostratigrafi yöntemiyle 1,76 milyon yıl öncesine tarihlendi.",
+    "topics": [
+      "arkeoloji",
+      "bilim"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Aşölyen",
+    "kaynak_id": "13942#7",
+    "kaynak_baslik": "Aşölyen"
+  },
+  {
+    "id": "m0554",
+    "mode": "mcq",
+    "prompt": "Mustafa Zarir'i Mısır Sultanı ile tanıştıran Hanefi alimi kimdir?",
+    "choices": [
+      "Taftazani",
+      "Ekmelüddin Muhammed el-Babarti",
+      "Molla Fenari",
+      "İbn Haldun"
+    ],
+    "correct_index": 1,
+    "explanation": "Bayburtlu olan Babarti ile Zarir aynı bölge ve dönemde yaşamış, Zarir eğitimini Mısır'da ondan almıştı.",
+    "topics": [
+      "tarih",
+      "din"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Darîr",
+    "kaynak_id": "142369#6",
+    "kaynak_baslik": "Darîr"
+  },
+  {
+    "id": "m0555",
+    "mode": "mcq",
+    "prompt": "Sinclair Lewis'in \"Küçük Ayı Bongo\" hikâyesini film hakkı için 1940'ta satın alan stüdyo hangisidir?",
+    "choices": [
+      "Universal",
+      "Warner Bros.",
+      "Walt Disney Pictures",
+      "MGM"
+    ],
+    "correct_index": 2,
+    "explanation": "II. Dünya Savaşı planları 1947'ye kadar erteledi; hikâye sonunda Fun and Fancy Free filminin bir parçası olarak \"Bongo\" adıyla kullanıldı.",
+    "topics": [
+      "kitap",
+      "film"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Sinclair Lewis",
+    "kaynak_id": "142418#11",
+    "kaynak_baslik": "Sinclair Lewis"
+  },
+  {
+    "id": "m0556",
+    "mode": "mcq",
+    "prompt": "93 Harbi olarak bilinen 1877-1878 Osmanlı-Rus Savaşı, Rus ordusunun İstanbul'un hangi noktasına kadar ilerlemesiyle sonuçlanmıştır?",
+    "choices": [
+      "Yeşilköy",
+      "Kartal",
+      "Küçükçekmece",
+      "Silivri"
+    ],
+    "correct_index": 0,
+    "explanation": "Savaş Rumi takvimde 1293 yılına denk geldiği için bu adı almış ve büyük toprak kaybıyla sonuçlanmıştı.",
+    "topics": [
+      "tarih",
+      "askeri"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Türk askerî tarihi",
+    "kaynak_id": "110611#41",
+    "kaynak_baslik": "Türk askerî tarihi"
+  },
+  {
+    "id": "m0557",
+    "mode": "mcq",
+    "prompt": "Tottenham Hotspur, 1963'te Avrupa kupası kazanan ilk İngiliz takımı olurken finalde hangi takımı yenmiştir?",
+    "choices": [
+      "Real Madrid",
+      "Benfica",
+      "Inter",
+      "Atletico Madrid"
+    ],
+    "correct_index": 3,
+    "explanation": "Tottenham, Kupa Galipleri Kupası finalini 5-1 kazandı; 1971-72'de UEFA Kupası'nı da alarak iki farklı Avrupa kupası kazanan ilk İngiliz takımı oldu.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Tottenham Hotspur FC",
+    "kaynak_id": "144873#11",
+    "kaynak_baslik": "Tottenham Hotspur FC"
   }
 ]
