@@ -12458,5 +12458,356 @@
     "source": "Vikipedi: Johannes Kepler",
     "kaynak_id": "145127#34",
     "kaynak_baslik": "Johannes Kepler"
+  },
+  {
+    "id": "m0577",
+    "mode": "mcq",
+    "prompt": "SMS Goeben, Osmanlı Donanması'na katıldıktan sonra hangi adı almıştır?",
+    "choices": [
+      "Yavuz Sultan Selim",
+      "Hamidiye",
+      "Mecidiye",
+      "Barbaros Hayreddin"
+    ],
+    "correct_index": 0,
+    "explanation": "Gemi 1936'da resmen TCG Yavuz adını aldı ve 1938'de Atatürk'ün naaşını İstanbul'dan İzmit'e taşıdı.",
+    "topics": [
+      "askeri",
+      "denizcilik",
+      "tarih"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Yavuz (muharebe kruvazörü)",
+    "kaynak_id": "184657#3",
+    "kaynak_baslik": "Yavuz (muharebe kruvazörü)"
+  },
+  {
+    "id": "m0578",
+    "mode": "mcq",
+    "prompt": "Kâzım Koyuncu, Laz müziğini rock ile birleştirdiği tarzını hangi yıl yaratmıştır?",
+    "choices": [
+      "1990",
+      "1998",
+      "1985",
+      "1994"
+    ],
+    "correct_index": 3,
+    "explanation": "Aynı yıl arkadaşlarıyla Zuğaşi Berepe grubunu kurdu; grup 1995'te ilk albümü Va Mişkunan'ı yayımladı.",
+    "topics": [
+      "müzik",
+      "kültür"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Kâzım Koyuncu",
+    "kaynak_id": "10281#1",
+    "kaynak_baslik": "Kâzım Koyuncu"
+  },
+  {
+    "id": "m0579",
+    "mode": "mcq",
+    "prompt": "Vladimir Mayakovski'nin yakın dostu Sergey Yesenin, 1925'te nasıl hayatını kaybetmiştir?",
+    "choices": [
+      "Bir düelloda",
+      "Damarını keserek son şiirini kanla yazıp intihar ederek",
+      "Bir suikast girişiminde",
+      "Uzun süreli hastalık sonucu"
+    ],
+    "correct_index": 1,
+    "explanation": "Yesenin \"Elveda dost, elveda\" şiirini kanıyla yazmıştı; Mayakovski kendisi de beş yıl sonra 1930'da hayatını kaybetti.",
+    "topics": [
+      "kitap",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Vladimir Mayakovski",
+    "kaynak_id": "10442#13",
+    "kaynak_baslik": "Vladimir Mayakovski"
+  },
+  {
+    "id": "m0580",
+    "mode": "mcq",
+    "prompt": "Manchester City, 1973-74 sezonunun son maçında Manchester United'ı yenerek onların hangi sonucu yaşamasına yol açmıştır?",
+    "choices": [
+      "Avrupa kupasından elenmesi",
+      "Şampiyonluğu kaçırması",
+      "Alt lige düşmesi",
+      "Kupa finalini kaybetmesi"
+    ],
+    "correct_index": 2,
+    "explanation": "Eski United oyuncusu Denis Law'ın attığı golle City 1-0 kazandı; kulüp 1976'da Newcastle'ı yenerek Lig Kupası'nı da aldı.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Manchester City FC",
+    "kaynak_id": "127294#10",
+    "kaynak_baslik": "Manchester City FC"
+  },
+  {
+    "id": "m0581",
+    "mode": "mcq",
+    "prompt": "Şebinkarahisar'daki Atatürk Evi ve Müzesi, Atatürk'ün ilçeyi ziyaret ettiği hangi tarihte bir gece kaldığı eve dayanmaktadır?",
+    "choices": [
+      "1932",
+      "11 Ekim 1924",
+      "11 Ekim 1982",
+      "1938"
+    ],
+    "correct_index": 1,
+    "explanation": "Ev daha sonra hazinece istimlak edilip restore edilerek 1982'de müze olarak ziyarete açıldı.",
+    "topics": [
+      "tarih",
+      "coğrafya"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Şebinkarahisar",
+    "kaynak_id": "127374#19",
+    "kaynak_baslik": "Şebinkarahisar"
+  },
+  {
+    "id": "m0582",
+    "mode": "mcq",
+    "prompt": "Fenerbahçe İstasyonu'na giden tren hattının rayları hangi yıl sökülmüştür?",
+    "choices": [
+      "1936",
+      "1928",
+      "1950",
+      "1970"
+    ],
+    "correct_index": 3,
+    "explanation": "Hat 1872'de Haydarpaşa'dan itibaren açılmıştı; sökülen yol bugünkü Faruk Ayanoğlu Caddesi'ne dönüştürüldü.",
+    "topics": [
+      "ulaşım",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Fenerbahçe, Kadıköy",
+    "kaynak_id": "11670#4",
+    "kaynak_baslik": "Fenerbahçe, Kadıköy"
+  },
+  {
+    "id": "m0583",
+    "mode": "mcq",
+    "prompt": "Volgograd, 10 Nisan 1925'te hangi adı almıştır?",
+    "choices": [
+      "Tsaritsyn",
+      "Volgograd",
+      "Krasnograd",
+      "Stalingrad"
+    ],
+    "correct_index": 3,
+    "explanation": "Şehir daha önce Tsaritsyn olarak biliniyordu; Rus İç Savaşı sırasında Stalin liderliğindeki Kızıl Ordu şehri savunmuştu.",
+    "topics": [
+      "tarih",
+      "coğrafya"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Volgograd",
+    "kaynak_id": "11693#6",
+    "kaynak_baslik": "Volgograd"
+  },
+  {
+    "id": "m0584",
+    "mode": "mcq",
+    "prompt": "Ekvator Ginesi, 1990'ların ortasından beri hangi kaynak sayesinde Sahraaltı Afrika'nın en zengin ülkelerinden biri hâline gelmiştir?",
+    "choices": [
+      "Elmas",
+      "Kakao",
+      "Altın",
+      "Petrol"
+    ],
+    "correct_index": 3,
+    "explanation": "Zenginlik son derece eşitsiz dağılmış durumda; ülke 2023 İnsan Gelişme Endeksi'nde 133. sırada yer alıyor.",
+    "topics": [
+      "ekonomi",
+      "coğrafya"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Ekvator Ginesi",
+    "kaynak_id": "16870#4",
+    "kaynak_baslik": "Ekvator Ginesi"
+  },
+  {
+    "id": "m0585",
+    "mode": "mcq",
+    "prompt": "Rauf Denktaş, 1956'da hangi göreve yükselmiştir?",
+    "choices": [
+      "Kaymakamlık",
+      "Vali yardımcılığı",
+      "Başsavcılık",
+      "Meclis üyeliği"
+    ],
+    "correct_index": 2,
+    "explanation": "Denktaş ayrıca gizlice Erenköy'e geçerek Erenköy Direnişi'ne katılmıştı.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Rauf Denktaş",
+    "kaynak_id": "12267#1",
+    "kaynak_baslik": "Rauf Denktaş"
+  },
+  {
+    "id": "m0586",
+    "mode": "mcq",
+    "prompt": "Üzeyir Hacıbeyov, bütün doğu aleminde hangi müzik türünün ilk yaratıcısı sayılır?",
+    "choices": [
+      "Oratoryo",
+      "Bale",
+      "Senfoni",
+      "Opera"
+    ],
+    "correct_index": 3,
+    "explanation": "Hacıbeyov ayrıca Azerbaycan Devlet Konservatuvarı'nın rektörlüğünü ve Azerbaycan Bestekârlar İttifakı başkanlığını yürüttü.",
+    "topics": [
+      "müzik",
+      "kültür"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Üzeyir Hacıbeyov",
+    "kaynak_id": "12434#1",
+    "kaynak_baslik": "Üzeyir Hacıbeyov"
+  },
+  {
+    "id": "m0587",
+    "mode": "mcq",
+    "prompt": "Talcott Parsons, 1925'te London School of Economics'te hangi antropologla çalışmıştır?",
+    "choices": [
+      "Émile Durkheim",
+      "Bronislaw Malinowski",
+      "Max Weber",
+      "Franz Boas"
+    ],
+    "correct_index": 1,
+    "explanation": "Bir yıl sonra Heidelberg Üniversitesi'nde Max Weber'in fikirleriyle tanıştı; 1944'te Harvard'da sosyoloji profesörü oldu.",
+    "topics": [
+      "felsefe",
+      "toplum"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Talcott Parsons",
+    "kaynak_id": "12450#0",
+    "kaynak_baslik": "Talcott Parsons"
+  },
+  {
+    "id": "m0588",
+    "mode": "mcq",
+    "prompt": "Recep Peker, 23 Nisan 1920'de açılan TBMM'nin ilk olarak hangi görevine getirilmiştir?",
+    "choices": [
+      "Meclis Başkan Vekilliği",
+      "Başkanlık Divanı üyeliği",
+      "Kâtiplik",
+      "Genel Sekreterlik"
+    ],
+    "correct_index": 3,
+    "explanation": "Peker Şubat 1920'de Anadolu'ya geçmiş, binbaşı rütbesiyle 20. Kolordu'da görevlendirilmişti.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Recep Peker",
+    "kaynak_id": "12504#4",
+    "kaynak_baslik": "Recep Peker"
+  },
+  {
+    "id": "m0589",
+    "mode": "mcq",
+    "prompt": "\"Van İçin Rock\" adlı yardım konseri fikri, 2011 Van depreminin ardından kimin Twitter mesajıyla başlamıştır?",
+    "choices": [
+      "Aylin Erenman",
+      "Güneş Duru",
+      "Doğan Duru",
+      "Nadir Duman"
+    ],
+    "correct_index": 1,
+    "explanation": "Konser Türkiye tarihindeki en geniş katılımlı yardım konserlerinden biri oldu; 600'ün üzerinde gönüllü görev aldı.",
+    "topics": [
+      "müzik",
+      "toplum"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Güneş Duru",
+    "kaynak_id": "129502#17",
+    "kaynak_baslik": "Güneş Duru"
+  },
+  {
+    "id": "m0590",
+    "mode": "mcq",
+    "prompt": "Ramsay MacDonald, 1900'de hangi örgütün sekreteri olmuştur?",
+    "choices": [
+      "Bağımsız İşçi Partisi",
+      "Fabian Cemiyeti",
+      "İşçi Temsil Komitesi",
+      "İngiliz Sendikalar Kongresi"
+    ],
+    "correct_index": 2,
+    "explanation": "Bu komite sonradan İşçi Partisi'ne dönüştü; MacDonald 1895 ve 1900 seçimlerinde iki kez aday olup kaybetmişti.",
+    "topics": [
+      "siyaset",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Ramsay MacDonald",
+    "kaynak_id": "159429#6",
+    "kaynak_baslik": "Ramsay MacDonald"
+  },
+  {
+    "id": "m0591",
+    "mode": "mcq",
+    "prompt": "Avrupa Güvenlik ve İşbirliği Konseyi, Abhazya'da Gürcülere etnik temizlik uygulandığını hangi yıl resmen kabul etmiştir?",
+    "choices": [
+      "1998",
+      "1993",
+      "2006",
+      "2008"
+    ],
+    "correct_index": 0,
+    "explanation": "Birleşmiş Milletler Genel Kurulu da 2008'de benzer bir kararı kabul ederek göç ettirilenlerin evlerine dönmesi gerektiğini belirtti.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Abhazya'da Gürcülere uygulanan etnik temizlik",
+    "kaynak_id": "125407#1",
+    "kaynak_baslik": "Abhazya'da Gürcülere uygulanan etnik temizlik"
+  },
+  {
+    "id": "m0592",
+    "mode": "mcq",
+    "prompt": "İstanbul'un en hızlı şehir içi metrosu olan ve havalimanını şehir merkezine bağlayan hat hangisidir?",
+    "choices": [
+      "M2",
+      "M11",
+      "M7",
+      "M4"
+    ],
+    "correct_index": 1,
+    "explanation": "Hattın işletmeciliğini diğer hatlardan farklı olarak TCDD Taşımacılık yürütüyor; ilk etabı Ocak 2023'te hizmete girdi.",
+    "topics": [
+      "ulaşım"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: İstanbul Metrosu",
+    "kaynak_id": "188438#38",
+    "kaynak_baslik": "İstanbul Metrosu"
   }
 ]
