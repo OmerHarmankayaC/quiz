@@ -20,3 +20,4 @@ next-env.d.ts
 
 # Diger oturumlarin actigi worktree kopyalari - ayri git depolari.
 .claude/worktrees/
+*.tsbuildinfo
