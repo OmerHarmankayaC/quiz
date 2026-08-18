@@ -1,6 +1,7 @@
 import type { Soru } from '@/lib/game/types';
 import { oran, oranMetni } from '@/lib/game/scoring';
 import { sayiMetni } from '@/lib/game/format';
+import { hesabiSec } from '@/lib/game/hesap';
 
 interface Props {
 	soru: Soru;
@@ -9,8 +10,10 @@ interface Props {
 }
 
 export function SonucKarti({ soru, cevap, puan }: Props) {
+	const hesap = hesabiSec(soru);
+
 	return (
-		<div className="rounded-xl bg-[var(--yuzey)] p-4">
+		<div className="rounded-xl border border-[var(--kenar)] p-4">
 			<div className="flex items-baseline gap-3">
 				<span className="text-3xl font-medium">{puan}</span>
 				<span className="text-sm text-[var(--metin-ikincil)]">
@@ -24,13 +27,15 @@ export function SonucKarti({ soru, cevap, puan }: Props) {
 					<p className="mt-3 text-sm text-[var(--metin-ikincil)]">
 						Doğru cevap {sayiMetni(soru.answer)} {soru.unit} · senin tahminin {sayiMetni(cevap)}
 					</p>
-					{soru.napkin && (
-						<div className="mt-4 rounded-lg border border-[var(--kenar)] p-3">
-							<p className="text-sm font-medium">Peçete hesabı</p>
-							<p className="mt-1 text-sm text-[var(--metin-ikincil)]">{soru.napkin.lead}</p>
+					{hesap && (
+						<div className="mt-4 rounded-lg bg-[var(--yuzey)] p-3">
+							<p className="text-sm font-medium">{hesap.baslik}</p>
+							{hesap.lead && (
+								<p className="mt-1 text-sm text-[var(--metin-ikincil)]">{hesap.lead}</p>
+							)}
 							<dl className="mt-3">
-								{soru.napkin.rows.map(([etiket, deger]) => (
-									<div key={etiket} className="flex justify-between py-1 text-sm">
+								{hesap.rows.map(([etiket, deger], i) => (
+									<div key={i} className="flex justify-between py-1 text-sm">
 										<dt className="text-[var(--metin-ikincil)]">{etiket}</dt>
 										<dd>{deger}</dd>
 									</div>

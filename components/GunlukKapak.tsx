@@ -19,7 +19,7 @@ export function GunlukKapak({ no, tarihMetni, streak, oynandi, yuklendi }: Props
 			>
 				<div className="text-[var(--metin-soluk)]">
 					<p className="text-xs tracking-wide">bugünün bulmacası</p>
-					<p className="mt-2 text-3xl font-medium opacity-40">—</p>
+					<p className="mt-2 text-2xl font-medium opacity-40">—</p>
 					<p className="mt-1 text-sm">{' '}</p>
 				</div>
 				<span className="whitespace-nowrap rounded-full border border-[var(--kenar)] px-5 py-2.5 font-medium text-transparent">
