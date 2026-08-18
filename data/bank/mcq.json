@@ -14395,5 +14395,307 @@
     "source": "Vikipedi: Rusya Federasyonu Devlet Marşı",
     "kaynak_id": "115498#7",
     "kaynak_baslik": "Rusya Federasyonu Devlet Marşı"
+  },
+  {
+    "id": "m0666",
+    "mode": "mcq",
+    "prompt": "Küçük kan dolaşımını Avrupa'da ilk kez tanımlayan Miguel Servet'ten 300 yıl önce bu keşfi kim yapmıştır?",
+    "choices": [
+      "İbn Rüşd",
+      "Ebubekir Razi",
+      "İbn Sina",
+      "İbn-i Nefs"
+    ],
+    "correct_index": 3,
+    "explanation": "Servetus'un kitabı Christianismi Restitutio 1553'te yakıldı; küçük dolaşım ancak William Harvey'in 1616 teşrihleriyle geniş kabul gördü.",
+    "topics": [
+      "bilim",
+      "sağlık"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Miguel Servet",
+    "kaynak_id": "149009#26",
+    "kaynak_baslik": "Miguel Servet"
+  },
+  {
+    "id": "m0667",
+    "mode": "mcq",
+    "prompt": "Babil'de 4. Babil Hanedanı'nı kuran Marduk-kabit-ahheshu, Babil tahtına geçen kaçıncı yerli kişi olmuştur?",
+    "choices": [
+      "Birinci",
+      "Beşinci",
+      "Üçüncü",
+      "İkinci"
+    ],
+    "correct_index": 3,
+    "explanation": "Hanedan 125 yıl ayakta kaldı ve Elamlıları kovarak Kassitlerin güçlenmesini engelledi.",
+    "topics": [
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Babil",
+    "kaynak_id": "20513#20",
+    "kaynak_baslik": "Babil"
+  },
+  {
+    "id": "m0668",
+    "mode": "mcq",
+    "prompt": "Babür hükümdarı Cihangir, hangi şehri İranlılara kaptırmıştır?",
+    "choices": [
+      "Herat",
+      "Kandahar",
+      "Lahor",
+      "Kabil"
+    ],
+    "correct_index": 1,
+    "explanation": "1613'ten itibaren savaşmayı oğlu Şehzade Hürrem'e (sonradan Şah Cihan) bırakmıştı.",
+    "topics": [
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Cihangir",
+    "kaynak_id": "149859#8",
+    "kaynak_baslik": "Cihangir"
+  },
+  {
+    "id": "m0669",
+    "mode": "mcq",
+    "prompt": "Triple H, WWF'de ilk kullandığı ring adı olan Hunter Hearst Helmsley'den önce hangi ismi önermişti?",
+    "choices": [
+      "Terra Ryzin",
+      "Conan the Barbarian",
+      "Reginald DuPont Helmsley",
+      "Lord Steven Regal"
+    ],
+    "correct_index": 2,
+    "explanation": "Yönetim onun yerine baş harfleriyle oynanan Hunter Hearst Helmsley adını kabul etti; ringe ilk kez 30 Nisan 1995'te çıktı.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Triple H",
+    "kaynak_id": "1031267#10",
+    "kaynak_baslik": "Triple H"
+  },
+  {
+    "id": "m0670",
+    "mode": "mcq",
+    "prompt": "Minecraft'ın geliştirme kontrolü, tam sürümün ardından Markus Persson'dan kime devredilmiştir?",
+    "choices": [
+      "Marcus Persson",
+      "Notch",
+      "Jens Bergensten",
+      "Bill Gates"
+    ],
+    "correct_index": 2,
+    "explanation": "Oyun 2014'te Microsoft tarafından satın alındı; tam sürüm 18 Kasım 2011'de yayımlanmıştı.",
+    "topics": [
+      "oyun",
+      "teknoloji"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Minecraft",
+    "kaynak_id": "1162083#0",
+    "kaynak_baslik": "Minecraft"
+  },
+  {
+    "id": "m0671",
+    "mode": "mcq",
+    "prompt": "Işık hızının simgesi olan \"c\" harfini modern anlamıyla 1894'te yeniden tanımlayan bilim insanı kimdir?",
+    "choices": [
+      "Wilhelm Weber",
+      "Paul Drude",
+      "James Clerk Maxwell",
+      "Albert Einstein"
+    ],
+    "correct_index": 1,
+    "explanation": "Einstein göreliliğe dair ilk makalelerinde \"V\" sembolünü kullanmış, 1907'de standart hale gelen \"c\"ye geçmişti.",
+    "topics": [
+      "bilim"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Işık hızı",
+    "kaynak_id": "1399075#3",
+    "kaynak_baslik": "Işık hızı"
+  },
+  {
+    "id": "m0672",
+    "mode": "mcq",
+    "prompt": "Jenson Button, ilk Formula 1 zaferini hangi Grand Prix'de elde etmiştir?",
+    "choices": [
+      "Türkiye Grand Prix'si (2009)",
+      "Avustralya Grand Prix'si (2009)",
+      "Monako Grand Prix'si (2009)",
+      "Macaristan Grand Prix'si (2006)"
+    ],
+    "correct_index": 3,
+    "explanation": "Zafer 113. yarışında, Hungaroring'deki yağmurlu bir yarışta geldi; 2009'da ise ilk 7 yarışın 6'sını kazanan üç pilottan biri oldu.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Jenson Button",
+    "kaynak_id": "150239#2",
+    "kaynak_baslik": "Jenson Button"
+  },
+  {
+    "id": "m0673",
+    "mode": "mcq",
+    "prompt": "Antoni Gaudí, La Sagrada Familia'nın yapımını üstlendiği hangi yıldan sonra başka proje almayı bırakmıştır?",
+    "choices": [
+      "1900",
+      "1908",
+      "1882",
+      "1926"
+    ],
+    "correct_index": 1,
+    "explanation": "Gaudí ölümüne kadar (1926) yalnızca bu esere adandı; kilisenin yapımına aslen 1882'de başka bir mimar başlamıştı.",
+    "topics": [
+      "mimari",
+      "sanat"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Antoni Gaudí",
+    "kaynak_id": "17200#3",
+    "kaynak_baslik": "Antoni Gaudí"
+  },
+  {
+    "id": "m0674",
+    "mode": "mcq",
+    "prompt": "Julio Argentino Roca'nın 1879'da başlattığı ve Patagonya'yı Arjantin'e katan sefer hangi adla bilinir?",
+    "choices": [
+      "Çöl Fethi",
+      "Bağımsızlık Savaşı",
+      "20. Yılın Anarşisi",
+      "Malbrán Seferi"
+    ],
+    "correct_index": 0,
+    "explanation": "Bu tarihe kadar Colorado Nehri'nin güneyi yerel halkın kontrolündeydi; nehir doğal bir sınır görevi görüyordu.",
+    "topics": [
+      "tarih",
+      "coğrafya"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Arjantin'in eyaletleri",
+    "kaynak_id": "151333#3",
+    "kaynak_baslik": "Arjantin'in eyaletleri"
+  },
+  {
+    "id": "m0675",
+    "mode": "mcq",
+    "prompt": "Streptococcus pneumoniae'yi 1882'de tanımlayan ve Gram boya testini de tanıtan bilim insanı kimdir?",
+    "choices": [
+      "Albert Fränkel",
+      "Edwin Klebs",
+      "Carl Friedländer",
+      "Christian Gram"
+    ],
+    "correct_index": 2,
+    "explanation": "Edwin Klebs 1875'te bakterileri ilk gözlemleyen kişiydi; Christian Gram ise 1884'te boyama yöntemini yayımladı.",
+    "topics": [
+      "sağlık",
+      "bilim"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Zatürre",
+    "kaynak_id": "1947#9",
+    "kaynak_baslik": "Zatürre"
+  },
+  {
+    "id": "m0676",
+    "mode": "mcq",
+    "prompt": "1961-1981 Adalet Partisi, 1992'de yeniden açılma kongresinde Süleyman Demirel'e karşı kim aday olmuştur?",
+    "choices": [
+      "Yıldırım Akbulut",
+      "Turgut Özal",
+      "Saadettin Bilgiç",
+      "Necmettin Erbakan"
+    ],
+    "correct_index": 2,
+    "explanation": "İkisinin rekabeti 1965'ten beri sürüyordu; kongre Ankara Atatürk Spor Salonu'nda toplanmıştı.",
+    "topics": [
+      "siyaset",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Adalet Partisi (1961-1981)",
+    "kaynak_id": "123994#12",
+    "kaynak_baslik": "Adalet Partisi (1961-1981)"
+  },
+  {
+    "id": "m0677",
+    "mode": "mcq",
+    "prompt": "1806-1812 Osmanlı-Rus Savaşı'nda 22 Haziran 1811'deki Rusçuk Muharebesi'nde Rus ordusuna komuta eden general kimdir?",
+    "choices": [
+      "Bagration",
+      "Suvorov",
+      "Kutuzov",
+      "Barclay de Tolly"
+    ],
+    "correct_index": 2,
+    "explanation": "Kutuzov'un emrinde 18 bin kişilik küçük ama güçlü bir ordu vardı; karşısındaki Osmanlı ordusu Laz Aziz Ahmed Paşa komutasında 60.000 kişiydi.",
+    "topics": [
+      "tarih",
+      "askeri"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: 1806-1812 Osmanlı-Rus Savaşı",
+    "kaynak_id": "124549#15",
+    "kaynak_baslik": "1806-1812 Osmanlı-Rus Savaşı"
+  },
+  {
+    "id": "m0678",
+    "mode": "mcq",
+    "prompt": "Muammer Kaddafi, 1969 darbesinin ardından 1972-1979 arasında hangi görevi yürütmüştür?",
+    "choices": [
+      "Devrim Konseyi başkanlığı",
+      "Libya başbakanlığı",
+      "Savunma bakanlığı",
+      "Libya devlet başkanlığı"
+    ],
+    "correct_index": 3,
+    "explanation": "1970-1972 arasında ise başbakanlık yapmıştı; 1977'den 2011'e kadar resmî bir görevi olmadan ülkeyi yönetmeye devam etti.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Muammer Kaddafi",
+    "kaynak_id": "152849#0",
+    "kaynak_baslik": "Muammer Kaddafi"
+  },
+  {
+    "id": "m0679",
+    "mode": "mcq",
+    "prompt": "Ender Konca, A millî futbol formasını ilk kez hangi ülkeyle oynanan maçta giymiştir?",
+    "choices": [
+      "İran",
+      "Bulgaristan",
+      "SSCB",
+      "İspanya"
+    ],
+    "correct_index": 1,
+    "explanation": "9 Ekim 1968'deki bu maçtan sonra Konca 1970 Dünya Kupası elemelerinde SSCB'ye gol attı ve 1969 RCD Kupası'nı Türkiye ile kazandı.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Ender Konca",
+    "kaynak_id": "123678#14",
+    "kaynak_baslik": "Ender Konca"
   }
 ]
