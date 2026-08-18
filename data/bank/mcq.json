@@ -13593,5 +13593,438 @@
     "source": "Vikipedi: Kayseri Erciyesspor",
     "kaynak_id": "19940#4",
     "kaynak_baslik": "Kayseri Erciyesspor"
+  },
+  {
+    "id": "m0629",
+    "mode": "mcq",
+    "prompt": "Modern Li-ion pilin karbonlu anotlu ilk prototipini 1985'te kim geliştirmiştir?",
+    "choices": [
+      "M. Stanley Whittingham",
+      "John Goodenough",
+      "Yoshio Nishi",
+      "Akira Yoshino"
+    ],
+    "correct_index": 3,
+    "explanation": "Whittingham 1970'lerde ilk şarjlı lityum-iyon pili yapmıştı; Nishi liderliğindeki ekip ise pili 1991'de ticarileştirdi.",
+    "topics": [
+      "bilim",
+      "teknoloji"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Lityum iyon pil",
+    "kaynak_id": "107833#4",
+    "kaynak_baslik": "Lityum iyon pil"
+  },
+  {
+    "id": "m0630",
+    "mode": "mcq",
+    "prompt": "Ayşe Soysal, 1992'de Boğaziçi Üniversitesi Fen Edebiyat Fakültesi'nde hangi unvanı ilk kadın olarak almıştır?",
+    "choices": [
+      "Bölüm başkanı",
+      "Dekan",
+      "Senato üyesi",
+      "Rektör"
+    ],
+    "correct_index": 1,
+    "explanation": "Soysal 2004-2008 arasında da Boğaziçi Üniversitesi rektörlüğü yaptı.",
+    "topics": [
+      "eğitim",
+      "bilim"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Ayşe Soysal",
+    "kaynak_id": "20316#4",
+    "kaynak_baslik": "Ayşe Soysal"
+  },
+  {
+    "id": "m0631",
+    "mode": "mcq",
+    "prompt": "Dennis Bergkamp, profesyonel futbol yaşamındaki son golünü 15 Nisan 2006'da hangi takıma karşı atmıştır?",
+    "choices": [
+      "Barcelona",
+      "Manchester United",
+      "Chelsea",
+      "West Bromwich Albion"
+    ],
+    "correct_index": 3,
+    "explanation": "Arsenal taraftarları o günü \"Dennis Bergkamp Günü\" olarak kutladı; Bergkamp 89. dakikada son golünü attı.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Dennis Bergkamp",
+    "kaynak_id": "137233#9",
+    "kaynak_baslik": "Dennis Bergkamp"
+  },
+  {
+    "id": "m0632",
+    "mode": "mcq",
+    "prompt": "Alman kütüphaneci Johann Adelung, Kürtlerin kökenini Xenophon'un MÖ 370 civarındaki eserinde geçen hangi bölgeyle ilişkilendirmiştir?",
+    "choices": [
+      "Gordyene",
+      "Kommagene",
+      "Ktesifon",
+      "Karduk"
+    ],
+    "correct_index": 3,
+    "explanation": "Adelung, Kürtleri Tatar sayan Güldenstädt'in görüşünü reddetmişti.",
+    "topics": [
+      "tarih",
+      "bilim"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Kürdoloji",
+    "kaynak_id": "137329#2",
+    "kaynak_baslik": "Kürdoloji"
+  },
+  {
+    "id": "m0633",
+    "mode": "mcq",
+    "prompt": "Başkomutanlık Meydan Muharebesi öncesinde Türkiye, 20 Ekim 1921'de imzalanan anlaşmayla hangi ülkeden silah ve mühimmat desteği almıştır?",
+    "choices": [
+      "İngiltere",
+      "Fransa",
+      "Sovyetler Birliği",
+      "İtalya"
+    ],
+    "correct_index": 1,
+    "explanation": "Aynı anlaşmayla Fransa Çukurova'daki işgalini de sonlandırdı; Sovyetler Birliği ise ayrıca mali yardım sağlamıştı.",
+    "topics": [
+      "tarih",
+      "askeri"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Başkomutanlık Meydan Muharebesi",
+    "kaynak_id": "15329#6",
+    "kaynak_baslik": "Başkomutanlık Meydan Muharebesi"
+  },
+  {
+    "id": "m0634",
+    "mode": "mcq",
+    "prompt": "III. Jan Sobieski, Ekim 1667'de Tatarları ve Kazakları hangi yerleşim yakınında yenilgiye uğratmıştır?",
+    "choices": [
+      "Podhajce",
+      "Chocim",
+      "Viyana",
+      "Zbaraż"
+    ],
+    "correct_index": 0,
+    "explanation": "Sobieski 1668 ilkbaharında başkomutanlığa getirildi; sonradan Polonya kralı seçildi.",
+    "topics": [
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: III. Jan Sobieski",
+    "kaynak_id": "195417#4",
+    "kaynak_baslik": "III. Jan Sobieski"
+  },
+  {
+    "id": "m0635",
+    "mode": "mcq",
+    "prompt": "1933'ten sonra Kuzey Ren-Vestfalya'da vatandaşların yeniden demokratik bir meclis seçmesi hangi yıl gerçekleşmiştir?",
+    "choices": [
+      "1949",
+      "1947",
+      "1945",
+      "1950"
+    ],
+    "correct_index": 1,
+    "explanation": "1949'da KRV yeni kurulan Almanya Federal Cumhuriyeti'nin bir eyaleti oldu; eyalet anayasası 1950'de halkoylamasıyla kabul edildi.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Kuzey Ren-Vestfalya",
+    "kaynak_id": "15712#4",
+    "kaynak_baslik": "Kuzey Ren-Vestfalya"
+  },
+  {
+    "id": "m0636",
+    "mode": "mcq",
+    "prompt": "Konrad Adenauer, Hitler'in Köln'ü ziyaretinde belediye başkanı olarak neyi yapmıştır?",
+    "choices": [
+      "Şehir anahtarını takdim etmiştir",
+      "Törenle karşılamıştır",
+      "Onu karşılamaya gitmemiş ve gamalı haçlı bayrakları indirtmiştir",
+      "Hitler ile birlikte köprüde yürümüştür"
+    ],
+    "correct_index": 2,
+    "explanation": "Hitler iktidara gelince Adenauer Köln'ü terk edip Maria Laach Manastırı'nda saklandı; 1934'te Gestapo tarafından kısa süreliğine tutuklandı.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Konrad Adenauer",
+    "kaynak_id": "15746#8",
+    "kaynak_baslik": "Konrad Adenauer"
+  },
+  {
+    "id": "m0637",
+    "mode": "mcq",
+    "prompt": "İdris Şah, 1960'ta kurduğu Octagon Press'in ilk yayınlarından birinde modern Vika'nın kurucusu olan hangi ismin biyografisini yazmıştır?",
+    "choices": [
+      "Doreen Valiente",
+      "Gerald Gardner",
+      "Aleister Crowley",
+      "Margaret Murray"
+    ],
+    "correct_index": 1,
+    "explanation": "Kitap görünüşte Jack L. Bracelin tarafından yazılmış gibi görünse de gerçekte Şah tarafından kaleme alınmıştı.",
+    "topics": [
+      "kültür",
+      "din"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: İdris Şah",
+    "kaynak_id": "1149998#13",
+    "kaynak_baslik": "İdris Şah"
+  },
+  {
+    "id": "m0638",
+    "mode": "mcq",
+    "prompt": "Torino, 1861'den 1865'e kadar hangi devletin başkentliğini yapmıştır?",
+    "choices": [
+      "Napoli Krallığı",
+      "Sardunya Krallığı",
+      "İtalya Krallığı",
+      "Savoy Dükalığı"
+    ],
+    "correct_index": 2,
+    "explanation": "Şehir daha önce 1563'ten itibaren Savoy Dükalığı'nın başkentiydi; bugün Fiat, Lancia ve Alfa Romeo'nun genel merkezlerine ev sahipliği yapar.",
+    "topics": [
+      "coğrafya",
+      "tarih"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Torino",
+    "kaynak_id": "15914#2",
+    "kaynak_baslik": "Torino"
+  },
+  {
+    "id": "m0639",
+    "mode": "mcq",
+    "prompt": "Suriyeli şair Adonis, 1995'te İstanbul'da hangi ödülü kazanmıştır?",
+    "choices": [
+      "Nazım Hikmet Uluslararası Şiir Ödülü",
+      "Goethe Ödülü",
+      "Nobel Edebiyat Ödülü",
+      "Cervantes Ödülü"
+    ],
+    "correct_index": 0,
+    "explanation": "Adonis 2005 ve 2006'da Nobel Edebiyat Ödülü için de aday gösterilmişti; 1960'ta Lübnan vatandaşlığına geçmişti.",
+    "topics": [
+      "kitap",
+      "kültür"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Adonis (şair)",
+    "kaynak_id": "20994#3",
+    "kaynak_baslik": "Adonis (şair)"
+  },
+  {
+    "id": "m0640",
+    "mode": "mcq",
+    "prompt": "Kristof Kolomb, 1493'te Saint Croix adasına verdiği isimde kaç bin şehit bakireye atıfta bulunmuştur?",
+    "choices": [
+      "3 bin",
+      "11 bin",
+      "1 bin",
+      "100"
+    ],
+    "correct_index": 1,
+    "explanation": "Ad Azize Ursula ve şehit bakirelerin onuruna verilmişti; ada 1555'te İspanyol denetimine geçmişti.",
+    "topics": [
+      "tarih",
+      "coğrafya"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Amerika Birleşik Devletleri Virjin Adaları",
+    "kaynak_id": "21032#1",
+    "kaynak_baslik": "Amerika Birleşik Devletleri Virjin Adaları"
+  },
+  {
+    "id": "m0641",
+    "mode": "mcq",
+    "prompt": "Liverpool FC, John Houlding tarafından hangi kulüple yaşanan ihtilaf sonucu kurulmuştur?",
+    "choices": [
+      "Everton",
+      "Manchester United",
+      "Aston Villa",
+      "Preston North End"
+    ],
+    "correct_index": 0,
+    "explanation": "Kulüp önce \"Everton Athletic\" adıyla yola çıktı, federasyon bu adı reddedince Mart 1892'de Liverpool FC oldu.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Liverpool FC",
+    "kaynak_id": "21205#4",
+    "kaynak_baslik": "Liverpool FC"
+  },
+  {
+    "id": "m0642",
+    "mode": "mcq",
+    "prompt": "Rocky filmi, 1976'nın en çok hasılat yapan filmi olarak dünya çapında ne kadar gelir elde etmiştir?",
+    "choices": [
+      "50 milyon dolar",
+      "Yaklaşık 225 milyon dolar",
+      "100 milyon dolar",
+      "500 milyon dolar"
+    ],
+    "correct_index": 1,
+    "explanation": "Film on Akademi Ödülü adaylığı aldı ve En İyi Film dahil üçünü kazandı.",
+    "topics": [
+      "film"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Rocky (film)",
+    "kaynak_id": "167472#5",
+    "kaynak_baslik": "Rocky (film)"
+  },
+  {
+    "id": "m0643",
+    "mode": "mcq",
+    "prompt": "Frank Abagnale, 1964-1967 arasında hangi meslekten kişiyi taklit ederek 2 milyon milden fazla ücretsiz uçmuştur?",
+    "choices": [
+      "Avukat",
+      "Havayolu pilotu",
+      "Doktor",
+      "Savcı yardımcısı"
+    ],
+    "correct_index": 1,
+    "explanation": "Aynı dönemde bir hastanede çocuk doktoru ve Louisiana'da savcı yardımcısı rolüne de girmişti; Fransa'da yakalanıp 12 yıl ceza aldı.",
+    "topics": [
+      "tarih",
+      "toplum"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Frank Abagnale",
+    "kaynak_id": "168112#0",
+    "kaynak_baslik": "Frank Abagnale"
+  },
+  {
+    "id": "m0644",
+    "mode": "mcq",
+    "prompt": "Concorde uçaklarının son ticari seferi hangi tarihte yapılmıştır?",
+    "choices": [
+      "Eylül 2001",
+      "2005",
+      "24 Ekim 2003",
+      "25 Temmuz 2000"
+    ],
+    "correct_index": 2,
+    "explanation": "Uçak 2000'deki kazadan sonra Eylül 2001'de yeniden sefere başlamış, ancak yüksek maliyeti nedeniyle üretimden kaldırılmıştı.",
+    "topics": [
+      "havacılık"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Concorde",
+    "kaynak_id": "139051#7",
+    "kaynak_baslik": "Concorde"
+  },
+  {
+    "id": "m0645",
+    "mode": "mcq",
+    "prompt": "IV. Mehmed, 1648'de kaç yaşında tahta çıkarak Osmanlı'nın en genç padişahı olmuştur?",
+    "choices": [
+      "10",
+      "7",
+      "5",
+      "12"
+    ],
+    "correct_index": 1,
+    "explanation": "39 yıllık saltanatıyla Kanuni'den sonra en uzun süre hükümdarlık yapan padişah oldu; av düşkünlüğü yüzünden \"Avcı\" lakabıyla anıldı.",
+    "topics": [
+      "tarih"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: IV. Mehmed",
+    "kaynak_id": "17819#2",
+    "kaynak_baslik": "IV. Mehmed"
+  },
+  {
+    "id": "m0646",
+    "mode": "mcq",
+    "prompt": "Komünist Çin'in Mançurya'da 1949'da Kuzeydoğu Halkı Hükûmeti'ni kurup yöneticiliğine getirdiği kişi kimdir?",
+    "choices": [
+      "Lin Biao",
+      "Peng Dehuai",
+      "Zhou Enlai",
+      "Gao Gang"
+    ],
+    "correct_index": 3,
+    "explanation": "Mançurya, Gao Gang yönetiminde oldukça özerk bir yapıya kavuşmuştu; bölge 1953-57 arasında I. Beş Yıllık Plan'ın büyük payını aldı.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Mançurya",
+    "kaynak_id": "110474#12",
+    "kaynak_baslik": "Mançurya"
+  },
+  {
+    "id": "m0647",
+    "mode": "mcq",
+    "prompt": "Türk Ekonomi Bankası (TEB), 1927'de hangi adla kurulmuştur?",
+    "choices": [
+      "İstanbul Ticaret Bankası",
+      "Anadolu Bankası",
+      "TEB Holding",
+      "Kocaeli Halk Bankası T.A.Ş."
+    ],
+    "correct_index": 3,
+    "explanation": "Banka 1982'de İstanbul'a taşınıp adını değiştirdi; 2005'te BNP Paribas ile stratejik ortaklık kurdu.",
+    "topics": [
+      "ekonomi"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Türk Ekonomi Bankası",
+    "kaynak_id": "110618#1",
+    "kaynak_baslik": "Türk Ekonomi Bankası"
+  },
+  {
+    "id": "m0648",
+    "mode": "mcq",
+    "prompt": "Cumhuriyetçi Parti, 1968'de John Wayne'e hangi teklifi götürmüştür?",
+    "choices": [
+      "Kaliforniya valisi adaylığı teklifi",
+      "Başkan adayı olması teklifi",
+      "Parti sözcülüğü teklifi",
+      "Kongre üyeliği teklifi"
+    ],
+    "correct_index": 1,
+    "explanation": "Wayne, halkın Beyaz Saray'da bir oyuncu görmek istemeyeceğine inandığı için teklifi reddetti; arkadaşı Reagan'ın valilik adaylıklarını destekledi.",
+    "topics": [
+      "film",
+      "siyaset"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: John Wayne",
+    "kaynak_id": "168820#18",
+    "kaynak_baslik": "John Wayne"
   }
 ]
