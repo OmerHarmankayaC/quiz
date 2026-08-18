@@ -9567,5 +9567,390 @@
     "source": "Vikipedi: İbrahim (Osmanlı padişahı)",
     "kaynak_id": "17820#3",
     "kaynak_baslik": "İbrahim (Osmanlı padişahı)"
+  },
+  {
+    "id": "m0443",
+    "mode": "mcq",
+    "prompt": "Christian Abbiati, kaleciliğiyle Milan'ın yedi yıl aradan sonra ilk Serie A şampiyonluğunu kazandığı sezonu hangi tarihte kutlamıştır?",
+    "choices": [
+      "Temmuz 2010",
+      "30 Haziran 2013",
+      "Ocak 2011",
+      "7 Mayıs 2011"
+    ],
+    "correct_index": 3,
+    "explanation": "Abbiati sezon boyunca kritik kurtarışlar yaptı; ertesi sezon takım ligde şampiyon Juventus'un ardından ikinci oldu.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Christian Abbiati",
+    "kaynak_id": "105614#10",
+    "kaynak_baslik": "Christian Abbiati"
+  },
+  {
+    "id": "m0444",
+    "mode": "mcq",
+    "prompt": "Mossad'ın özel timi Kidon, Kara Eylül örgütünün önemli üyesini hangi tarihte Beyrut'ta öldürmüştür?",
+    "choices": [
+      "1972",
+      "22 Ocak 1979",
+      "1992",
+      "1973"
+    ],
+    "correct_index": 1,
+    "explanation": "1972'de FLKP üyesi Gassan Kenefani, 1992'de ise Hizbullah genel sekreteri Abbas el-Musavi benzer operasyonlarla öldürülmüştü.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Mossad",
+    "kaynak_id": "107326#30",
+    "kaynak_baslik": "Mossad"
+  },
+  {
+    "id": "m0445",
+    "mode": "mcq",
+    "prompt": "2007'de RRS James Cook gemisindeki bilim insanları, Dünya'nın mantosunun örtüsüz kaldığı bölgeyi hangi bölgeler arasında keşfetmiştir?",
+    "choices": [
+      "Cape Verde Adaları ve Karayip Denizi arasında",
+      "Endonezya ve Avustralya arasında",
+      "Hawaii ve Japonya arasında",
+      "İzlanda ve Grönland arasında"
+    ],
+    "correct_index": 0,
+    "explanation": "Aynı yıl Japon gemisi Chikyū, deniz tabanının 7.000 metre altına inmeyi hedefleyen Chikyu Hakken misyonunu planlamıştı.",
+    "topics": [
+      "bilim",
+      "coğrafya"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Dünya'nın mantosu",
+    "kaynak_id": "12913#22",
+    "kaynak_baslik": "Dünya'nın mantosu"
+  },
+  {
+    "id": "m0446",
+    "mode": "mcq",
+    "prompt": "Kuleli Askerî Lisesi, 1877-1878 Osmanlı-Rus Savaşı sırasında hangi amaçla hangi binaya taşınmıştır?",
+    "choices": [
+      "Eğitime devam etmek üzere Selimiye Kışlası'na",
+      "Hastane olarak kullanılmak üzere Pangaltı'daki harp okulu binasına",
+      "Depo olarak Beylerbeyi'ndeki binaya",
+      "Karargâh olarak Haydarpaşa'daki binaya"
+    ],
+    "correct_index": 1,
+    "explanation": "Savaş bitince okul 1879'da yeniden Çengelköy'deki binasına döndü; Askerî Tıbbiye İdadisi ise 1910'da Haydarpaşa'ya taşındı.",
+    "topics": [
+      "eğitim",
+      "tarih",
+      "askeri"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Kuleli Askerî Lisesi",
+    "kaynak_id": "19916#9",
+    "kaynak_baslik": "Kuleli Askerî Lisesi"
+  },
+  {
+    "id": "m0447",
+    "mode": "mcq",
+    "prompt": "Karaoğlan çizgi romanının ilk sayısı hangi tarihte çıkmıştır?",
+    "choices": [
+      "1990'lar",
+      "Ocak 2000",
+      "25 Mayıs 1982",
+      "1 Nisan 1963"
+    ],
+    "correct_index": 3,
+    "explanation": "Dergiyi Suat Yalaz bizzat yayımlıyordu; 1982'de eski maceralar renklendirilerek yeniden çıkarıldı.",
+    "topics": [
+      "kültür"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Karaoğlan (çizgi roman)",
+    "kaynak_id": "19927#1",
+    "kaynak_baslik": "Karaoğlan (çizgi roman)"
+  },
+  {
+    "id": "m0448",
+    "mode": "mcq",
+    "prompt": "Manisaspor, tarihinde ilk kez Süper Lig'e hangi sezonda ve kimin yönetiminde yükselmiştir?",
+    "choices": [
+      "2004-2005, Levent Eriş",
+      "2001-2002, Mustafa Denizli",
+      "2003-2004, Levent Eriş",
+      "2000-2001, Mustafa Denizli"
+    ],
+    "correct_index": 0,
+    "explanation": "Kulüp 1. Lig'de ikinci olarak yükseldi; Mustafa Denizli döneminde takım dördüncü olmuş ama çıkışı son anda kaçırmıştı.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Manisaspor",
+    "kaynak_id": "19934#4",
+    "kaynak_baslik": "Manisaspor"
+  },
+  {
+    "id": "m0449",
+    "mode": "mcq",
+    "prompt": "İlhan Mansız, Şubat 2006'da futbolu bırakma kararını neden almıştır?",
+    "choices": [
+      "Diz sakatlığı ameliyatı",
+      "Millî takımdan çıkarılması",
+      "Kulübüyle sözleşme anlaşmazlığı",
+      "Almanya'da geçirdiği trafik kazası"
+    ],
+    "correct_index": 3,
+    "explanation": "2008'de Mourinho'nun yönettiği bir Dünya karmasında gösteri maçında forma giyerek formda olduğunu göstermişti.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: İlhan Mansız",
+    "kaynak_id": "19986#14",
+    "kaynak_baslik": "İlhan Mansız"
+  },
+  {
+    "id": "m0450",
+    "mode": "mcq",
+    "prompt": "Anthrax, Thrash Metal'in \"Big Four\" grubunun üyesi olarak hangi üç grupla birlikte anılır?",
+    "choices": [
+      "Death, Obituary, Morbid Angel",
+      "Megadeth, Metallica, Slayer",
+      "Pantera, Sepultura, Testament",
+      "Exodus, Overkill, Kreator"
+    ],
+    "correct_index": 1,
+    "explanation": "Grup 1991-2004 arasında Amerika'da 2,5 milyon, toplamda 10 milyon kopya sattı.",
+    "topics": [
+      "müzik"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Anthrax",
+    "kaynak_id": "137164#0",
+    "kaynak_baslik": "Anthrax"
+  },
+  {
+    "id": "m0451",
+    "mode": "mcq",
+    "prompt": "Buhara, 9. yüzyıl ortasından 10. yüzyıl sonuna kadar hangi hanedanın başkenti olmuştur?",
+    "choices": [
+      "Gazneliler",
+      "Kara Hıtaylar",
+      "Samanîler",
+      "Karahanlılar"
+    ],
+    "correct_index": 2,
+    "explanation": "Samanîlerin yıkılmasından sonra şehir Karahanlıların eline geçti ve kültürel altın çağını bu dönemde yaşadı.",
+    "topics": [
+      "tarih",
+      "coğrafya"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Buhara",
+    "kaynak_id": "20458#14",
+    "kaynak_baslik": "Buhara"
+  },
+  {
+    "id": "m0452",
+    "mode": "mcq",
+    "prompt": "FC Barcelona, La Liga'da toplam kaç şampiyonluk kazanmıştır?",
+    "choices": [
+      "5",
+      "32",
+      "16",
+      "29"
+    ],
+    "correct_index": 3,
+    "explanation": "32 ise Copa del Rey, 16 Supercopa de España şampiyonluk sayısıdır; kulübün toplam yurt içi kupası 81'dir.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: FC Barcelona",
+    "kaynak_id": "20472#3",
+    "kaynak_baslik": "FC Barcelona"
+  },
+  {
+    "id": "m0453",
+    "mode": "mcq",
+    "prompt": "Haiti Devrimi'ni başlatan liderlerden biri olan ve Fransız kuvvetlerine karşı savaşan kişi kimdir?",
+    "choices": [
+      "Toussaint L'Ouverture",
+      "Simón Bolívar",
+      "José de San Martín",
+      "Miguel Hidalgo"
+    ],
+    "correct_index": 0,
+    "explanation": "Jean-Jacques Dessalines ve Henri Christophe ile birlikte hareket eden Haiti orduları, Napolyon'un 1803'te gönderdiği orduyu yendi.",
+    "topics": [
+      "tarih"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Haiti",
+    "kaynak_id": "21024#11",
+    "kaynak_baslik": "Haiti"
+  },
+  {
+    "id": "m0454",
+    "mode": "mcq",
+    "prompt": "Fellini'nin 8½ filminin adı neyi ifade eder?",
+    "choices": [
+      "Yönetmenin çektiği sekiz buçukuncu filmi",
+      "Baş karakterin sekiz buçuk yaşında olması",
+      "Senaryonun sekiz buçuk taslaktan oluşması",
+      "Filmin sekiz buçuk saat sürmesi"
+    ],
+    "correct_index": 0,
+    "explanation": "Senarist Flaiano önce \"La bella confusione\" adını önermişti, ancak Fellini kendi filmografisine göndermeyi tercih etti.",
+    "topics": [
+      "film"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: 8½",
+    "kaynak_id": "108949#18",
+    "kaynak_baslik": "8½"
+  },
+  {
+    "id": "m0455",
+    "mode": "mcq",
+    "prompt": "Eritre'nin ulusal seçimleri 1995'ten 2001'e ertelenmiştir. Bunun sebebi nedir?",
+    "choices": [
+      "Toprakların %20'sinin Etiyopya işgali altında olması",
+      "Uluslararası gözlemci eksikliği",
+      "Anayasa taslağının tamamlanmaması",
+      "Salgın hastalık nedeniyle karantina"
+    ],
+    "correct_index": 0,
+    "explanation": "Buna rağmen ülkede yerel seçimler yapılmaya devam etti; en son yerel seçimler Mayıs 2004'te gerçekleşti.",
+    "topics": [
+      "siyaset",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Eritre",
+    "kaynak_id": "16929#20",
+    "kaynak_baslik": "Eritre"
+  },
+  {
+    "id": "m0456",
+    "mode": "mcq",
+    "prompt": "2013'teki jeolojik bulgulara göre, Schreibersite mineralinin sulu gliserol ile reaksiyona girmesi ne üretmiştir?",
+    "choices": [
+      "Aminoasit zincirleri",
+      "Amonyak ve metan",
+      "Karbondioksit ve su",
+      "Fosfit ve gliserol 3-fosfat"
+    ],
+    "correct_index": 3,
+    "explanation": "Bu meteoritlerin RNA gibi fosforlanmış biyomoleküllerin oluşumu için erken indirgenmiş fosfor sağlamış olabileceği düşünülüyor.",
+    "topics": [
+      "bilim"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Yaşam",
+    "kaynak_id": "110188#38",
+    "kaynak_baslik": "Yaşam"
+  },
+  {
+    "id": "m0457",
+    "mode": "mcq",
+    "prompt": "R.A. Salvatore'nin Kara Elf Üçlemesi'nde Drizzt Do'Urden'in kendi şehri Menzoberranzan'ı terk edişini anlatan kitap hangisidir?",
+    "choices": [
+      "Exile (Sürgün)",
+      "Homeland (Anayurt)",
+      "The Crystal Shard",
+      "Sojourn (Göç)"
+    ],
+    "correct_index": 0,
+    "explanation": "Homeland doğumunu ve drow ırkı içindeki gelişimini, Sojourn ise yeryüzüne gelişini ve Buzyeli Vadisi'ne yerleşmesini anlatır.",
+    "topics": [
+      "kitap"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Drizzt Do'Urden",
+    "kaynak_id": "133997#30",
+    "kaynak_baslik": "Drizzt Do'Urden"
+  },
+  {
+    "id": "m0458",
+    "mode": "mcq",
+    "prompt": "Umut Bulut'un attığı gol, Türkiye'nin Portekiz'e attığı ilk gol olma özelliğini taşıyordu. Bu gol hangi yıldan bu yana ilkti?",
+    "choices": [
+      "1965",
+      "2000",
+      "2010",
+      "1980"
+    ],
+    "correct_index": 0,
+    "explanation": "Gol Mayıs 2012'deki Salzburg kampı hazırlık maçında atıldı; Volkan Demirel de aynı maçta bir penaltı kurtarmıştı.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Umut Bulut",
+    "kaynak_id": "110295#12",
+    "kaynak_baslik": "Umut Bulut"
+  },
+  {
+    "id": "m0459",
+    "mode": "mcq",
+    "prompt": "\"Plainfield Kasabı\" olarak bilinen ve 1957'de yakalanan seri katil kimdir?",
+    "choices": [
+      "John Wayne Gacy",
+      "Ted Bundy",
+      "Jeffrey Dahmer",
+      "Ed Gein"
+    ],
+    "correct_index": 3,
+    "explanation": "Gein'in yerel mezarlıklardan cesetler çıkararak kemik ve deriden eşyalar yaptığı ortaya çıkınca ünlendi.",
+    "topics": [
+      "tarih",
+      "toplum"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Ed Gein",
+    "kaynak_id": "168961#1",
+    "kaynak_baslik": "Ed Gein"
+  },
+  {
+    "id": "m0460",
+    "mode": "mcq",
+    "prompt": "Ermeni kronik-tarihçi Vardan'a göre Sultan Melikşah 1092'de nasıl ölmüştür?",
+    "choices": [
+      "Bir sürek avı sırasında hastalanarak",
+      "Savaşta yaralanarak",
+      "Suikaste kurban giderek",
+      "Karısı tarafından zehirlenerek"
+    ],
+    "correct_index": 3,
+    "explanation": "Tarihçi Ebu'l Feda ise onun bir sürek avından sonra hastalanıp öldüğünü yazar; farklı kaynaklar farklı ölüm nedenleri veriyor.",
+    "topics": [
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: I. Melikşah",
+    "kaynak_id": "110864#30",
+    "kaynak_baslik": "I. Melikşah"
   }
 ]
