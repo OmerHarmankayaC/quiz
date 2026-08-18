@@ -10368,5 +10368,389 @@
     "source": "Vikipedi: Kamboçya Soykırımı",
     "kaynak_id": "1923611#11",
     "kaynak_baslik": "Kamboçya Soykırımı"
+  },
+  {
+    "id": "m0480",
+    "mode": "mcq",
+    "prompt": "2005 yapımı Aşk ve Gurur filmi, Rotten Tomatoes'ta yaklaşık yüzde kaç puan almıştır?",
+    "choices": [
+      "%95",
+      "%85",
+      "%50",
+      "%70"
+    ],
+    "correct_index": 1,
+    "explanation": "Film, 1940 yapımı Greer Garson-Laurence Olivier uyarlamasından sonra romanın yalnızca ikinci sadık film versiyonuydu.",
+    "topics": [
+      "film"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Aşk ve Gurur (film, 2005)",
+    "kaynak_id": "2066214#43",
+    "kaynak_baslik": "Aşk ve Gurur (film, 2005)"
+  },
+  {
+    "id": "m0481",
+    "mode": "mcq",
+    "prompt": "Patrice Evra'nın forma giydiği Manchester United, 2007 FA Community Shield'de Chelsea'yi nasıl bir sonuçla yenmiştir?",
+    "choices": [
+      "90 dakikada 2-1",
+      "Uzatmalarda 3-1",
+      "Normal süre 1-1, penaltılarda 3-0",
+      "3-0 net galibiyet"
+    ],
+    "correct_index": 2,
+    "explanation": "Evra sezonun ilk 12 maçında forma giydi ve Şampiyonlar Ligi'nde Dinamo Kiev karşısında bir asist yaptı.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Patrice Evra",
+    "kaynak_id": "208790#15",
+    "kaynak_baslik": "Patrice Evra"
+  },
+  {
+    "id": "m0482",
+    "mode": "mcq",
+    "prompt": "John Toshack, 1989'da başına geçtiği Real Madrid ile hangi takımın 9 puan önünde şampiyon olmuştur?",
+    "choices": [
+      "Barcelona",
+      "Atletico Madrid",
+      "Sevilla",
+      "Valencia"
+    ],
+    "correct_index": 3,
+    "explanation": "Bu, Real Madrid'in üst üste aldığı 5. şampiyonluktu; Toshack aynı sezon Don Balon ödülünü de kazandı.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: John Toshack",
+    "kaynak_id": "123298#11",
+    "kaynak_baslik": "John Toshack"
+  },
+  {
+    "id": "m0483",
+    "mode": "mcq",
+    "prompt": "NASCAR'ın ikinci kademe serisi, 1984'ten 2007'ye kadar hangi sponsorun adını taşımıştır?",
+    "choices": [
+      "Nationwide",
+      "Xfinity",
+      "Budweiser",
+      "Busch"
+    ],
+    "correct_index": 3,
+    "explanation": "Seri 1982'de Budweiser sponsorluğuyla başlamış, 2008-2014 arasında Nationwide Insurance desteğine geçmişti.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: NASCAR",
+    "kaynak_id": "211416#28",
+    "kaynak_baslik": "NASCAR"
+  },
+  {
+    "id": "m0484",
+    "mode": "mcq",
+    "prompt": "Juan Carlos Navarro'nun İspanya millî takımıyla 2008 Pekin Olimpiyatları finalinde gümüş madalya kazandığı rakip hangisidir?",
+    "choices": [
+      "Arjantin",
+      "Yunanistan",
+      "ABD",
+      "Rusya"
+    ],
+    "correct_index": 2,
+    "explanation": "Navarro final maçında 18 sayı kaydetti; 2007 Avrupa Şampiyonası finalinde ise İspanya Rusya'ya kaybetmişti.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Juan Carlos Navarro (basketbolcu)",
+    "kaynak_id": "124178#18",
+    "kaynak_baslik": "Juan Carlos Navarro (basketbolcu)"
+  },
+  {
+    "id": "m0485",
+    "mode": "mcq",
+    "prompt": "17 Ağustos 1999 İzmit Depremi'nin yol açtığı hasarlı yapı enkazlarında hangi antik kente ait buluntular gün yüzüne çıkmıştır?",
+    "choices": [
+      "Efes",
+      "Bergama",
+      "Nikomedia",
+      "Nikaia"
+    ],
+    "correct_index": 2,
+    "explanation": "2001 ve 2009'da Çukurbağ Mahallesi'nde Herakles, Athena ve Diocletianus'a ait mermer kabartma paneller keşfedildi.",
+    "topics": [
+      "arkeoloji",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Nikomedia",
+    "kaynak_id": "120545#65",
+    "kaynak_baslik": "Nikomedia"
+  },
+  {
+    "id": "m0486",
+    "mode": "mcq",
+    "prompt": "Kristal yapıdaki düzenli aralıklı yüzeylerden yansımaları açıklayan Bragg kanununu 1912-1913'te bulan bilim insanı kimdir?",
+    "choices": [
+      "William Lawrence Bragg",
+      "William Henry Bragg",
+      "Max von Laue",
+      "Wilhelm Röntgen"
+    ],
+    "correct_index": 0,
+    "explanation": "Genç Bragg ve babası bu çalışma sayesinde 1915 Nobel Fizik Ödülü'nü paylaştılar.",
+    "topics": [
+      "bilim"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: X ışını kristalografisi",
+    "kaynak_id": "1702282#19",
+    "kaynak_baslik": "X ışını kristalografisi"
+  },
+  {
+    "id": "m0487",
+    "mode": "mcq",
+    "prompt": "Urmiye Gölü, 2011 yılında normal seviyesinin yaklaşık yüzde kaçına inmiştir?",
+    "choices": [
+      "%75",
+      "%50",
+      "%5",
+      "%25"
+    ],
+    "correct_index": 2,
+    "explanation": "İran hükûmeti göle Aras nehrinden kanal açarak takviye su getirmeyi planlamış, ancak göl eski seviyesine dönmemişti.",
+    "topics": [
+      "coğrafya",
+      "çevre"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Güney Azerbaycan",
+    "kaynak_id": "126532#16",
+    "kaynak_baslik": "Güney Azerbaycan"
+  },
+  {
+    "id": "m0488",
+    "mode": "mcq",
+    "prompt": "Cem Uzan'ın kurduğu Genç Parti, 3 Kasım 2002 seçimlerinde yüzde kaç oy almıştır?",
+    "choices": [
+      "%15",
+      "%3,03",
+      "%7,25",
+      "%1,5"
+    ],
+    "correct_index": 2,
+    "explanation": "Parti seçim barajını aşamadı; 2007 seçiminde ise %3,03 oy aldı ve yine milletvekili çıkaramadı.",
+    "topics": [
+      "siyaset",
+      "tarih"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Cem Uzan",
+    "kaynak_id": "10289#7",
+    "kaynak_baslik": "Cem Uzan"
+  },
+  {
+    "id": "m0489",
+    "mode": "mcq",
+    "prompt": "Wimbledon Tek Erkekler kategorisinde seribaşı olmadan kupayı kazanan iki oyuncudan biri kimdir?",
+    "choices": [
+      "Pete Sampras",
+      "Boris Becker (1985)",
+      "Goran Ivanisevic (2001)",
+      "Roger Federer"
+    ],
+    "correct_index": 1,
+    "explanation": "İkisi de seribaşı olmadan kazandı; kadınlar tekinde ise en düşük seribaşı olarak kazanan Elena Rybakina (2022) idi.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Wimbledon Tenis Turnuvası",
+    "kaynak_id": "10517#13",
+    "kaynak_baslik": "Wimbledon Tenis Turnuvası"
+  },
+  {
+    "id": "m0490",
+    "mode": "mcq",
+    "prompt": "Immanuel Kant, üniversite kayıtlarında hangi isimle geçiyordu ve sonradan adını neye göre düzeltmiştir?",
+    "choices": [
+      "\"Emanuel Kandt\", Kitab-ı Mukaddes'teki biçime göre",
+      "\"Manuel Kant\", Fransızca yazımına göre",
+      "\"Ernst Kant\", babasının adına göre",
+      "\"Immanuil Kant\", Rusça kayıtlara göre"
+    ],
+    "correct_index": 0,
+    "explanation": "Kant 22 Nisan 1724'te Königsberg'de doğdu ve hayatı boyunca bu şehrin sınırlarından çıkmadı.",
+    "topics": [
+      "felsefe"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Immanuel Kant",
+    "kaynak_id": "10543#5",
+    "kaynak_baslik": "Immanuel Kant"
+  },
+  {
+    "id": "m0491",
+    "mode": "mcq",
+    "prompt": "İstanbul Şehir Tiyatroları'nın açık hava sahnesi Cemil Topuzlu Açıkhava Tiyatrosu'nun koltuk kapasitesi nedir?",
+    "choices": [
+      "601",
+      "2.751",
+      "3.996",
+      "5.000"
+    ],
+    "correct_index": 2,
+    "explanation": "5.000 kişilik Eski Galata Köprüsü de Şehir Tiyatroları'na devredilmişti; toplam salon kapasitesi 2.751'e ulaşmıştı.",
+    "topics": [
+      "tiyatro",
+      "mimari"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: İstanbul Şehir Tiyatroları",
+    "kaynak_id": "156982#19",
+    "kaynak_baslik": "İstanbul Şehir Tiyatroları"
+  },
+  {
+    "id": "m0492",
+    "mode": "mcq",
+    "prompt": "Karapapaklar (Terekemeler), tarihçi Fahrettin Kırzıoğlu ve Zeki Velidi Togan'a göre soyları hangi topluluğa dayanmaktadır?",
+    "choices": [
+      "Karaçaylar",
+      "Kumuklar",
+      "Balkarlar",
+      "Nogaylar"
+    ],
+    "correct_index": 1,
+    "explanation": "Güney Kafkasya'nın Rus işgali sonrası 1813-1828 arasında Osmanlı ve İran'a yoğun göç hareketleri yaşandı.",
+    "topics": [
+      "tarih",
+      "toplum"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Karapapaklar",
+    "kaynak_id": "11754#2",
+    "kaynak_baslik": "Karapapaklar"
+  },
+  {
+    "id": "m0493",
+    "mode": "mcq",
+    "prompt": "Şenes Erzik, lise ve üniversite eğitimini hangi kurumda tamamlamıştır?",
+    "choices": [
+      "Galatasaray Lisesi",
+      "Robert Kolej",
+      "Saint Joseph Lisesi",
+      "Kabataş Erkek Lisesi"
+    ],
+    "correct_index": 1,
+    "explanation": "1965-66'da aynı okulda pazarlama alanında yüksek lisansını tamamladı; UEFA 1. Asbaşkanlığı ve FIFA İcra Komitesi üyeliği yaptı.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Şenes Erzik",
+    "kaynak_id": "12167#1",
+    "kaynak_baslik": "Şenes Erzik"
+  },
+  {
+    "id": "m0494",
+    "mode": "mcq",
+    "prompt": "Deniz Baykal, Haziran-Temmuz 2015'te CHP'nin Meclis Başkanlığı adayı olarak yarışıp hangi AK Parti adayına kaybetmiştir?",
+    "choices": [
+      "Ahmet Davutoğlu",
+      "Binali Yıldırım",
+      "İsmail Kahraman",
+      "İsmet Yılmaz"
+    ],
+    "correct_index": 3,
+    "explanation": "Baykal, Meclis'in en yaşlı üyesi sıfatıyla iki kez geçici olarak TBMM Başkanlığı yaptı; Ahmet Davutoğlu'nun bakanlık teklifini reddetti.",
+    "topics": [
+      "siyaset"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Deniz Baykal",
+    "kaynak_id": "12255#3",
+    "kaynak_baslik": "Deniz Baykal"
+  },
+  {
+    "id": "m0495",
+    "mode": "mcq",
+    "prompt": "James Joyce'un Ulysses romanı ilk olarak hangi şehirde yayımlanmıştır?",
+    "choices": [
+      "Dublin",
+      "Paris",
+      "New York",
+      "Londra"
+    ],
+    "correct_index": 1,
+    "explanation": "1922'de yayımlanan roman müstehcen bulunduğu için Birleşik Krallık ve ABD'de yasaklanmış, 1930'ların ortasına kadar korsan basılmıştı.",
+    "topics": [
+      "kitap"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: James Joyce",
+    "kaynak_id": "12496#2",
+    "kaynak_baslik": "James Joyce"
+  },
+  {
+    "id": "m0496",
+    "mode": "mcq",
+    "prompt": "Ekofeminizm terimini 1974'te ilk kez ortaya atan kişi kimdir?",
+    "choices": [
+      "Susan Griffin",
+      "Carolyn Merchant",
+      "Françoise d'Eaubonne",
+      "Ynestra King"
+    ],
+    "correct_index": 2,
+    "explanation": "Ynestra King ise akımı 1976'da Vermont'taki Toplumsal Ekoloji Enstitüsü'nde geliştirdi.",
+    "topics": [
+      "felsefe",
+      "toplum"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Ekofeminizm",
+    "kaynak_id": "12992#3",
+    "kaynak_baslik": "Ekofeminizm"
+  },
+  {
+    "id": "m0497",
+    "mode": "mcq",
+    "prompt": "Semih Erden, 2008 NBA Seçmeleri'nde hangi takım tarafından seçilmiştir?",
+    "choices": [
+      "Boston Celtics",
+      "Cleveland Cavaliers",
+      "Miami Heat",
+      "New York Knicks"
+    ],
+    "correct_index": 0,
+    "explanation": "Celtics tarafından son sıradan seçildi; 2010-12 arasında Cleveland ve Celtics formaları giydi.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Semih Erden",
+    "kaynak_id": "130023#0",
+    "kaynak_baslik": "Semih Erden"
   }
 ]
