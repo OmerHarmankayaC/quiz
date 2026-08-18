@@ -14026,5 +14026,374 @@
     "source": "Vikipedi: John Wayne",
     "kaynak_id": "168820#18",
     "kaynak_baslik": "John Wayne"
+  },
+  {
+    "id": "m0649",
+    "mode": "mcq",
+    "prompt": "Alanya, ilk belediye başkanını hangi yıl seçmiştir?",
+    "choices": [
+      "1950",
+      "1901",
+      "1938",
+      "1872"
+    ],
+    "correct_index": 1,
+    "explanation": "Alanya 1872'de belediye olarak kurulmuş, ilk başkanını 1901'de seçmişti.",
+    "topics": [
+      "coğrafya",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Alanya",
+    "kaynak_id": "140066#15",
+    "kaynak_baslik": "Alanya"
+  },
+  {
+    "id": "m0650",
+    "mode": "mcq",
+    "prompt": "1980-1994 arasında ABD'de astım yaygınlık oranında yüzde kaçlık bir artış gözlemlenmiştir?",
+    "choices": [
+      "%100",
+      "%25",
+      "%75",
+      "%50"
+    ],
+    "correct_index": 2,
+    "explanation": "Aynı dönemde astım yaygınlığı Afrikalı Amerikalılarda Avrupalılara göre %39 daha yüksekti.",
+    "topics": [
+      "sağlık"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Alerji",
+    "kaynak_id": "140327#27",
+    "kaynak_baslik": "Alerji"
+  },
+  {
+    "id": "m0651",
+    "mode": "mcq",
+    "prompt": "Bitlis kenti, hangi bölgeyi bile geride bırakan 1041,5 mm'lik yıllık yağış ortalamasına sahiptir?",
+    "choices": [
+      "Güneydoğu Anadolu",
+      "İç Anadolu",
+      "Ege kıyıları",
+      "Karadeniz Bölgesi'nin bazı istasyonları"
+    ],
+    "correct_index": 3,
+    "explanation": "Nemrut kalderasında en soğuk ay Ocak (-5,9°C), en sıcak ay ise Temmuz'dur (18,5°C).",
+    "topics": [
+      "coğrafya",
+      "doğa"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Nemrut Dağı (Bitlis)",
+    "kaynak_id": "141506#9",
+    "kaynak_baslik": "Nemrut Dağı (Bitlis)"
+  },
+  {
+    "id": "m0652",
+    "mode": "mcq",
+    "prompt": "Rumeli Hisarı'nın inşasında kaç işçi çalıştığı belirtilmektedir?",
+    "choices": [
+      "İki bin",
+      "Beş veya altı bin",
+      "Bin",
+      "On bin"
+    ],
+    "correct_index": 1,
+    "explanation": "İnşaat Nisan 1452'de başladı ve Ağustos'ta tamamlandı; hisarın komutası 400 askerle Firuz Ağa'ya verildi.",
+    "topics": [
+      "tarih",
+      "mimari"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: İstanbul'un Fethi",
+    "kaynak_id": "13171#8",
+    "kaynak_baslik": "İstanbul'un Fethi"
+  },
+  {
+    "id": "m0653",
+    "mode": "mcq",
+    "prompt": "Harrison Ford, dünya çapında ün kazandığı Han Solo rolüyle hangi filmde tanınmıştır?",
+    "choices": [
+      "American Graffiti (1973)",
+      "Büyük Soygun (1966)",
+      "Yıldız Savaşları (1977)",
+      "Konuşma (1974)"
+    ],
+    "correct_index": 2,
+    "explanation": "Ford bu rolü sonraki kırk yıl boyunca dört devam filminde tekrarladı; ayrıca Indiana Jones serisiyle de tanınır.",
+    "topics": [
+      "film"
+    ],
+    "difficulty": 1,
+    "origin": "wiki",
+    "source": "Vikipedi: Harrison Ford",
+    "kaynak_id": "142164#2",
+    "kaynak_baslik": "Harrison Ford"
+  },
+  {
+    "id": "m0654",
+    "mode": "mcq",
+    "prompt": "Doris Lessing, 1982'de yeni yazarların karşılaştığı zorluğu göstermek için hangi takma adla iki roman yazmıştır?",
+    "choices": [
+      "Emily Cartwright",
+      "Susan Blake",
+      "Jane Somers",
+      "Iris Marlow"
+    ],
+    "correct_index": 2,
+    "explanation": "Romanlar İngiltere'deki asıl yayıncısı tarafından reddedilmiş, ancak Michael Joseph ve Alfred A. Knopf tarafından kabul edilmişti.",
+    "topics": [
+      "kitap"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Doris Lessing",
+    "kaynak_id": "113924#6",
+    "kaynak_baslik": "Doris Lessing"
+  },
+  {
+    "id": "m0655",
+    "mode": "mcq",
+    "prompt": "İsrail, 1982'de Güney Lübnan'a yönelik hangi operasyonu düzenlemiştir?",
+    "choices": [
+      "Kadeş Operasyonu",
+      "Celile İçin Barış Operasyonu",
+      "Litani Operasyonu",
+      "Musa Operasyonu"
+    ],
+    "correct_index": 1,
+    "explanation": "1979'daki Litani Operasyonu'nun ardından gelen bu operasyon sonucunda İsrail 1985'e kadar Güney Lübnan'ın büyük kısmını işgal etti.",
+    "topics": [
+      "tarih",
+      "askeri"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Celile",
+    "kaynak_id": "172616#16",
+    "kaynak_baslik": "Celile"
+  },
+  {
+    "id": "m0656",
+    "mode": "mcq",
+    "prompt": "İlk küresel yıldız kümesi olan M22, 1665'te hangi astronom tarafından keşfedilmiştir?",
+    "choices": [
+      "Abbé Lacaille",
+      "Charles Messier",
+      "John Dreyer",
+      "Abraham Ihle"
+    ],
+    "correct_index": 3,
+    "explanation": "Bireysel yıldızların çözünürlüğü ise ancak Charles Messier'in M4'ü gözlemlemesiyle belirlenebildi.",
+    "topics": [
+      "uzay",
+      "bilim"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Küresel yıldız kümesi",
+    "kaynak_id": "197603#4",
+    "kaynak_baslik": "Küresel yıldız kümesi"
+  },
+  {
+    "id": "m0657",
+    "mode": "mcq",
+    "prompt": "ABD Enerji Bakanlığı'nın satış programında kaliforniyum-252'nin mikrogram fiyatı 1970'lerde ne kadardı?",
+    "choices": [
+      "60 dolar",
+      "160 dolar",
+      "27 dolar",
+      "10 dolar"
+    ],
+    "correct_index": 3,
+    "explanation": "Fiyat zamanla 1999'a kadar 60 dolara yükseldi; kaliforniyum-249'un mikrogramı ise 160 dolar.",
+    "topics": [
+      "bilim"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Kaliforniyum",
+    "kaynak_id": "100166#14",
+    "kaynak_baslik": "Kaliforniyum"
+  },
+  {
+    "id": "m0658",
+    "mode": "mcq",
+    "prompt": "Frithjof Schuon, İslam'a girdiği Mostaganem'de hangi şeyhin müridi olmuştur?",
+    "choices": [
+      "Rumi",
+      "Ahmed el-Alevi",
+      "Abdülkadir Geylani",
+      "İbn Arabi"
+    ],
+    "correct_index": 1,
+    "explanation": "Schuon zaviyede yaklaşık dört ay geçirdi ve şeyhten intisap aldı.",
+    "topics": [
+      "din",
+      "felsefe"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Frithjof Schuon",
+    "kaynak_id": "12844#9",
+    "kaynak_baslik": "Frithjof Schuon"
+  },
+  {
+    "id": "m0659",
+    "mode": "mcq",
+    "prompt": "Giresunspor, 1925'te hangi kulübe rakip olarak kurulmuştur?",
+    "choices": [
+      "Yeşiltepe",
+      "Karadenizspor",
+      "Sahilspor",
+      "Hilalspor"
+    ],
+    "correct_index": 3,
+    "explanation": "Kulüp sarı-lacivert renklerle öğretmen Fevzi ve Faruk Beyler tarafından kuruldu; 1967'de bu kulüplerin birleşmesiyle bugünkü hâlini aldı.",
+    "topics": [
+      "spor",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Giresunspor",
+    "kaynak_id": "117695#3",
+    "kaynak_baslik": "Giresunspor"
+  },
+  {
+    "id": "m0660",
+    "mode": "mcq",
+    "prompt": "Van Gölü Canavarı'nın ilk vakası, kaynaklara göre hangi yılda yaşanmıştır?",
+    "choices": [
+      "1920",
+      "1993",
+      "1950",
+      "1889"
+    ],
+    "correct_index": 3,
+    "explanation": "Dönemin Saadet gazetesi 29 Nisan 1889 tarihli nüshasında canavarın bir kişiyi göle sürüklediğini yazmıştı.",
+    "topics": [
+      "kültür",
+      "coğrafya"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Van Gölü",
+    "kaynak_id": "1224#5",
+    "kaynak_baslik": "Van Gölü"
+  },
+  {
+    "id": "m0661",
+    "mode": "mcq",
+    "prompt": "2012 Temmuz ayında Türkiye e-ticaret sektöründe yaratılan işlem hacmi ne kadardı?",
+    "choices": [
+      "1 milyar TL",
+      "10 milyar TL",
+      "500 milyon TL",
+      "3 milyar 186 milyon TL"
+    ],
+    "correct_index": 3,
+    "explanation": "Aynı dönemde 14 milyon 393 bin işlem gerçekleşmişti.",
+    "topics": [
+      "ekonomi",
+      "teknoloji"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Elektronik ticaret",
+    "kaynak_id": "1508#15",
+    "kaynak_baslik": "Elektronik ticaret"
+  },
+  {
+    "id": "m0662",
+    "mode": "mcq",
+    "prompt": "Jean-Jacques Annaud, Çin'e girişinin yasaklanmasına yol açan filmi hangisidir?",
+    "choices": [
+      "Enemy at the Gates",
+      "Seven Years in Tibet",
+      "L'Amant",
+      "Guillaumet, les ailes du courage"
+    ],
+    "correct_index": 1,
+    "explanation": "1997 yapımı bu film Çin'de büyük tepki topladı; öncesinde 1995'te And Dağları'na düşen bir pilotu konu alan filmi çekmişti.",
+    "topics": [
+      "film"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Jean-Jacques Annaud",
+    "kaynak_id": "1523#4",
+    "kaynak_baslik": "Jean-Jacques Annaud"
+  },
+  {
+    "id": "m0663",
+    "mode": "mcq",
+    "prompt": "Priştine bölgesi, antik çağda hangi krallığın bir parçasıydı?",
+    "choices": [
+      "Dardan Krallığı",
+      "İllirya Krallığı",
+      "Makedon Krallığı",
+      "Trakya Krallığı"
+    ],
+    "correct_index": 0,
+    "explanation": "Bölge sonrasında sırasıyla Bizans, Bulgar ve Sırp egemenliklerinden geçerek 1389'da Osmanlı dönemine girdi.",
+    "topics": [
+      "tarih",
+      "coğrafya"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Priştine",
+    "kaynak_id": "174778#1",
+    "kaynak_baslik": "Priştine"
+  },
+  {
+    "id": "m0664",
+    "mode": "mcq",
+    "prompt": "\"Il Mulino\" incelemesinin ilk sayısı hangi tarihte Bologna'da yayımlanmıştır?",
+    "choices": [
+      "1964",
+      "1945",
+      "25 Nisan 1951",
+      "1954"
+    ],
+    "correct_index": 2,
+    "explanation": "1954'te Il Mulino Yayınevi kuruldu, 1964'te ise eğitim ve siyasi sisteme odaklanan Istituto Carlo Cattaneo açıldı.",
+    "topics": [
+      "eğitim",
+      "kültür"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Bologna Üniversitesi",
+    "kaynak_id": "116500#18",
+    "kaynak_baslik": "Bologna Üniversitesi"
+  },
+  {
+    "id": "m0665",
+    "mode": "mcq",
+    "prompt": "Rusya'da Bolşevikler, Ekim Devrimi sonrası devlet marşı olarak hangi eseri kabul etmiştir?",
+    "choices": [
+      "Enternasyonal",
+      "Boje Tsarya Khrani",
+      "Gimn Sovetskogo Soyuza",
+      "Patrioticheskaya Pesnya"
+    ],
+    "correct_index": 0,
+    "explanation": "Marş aslen Fransızca yazılmış, Rusçaya 1902'de Arkady Kots tarafından çevrilmişti; Lenin onun daha sosyalist bulunmasını istiyordu.",
+    "topics": [
+      "tarih",
+      "müzik"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Rusya Federasyonu Devlet Marşı",
+    "kaynak_id": "115498#7",
+    "kaynak_baslik": "Rusya Federasyonu Devlet Marşı"
   }
 ]
