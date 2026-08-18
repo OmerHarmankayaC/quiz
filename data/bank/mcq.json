@@ -16505,5 +16505,394 @@
     "source": "Vikipedi: Napolyon Savaşları",
     "kaynak_id": "146029#50",
     "kaynak_baslik": "Napolyon Savaşları"
+  },
+  {
+    "id": "m0764",
+    "mode": "mcq",
+    "prompt": "Ereğli, Anadolu Beylikleri döneminde 1250-1256 yılları arasında hangi beyliğin ilk yönetimine girmiştir?",
+    "choices": [
+      "Dulkadiroğlu Beyliği",
+      "Ramazanoğlu Beyliği",
+      "Germiyanoğlu Beyliği",
+      "Karamanoğlu Beyliği"
+    ],
+    "correct_index": 3,
+    "explanation": "Bu beyliği Nure Sufi Bey kurmuştu; Ereğli daha önce 1211-1216 arasında Kilikya Ermeni Krallığı'nın işgalinde kalmıştı.",
+    "topics": [
+      "tarih",
+      "coğrafya"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Ereğli",
+    "kaynak_id": "117533#4",
+    "kaynak_baslik": "Ereğli"
+  },
+  {
+    "id": "m0765",
+    "mode": "mcq",
+    "prompt": "Yeni Türkü grubu, 2001-2006 arasındaki dönemde ABD'nin kaç eyaletinde 100'den fazla konser vermiştir?",
+    "choices": [
+      "32 eyalet",
+      "20 eyalet",
+      "10 eyalet",
+      "50 eyalet"
+    ],
+    "correct_index": 0,
+    "explanation": "Aynı dönemde grup Türkiye'de yılda ellinin üzerinde konser veriyor ve eski kayıtlarını \"Koleksiyon\" adıyla yayımlamaya başlamıştı.",
+    "topics": [
+      "müzik"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Yeni Türkü",
+    "kaynak_id": "118423#10",
+    "kaynak_baslik": "Yeni Türkü"
+  },
+  {
+    "id": "m0766",
+    "mode": "mcq",
+    "prompt": "Norveç'in Bergen şehri, geleneğe göre 1070 yılında hangi kral tarafından kurulmuştur?",
+    "choices": [
+      "Olav Kyrre",
+      "Håkon IV",
+      "Sverre Sigurdsson",
+      "Harald Hårfagre"
+    ],
+    "correct_index": 0,
+    "explanation": "Şehre \"dağlar arasındaki yeşil çayır\" anlamına gelen Bjørgvin adı verilmiş, 13. yüzyılda Norveç'in başkenti olmuştu.",
+    "topics": [
+      "tarih",
+      "coğrafya"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Bergen, Norveç",
+    "kaynak_id": "176606#2",
+    "kaynak_baslik": "Bergen, Norveç"
+  },
+  {
+    "id": "m0767",
+    "mode": "mcq",
+    "prompt": "Ockhamlı William, 1328'de Fransiskenlerin başkanı Michele de Cesena ile birlikte Avignon'dan kaçarak hangi hükümdara sığınmıştır?",
+    "choices": [
+      "I. Edward",
+      "Papa XXII. Ioannes",
+      "IV. Ludwig",
+      "IV. Charles"
+    ],
+    "correct_index": 2,
+    "explanation": "William imparatora \"Sen beni kılıçla koru, ben de seni kalemimle koruyayım\" diyerek destek sözü vermişti.",
+    "topics": [
+      "felsefe",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Ockhamlı William",
+    "kaynak_id": "14752#8",
+    "kaynak_baslik": "Ockhamlı William"
+  },
+  {
+    "id": "m0768",
+    "mode": "mcq",
+    "prompt": "Elektrokinetik elektroforez fenomeni ilk kez 1807'de hangi şehirdeki üniversitede gözlemlenmiştir?",
+    "choices": [
+      "Petersburg",
+      "Berlin",
+      "Viyana",
+      "Moskova"
+    ],
+    "correct_index": 3,
+    "explanation": "Rus profesörler Peter Ivanovich Strakhov ve Ferdinand Frederic Reuss, elektrik alanının kil parçacıklarını göç ettirdiğini fark etmişti.",
+    "topics": [
+      "bilim"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Elektroforez",
+    "kaynak_id": "119441#2",
+    "kaynak_baslik": "Elektroforez"
+  },
+  {
+    "id": "m0769",
+    "mode": "mcq",
+    "prompt": "Hurûfî hareketinin kurucusu Fazlullah Esterabâdî, ana eseri \"Cavidan el-Kebir\"i hangi şehirdeyken yazmıştır?",
+    "choices": [
+      "Bakü",
+      "Tebriz",
+      "Şiraz",
+      "İsfahan"
+    ],
+    "correct_index": 1,
+    "explanation": "Esterabâdî burada Celayirîler hanedanının önde gelen kişileri arasına girmiş, öğretisini 1370'lerde Azerbaycan'da yaymaya başlamıştı.",
+    "topics": [
+      "din",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Hurûfilik",
+    "kaynak_id": "119859#4",
+    "kaynak_baslik": "Hurûfilik"
+  },
+  {
+    "id": "m0770",
+    "mode": "mcq",
+    "prompt": "Muhammed Yunus, mikrofinans modelinin temelini oluşturan Grameen Bankası'nı hangi yıl kurmuştur?",
+    "choices": [
+      "1983",
+      "1974",
+      "1976",
+      "1990"
+    ],
+    "correct_index": 0,
+    "explanation": "Yunus 1974'teki yıkıcı kıtlığın ardından yoksullukla mücadeleye başlamış, 1970'lerin sonunda mikrofinansla deneyler yapmıştı.",
+    "topics": [
+      "ekonomi"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Muhammed Yunus",
+    "kaynak_id": "148896#2",
+    "kaynak_baslik": "Muhammed Yunus"
+  },
+  {
+    "id": "m0771",
+    "mode": "mcq",
+    "prompt": "2019'da dünya muz üretimi bir önceki yıla göre yüzde kaç artarak 117 milyon tona ulaşmıştır?",
+    "choices": [
+      "%2,3",
+      "%0,9",
+      "%5",
+      "%10"
+    ],
+    "correct_index": 1,
+    "explanation": "Aynı yıl muz ihracatı %2,3, ithalatı ise %1,6 artış göstermişti.",
+    "topics": [
+      "ekonomi",
+      "tarım"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Muz",
+    "kaynak_id": "15693#6",
+    "kaynak_baslik": "Muz"
+  },
+  {
+    "id": "m0772",
+    "mode": "mcq",
+    "prompt": "Monty Hall probleminde, seçimini değiştiren bir yarışmacı için kazanma olasılığı doğru varsayımlar altında nedir?",
+    "choices": [
+      "1/2",
+      "1/3",
+      "3/4",
+      "2/3"
+    ],
+    "correct_index": 3,
+    "explanation": "Morgan ve diğerleri (1991), popüler çözümlerin çoğunun Whitaker'ın özgün sorusunu tam ele almadığını belirtmişti.",
+    "topics": [
+      "matematik",
+      "bilim"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Monty Hall problemi",
+    "kaynak_id": "1093103#22",
+    "kaynak_baslik": "Monty Hall problemi"
+  },
+  {
+    "id": "m0773",
+    "mode": "mcq",
+    "prompt": "Almanya'da Saarland eyaletinde bir şehrin Oberbürgermeister'e (büyükşehir belediye başkanı) sahip olabilmesi için gereken minimum nüfus nedir?",
+    "choices": [
+      "100.000",
+      "50.000",
+      "25.000",
+      "35.000"
+    ],
+    "correct_index": 3,
+    "explanation": "Saxony-Anhalt'ta ise bu eşik 25.000 olarak belirlenmiştir; üç şehir-eyaletinde bu terim hiç kullanılmaz.",
+    "topics": [
+      "siyaset"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Belediye başkanı",
+    "kaynak_id": "1126542#38",
+    "kaynak_baslik": "Belediye başkanı"
+  },
+  {
+    "id": "m0774",
+    "mode": "mcq",
+    "prompt": "Azerbaycan ekonomisinde 1883'te inşa edilen demir yolu, Bakü'yü hangi şehre bağlamıştır?",
+    "choices": [
+      "Erivan",
+      "Moskova",
+      "Tebriz",
+      "Tiflis"
+    ],
+    "correct_index": 3,
+    "explanation": "1900'de bu hat Güney Kafkasya demiryolu ağı ile Tüm Rusya şebekesine bağlanmış, Bakü büyük bir demiryolu kavşağı hâline gelmişti.",
+    "topics": [
+      "ekonomi",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Azerbaycan ekonomisi",
+    "kaynak_id": "1564760#24",
+    "kaynak_baslik": "Azerbaycan ekonomisi"
+  },
+  {
+    "id": "m0775",
+    "mode": "mcq",
+    "prompt": "Drag performansçı Divine (Harris Glenn Milstead), 1960'ların ortasından itibaren kendisine bu adı veren hangi yönetmenle arkadaş olmuştur?",
+    "choices": [
+      "John Waters",
+      "Russ Meyer",
+      "Andy Warhol",
+      "David Lynch"
+    ],
+    "correct_index": 0,
+    "explanation": "Divine, Waters'ın bir araya getirdiği Dreamlanders oyuncu topluluğuna katılarak Roman Candles ve Eat Your Makeup gibi filmlerde rol almıştı.",
+    "topics": [
+      "film",
+      "sanat"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Divine (oyuncu)",
+    "kaynak_id": "2084721#1",
+    "kaynak_baslik": "Divine (oyuncu)"
+  },
+  {
+    "id": "m0776",
+    "mode": "mcq",
+    "prompt": "Opera sanatçısı Semiha Berksoy, 1934-1935 sezonunda kendisi için Nazım Hikmet tarafından yazılan hangi oyunda başrol oynamıştır?",
+    "choices": [
+      "Ferhad ile Şirin",
+      "Bir Rüyadır",
+      "Kafatası",
+      "Yolcu"
+    ],
+    "correct_index": 1,
+    "explanation": "Berksoy, şairle olan dostluğu ve mektuplaşmaları \"Nazım Hikmet ve Toscası Semiha Berksoy\" adlı kitapta derlenmişti.",
+    "topics": [
+      "sanat",
+      "kültür"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Semiha Berksoy",
+    "kaynak_id": "122844#8",
+    "kaynak_baslik": "Semiha Berksoy"
+  },
+  {
+    "id": "m0777",
+    "mode": "mcq",
+    "prompt": "Death grubunun kurucusu Chuck Schuldiner, ilk albümü \"Scream Bloody Gore\"u hangi yıl çıkarmıştır?",
+    "choices": [
+      "1988",
+      "1987",
+      "1985",
+      "1990"
+    ],
+    "correct_index": 1,
+    "explanation": "Albüm Chris Reifert ile birlikte kaydedilmiş, 1988'de \"Leprosy\" onu izlemişti.",
+    "topics": [
+      "müzik"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Chuck Schuldiner",
+    "kaynak_id": "152060#7",
+    "kaynak_baslik": "Chuck Schuldiner"
+  },
+  {
+    "id": "m0778",
+    "mode": "mcq",
+    "prompt": "Unix işletim sistemi 1973'te hangi programlama dili ile yeniden yazılmıştır?",
+    "choices": [
+      "Fortran",
+      "Assembly",
+      "Pascal",
+      "C"
+    ],
+    "correct_index": 3,
+    "explanation": "Yeniden yazımı Dennis Ritchie gerçekleştirmişti; Unix 1969'da AT&T Bell Laboratuvarları'nda tasarlanmıştı.",
+    "topics": [
+      "teknoloji"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Unix",
+    "kaynak_id": "2019#1",
+    "kaynak_baslik": "Unix"
+  },
+  {
+    "id": "m0779",
+    "mode": "mcq",
+    "prompt": "Antik Yunan filozofu Thales, MÖ 28 Mayıs 585'te gerçekleşen ve Lidyalılar ile Medler arasındaki savaşı sona erdiren hangi doğa olayını önceden tahmin etmiştir?",
+    "choices": [
+      "Güneş tutulması",
+      "Kuyruklu yıldız",
+      "Deprem",
+      "Ay tutulması"
+    ],
+    "correct_index": 0,
+    "explanation": "Thales bu başarısıyla bilimsel düşüncenin öncülerinden biri sayılır.",
+    "topics": [
+      "bilim",
+      "felsefe"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Thales",
+    "kaynak_id": "18042#53",
+    "kaynak_baslik": "Thales"
+  },
+  {
+    "id": "m0780",
+    "mode": "mcq",
+    "prompt": "MIT (Massachusetts Teknoloji Enstitüsü), 1916'da Boston'dan hangi semte taşınarak şimdiki kampüsüne yerleşmiştir?",
+    "choices": [
+      "Brookline",
+      "Quincy",
+      "Cambridge",
+      "Somerville"
+    ],
+    "correct_index": 2,
+    "explanation": "1900'de Harvard Üniversitesi ile birleşme önerisi, MIT mezunlarının tepkisi üzerine gerçekleşmemişti.",
+    "topics": [
+      "eğitim",
+      "bilim"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Massachusetts Teknoloji Enstitüsü",
+    "kaynak_id": "19915#4",
+    "kaynak_baslik": "Massachusetts Teknoloji Enstitüsü"
+  },
+  {
+    "id": "m0781",
+    "mode": "mcq",
+    "prompt": "Charlie Chaplin'in annesi Hannah üzerinden 1901 doğumlu ve babası farklı olan kardeşinin adı nedir?",
+    "choices": [
+      "Sydney Chaplin",
+      "Norman Spencer",
+      "Victor Chaplin",
+      "Wheeler Dryden"
+    ],
+    "correct_index": 3,
+    "explanation": "Dryden, annesinin ruhsal rahatsızlıkları nedeniyle Kanada'da yetiştirilmiş, 1920'lerin ortasında ABD'ye giderek kardeşleriyle film projelerinde çalışmıştı.",
+    "topics": [
+      "film"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Charlie Chaplin",
+    "kaynak_id": "1284#6",
+    "kaynak_baslik": "Charlie Chaplin"
   }
 ]
