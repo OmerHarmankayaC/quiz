@@ -11163,5 +11163,435 @@
     "source": "Vikipedi: Gaziosmanpaşa",
     "kaynak_id": "16668#9",
     "kaynak_baslik": "Gaziosmanpaşa"
+  },
+  {
+    "id": "m0517",
+    "mode": "mcq",
+    "prompt": "Suudi hükümdar Abdülaziz bin Suud, 26 Aralık 1916 tarihli anlaşmayla İngilizler tarafından hangi bölgelerin hükümdarı olarak tanınmıştır?",
+    "choices": [
+      "Kuveyt ve Bahreyn",
+      "Hicaz ve Mekke",
+      "Yemen ve Aden",
+      "Necd, Hasa, Katif ve Cubeyl"
+    ],
+    "correct_index": 3,
+    "explanation": "Abdülaziz bin Suud, ikinci Vahhabi devletini 1901'de yeniden kurmuştu; anlaşma İngiliz himayesini de içeriyordu.",
+    "topics": [
+      "tarih",
+      "din"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Vehhabîlik",
+    "kaynak_id": "16783#3",
+    "kaynak_baslik": "Vehhabîlik"
+  },
+  {
+    "id": "m0518",
+    "mode": "mcq",
+    "prompt": "Adolf A. Berle, Gardiner C. Means ile birlikte yazdığı 1932 tarihli hangi kitapla modern kurumsal yönetim düşüncesinin temellerinden birini atmıştır?",
+    "choices": [
+      "The Modern Corporation and Private Property",
+      "The Theory of the Firm",
+      "The Affluent Society",
+      "Capitalism and Freedom"
+    ],
+    "correct_index": 0,
+    "explanation": "Berle, büyük şirketleri kontrol edenlerin daha iyi hesap vermesi gerektiğini savundu; 1919 Paris Barış Konferansı'na da katılmıştı.",
+    "topics": [
+      "ekonomi"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Kurumsal iktisat",
+    "kaynak_id": "133941#14",
+    "kaynak_baslik": "Kurumsal iktisat"
+  },
+  {
+    "id": "m0519",
+    "mode": "mcq",
+    "prompt": "Henri Lebesgue'nin 1898'deki ilk makalesi hangi konuyu ele almıştır?",
+    "choices": [
+      "Lebesgue integralinin tanımı",
+      "Polinomlarla sürekli fonksiyonlara yaklaşım",
+      "Baire teoreminin genişletilmesi",
+      "Çarpık çokgenlerin alanı"
+    ],
+    "correct_index": 1,
+    "explanation": "Makale Weierstrass teoremiyle ilgiliydi; Lebesgue integraline dair asıl tanımı 1901'deki notlardan sonuncusunda verdi.",
+    "topics": [
+      "bilim",
+      "matematik"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Henri Léon Lebesgue",
+    "kaynak_id": "17159#10",
+    "kaynak_baslik": "Henri Léon Lebesgue"
+  },
+  {
+    "id": "m0520",
+    "mode": "mcq",
+    "prompt": "Stephen Hawking'in 1979'dan itibaren sahip olduğu Lucasian matematik profesörlüğünü ondan önce kim taşımıştı?",
+    "choices": [
+      "James Clerk Maxwell",
+      "Paul Dirac",
+      "Isaac Newton",
+      "Isaac Barrow"
+    ],
+    "correct_index": 2,
+    "explanation": "Kürsü 1663'te Henry Lucas tarafından kuruldu; ilk sahibi Isaac Barrow'du, 1669'da ise Newton'a verildi.",
+    "topics": [
+      "bilim"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Stephen Hawking",
+    "kaynak_id": "17317#4",
+    "kaynak_baslik": "Stephen Hawking"
+  },
+  {
+    "id": "m0521",
+    "mode": "mcq",
+    "prompt": "Diogenis Laertios'un eserinin ilk tam İngilizce çevirisi hangi yüzyıla aittir?",
+    "choices": [
+      "19. yüzyıl başı",
+      "20. yüzyıl başı",
+      "16. yüzyıl",
+      "17. yüzyıl sonu"
+    ],
+    "correct_index": 3,
+    "explanation": "Charles Duke Yonge 1853'te daha edebi ama hatalı bir çeviri yaptı; Robert Drew Hicks'in 1925 çevirisi ise sansürlüydü.",
+    "topics": [
+      "felsefe",
+      "kitap"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Diogenis Laertios",
+    "kaynak_id": "104977#10",
+    "kaynak_baslik": "Diogenis Laertios"
+  },
+  {
+    "id": "m0522",
+    "mode": "mcq",
+    "prompt": "Lale Devri'yle özdeşleşen Nevşehirli Damad İbrahim Paşa, III. Ahmed saltanatında sadrazamlık görevine hangi tarihte başlamıştır?",
+    "choices": [
+      "9 Nisan 1718",
+      "1 Ekim 1730",
+      "16 Ekim 1730",
+      "1660"
+    ],
+    "correct_index": 0,
+    "explanation": "Sadrazamlığı 1 Ekim 1730'a kadar sürdü; Osmanlı sadrazamlarının yüz otuzuncusuydu.",
+    "topics": [
+      "tarih"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Nevşehirli Dâmad İbrahim Paşa",
+    "kaynak_id": "17409#0",
+    "kaynak_baslik": "Nevşehirli Dâmad İbrahim Paşa"
+  },
+  {
+    "id": "m0523",
+    "mode": "mcq",
+    "prompt": "Vakfıkebir'in ilk belediye başkanı kimdir?",
+    "choices": [
+      "Osman Nuri Paşa",
+      "Fuat Sirmen",
+      "Bahadırzade Yusuf Ağa",
+      "Kadri Ersan"
+    ],
+    "correct_index": 2,
+    "explanation": "İlçenin belediye teşkilatı 1877'de kuruldu; ilk Rüştiye okulu 1888'de, ilk banka olarak Ziraat Bankası 1892'de açıldı.",
+    "topics": [
+      "tarih",
+      "coğrafya"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Vakfıkebir",
+    "kaynak_id": "17649#5",
+    "kaynak_baslik": "Vakfıkebir"
+  },
+  {
+    "id": "m0524",
+    "mode": "mcq",
+    "prompt": "Stendhal, Metilde Viscontini Dembowski'ye duyduğu karşılıksız aşkın etkisiyle hangi denemesini yazmıştır?",
+    "choices": [
+      "Kırmızı ve Siyah",
+      "Egotism'in Anıları",
+      "Aşk Üzerine (De l'amour)",
+      "Parma Manastırı"
+    ],
+    "correct_index": 2,
+    "explanation": "1818'de tanıştığı Metilde dört yıl sonra tabes dorsalis nedeniyle öldü; Stendhal 1821'de Fransa'ya dönmüştü.",
+    "topics": [
+      "kitap"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Stendhal",
+    "kaynak_id": "192712#12",
+    "kaynak_baslik": "Stendhal"
+  },
+  {
+    "id": "m0525",
+    "mode": "mcq",
+    "prompt": "Cengiz Çandar, 1995 yılında hangi ödülü kazanmıştır?",
+    "choices": [
+      "Sedat Simavi Gazetecilik Ödülü",
+      "Uğur Mumcu Onur Ödülü",
+      "Abdi İpekçi Barış ve Dostluk Ödülü",
+      "Yunus Nadi Ödülü"
+    ],
+    "correct_index": 2,
+    "explanation": "Çandar 1993-95'te Balkanlar'a yönelmiş, 1999-2000'i Washington'daki araştırma merkezlerinde geçirmişti.",
+    "topics": [
+      "kültür",
+      "siyaset"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Cengiz Çandar",
+    "kaynak_id": "18138#4",
+    "kaynak_baslik": "Cengiz Çandar"
+  },
+  {
+    "id": "m0526",
+    "mode": "mcq",
+    "prompt": "12 Mart Muhtırası öncesinde işçilerin sendika seçme özgürlüğünü kısıtlayan yasa değişikliğini Cumhurbaşkanı Cevdet Sunay hangi tarihte onaylamıştır?",
+    "choices": [
+      "1972",
+      "11 Haziran 1970",
+      "12 Mart 1971",
+      "1968"
+    ],
+    "correct_index": 1,
+    "explanation": "Değişiklik 274 sayılı İş Yasası ile 275 sayılı Sendikalar Yasası'nı kapsıyordu ve AP-CHP iş birliğiyle geçirilmişti.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: 12 Mart Muhtırası",
+    "kaynak_id": "11605#13",
+    "kaynak_baslik": "12 Mart Muhtırası"
+  },
+  {
+    "id": "m0527",
+    "mode": "mcq",
+    "prompt": "Eric Gerets, 1988'de PSV ile hangi turnuvayı kazanarak Avrupa Kupası kazanan ilk Belçikalı futbolcu unvanını almıştır?",
+    "choices": [
+      "İnterkontinental Kupa",
+      "Kupa Galipleri Kupası",
+      "Avrupa Şampiyon Kulüpler Kupası",
+      "UEFA Kupası"
+    ],
+    "correct_index": 2,
+    "explanation": "PSV, finalde Benfica'yı penaltılarla yendi; Gerets 1987'de Ruud Gullit'in ayrılışıyla takımın daimi kaptanı olmuştu.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Eric Gerets",
+    "kaynak_id": "18235#8",
+    "kaynak_baslik": "Eric Gerets"
+  },
+  {
+    "id": "m0528",
+    "mode": "mcq",
+    "prompt": "Sinestezi araştırmalarını 1980'lerdeki bilişsel devrimin ardından ABD'de yeniden gündeme getiren araştırmacılar kimlerdir?",
+    "choices": [
+      "Vilayanur Ramachandran",
+      "Simon Baron-Cohen ve Jeffrey Gray",
+      "Larry Marks ve Richard Cytowic",
+      "Oliver Sacks"
+    ],
+    "correct_index": 2,
+    "explanation": "İngiltere'de ise Simon Baron-Cohen ve Jeffrey Gray öncülük etti; araştırmalar sinestetik deneyimlerin tutarlılığını inceledi.",
+    "topics": [
+      "bilim",
+      "sağlık"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Sinestezi",
+    "kaynak_id": "1952#41",
+    "kaynak_baslik": "Sinestezi"
+  },
+  {
+    "id": "m0529",
+    "mode": "mcq",
+    "prompt": "Oxford Üniversitesi'nin kolejlerine vakfedilen para, üniversitenin kendi merkezi bütçesine göre nasıldır?",
+    "choices": [
+      "Kolejlerin vakıf parası çok daha fazladır",
+      "Kolejlerin hiç vakıf parası yoktur",
+      "Üniversitenin bütçesi kolejlerden fazladır",
+      "İkisi yaklaşık eşittir"
+    ],
+    "correct_index": 0,
+    "explanation": "Üniversite için rakam 834 milyon sterlin iken kolejler için bu rakam 3,8 milyar sterlindir.",
+    "topics": [
+      "eğitim",
+      "ekonomi"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Oxford Üniversitesi",
+    "kaynak_id": "19370#31",
+    "kaynak_baslik": "Oxford Üniversitesi"
+  },
+  {
+    "id": "m0530",
+    "mode": "mcq",
+    "prompt": "Euro, 4 Ocak 1999'da piyasaya sürüldükten sonra tarihî zirve noktasına hangi yıl ulaşmıştır?",
+    "choices": [
+      "2008",
+      "2004",
+      "2012",
+      "2000"
+    ],
+    "correct_index": 0,
+    "explanation": "2000 yılında ise euro ABD doları, sterlin ve yen karşısında en düşük kurlarına düşmüştü.",
+    "topics": [
+      "ekonomi"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Euro",
+    "kaynak_id": "2092#11",
+    "kaynak_baslik": "Euro"
+  },
+  {
+    "id": "m0531",
+    "mode": "mcq",
+    "prompt": "Karamanoğlu İbrahim Bey'in ölümünden sonra beylik İshak Bey ile Pîr Ahmed arasında paylaşılmıştır. İshak Bey'e hangi bölgeler kalmıştır?",
+    "choices": [
+      "Karaman şehir merkezi",
+      "Ankara ve Kütahya",
+      "Silifke merkezli İçel, Ermenek ve Mut",
+      "Konya ve ova bölgesi"
+    ],
+    "correct_index": 2,
+    "explanation": "Pîr Ahmed ise Konya'da oturarak ova bölgesine sahip oldu; 1465'te Osmanlı yardımıyla İshak Bey'i yenerek beyliğin tamamını aldı.",
+    "topics": [
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Karamanoğulları Beyliği",
+    "kaynak_id": "19797#5",
+    "kaynak_baslik": "Karamanoğulları Beyliği"
+  },
+  {
+    "id": "m0532",
+    "mode": "mcq",
+    "prompt": "Godsmack'in dördüncü stüdyo albümü IV, Billboard 200 listesine hangi sıradan girmiştir?",
+    "choices": [
+      "Beşinci sıradan",
+      "İkinci sıradan",
+      "Onuncu sıradan",
+      "Bir numaradan"
+    ],
+    "correct_index": 3,
+    "explanation": "Albüm ilk haftasında 211.000 kopya sattı; mühendisliğini Led Zeppelin IV ile tanınan Andy Johns yaptı.",
+    "topics": [
+      "müzik"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Godsmack",
+    "kaynak_id": "136746#20",
+    "kaynak_baslik": "Godsmack"
+  },
+  {
+    "id": "m0533",
+    "mode": "mcq",
+    "prompt": "Volkswagen Golf Mk1, 1974-1984 arasında Avrupa ve Kuzey Amerika'da üretilirken Güney Afrika'da hangi yıla kadar üretimde kalmıştır?",
+    "choices": [
+      "1987",
+      "2009",
+      "1984",
+      "1993"
+    ],
+    "correct_index": 1,
+    "explanation": "Toplam 6,8 milyon adet üretilen model, bu kadar uzun süre üretilen nadir otomobillerden biriydi.",
+    "topics": [
+      "ulaşım"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Volkswagen Golf",
+    "kaynak_id": "194900#15",
+    "kaynak_baslik": "Volkswagen Golf"
+  },
+  {
+    "id": "m0534",
+    "mode": "mcq",
+    "prompt": "Gerhard Schröder, Almanya Federal Şansölyesi olarak hangi tarihler arasında görev yapmıştır?",
+    "choices": [
+      "1999 - 2004",
+      "1990 - 1998",
+      "Ekim 1998 - Nisan 2005",
+      "2005 - 2013"
+    ],
+    "correct_index": 2,
+    "explanation": "Öncesinde 1990-1998 arasında Aşağı Saksonya eyalet başbakanıydı; 1999-2004 arasında da SPD genel başkanlığı yaptı.",
+    "topics": [
+      "siyaset"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Gerhard Schröder",
+    "kaynak_id": "19917#0",
+    "kaynak_baslik": "Gerhard Schröder"
+  },
+  {
+    "id": "m0535",
+    "mode": "mcq",
+    "prompt": "Otto Skorzeny, Bulge Muharebesi'nde savaş yasalarını ihlal ettiği gerekçesiyle 1947'de hangi mahkemede yargılanmıştır?",
+    "choices": [
+      "Frankfurt Mahkemeleri",
+      "Nürnberg Askerî Mahkemesi",
+      "Nürnberg Mahkemeleri",
+      "Dachau Mahkemeleri"
+    ],
+    "correct_index": 3,
+    "explanation": "Skorzeny 16 Mayıs 1945'te ABD güçlerine teslim olmuş, üç hafta süren yargılamanın ardından Alman makamlarına devredilmişti.",
+    "topics": [
+      "tarih",
+      "askeri"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Otto Skorzeny",
+    "kaynak_id": "102715#15",
+    "kaynak_baslik": "Otto Skorzeny"
+  },
+  {
+    "id": "m0536",
+    "mode": "mcq",
+    "prompt": "İki Almanya'nın birleşme sürecinde uygulanan ve iki Almanya ile II. Dünya Savaşı'nın galibi dört devletin katılımını öngören formül nasıl adlandırılır?",
+    "choices": [
+      "Berlin Protokolü",
+      "Bonn Anlaşması",
+      "4+2 formülü",
+      "2+4 formülü"
+    ],
+    "correct_index": 3,
+    "explanation": "İlk üst düzey görüşme 10 Mart 1990'da Doğu Berlin'de yapılmış, Başbakan Kohl kasım ayında birleşme planını teklif etmişti.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Batı Almanya",
+    "kaynak_id": "107757#10",
+    "kaynak_baslik": "Batı Almanya"
   }
 ]
