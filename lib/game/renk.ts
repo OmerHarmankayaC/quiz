@@ -5,6 +5,7 @@ import type { Paket } from './types';
 // kendiliginden uyar.
 const DOYGUNLUK_DUSUSU = 0.3;
 const METIN_KARISIMI = 0.28;
+const ACIKLAMA_KARISIMI = 0.45;
 const KONTRAST_TABANI = 4.5;
 const KARISIM_ADIMI = 0.02;
 
@@ -61,24 +62,33 @@ export function kaplamaRengi(zemin: string): string {
 	return goreliParlaklik(zemin) < 0.5 ? 'rgba(255, 255, 255, 0.1)' : 'rgba(0, 0, 0, 0.1)';
 }
 
-export function paketRenkleri(paket: Paket): { zemin: string; metin: string } {
-	const zemin = doygunluguDusur(paket.renk, DOYGUNLUK_DUSUSU);
-	// Mat his kontrastin dusmesinden geliyor: metin griye degil, zemine dogru kisiliyor.
-	// Ama bu kisilma WCAG 4.5:1'in altina dusemez -- orta tonlu ya da acik bir paket
-	// renginde baslik okunmaz hale gelmesin diye karisim orani asamali dusuruluyor.
-	let karisimOrani = METIN_KARISIMI;
-	let metin = karistir(paket.metin_rengi, zemin, karisimOrani);
+// Mat his kontrastin dusmesinden geliyor: renk griye degil, zemine dogru kisiliyor.
+// Ama bu kisilma WCAG 4.5:1'in altina dusemez -- orta tonlu ya da acik bir paket
+// renginde metin okunmaz hale gelmesin diye karisim orani asamali dusuruluyor.
+function kisilmisMetin(metinRengi: string, zemin: string, baslangicOrani: number): string {
+	let karisimOrani = baslangicOrani;
+	let renk = karistir(metinRengi, zemin, karisimOrani);
 
-	while (kontrastOrani(metin, zemin) < KONTRAST_TABANI && karisimOrani > 0) {
+	while (kontrastOrani(renk, zemin) < KONTRAST_TABANI && karisimOrani > 0) {
 		karisimOrani = Math.max(0, karisimOrani - KARISIM_ADIMI);
-		metin = karistir(paket.metin_rengi, zemin, karisimOrani);
+		renk = karistir(metinRengi, zemin, karisimOrani);
 	}
 
-	if (kontrastOrani(metin, zemin) < KONTRAST_TABANI) {
+	if (kontrastOrani(renk, zemin) < KONTRAST_TABANI) {
 		const beyazKontrast = kontrastOrani('#ffffff', zemin);
 		const siyahKontrast = kontrastOrani('#0b0b0b', zemin);
-		metin = beyazKontrast >= siyahKontrast ? '#ffffff' : '#0b0b0b';
+		renk = beyazKontrast >= siyahKontrast ? '#ffffff' : '#0b0b0b';
 	}
 
-	return { zemin, metin };
+	return renk;
+}
+
+export function paketRenkleri(paket: Paket): { zemin: string; metin: string; aciklama: string } {
+	const zemin = doygunluguDusur(paket.renk, DOYGUNLUK_DUSUSU);
+	const metin = kisilmisMetin(paket.metin_rengi, zemin, METIN_KARISIMI);
+	// Aciklama basligin altinda oturuyor, hiyerarside daha soluk -- zemine daha fazla
+	// karisir ama ayni kontrast tabanindan asla dusmez.
+	const aciklama = kisilmisMetin(paket.metin_rengi, zemin, ACIKLAMA_KARISIMI);
+
+	return { zemin, metin, aciklama };
 }

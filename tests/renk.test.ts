@@ -53,16 +53,40 @@ describe('paketRenkleri', () => {
 	it('bilinen paketler icin beklenen zemin ve metni verir', () => {
 		expect(paketRenkleri(paket('#26215C', '#EEEDFE'))).toEqual({
 			zemin: '#27234d',
-			metin: '#b6b4cc'
+			metin: '#b6b4cc',
+			aciklama: '#9492ae'
 		});
 		expect(paketRenkleri(paket('#10322E', '#E3F5EE'))).toEqual({
 			zemin: '#172f2c',
-			metin: '#aabeb8'
+			metin: '#aabeb8',
+			aciklama: '#879c97'
 		});
 		expect(paketRenkleri(paket('#1B2A3A', '#E4F0FA'))).toEqual({
 			zemin: '#1f2934',
-			metin: '#adb8c3'
+			metin: '#adb8c3',
+			aciklama: '#8b96a1'
 		});
+	});
+
+	it('altı gerçek paket için beklenen aciklama rengini verir', () => {
+		expect(paketRenkleri(paket('#3A1F1B', '#FBEAE3')).aciklama).toBe('#a1908a');
+		expect(paketRenkleri(paket('#2E2416', '#F7EEDC')).aciklama).toBe('#9b9385');
+		expect(paketRenkleri(paket('#331A2B', '#FAE8F4')).aciklama).toBe('#9e8d99');
+	});
+
+	it('altı gerçek paketin aciklama rengi zeminle en az 4.5:1 kontrast verir', () => {
+		const gercekPaketler: [string, string][] = [
+			['#3A1F1B', '#FBEAE3'],
+			['#10322E', '#E3F5EE'],
+			['#2E2416', '#F7EEDC'],
+			['#331A2B', '#FAE8F4'],
+			['#26215C', '#EEEDFE'],
+			['#1B2A3A', '#E4F0FA']
+		];
+		for (const [renk, metin] of gercekPaketler) {
+			const { zemin, aciklama } = paketRenkleri(paket(renk, metin));
+			expect(kontrastOrani(aciklama, zemin)).toBeGreaterThanOrEqual(4.5);
+		}
 	});
 });
 
@@ -89,6 +113,16 @@ describe('kontrast tabani', () => {
 	it('neredeyse beyaz bir zeminde metin en az 4.5:1 kontrast verir', () => {
 		const { zemin, metin } = paketRenkleri(paket('#F2E9D8', '#EEEDFE'));
 		expect(kontrastOrani(metin, zemin)).toBeGreaterThanOrEqual(4.5);
+	});
+
+	it('orta tonlu bir zeminde aciklama en az 4.5:1 kontrast verir', () => {
+		const { zemin, aciklama } = paketRenkleri(paket('#6E6A5F', '#EEEDFE'));
+		expect(kontrastOrani(aciklama, zemin)).toBeGreaterThanOrEqual(4.5);
+	});
+
+	it('neredeyse beyaz bir zeminde aciklama en az 4.5:1 kontrast verir', () => {
+		const { zemin, aciklama } = paketRenkleri(paket('#F2E9D8', '#EEEDFE'));
+		expect(kontrastOrani(aciklama, zemin)).toBeGreaterThanOrEqual(4.5);
 	});
 });
 
