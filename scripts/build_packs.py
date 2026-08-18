@@ -126,7 +126,14 @@ def main() -> None:
     fermi = json.loads((BANK / "fermi.json").read_text(encoding="utf-8"))
     mcq = json.loads((BANK / "mcq.json").read_text(encoding="utf-8"))
 
-    kullanilan: set[str] = set()
+    takvim_yolu = BANK / "calendar.json"
+    takvim_sorulari: set[str] = set()
+    if takvim_yolu.exists():
+        takvim = json.loads(takvim_yolu.read_text(encoding="utf-8"))
+        takvim_sorulari = {qid for gun in takvim for qid in gun["soru_ids"]}
+
+    kullanilan: set[str] = set(takvim_sorulari)
+    paket_kullanilan: set[str] = set()
     paketler = []
     raporlar = []
 
@@ -161,6 +168,7 @@ def main() -> None:
 
         for s in secim:
             kullanilan.add(s["id"])
+            paket_kullanilan.add(s["id"])
 
         paketler.append(
             {
@@ -179,7 +187,7 @@ def main() -> None:
 
     CIKTI.write_text(json.dumps(paketler, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
-    print(f"\n{len(paketler)} paket -> {CIKTI.relative_to(KOK)} ({len(kullanilan)} soru kullanildi)")
+    print(f"\n{len(paketler)} paket -> {CIKTI.relative_to(KOK)} ({len(paket_kullanilan)} soru kullanildi)")
     if raporlar:
         print("\nnotlar:")
         for r in raporlar:

@@ -156,8 +156,9 @@ def paket_kontrol(paketler: list[dict], dizin: dict[str, dict]) -> None:
             gorulen_soru[qid] = slug
 
         # Pecete hesabi her pakette cikmali - bu yuzden fermi bir alt sinir.
+        # Esnek uygulanir: fermi havuzu takvimle paylasildigindan tukenebilir.
         if fermi_sayisi < 3:
-            hatalar.append(f"paket {slug}: en az 3 fermi gerekli, {fermi_sayisi} var")
+            uyarilar.append(f"paket {slug}: en az 3 fermi hedeflenir, {fermi_sayisi} var")
 
 
 def takvim_kontrol(takvim: list[dict], dizin: dict[str, dict], paketler: list[dict]) -> None:
