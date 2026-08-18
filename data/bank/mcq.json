@@ -15082,5 +15082,415 @@
     "source": "Vikipedi: Örsan Öymen (1938 doğumlu)",
     "kaynak_id": "12440#2",
     "kaynak_baslik": "Örsan Öymen (1938 doğumlu)"
+  },
+  {
+    "id": "m0698",
+    "mode": "mcq",
+    "prompt": "Windows Vista, resmi açıklamadan önce hangi kod adıyla biliniyordu?",
+    "choices": [
+      "Whistler",
+      "Longhorn",
+      "Vienna",
+      "Blackcomb"
+    ],
+    "correct_index": 1,
+    "explanation": "Microsoft 2004'te Windows XP çekirdeğinin eskidiğini belirterek projeyi sıfırladı; yerine 2009'da Windows 7 geldi.",
+    "topics": [
+      "teknoloji"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Windows Vista",
+    "kaynak_id": "12560#3",
+    "kaynak_baslik": "Windows Vista"
+  },
+  {
+    "id": "m0699",
+    "mode": "mcq",
+    "prompt": "Ahmet Ertegün'ün Atlantic Records'un ilk büyük hiti olan albümü hangisiydi?",
+    "choices": [
+      "Elvis Presley'in ilk albümü",
+      "Stick McGhee - Drinkin' Wine Spo-Dee-O-Dee",
+      "Harlemaires - The Rose of the Rio Grande",
+      "Ray Charles'ın ilk albümü"
+    ],
+    "correct_index": 1,
+    "explanation": "1949'da çıkan albüm bir milyondan fazla sattı; 1955'te ise Elvis'i RCA'ya kaptırmışlardı.",
+    "topics": [
+      "müzik"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Ahmet Ertegün",
+    "kaynak_id": "100385#5",
+    "kaynak_baslik": "Ahmet Ertegün"
+  },
+  {
+    "id": "m0700",
+    "mode": "mcq",
+    "prompt": "James Chadwick, nötronun yapısını hangi yıl keşfetmiştir?",
+    "choices": [
+      "1935",
+      "1945",
+      "1932",
+      "1948"
+    ],
+    "correct_index": 2,
+    "explanation": "1935'te bu keşfi için Nobel Fizik Ödülü'nü kazandı; II. Dünya Savaşı'nda Los Alamos'taki İngiliz araştırmalarını yönetti.",
+    "topics": [
+      "bilim"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: James Chadwick",
+    "kaynak_id": "12765#2",
+    "kaynak_baslik": "James Chadwick"
+  },
+  {
+    "id": "m0701",
+    "mode": "mcq",
+    "prompt": "Wilhelm Röntgen, eşi Anna ile hangi şehirde evlenmiştir?",
+    "choices": [
+      "Münih",
+      "Berlin",
+      "Apeldoorn",
+      "Zürih"
+    ],
+    "correct_index": 2,
+    "explanation": "Çift 1866'da Zürih'te tanışmış, evlilik babası onaylamadığı için 1872'ye ertelenmişti.",
+    "topics": [
+      "bilim"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Wilhelm Röntgen",
+    "kaynak_id": "12769#2",
+    "kaynak_baslik": "Wilhelm Röntgen"
+  },
+  {
+    "id": "m0702",
+    "mode": "mcq",
+    "prompt": "Türkiye taşıt plaka kodlarında 34 numarası hangi ile aittir?",
+    "choices": [
+      "İstanbul",
+      "İzmir",
+      "Bursa",
+      "Ankara"
+    ],
+    "correct_index": 0,
+    "explanation": "Kodlar 27 Eylül 1962 tarihli yönetmelikle belirlendi; 35 İzmir'e, 36 ise Kars'a verilmişti.",
+    "topics": [
+      "coğrafya"
+    ],
+    "difficulty": 1,
+    "origin": "wiki",
+    "source": "Vikipedi: Türkiye taşıt plaka kodu",
+    "kaynak_id": "12867#5",
+    "kaynak_baslik": "Türkiye taşıt plaka kodu"
+  },
+  {
+    "id": "m0703",
+    "mode": "mcq",
+    "prompt": "Ernest Hemingway, I. Dünya Savaşı'nda hangi cephede ambulans şoförü olarak görev yapmıştır?",
+    "choices": [
+      "Doğu Cephesi",
+      "İtalya Cephesi",
+      "Balkan Cephesi",
+      "Fransa Cephesi"
+    ],
+    "correct_index": 1,
+    "explanation": "1918'de ağır yaralandı; bu deneyimler 1929'da yazdığı Silahlara Veda romanının temelini oluşturdu.",
+    "topics": [
+      "kitap",
+      "tarih"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Ernest Hemingway",
+    "kaynak_id": "13219#1",
+    "kaynak_baslik": "Ernest Hemingway"
+  },
+  {
+    "id": "m0704",
+    "mode": "mcq",
+    "prompt": "Adile Naşit'in ilk eşi Ziya Keskiner'in ölümünden sonra gizlice evlendiği isim kimdir?",
+    "choices": [
+      "Cemal İnce",
+      "Selim Naşit",
+      "Kemani Yorgo",
+      "Naşit Özcan"
+    ],
+    "correct_index": 0,
+    "explanation": "Evlilik 16 Eylül 1983'te gerçekleşti; Naşit'in babası komedyen Naşit Özcan, annesi ise Rum Amelya Hanım'dı.",
+    "topics": [
+      "film",
+      "kültür"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Adile Naşit",
+    "kaynak_id": "13371#2",
+    "kaynak_baslik": "Adile Naşit"
+  },
+  {
+    "id": "m0705",
+    "mode": "mcq",
+    "prompt": "YouTube, 14 Şubat 2005'te hangi şirketin eski çalışanları tarafından kurulmuştur?",
+    "choices": [
+      "Google",
+      "eBay",
+      "PayPal",
+      "Yahoo!"
+    ],
+    "correct_index": 2,
+    "explanation": "Kurucuları Chad Hurley, Jawed Karim ve Steve Chen'di; platform bugün Google Arama'dan sonra en çok ziyaret edilen ikinci sitedir.",
+    "topics": [
+      "teknoloji"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: YouTube",
+    "kaynak_id": "130222#0",
+    "kaynak_baslik": "YouTube"
+  },
+  {
+    "id": "m0706",
+    "mode": "mcq",
+    "prompt": "Kırım bayrağındaki gök mavisi zemin neyin sembolü olarak kabul edilmiştir?",
+    "choices": [
+      "Karadeniz'in rengi",
+      "Geniş Türk kimliği",
+      "Kırım Hanlığı'nın resmi rengi",
+      "İslam inancı"
+    ],
+    "correct_index": 1,
+    "explanation": "Bayraktaki Tarak Tamga ise tarihi Kırım kimliğini, İstanbul'daki Türkçü çevrelerin etkisiyle benimsenen mavi zemin ise Türk kimliğini temsil ediyordu.",
+    "topics": [
+      "tarih",
+      "kültür"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Kırım bayrağı",
+    "kaynak_id": "14150#2",
+    "kaynak_baslik": "Kırım bayrağı"
+  },
+  {
+    "id": "m0707",
+    "mode": "mcq",
+    "prompt": "Steve McQueen'in ilk büyük çıkışını sağlayan ve Yul Brynner ile birlikte oynadığı film hangisidir?",
+    "choices": [
+      "The Magnificent Seven",
+      "Girl on the Run",
+      "Never So Few",
+      "The Blob"
+    ],
+    "correct_index": 0,
+    "explanation": "1960 yapımı bu filmi John Sturges yönetmişti; McQueen'in ilk başrolü ise 1958'deki The Blob'du.",
+    "topics": [
+      "film"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Steve McQueen",
+    "kaynak_id": "160318#4",
+    "kaynak_baslik": "Steve McQueen"
+  },
+  {
+    "id": "m0708",
+    "mode": "mcq",
+    "prompt": "Bağımsız Devletler Topluluğu içinde Belarus, Kazakistan, Rusya ve Ukrayna arasındaki Ortak Ekonomik Alan Anlaşması hangi tarihte imzalanmıştır?",
+    "choices": [
+      "1991",
+      "19 Eylül 2003",
+      "2000",
+      "2010"
+    ],
+    "correct_index": 1,
+    "explanation": "Anlaşma Ukrayna'nın Yalta şehrinde imzalandı ve üye ülkeler arasında serbest ticaret bölgeleri kurulmasını öngörüyordu.",
+    "topics": [
+      "siyaset",
+      "ekonomi"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Bağımsız Devletler Topluluğu",
+    "kaynak_id": "14876#5",
+    "kaynak_baslik": "Bağımsız Devletler Topluluğu"
+  },
+  {
+    "id": "m0709",
+    "mode": "mcq",
+    "prompt": "Bursa Tophane Teknik Okulları, ilk olarak 1868'de Bursa valisi tarafından ne olarak kurulmuştur?",
+    "choices": [
+      "Erkek Sanat Okulu",
+      "Teknik Lise",
+      "Hamidiye Sanayi Mektebi",
+      "Islahhane"
+    ],
+    "correct_index": 3,
+    "explanation": "Okula 1899'da Hamidiye Sanayi Mektebi adı verildi; 1914'te Vasıf Çınar'ın görev yaptığı dönemde yedi yıllık liseye dönüştü.",
+    "topics": [
+      "eğitim",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Tophane Teknik Okulları",
+    "kaynak_id": "14921#1",
+    "kaynak_baslik": "Tophane Teknik Okulları"
+  },
+  {
+    "id": "m0710",
+    "mode": "mcq",
+    "prompt": "Barack Obama, Nisan 2012'de yeniden aday olurken Demokratların adaylığını kazanmak için kaç kongre delegesi elde etmiştir?",
+    "choices": [
+      "1500",
+      "2778",
+      "3500",
+      "2000"
+    ],
+    "correct_index": 1,
+    "explanation": "Obama ve Joe Biden, Charlotte'taki Demokratik Ulusal Kongre'de eski başkan Bill Clinton tarafından resmen aday gösterildi.",
+    "topics": [
+      "siyaset"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Barack Obama",
+    "kaynak_id": "189864#21",
+    "kaynak_baslik": "Barack Obama"
+  },
+  {
+    "id": "m0711",
+    "mode": "mcq",
+    "prompt": "Tuzla'daki Marmaray hattı çalışmaları hangi tarihte açılışla hizmete girmiştir?",
+    "choices": [
+      "2015",
+      "12 Mart 2019",
+      "2024",
+      "2010"
+    ],
+    "correct_index": 1,
+    "explanation": "2024'te ise Tuzla-Pendik-Büyükada arasında yeni bir deniz ulaşım hattı kurulması kararlaştırılmıştı.",
+    "topics": [
+      "ulaşım",
+      "coğrafya"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Tuzla, İstanbul",
+    "kaynak_id": "102653#13",
+    "kaynak_baslik": "Tuzla, İstanbul"
+  },
+  {
+    "id": "m0712",
+    "mode": "mcq",
+    "prompt": "Alman Mareşal Gerd von Rundstedt'i canlandıran Çöl Tilkisi (1951) filminde bu rolü oynayan oyuncu kimdir?",
+    "choices": [
+      "Curd Jürgens",
+      "James Mason",
+      "Leo G. Carroll",
+      "Erich von Stroheim"
+    ],
+    "correct_index": 2,
+    "explanation": "Film Rommel'i konu alıyordu; Rundstedt kendisi 1953'te Hannover'deki evinde kalp yetmezliğinden öldü.",
+    "topics": [
+      "tarih",
+      "askeri",
+      "film"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Gerd von Rundstedt",
+    "kaynak_id": "102720#15",
+    "kaynak_baslik": "Gerd von Rundstedt"
+  },
+  {
+    "id": "m0713",
+    "mode": "mcq",
+    "prompt": "Çetin Altan'ın 1974'te müstehcenlik suçlamasıyla toplatılan ve Fransız liselerinde ders kitabı olarak okutulan romanı hangisidir?",
+    "choices": [
+      "Büyük Gözaltı",
+      "Viski",
+      "Küçük Bahçe",
+      "Bir Avuç Gökyüzü"
+    ],
+    "correct_index": 3,
+    "explanation": "Büyük Gözaltı ise Orhan Kemal Roman Armağanı'nı almış ve Fransız liselerinde ders kitabı olarak okutulmuştu.",
+    "topics": [
+      "kitap"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Çetin Altan",
+    "kaynak_id": "15178#8",
+    "kaynak_baslik": "Çetin Altan"
+  },
+  {
+    "id": "m0714",
+    "mode": "mcq",
+    "prompt": "Xbox, Kuzey Amerika'da hangi tarihte piyasaya sürülmüştür?",
+    "choices": [
+      "14 Mart 2002",
+      "22 Şubat 2002",
+      "15 Kasım 2001",
+      "16 Nisan 2002"
+    ],
+    "correct_index": 2,
+    "explanation": "Konsol Japonya'da Şubat 2002'de, Avrupa'da ise Nisan 2002'de piyasaya çıktı.",
+    "topics": [
+      "oyun",
+      "teknoloji"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Xbox (konsol)",
+    "kaynak_id": "15414#1",
+    "kaynak_baslik": "Xbox (konsol)"
+  },
+  {
+    "id": "m0715",
+    "mode": "mcq",
+    "prompt": "Romantizm akımı, hangi çağın doğaya bilimsel rasyonalizasyonuna bir tepki olarak doğmuştur?",
+    "choices": [
+      "Endüstri Çağı",
+      "Barok Dönem",
+      "Rönesans",
+      "Aydınlanma Çağı"
+    ],
+    "correct_index": 3,
+    "explanation": "Akım 1800-1850 arasında etkiliydi ve 1789 Fransız İhtilali'nin toplumsal etkilerinden de besleniyordu.",
+    "topics": [
+      "sanat",
+      "felsefe"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Romantizm",
+    "kaynak_id": "10466#1",
+    "kaynak_baslik": "Romantizm"
+  },
+  {
+    "id": "m0716",
+    "mode": "mcq",
+    "prompt": "Ernst Reuter, Hitler iktidara geldiğinde hangi şehrin belediye başkanıydı?",
+    "choices": [
+      "Magdeburg",
+      "Köln",
+      "Berlin",
+      "Münih"
+    ],
+    "correct_index": 0,
+    "explanation": "Reuter 1935'te Almanya'dan ayrılmak zorunda kaldı ve 1939-1945 arasında Ankara Üniversitesi'nde şehircilik dersleri verdi.",
+    "topics": [
+      "siyaset",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Ernst Reuter",
+    "kaynak_id": "15424#2",
+    "kaynak_baslik": "Ernst Reuter"
   }
 ]
