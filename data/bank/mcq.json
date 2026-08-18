@@ -8397,5 +8397,440 @@
     "source": "Vikipedi: Konyaspor",
     "kaynak_id": "19938#13",
     "kaynak_baslik": "Konyaspor"
+  },
+  {
+    "id": "m0389",
+    "mode": "mcq",
+    "prompt": "Dünya Bankası'nın 2008 verilerine göre Orta Doğu'nun en büyük nominal GSYİH'ye sahip ülkesi hangisidir?",
+    "choices": [
+      "Birleşik Arap Emirlikleri",
+      "İran",
+      "Türkiye",
+      "Suudi Arabistan"
+    ],
+    "correct_index": 2,
+    "explanation": "Türkiye 794 milyar dolarla ilk sırada yer alırken, kişi başına gelirde en üstte Katar bulunuyordu.",
+    "topics": [
+      "ekonomi",
+      "coğrafya"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Orta Doğu",
+    "kaynak_id": "109730#39",
+    "kaynak_baslik": "Orta Doğu"
+  },
+  {
+    "id": "m0390",
+    "mode": "mcq",
+    "prompt": "Avusturya Komünist Partisi'nin (KPÖ) en güçlü olduğu şehir hangisidir?",
+    "choices": [
+      "Salzburg",
+      "Viyana",
+      "Graz",
+      "Linz"
+    ],
+    "correct_index": 2,
+    "explanation": "Styria eyaletinin başkenti olan Graz'da parti 2005 seçimlerinde SPÖ ve Grüne'yi geçerek %20,75 oy aldı.",
+    "topics": [
+      "siyaset",
+      "coğrafya"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Avusturya Komünist Partisi",
+    "kaynak_id": "116388#47",
+    "kaynak_baslik": "Avusturya Komünist Partisi"
+  },
+  {
+    "id": "m0391",
+    "mode": "mcq",
+    "prompt": "Eski FBI memuru Jack Cloonan'a göre el-Kaide 1989'da kaç üyeyle kurulmuştur?",
+    "choices": [
+      "1000",
+      "198",
+      "35",
+      "72"
+    ],
+    "correct_index": 3,
+    "explanation": "Kabil yakınlarındaki bir imha operasyonu sonrası ele geçirilen belgeye göre bin Ladin'e bağlılık yemini eden 198 kişi vardı.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: El-Kaide",
+    "kaynak_id": "116940#23",
+    "kaynak_baslik": "El-Kaide"
+  },
+  {
+    "id": "m0392",
+    "mode": "mcq",
+    "prompt": "Dalida'nın yakın arkadaşı, şarkıcı Mike Brant hangi şekilde hayatını kaybetmiştir?",
+    "choices": [
+      "Silahla intihar ederek",
+      "Bir apartmandan atlayarak",
+      "Egzoz gazı soluyarak",
+      "İlaç dozu aşımıyla"
+    ],
+    "correct_index": 1,
+    "explanation": "Brant Nisan 1975'te Paris'te, henüz 28 yaşındayken intihar etti; Dalida onu 1971'de Olympia konserlerinde sahneye çıkarmıştı.",
+    "topics": [
+      "müzik"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Dalida",
+    "kaynak_id": "116970#14",
+    "kaynak_baslik": "Dalida"
+  },
+  {
+    "id": "m0393",
+    "mode": "mcq",
+    "prompt": "Abdullah Gül, 2000 yılındaki Fazilet Partisi kongresinde genel başkanlık için kime karşı yarışıp kaybetmiştir?",
+    "choices": [
+      "Recai Kutan",
+      "Necmettin Erbakan",
+      "Bülent Arınç",
+      "Şevket Kazan"
+    ],
+    "correct_index": 0,
+    "explanation": "Gül 521, Kutan 633 oy aldı; sonuç \"yenilikçi kanadın\" tabanda geniş destek bulduğu ama henüz yeterli olmadığı şeklinde yorumlandı.",
+    "topics": [
+      "siyaset",
+      "tarih"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Abdullah Gül",
+    "kaynak_id": "1024#9",
+    "kaynak_baslik": "Abdullah Gül"
+  },
+  {
+    "id": "m0394",
+    "mode": "mcq",
+    "prompt": "Ahmet Necdet Sezer'i benzersiz kılan özellik nedir?",
+    "choices": [
+      "İki dönem üst üste görev yapan ilk cumhurbaşkanı olması",
+      "Askerî kökenli olmayan ilk cumhurbaşkanı olması",
+      "Hem cumhurbaşkanlığı hem yüksek yargı organı başkanlığı yapan tek kişi olması",
+      "En genç yaşta cumhurbaşkanı seçilmesi"
+    ],
+    "correct_index": 2,
+    "explanation": "Sezer, Anayasa Mahkemesi başkanlığından 2000'de cumhurbaşkanlığına geçti ve 2001 ekonomik krizi döneminde görev yaptı.",
+    "topics": [
+      "siyaset",
+      "tarih"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Ahmet Necdet Sezer",
+    "kaynak_id": "1077#0",
+    "kaynak_baslik": "Ahmet Necdet Sezer"
+  },
+  {
+    "id": "m0395",
+    "mode": "mcq",
+    "prompt": "Suudi Kralı Fehd, Kral Suud döneminde 1953-1962 arasında hangi bakanlığı yürütmüştür?",
+    "choices": [
+      "İçişleri Bakanlığı",
+      "Savunma Bakanlığı",
+      "Eğitim Bakanlığı",
+      "Dışişleri Bakanlığı"
+    ],
+    "correct_index": 2,
+    "explanation": "Fehd daha sonra 1962-1975 arasında içişleri bakanlığı yaptı ve Kral Faysal'ın 1975'te öldürülmesinin ardından veliaht prens oldu.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Fehd bin Abdülaziz Âl-i Suud",
+    "kaynak_id": "117647#2",
+    "kaynak_baslik": "Fehd bin Abdülaziz Âl-i Suud"
+  },
+  {
+    "id": "m0396",
+    "mode": "mcq",
+    "prompt": "Kral Halid bin Abdülaziz, 1935'te yerel halkla olan sorunları çözmesi için nereye gönderilmiştir?",
+    "choices": [
+      "Sudan",
+      "Yemen",
+      "Ürdün",
+      "Umman"
+    ],
+    "correct_index": 1,
+    "explanation": "Halid mizah anlayışı ve sabırlı dinleyiciliğiyle tanınırdı; 1970'lerin sonunda Kanada'dan hediye bir ak sungur almıştı.",
+    "topics": [
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Halid bin Abdülaziz Âl-i Suud",
+    "kaynak_id": "117741#40",
+    "kaynak_baslik": "Halid bin Abdülaziz Âl-i Suud"
+  },
+  {
+    "id": "m0397",
+    "mode": "mcq",
+    "prompt": "Osmanlıların Van üzerindeki kontrolü, 1555'te hangi antlaşma ile teyit edilmiştir?",
+    "choices": [
+      "Kasr-ı Şirin Antlaşması",
+      "Zuhab Antlaşması",
+      "Çaldıran Antlaşması",
+      "Amasya Antlaşması"
+    ],
+    "correct_index": 3,
+    "explanation": "Van, 1548-49 Osmanlı-Safevi savaşı sonrası 10 günlük kuşatmayla yeniden Osmanlı kontrolüne girmişti.",
+    "topics": [
+      "tarih",
+      "coğrafya"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Van",
+    "kaynak_id": "1407#8",
+    "kaynak_baslik": "Van"
+  },
+  {
+    "id": "m0398",
+    "mode": "mcq",
+    "prompt": "Trabzon Ayasofyası'nın çan kulesi, kiliseden ayrı olarak hangi amaçla da kullanılmıştır?",
+    "choices": [
+      "Silah deposu olarak",
+      "Manastır kütüphanesi olarak",
+      "Yıldızları gözlemlemek ve astronomi dersleri vermek",
+      "Tahıl ambarı olarak"
+    ],
+    "correct_index": 2,
+    "explanation": "1427'de inşa edilen kulenin ayrıca deniz feneri olarak kullanılmış olabileceği düşünülüyor.",
+    "topics": [
+      "tarih",
+      "mimari"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Ayasofya (Trabzon)",
+    "kaynak_id": "1479#7",
+    "kaynak_baslik": "Ayasofya (Trabzon)"
+  },
+  {
+    "id": "m0399",
+    "mode": "mcq",
+    "prompt": "Galen, MS 169'daki büyük veba sırasında hangi ilacın hazırlanmasından sorumlu bir pozisyon elde etmiştir?",
+    "choices": [
+      "Mitridatium",
+      "Theriaca (tiryak)",
+      "Balsam",
+      "Panzehir macunu"
+    ],
+    "correct_index": 1,
+    "explanation": "70'ten fazla bileşen içeren bu ilaç imparatorluk için hazırlanıyordu; aynı veba Lucius Verus ve Marcus Aurelius'un ölümüne yol açtı.",
+    "topics": [
+      "sağlık",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Galen",
+    "kaynak_id": "185212#37",
+    "kaynak_baslik": "Galen"
+  },
+  {
+    "id": "m0400",
+    "mode": "mcq",
+    "prompt": "2013-2017 arasında Dünya Sağlık Örgütü'ne kaç doğrulanmış insan H7N9 vakası bildirilmiştir?",
+    "choices": [
+      "35",
+      "2",
+      "916",
+      "106"
+    ],
+    "correct_index": 2,
+    "explanation": "Sadece Kasım-Aralık 2016 döneminde 106 vaka bildirildi; bunların çoğu Jiangsu ve Zhejiang'dan kaynaklandı.",
+    "topics": [
+      "sağlık"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Kuş gribi",
+    "kaynak_id": "1933#5",
+    "kaynak_baslik": "Kuş gribi"
+  },
+  {
+    "id": "m0401",
+    "mode": "mcq",
+    "prompt": "Lüksemburg, Belçika ve Hollanda ile Benelüks ekonomi ve gümrük birliğini hangi yıl kurmuştur?",
+    "choices": [
+      "1868",
+      "1947",
+      "1949",
+      "1957"
+    ],
+    "correct_index": 1,
+    "explanation": "Lüksemburg 1949'da NATO'ya, 1957'de Avrupa Ekonomik Topluluğu'na katıldı; her iki dünya savaşında da Alman işgaline uğramıştı.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Lüksemburg",
+    "kaynak_id": "2054#7",
+    "kaynak_baslik": "Lüksemburg"
+  },
+  {
+    "id": "m0402",
+    "mode": "mcq",
+    "prompt": "Çekoslovakya'da Prag Baharı'nı başlatan lider kimdir?",
+    "choices": [
+      "Václav Havel",
+      "Gustáv Husák",
+      "Antonín Novotný",
+      "Alexander Dubček"
+    ],
+    "correct_index": 3,
+    "explanation": "Liberalleşme dönemi 20 Ağustos 1968'de Sovyet ve Varşova Paktı işgaliyle sona erdi; ülke 1993'te iki cumhuriyete ayrıldı.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Çekya",
+    "kaynak_id": "2090#9",
+    "kaynak_baslik": "Çekya"
+  },
+  {
+    "id": "m0403",
+    "mode": "mcq",
+    "prompt": "SMS Moltke, Kraliyet Donanması'nın el koymasını önlemek için hangi tarihte kendi mürettebatı tarafından batırılmıştır?",
+    "choices": [
+      "21 Haziran 1919",
+      "10 Haziran 1927",
+      "1928",
+      "1918 savaş sonu"
+    ],
+    "correct_index": 0,
+    "explanation": "Gemi Scapa Flow'da gözaltındayken Açık Deniz Filosu'nun geri kalanıyla birlikte batırıldı; enkazı 1927'de su yüzüne çıkarıldı.",
+    "topics": [
+      "askeri",
+      "denizcilik"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Moltke sınıfı muharebe kruvazörü",
+    "kaynak_id": "148298#24",
+    "kaynak_baslik": "Moltke sınıfı muharebe kruvazörü"
+  },
+  {
+    "id": "m0404",
+    "mode": "mcq",
+    "prompt": "Çarşı taraftar grubu, 2007'de kuruluşunun 25. yılı için Kızılay'a kaç kişiyle kan bağışında bulunmuştur?",
+    "choices": [
+      "100'den az",
+      "1000'den fazla",
+      "50",
+      "250'den fazla"
+    ],
+    "correct_index": 3,
+    "explanation": "Bağış, 21 Nisan 2007'deki lig maçı öncesi Beşiktaş'ta kurulan çadırlarda toplandı.",
+    "topics": [
+      "spor",
+      "toplum"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Çarşı (taraftar grubu)",
+    "kaynak_id": "149601#12",
+    "kaynak_baslik": "Çarşı (taraftar grubu)"
+  },
+  {
+    "id": "m0405",
+    "mode": "mcq",
+    "prompt": "Condor Planı kapsamında Arjantin'in SIDE istihbarat birimi, hangi ülkenin DINA örgütüyle iş birliği yapmıştır?",
+    "choices": [
+      "Bolivya",
+      "Şili",
+      "Paraguay",
+      "Uruguay"
+    ],
+    "correct_index": 1,
+    "explanation": "Birlikte Şilili General Carlos Prats'ın Buenos Aires'teki suikastini gerçekleştirdiler.",
+    "topics": [
+      "tarih",
+      "siyaset"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Condor Planı",
+    "kaynak_id": "1177680#19",
+    "kaynak_baslik": "Condor Planı"
+  },
+  {
+    "id": "m0406",
+    "mode": "mcq",
+    "prompt": "Doğrulama yanlılığı üzerine tarih boyunca yapılan gözlemlerden biri olan \"acele verilen karar, çoğu kez hatalı yöne kayar\" sözü hangi eserde geçer?",
+    "choices": [
+      "Peloponez Savaşlarının Tarihi",
+      "Devlet",
+      "İlâhi Komedya",
+      "Novum Organum"
+    ],
+    "correct_index": 2,
+    "explanation": "Dante'nin eserinde Aquinolu Thomas cennette Dante'yi bu sözlerle uyarır; Thukydides ise aynı fenomeni Peloponez Savaşları'nda tasvir etmişti.",
+    "topics": [
+      "felsefe",
+      "kitap"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Doğrulama yanlılığı",
+    "kaynak_id": "1661764#40",
+    "kaynak_baslik": "Doğrulama yanlılığı"
+  },
+  {
+    "id": "m0407",
+    "mode": "mcq",
+    "prompt": "Caner Erkin, 2016'da Beşiktaş'a hangi kulüpten kiralık olarak transfer olmuştur?",
+    "choices": [
+      "Fenerbahçe",
+      "Chelsea",
+      "Galatasaray",
+      "FC İnter"
+    ],
+    "correct_index": 3,
+    "explanation": "Transfer 31 Ağustos 2016'da bedelsiz kiralama olarak KAP'a bildirildi; satın alma opsiyonu da vardı.",
+    "topics": [
+      "spor"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Caner Erkin",
+    "kaynak_id": "150697#18",
+    "kaynak_baslik": "Caner Erkin"
+  },
+  {
+    "id": "m0408",
+    "mode": "mcq",
+    "prompt": "Solaris 2.5.1'in PowerPC portu, Blastwave geliştiricileri tarafından hangi adla yeniden ele alınmıştır?",
+    "choices": [
+      "Pulsar",
+      "IllumOS",
+      "Polaris",
+      "OpenSolaris"
+    ],
+    "correct_index": 2,
+    "explanation": "Çalışma Ocak 2006'da başladı; Ekim 2006'da Sun Labs'ın Project Pulsar'ıyla birleşerek OpenSolaris'in ilk resmî kaynak kodu duyuruldu.",
+    "topics": [
+      "teknoloji"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Oracle Solaris",
+    "kaynak_id": "11801#13",
+    "kaynak_baslik": "Oracle Solaris"
   }
 ]
