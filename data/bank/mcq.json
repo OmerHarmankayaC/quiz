@@ -15492,5 +15492,326 @@
     "source": "Vikipedi: Ernst Reuter",
     "kaynak_id": "15424#2",
     "kaynak_baslik": "Ernst Reuter"
+  },
+  {
+    "id": "m0717",
+    "mode": "mcq",
+    "prompt": "Leonardo DiCaprio, hangi film ile En İyi Erkek Oyuncu Akademi Ödülü'nü kazanmıştır?",
+    "choices": [
+      "Para Avcısı (2013)",
+      "Diriliş (2015)",
+      "Köstebek (2006)",
+      "Başlangıç (2010)"
+    ],
+    "correct_index": 1,
+    "explanation": "Bu hayatta kalma dramı, DiCaprio'nun uzun süredir beklenen ilk Oscar'ını getirdi.",
+    "topics": [
+      "film"
+    ],
+    "difficulty": 1,
+    "origin": "wiki",
+    "source": "Vikipedi: Leonardo DiCaprio",
+    "kaynak_id": "190958#4",
+    "kaynak_baslik": "Leonardo DiCaprio"
+  },
+  {
+    "id": "m0718",
+    "mode": "mcq",
+    "prompt": "Abdi İpekçi'nin öldürüldüğü caddenin adı 1979'da hangi isimle değiştirilmiştir?",
+    "choices": [
+      "Abdi İpekçi",
+      "Gazeteciler Caddesi",
+      "Basın Şehitleri Caddesi",
+      "Barış Caddesi"
+    ],
+    "correct_index": 0,
+    "explanation": "Anısına ayrıca Türkiye-Yunanistan ortak çalışmasıyla Abdi İpekçi Barış ve Dostluk Ödülü kondu.",
+    "topics": [
+      "kültür",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Abdi İpekçi",
+    "kaynak_id": "16188#13",
+    "kaynak_baslik": "Abdi İpekçi"
+  },
+  {
+    "id": "m0719",
+    "mode": "mcq",
+    "prompt": "Levent Yüksel'in 1997'de çıkardığı ve o yılın en çok satan teklisi olan şarkısı hangisidir?",
+    "choices": [
+      "Bi'Daha",
+      "Adı Menekşe",
+      "Uslanmadım",
+      "Yarabbim"
+    ],
+    "correct_index": 0,
+    "explanation": "Sanatçı bir önceki yıl ikinci stüdyo albümünü, 1998'de ise Adı Menekşe albümünü çıkarmıştı.",
+    "topics": [
+      "müzik"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Levent Yüksel",
+    "kaynak_id": "16379#6",
+    "kaynak_baslik": "Levent Yüksel"
+  },
+  {
+    "id": "m0720",
+    "mode": "mcq",
+    "prompt": "Akbank'ın İstanbul'daki ilk şubesi hangi tarihte açılmıştır?",
+    "choices": [
+      "1954",
+      "14 Temmuz 1950",
+      "1983",
+      "1963"
+    ],
+    "correct_index": 1,
+    "explanation": "Şube Sirkeci'de açılmıştı; Genel Müdürlük 1954'te İstanbul'a taşındı.",
+    "topics": [
+      "ekonomi"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Akbank",
+    "kaynak_id": "191358#2",
+    "kaynak_baslik": "Akbank"
+  },
+  {
+    "id": "m0721",
+    "mode": "mcq",
+    "prompt": "Sabetay Sevi, Kabalist bir hahamken kendini nasıl ilan etmiştir?",
+    "choices": [
+      "Yahudi Mesihi olarak",
+      "Kutsal ruh olarak",
+      "Kadı olarak",
+      "Peygamber olarak"
+    ],
+    "correct_index": 0,
+    "explanation": "IV. Mehmed onu ölüm cezasına çarptırınca Sevi zorla İslam'a döndü; bazı takipçileri de \"Dönme\" oldu.",
+    "topics": [
+      "din",
+      "tarih"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Sabataycılık",
+    "kaynak_id": "133417#1",
+    "kaynak_baslik": "Sabataycılık"
+  },
+  {
+    "id": "m0722",
+    "mode": "mcq",
+    "prompt": "Bab (Seyyid Ali Muhammed), 1844'te kendini nasıl ilan etmiştir?",
+    "choices": [
+      "Kabalist önder",
+      "Beklenen Mehdi (Kaim)",
+      "Yeni bir peygamber",
+      "Şah'ın veziri"
+    ],
+    "correct_index": 1,
+    "explanation": "Bab 9 Temmuz 1850'de Tebriz'de kurşuna dizildi; takipçileri İran yönetimince büyük baskıya maruz kaldı.",
+    "topics": [
+      "din",
+      "tarih"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Bâbîlik",
+    "kaynak_id": "16605#1",
+    "kaynak_baslik": "Bâbîlik"
+  },
+  {
+    "id": "m0723",
+    "mode": "mcq",
+    "prompt": "Din tarihçisi Mircea Eliade, 1928'de Sanskritçe ve Hint felsefesi okumak için hangi şehre gitmiştir?",
+    "choices": [
+      "Delhi",
+      "Bombay",
+      "Kalküta",
+      "Benares"
+    ],
+    "correct_index": 2,
+    "explanation": "Eliade burada Surendranath Dasgupta'dan etkilendi ve altı ay Himalayalar'daki bir aşramda yaşadı.",
+    "topics": [
+      "felsefe",
+      "din"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Mircea Eliade",
+    "kaynak_id": "16769#0",
+    "kaynak_baslik": "Mircea Eliade"
+  },
+  {
+    "id": "m0724",
+    "mode": "mcq",
+    "prompt": "Frank Sinatra, 1935'te The Hoboken Four ile katıldığı yarışmada ne elde etmiştir?",
+    "choices": [
+      "Birincilik",
+      "İkincilik",
+      "Elenme",
+      "Üçüncülük"
+    ],
+    "correct_index": 0,
+    "explanation": "1939'da Harry James'in ilgisini çekip topluluğuna katıldı; 1940-42 arasında Tommy Dorsey Orkestrası'yla çalıştı.",
+    "topics": [
+      "müzik"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Frank Sinatra",
+    "kaynak_id": "16905#2",
+    "kaynak_baslik": "Frank Sinatra"
+  },
+  {
+    "id": "m0725",
+    "mode": "mcq",
+    "prompt": "Puma, 1989'da Rudolf'un oğulları tarafından yüzde 72 hissesi hangi şirkete satılmıştır?",
+    "choices": [
+      "Adidas AG",
+      "Authentic Brands Group",
+      "Cosa Liebermann SA",
+      "Tretorn Group"
+    ],
+    "correct_index": 2,
+    "explanation": "Şirket 1986'da halka açılmış, 2015'te ise Authentic Brands Group'a satılmıştı.",
+    "topics": [
+      "ekonomi"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Puma (şirket)",
+    "kaynak_id": "133945#11",
+    "kaynak_baslik": "Puma (şirket)"
+  },
+  {
+    "id": "m0726",
+    "mode": "mcq",
+    "prompt": "Alfred Jules Ayer, kaç kez evlenmiştir?",
+    "choices": [
+      "Dört kez",
+      "Üç kez",
+      "Bir kez",
+      "İki kez"
+    ],
+    "correct_index": 0,
+    "explanation": "Ayer üç farklı kadınla evlendi, bunlardan Dee Wells ile iki kez evlendi.",
+    "topics": [
+      "felsefe"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Alfred Jules Ayer",
+    "kaynak_id": "104891#9",
+    "kaynak_baslik": "Alfred Jules Ayer"
+  },
+  {
+    "id": "m0727",
+    "mode": "mcq",
+    "prompt": "Sosyal psikolog Çiğdem Kağıtçıbaşı, doktora tezini 1967'de hangi üniversitede vermiştir?",
+    "choices": [
+      "Kaliforniya Üniversitesi, Berkeley",
+      "Wellesley College",
+      "Harvard Üniversitesi",
+      "Stanford Üniversitesi"
+    ],
+    "correct_index": 0,
+    "explanation": "Kağıtçıbaşı lisans eğitimini Wellesley College'da psikoloji alanında tamamlamıştı.",
+    "topics": [
+      "bilim"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Çiğdem Kağıtçıbaşı",
+    "kaynak_id": "17621#2",
+    "kaynak_baslik": "Çiğdem Kağıtçıbaşı"
+  },
+  {
+    "id": "m0728",
+    "mode": "mcq",
+    "prompt": "Adventist hareketinin kurucusu William Miller, dünyanın sonunun geleceğini ilk olarak hangi tarih için duyurmuştur?",
+    "choices": [
+      "21 Mart 1844",
+      "1925",
+      "1914",
+      "22 Ekim 1844"
+    ],
+    "correct_index": 0,
+    "explanation": "Tarih gerçekleşmeyince ikinci bir tarih olarak 22 Ekim 1844'ü ilan etti; Yehova Şahitleri de sonraki yıllarda çeşitli tarihler belirledi.",
+    "topics": [
+      "din"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Binyılcılık",
+    "kaynak_id": "105244#9",
+    "kaynak_baslik": "Binyılcılık"
+  },
+  {
+    "id": "m0729",
+    "mode": "mcq",
+    "prompt": "Adolf Hitler'in doğduğu şehir olan Braunau am Inn, hangi eyalete bağlıdır?",
+    "choices": [
+      "Salzburg",
+      "Yukarı Avusturya",
+      "Aşağı Avusturya",
+      "Tirol"
+    ],
+    "correct_index": 1,
+    "explanation": "Şehir 1816'dan beri bu eyalete bağlıdır; Hitler ailesi 1892'de Passau'ya taşınmıştı.",
+    "topics": [
+      "tarih",
+      "coğrafya"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Braunau am Inn",
+    "kaynak_id": "18248#1",
+    "kaynak_baslik": "Braunau am Inn"
+  },
+  {
+    "id": "m0730",
+    "mode": "mcq",
+    "prompt": "Yönetmen Miloš Forman, eğitimini Prag'daki hangi akademide almıştır?",
+    "choices": [
+      "Çekoslovak Devlet Konservatuvarı",
+      "Müzik ve Dramatik Sanatlar Akademisi (FAMU)",
+      "Prag Sanat Akademisi",
+      "Barrandov Film Stüdyosu Okulu"
+    ],
+    "correct_index": 1,
+    "explanation": "İlk filmleri Černý Petr ve Konkurs, Çek Yeni Dalgası'nın öncüsü sayıldı; Ermanno Olmi'nin etkisi belirgindi.",
+    "topics": [
+      "film"
+    ],
+    "difficulty": 3,
+    "origin": "wiki",
+    "source": "Vikipedi: Miloš Forman",
+    "kaynak_id": "18255#2",
+    "kaynak_baslik": "Miloš Forman"
+  },
+  {
+    "id": "m0731",
+    "mode": "mcq",
+    "prompt": "Kafkasya Savaşı'nda Müslüman Kafkasya İmamlığı'nın en uzun süre önderlik yapan lideri kimdir?",
+    "choices": [
+      "Beybulat Taymiyev",
+      "Gamzat-bek",
+      "Şamil",
+      "Gazi Muhammed"
+    ],
+    "correct_index": 2,
+    "explanation": "Şamil 1834-1859 arasında önderlik yaptı; savaş 1864'e kadar sürdü.",
+    "topics": [
+      "tarih",
+      "askeri"
+    ],
+    "difficulty": 2,
+    "origin": "wiki",
+    "source": "Vikipedi: Dağıstan",
+    "kaynak_id": "135274#18",
+    "kaynak_baslik": "Dağıstan"
   }
 ]
